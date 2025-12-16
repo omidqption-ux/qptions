@@ -1,0 +1,96 @@
+{
+    "nav": {
+        "home": "Home",
+        "trade": "Trading",
+        "education": "Formazione",
+        "pricing": "Prezzi",
+        "dashboard": "Dashboard",
+        "login": "Accedi",
+        "signup": "Registrati",
+        "logout": "Esci",
+        "language": "Lingua"
+    },
+    "hero": {
+        "title": "Fai trading in modo più intelligente con Qption",
+        "subtitle": "Grafici in tempo reale, esecuzione rapida e prezzi trasparenti.",
+        "cta": "Inizia ora"
+    },
+    "auth": {
+        "email": "Email",
+        "phone": "Telefono",
+        "password": "Password",
+        "confirmPassword": "Conferma password",
+        "login": "Accedi",
+        "signup": "Crea account",
+        "forgot": "Password dimenticata?",
+        "otp": "Inserisci il codice di verifica",
+        "verify": "Verifica",
+        "or": "oppure"
+    },
+    "trade": {
+        "buy": "Acquista",
+        "sell": "Vendi",
+        "openTrade": "Apri operazione",
+        "closeTrade": "Chiudi operazione",
+        "amount": "Importo",
+        "balance": "Saldo",
+        "profitLoss": "P/L",
+        "timeframe": "Timeframe",
+        "marketOpen": "Mercato aperto",
+        "marketClosed": "Mercato chiuso",
+        "mode": {
+            "live": "Live",
+            "demo": "Demo",
+            "real": "Reale"
+        }
+    },
+    "chart": {
+        "loading": "Caricamento grafico…",
+        "indicators": "Indicatori",
+        "movingAverage": "Media Mobile",
+        "bollingerBands": "Bande di Bollinger",
+        "rsi": "RSI",
+        "alligator": "Alligator"
+    },
+    "wallet": {
+        "deposit": "Deposito",
+        "withdraw": "Prelievo",
+        "address": "Indirizzo",
+        "copy": "Copia",
+        "copied": "Copiato!",
+        "confirmations": "Conferme",
+        "status": {
+            "waiting": "In attesa",
+            "confirmed": "Confermato",
+            "rejected": "Rifiutato"
+        }
+    },
+    "kyc": {
+        "title": "Verifica account",
+        "uploadDoc": "Carica documenti",
+        "pending": "In revisione",
+        "approved": "Approvato",
+        "rejected": "Rifiutato"
+    },
+    "errors": {
+        "required": "Questo campo è obbligatorio",
+        "invalidEmail": "Email non valida",
+        "network": "Errore di rete, riprova",
+        "unknown": "Qualcosa è andato storto"
+    },
+    "common": {
+        "save": "Salva",
+        "cancel": "Annulla",
+        "confirm": "Conferma",
+        "back": "Indietro",
+        "next": "Avanti",
+        "search": "Cerca",
+        "loading": "Caricamento…",
+        "viewMore": "Vedi altro"
+    },
+    "footer": {
+        "rights": "Tutti i diritti riservati."
+    },
+    "tryDemo": "Prova la Demo",
+    "registration": "Registrazione"
+}

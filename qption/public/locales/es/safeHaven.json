@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Activos Refugio en Tiempos de Turbulencia del Mercado: Oro, Bonos del Tesoro, CHF y JPY | Qption",
+        "description": "Aprende cómo los activos refugio como el oro, los bonos del Tesoro de EE. UU., el franco suizo, el yen japonés y las acciones defensivas se comportan durante la volatilidad. Descubre por qué los inversores los usan para preservar capital, diversificar y cubrir riesgos — junto con sus ventajas y limitaciones.",
+        "url": "https://qption.com/fundamental-analysis/safe-haven-assets-market-turbulence",
+        "keywords": "activos refugio, oro, bonos del Tesoro de EE. UU., franco suizo CHF, yen japonés JPY, acciones defensivas, diversificación de cartera, refugio seguro, volatilidad del mercado, cobertura contra la inflación, gestión del riesgo, Qption",
+        "ld": {
+            "headline": "El Papel de los Activos Refugio en la Turbulencia del Mercado",
+            "about": {
+                "safeHavens": "Activos Refugio",
+                "gold": "Oro",
+                "treasuries": "Bonos del Tesoro de EE. UU.",
+                "chf": "Franco suizo (CHF)",
+                "jpy": "Yen japonés (JPY)",
+                "defensive": "Acciones defensivas",
+                "volatility": "Volatilidad del mercado",
+                "f2q": "Huida hacia la calidad",
+                "inflationHedge": "Cobertura contra la inflación"
+            },
+            "props": {
+                "correlation": {
+                    "name": "Perfil de correlación",
+                    "value": "Los activos refugio suelen mostrar una correlación baja o negativa con las acciones, reduciendo la volatilidad de la cartera en períodos de caída."
+                },
+                "crisis": {
+                    "name": "Comportamiento en crisis",
+                    "value": "Durante episodios de aversión al riesgo, los flujos se dirigen hacia el oro, los bonos soberanos de alta calificación y monedas selectas como el CHF y el JPY."
+                },
+                "tradeoffs": {
+                    "name": "Compensaciones",
+                    "value": "Los menores rendimientos y el riesgo de saturación durante las crisis pueden provocar sobrevaloración y correcciones posteriores."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análisis Fundamental"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "start": "Comenzar a operar"
+    },
+    "page": {
+        "title": "El Papel de los Activos Refugio en la Turbulencia del Mercado"
+    },
+    "sections": {
+        "_list": [
+            "El Papel de los Activos Refugio en la Turbulencia del Mercado",
+            "Visión general",
+            "Activos refugio comunes",
+            "Oro",
+            "Bonos del Tesoro de EE. UU.",
+            "Franco suizo (CHF)",
+            "Yen japonés (JPY)",
+            "Acciones defensivas",
+            "Por qué los inversores recurren a los activos refugio",
+            "Preservación de capital",
+            "Diversificación de cartera",
+            "Cobertura contra la inflación y los riesgos cambiarios",
+            "Reacciones del mercado durante la turbulencia",
+            "Aumento de la demanda de activos refugio",
+            "Huida hacia la calidad en los mercados de bonos",
+            "Beneficios de incluir activos refugio en la cartera",
+            "Limitaciones de los activos refugio"
+        ],
+        "overview": {
+            "title": "Visión general",
+            "items": [
+                "Los activos refugio son instrumentos financieros que mantienen o aumentan su valor durante períodos de turbulencia del mercado, proporcionando estabilidad en tiempos de incertidumbre económica.",
+                "Los inversores recurren a los activos refugio para preservar el capital, reducir el riesgo de la cartera y protegerse de la volatilidad cuando los activos más arriesgados caen.",
+                "Los activos refugio desempeñan un papel clave en la diversificación y la gestión del riesgo, especialmente durante crisis financieras o tensiones geopolíticas."
+            ]
+        },
+        "common": {
+            "title": "Activos refugio comunes",
+            "items": [
+                {
+                    "label": "Oro:",
+                    "text": "Considerado tradicionalmente como reserva de valor, el oro suele apreciarse en tiempos de inestabilidad económica."
+                },
+                {
+                    "label": "Bonos del Tesoro de EE. UU.:",
+                    "text": "Considerados de bajo riesgo, los bonos del gobierno estadounidense están respaldados por su solvencia y atraen a los inversores durante caídas del mercado."
+                },
+                {
+                    "label": "Franco suizo (CHF):",
+                    "text": "El franco suizo es visto como una moneda segura debido a la estabilidad económica de Suiza y su baja inflación, atrayendo inversores en momentos de incertidumbre."
+                },
+                {
+                    "label": "Yen japonés (JPY):",
+                    "text": "Otra moneda refugio respaldada por los altos niveles de inversión extranjera y la estabilidad de los mercados financieros de Japón."
+                },
+                {
+                    "label": "Acciones defensivas:",
+                    "text": "Acciones de empresas en sectores como servicios públicos, salud y consumo básico, que son menos sensibles a los ciclos económicos."
+                }
+            ]
+        },
+        "why": {
+            "title": "Por qué los inversores recurren a los activos refugio",
+            "capital": {
+                "title": "Preservación de capital",
+                "items": [
+                    "Los activos refugio ayudan a proteger el capital reduciendo las pérdidas cuando los mercados caen.",
+                    "Estos activos mantienen el valor de la cartera y el poder adquisitivo en tiempos de alta volatilidad."
+                ]
+            },
+            "diversification": {
+                "title": "Diversificación de cartera",
+                "items": [
+                    "Los activos refugio reducen la volatilidad general de la cartera debido a su baja o negativa correlación con las acciones.",
+                    "Una combinación equilibrada entre activos de riesgo y refugio mejora la estabilidad del rendimiento."
+                ]
+            },
+            "hedge": {
+                "title": "Cobertura contra la inflación y los riesgos cambiarios",
+                "items": [
+                    "El oro se utiliza como cobertura contra la inflación, ya que tiende a mantener su valor cuando las monedas pierden poder adquisitivo.",
+                    "Monedas refugio como el franco suizo ayudan a reducir la exposición al riesgo cambiario durante la inestabilidad económica."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Reacciones del mercado durante la turbulencia",
+            "demand": {
+                "title": "Aumento de la demanda de activos refugio",
+                "items": [
+                    "La turbulencia del mercado suele aumentar la demanda de oro, bonos del Tesoro y monedas refugio.",
+                    "Los inversores transfieren fondos desde las acciones hacia activos más seguros, impulsando sus precios."
+                ]
+            },
+            "bonds": {
+                "title": "Huida hacia la calidad en los mercados de bonos",
+                "items": [
+                    "Durante períodos de incertidumbre, los bonos gubernamentales, especialmente los del Tesoro estadounidense, registran mayor demanda, elevando los precios y reduciendo los rendimientos.",
+                    "Este comportamiento refuerza el papel de los bonos como pilar esencial de los activos refugio en tiempos de crisis."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Beneficios de incluir activos refugio en la cartera",
+            "items": [
+                "Reducen la volatilidad de la cartera y ayudan a proteger el capital durante las crisis.",
+                "Proporcionan seguridad y liquidez en momentos de inestabilidad financiera.",
+                "Aumentan la estabilidad a largo plazo y favorecen una recuperación más rápida tras recesiones económicas."
+            ]
+        },
+        "limits": {
+            "title": "Limitaciones de los activos refugio",
+            "items": [
+                "Rendimientos más bajos en comparación con los activos de crecimiento como las acciones.",
+                "Una alta demanda durante las crisis puede provocar sobrevaloración y correcciones posteriores.",
+                "Algunos activos refugio, como el oro, también pueden experimentar volatilidad a pesar de su relativa seguridad."
+            ]
+        }
+    }
+}

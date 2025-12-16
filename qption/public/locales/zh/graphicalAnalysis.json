@@ -1,0 +1,51 @@
+{
+    "seo": {
+        "title": "图形分析 – 交互式图表与形态扫描器 | Qption",
+        "description": "使用 Qption 的图形分析套件：多资产图表、自动形态识别与实时绘图工具，覆盖外汇、加密货币与指数。",
+        "keywords": "图形分析, 交互式图表, 图表形态, 三角形, 头肩形态, 趋势线, 外汇图表, 加密图表, Qption 工具",
+        "ogTitle": "图形分析 – 交互式图表与形态扫描器 | Qption",
+        "ogDescription": "借助 Qption 的自动形态扫描器与高级绘图工具，在数秒内识别楔形、通道与突破。",
+        "url": "https://qption.com/zh/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "图形分析 – 交互式图表与形态扫描器 | Qption",
+        "twitterDescription": "交易眼见为实：利用实时图表与形态识别 AI 确认入场与出场。",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/zh/graphical-analysis"
+    },
+    "page": {
+        "title": "图形分析",
+        "subtitle": "通过动态图表、形态识别与可视化趋势解读价格行为——以清晰与信心把握每一次交易。"
+    },
+    "ui": {
+        "learnMore": "了解更多"
+    },
+    "cards": {
+        "movingAverage": {
+            "title": "移动平均线指标"
+        },
+        "fibonacciElliott": {
+            "title": "斐波那契回撤与艾略特波浪"
+        },
+        "reversal": {
+            "title": "趋势反转形态"
+        },
+        "trendContinuation": {
+            "title": "趋势延续形态"
+        },
+        "graphicalAnalysis": {
+            "title": "图形分析"
+        }
+    },
+    "video": {
+        "aria": "技术分析利用价格图表、形态与指标来预判未来的价格波动。"
+    },
+    "cta": {
+        "takeQuiz": "开始图形分析测验"
+    },
+    "bullets": [
+        "图形分析通过图表、可视化形态与绘图工具研究价格行为，以预判可能的市场走势。",
+        "强调视觉信号——趋势线、支撑/阻力、成交量分布与叠加指标——以捕捉动能变化并把握入场/出场时机。",
+        "交易者在股票、加密、外汇与大宗商品等资产上广泛应用图形分析，以更快更清晰地决策。"
+    ]
+}

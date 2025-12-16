@@ -1,0 +1,134 @@
+{
+    "seo": {
+        "title": "Fibonacci Retracements & Elliott Waves – Graphical Analysis Guide | Qption",
+        "description": "Learn Fibonacci Retracements and Elliott Wave Theory: key levels (23.6%, 38.2%, 50%, 61.8%, 78.6%), plotting, S/R, continuation vs reversal, impulse/corrective waves, and combining with MAs & trend lines.",
+        "keywords": "Fibonacci retracement, Elliott Wave Theory, graphical analysis, technical analysis, support and resistance, impulse waves, corrective waves, Fibonacci levels, moving averages, trend lines, price targets, risk management, Qption",
+        "url": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+        "image": "https://qption.com/videos/fibonacci-elliott-waves/fibonacci-elliott-waves.jpg",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Fibonacci Retracements & Elliott Waves – Graphical Analysis Guide",
+            "description": "Learn Fibonacci Retracements and Elliott Wave Theory in graphical analysis.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "image": "https://qption.com/videos/fibonacci-elliott-waves/fibonacci-elliott-waves.jpg",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            }
+        }
+    },
+    "ui": {
+        "backToGraphical": "Back to Graphical Analysis"
+    },
+    "page": {
+        "title": "Fibonacci Retracements and Elliott Waves in Graphical Analysis"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "start": "Start Trading"
+    },
+    "video": {
+        "aria": "Fibonacci retracements help identify potential support/resistance by applying Fibonacci ratios to price charts."
+    },
+    "sections": {
+        "fibOverview": {
+            "h": "Fibonacci Retracements Overview",
+            "i1": "Fibonacci retracements are a popular tool to mark potential support/resistance using Fibonacci ratios.",
+            "i2": "Common levels: 23.6%, 38.2%, 50%, 61.8%, 78.6%.",
+            "i3": "They help locate entries/exits by observing price reactions at these levels."
+        },
+        "fibHow": {
+            "h": "How Fibonacci Retracements Work",
+            "s1": {
+                "h": "Plotting:",
+                "t": "From low→high in uptrends (or high→low in downtrends), creating horizontal lines at Fibonacci levels."
+            },
+            "s2": {
+                "h": "Support/Resistance:",
+                "t": "Levels may act as reaction zones where price reverses or consolidates."
+            },
+            "s3": {
+                "h": "Continuation:",
+                "t": "If price holds a level, the trend often resumes, offering potential entries."
+            },
+            "s4": {
+                "h": "Reversal cue:",
+                "t": "A decisive break beyond a key level can hint at a trend change."
+            }
+        },
+        "fibTech": {
+            "h": "Fibonacci Retracement Techniques",
+            "t1": {
+                "h": "1) Fibonacci with Trend Lines",
+                "i1": "Confluence with trend lines strengthens level validity.",
+                "i2": "Look for alignment as high-confluence zones."
+            },
+            "t2": {
+                "h": "2) Fibonacci with Moving Averages",
+                "i1": "When a level aligns with an MA, reliability improves.",
+                "i2": "50/200 MAs with Fib levels often mark strong reactions."
+            }
+        },
+        "fibProsCons": {
+            "h": "Benefits and Limitations of Fibonacci Retracements",
+            "p1": {
+                "h": "Benefit:",
+                "t": "Clear levels to plan entries, exits, and stops."
+            },
+            "p2": {
+                "h": "Benefit:",
+                "t": "Works well with trend lines and MAs for validation."
+            },
+            "c1": {
+                "h": "Limitation:",
+                "t": "Not standalone; relying only on Fib can produce false signals in volatility."
+            }
+        },
+        "ewOverview": {
+            "h": "Elliott Wave Theory Overview",
+            "i1": "Studies price as waves to infer direction via cycles/patterns.",
+            "i2": "Five-wave impulses and three-wave corrections (A-B-C).",
+            "i3": "Used to anticipate continuation, reversals and retracements."
+        },
+        "ewHow": {
+            "h": "How Elliott Waves Work",
+            "s1": {
+                "h": "Impulse waves:",
+                "t": "Five waves in trend direction; 1,3,5 with trend; 2,4 corrective."
+            },
+            "s2": {
+                "h": "Corrective waves:",
+                "t": "Three waves (A-B-C) against the primary trend."
+            },
+            "s3": {
+                "h": "Wave ID:",
+                "t": "Identify patterns to time trend continuation or endings."
+            },
+            "s4": {
+                "h": "Ratios:",
+                "t": "Fib ratios frequently align with waves (e.g., 2/4 retracements, 5 extensions)."
+            }
+        },
+        "ewTech": {
+            "h": "Elliott Wave Techniques",
+            "t1": {
+                "h": "1) Use Impulses/Corrections to Map Trends",
+                "i1": "Impulses show trend strength/direction; corrections mark pullbacks.",
+                "i2": "Enter with impulses; use corrections to anticipate retracements."
+            },
+            "t2": {
+                "h": "2) Combine Elliott Waves with Fibonacci",
+                "i1": "Fib ratios appear within waves (2/4 retrace; 5 extends).",
+                "i2": "Blend Fib retracements with counts to project targets/turns."
+            }
+        },
+        "ewProsCons": {
+            "h": "Benefits and Limitations of Elliott Waves",
+            "p1": "Benefit: Structured lens for market cycles and reversals.",
+            "p2": "Benefit: Pairs well with Fibonacci for targets and stops.",
+            "c1": "Limitation: Can be complex/subjective; counts vary.",
+            "c2": "Limitation: Mislabeling waves leads to poor predictions."
+        }
+    }
+}

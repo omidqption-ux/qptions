@@ -1,0 +1,508 @@
+/* src/Layout.module.css */
+
+/* --- Keyframes for Animations --- */
+@keyframes pulse {
+
+     0%,
+     100% {
+          /* Start/End with a more visible glow */
+          box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.7);
+          /* Increased alpha */
+     }
+
+     50% {
+          /* Expand the glow further outwards and fade out */
+          box-shadow: 0 0 0 8px rgba(59, 130, 246, 0);
+          /* Increased spread, alpha 0 */
+     }
+}
+
+/* --- Base Layout --- */
+.root {
+     display: flex;
+     position: relative;
+     min-height: 100vh;
+     background-color: #0f172a;
+     /* Darker Slate Blue background */
+     width: 100vw;
+}
+
+/* --- AppBar --- */
+.appBar {
+     background-color: #1e293b !important;
+     /* Slightly lighter slate blue */
+     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+     /* Subtle shadow */
+     color: #cbd5e1 !important;
+     /* Lighter text */
+     transition: background-color 0.4s ease, transform 0.4s ease,
+          backdrop-filter 0.4s ease !important;
+}
+
+.appBarScrolled {
+     background-color: rgba(30,
+               41,
+               59,
+               0.85) !important;
+     /* Add backdrop blur */
+     backdrop-filter: blur(10px);
+     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+          0 2px 4px -2px rgba(0, 0, 0, 0.1);
+}
+
+.toolBar {
+     min-height: 60px !important;
+     /* Slightly taller toolbar */
+     padding: 0 20px !important;
+     /* More horizontal padding */
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     width: 100%;
+
+}
+
+.appBarLeft {
+     display: flex;
+     align-items: center;
+     gap: 0px;
+     /* Increased gap */
+}
+
+.menuButton {
+     color: #94a3b8 !important;
+     /* Lighter gray */
+}
+
+.menuButton:hover {
+     background-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+.logo {
+     height: 32px;
+     /* Doubled AppBar logo height */
+     width: auto;
+     display: block;
+     margin-left: 4px;
+     cursor: pointer;
+     /* Add pointer cursor */
+     transition: transform 0.3s ease, filter 0.3s ease;
+     /* Smooth transition for hover */
+}
+
+.logo:hover {
+     transform: scale(1.05);
+     /* Slightly enlarge on hover */
+     filter: brightness(1.1);
+     /* Slightly brighten on hover */
+}
+
+.logoHidden {
+     display: none;
+}
+
+.appBarCenter {
+     display: flex;
+     align-items: center;
+     gap: 16px;
+     /* Increased gap */
+}
+
+.appBarCenterButton {
+     font-size: 0.85rem !important;
+     padding: 6px 14px !important;
+     /* Adjust padding */
+     border-radius: 8px !important;
+     /* More rounded */
+     text-transform: none !important;
+     color: #f1f5f9 !important;
+     /* Brighter text */
+     display: inline-flex !important;
+     align-items: center !important;
+     gap: 6px !important;
+     transition: all 0.2s ease !important;
+     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.appBarCenterButton svg {
+     font-size: 1.15rem !important;
+}
+
+.tradeButton {
+     composes: appBarCenterButton;
+     background-image: linear-gradient(to bottom,
+               rgba(34, 197, 94, 0.10),
+               rgba(34, 197, 94, 0.05)) !important;
+     border: 1px solid #2563eb;
+     box-shadow: 0 0 0 0 #00d2ff;
+     color: #00d2ff
+}
+
+.tradeButtonDemo {
+     composes: appBarCenterButton;
+     background: linear-gradient(to bottom,
+               #3b82f6,
+               #FFA500) !important;
+     /* Blue gradient */
+     border: 0px solid #00d2ff;
+     color: #00d2ff
+}
+
+.tradeButtonDemo:hover {
+     transform: translateY(-1px);
+
+}
+
+.tradeButton:hover {
+     /* Keep animation running on hover, or add 'animation: none;' to stop */
+     /* Keep a static hover shadow */
+     transform: translateY(-1px);
+}
+
+.depositButton {
+     composes: appBarCenterButton;
+     background: linear-gradient(to right,
+               #10b981,
+               #059669) !important;
+     /* Green gradient */
+     border: 1px solid #059669;
+}
+
+.depositButton:hover {
+     background: linear-gradient(to right, #059669, #047857) !important;
+     box-shadow: 0 2px 5px rgba(16, 185, 129, 0.3);
+     transform: translateY(-1px);
+}
+
+.appBarRight {
+     display: flex;
+     align-items: center;
+     gap: 16px;
+     /* Increased gap */
+}
+
+.usernameDisplay {
+     font-size: 0.7rem;
+     color: #e2e8f0;
+     /* Brighter text */
+     font-weight: 500;
+     white-space: nowrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     max-width: 120px;
+}
+
+.avatarContainer {
+     position: relative;
+}
+
+.avatarWrapper {
+     position: relative;
+     display: flex;
+     padding: 2px;
+     /* Add padding for border effect */
+     border: 2px solid transparent;
+     /* Start transparent */
+     border-radius: 50%;
+     transition: border-color 0.3s ease;
+}
+
+.avatarWrapper:hover {
+     border-color: #3b82f6;
+     /* Highlight border on hover */
+}
+
+.avatar {
+     width: 40px !important;
+     /* Slightly larger avatar */
+     height: 40px !important;
+     cursor: pointer;
+     /* border: 2px solid #475569; Removed border here, added to wrapper */
+}
+
+/* --- User Menu (MUI Menu) --- */
+:global(.MuiMenu-paper) {
+     background-color: #334155 !important;
+     /* Darker Slate */
+     border-radius: 8px !important;
+     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35) !important;
+     margin-top: 10px !important;
+     border: 1px solid #475569;
+}
+
+:global(.MuiMenu-list) {
+     padding-top: 6px !important;
+     padding-bottom: 6px !important;
+}
+
+:global(.MuiMenuItem-root).menuItem {
+     font-size: 0.9rem !important;
+     color: #e2e8f0 !important;
+     padding: 10px 20px !important;
+     /* More padding */
+     display: flex;
+     align-items: center;
+     gap: 10px !important;
+}
+
+:global(.MuiMenuItem-root).menuItem:hover {
+     background-color: rgba(255, 255, 255, 0.05) !important;
+}
+
+:global(.MuiMenuItem-root).menuItem svg {
+     font-size: 1.2rem !important;
+     color: #94a3b8;
+}
+
+.menuItemBalance {
+     composes: menuItem;
+     justify-content: center;
+     font-weight: 500;
+}
+
+.menuItemLogout {
+     composes: menuItem;
+     justify-content: center;
+     color: #fda4af !important;
+     /* Softer red */
+}
+
+.menuItemLogout:hover {
+     background-color: rgba(244, 63, 94, 0.1) !important;
+     color: #fb7185 !important;
+}
+
+.menuItemLogout svg {
+     color: #fda4af !important;
+}
+
+/* --- Drawer --- */
+.drawer {
+     flex-shrink: 0;
+     white-space: nowrap;
+     box-sizing: border-box;
+}
+
+.drawerPaper {
+     background-color: #1e293b !important;
+     /* Match AppBar */
+     border-right: 0px solid #334155 !important;
+     overflow-x: hidden !important;
+     box-shadow: 1px 0 2px rgba(0, 0, 0, 0.1);
+     /* Ensure flex column for list grow */
+     display: flex;
+     flex-direction: column;
+     height: 100vh;
+     /* Fill viewport height */
+}
+
+/* --- Drawer Header --- */
+.drawerHeader {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 0 12px 0 16px !important;
+     /* Ensure padding accommodates logo */
+     min-height: 60px !important;
+     /* Increased to fit larger logo */
+     /* Darker header */
+     border-bottom: 1px solid #334155;
+     flex-shrink: 0;
+     /* Prevent header from shrinking */
+}
+
+.drawerHeaderLogo {
+     height: 56px;
+     /* Doubled Drawer logo height */
+     width: auto;
+     display: block;
+     opacity: 1;
+     margin-right: auto;
+     /* Push the close button to the right */
+     cursor: pointer;
+     /* Add pointer cursor */
+     transition: transform 0.3s ease, filter 0.3s ease, opacity 0.3s ease;
+     /* Smooth transition */
+}
+
+.drawerHeaderLogo:hover {
+     transform: scale(1.05);
+     /* Slightly enlarge on hover */
+     filter: brightness(1.1);
+     /* Slightly brighten on hover */
+}
+
+.drawerHeaderLogoHidden {
+     opacity: 0;
+     width: 0;
+     /* Collapse width when hidden */
+     margin-right: 0;
+     /* Ensure hover effect doesn't apply when hidden */
+     pointer-events: none;
+}
+
+.drawerHeaderButton {
+     color: #94a3b8 !important;
+}
+
+.drawerHeaderButton:hover {
+     background-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+/* --- Drawer List --- */
+.drawerList {
+     padding: 8px 0 !important;
+     /* More vertical padding */
+     background-color: #1e293b;
+     /* Match drawer paper */
+     color: #94a3b8;
+     /* Default list text color */
+     flex-grow: 1;
+     /* ** Crucial for filling height ** */
+     overflow-y: auto;
+     /* Allow scrolling if items exceed height */
+}
+
+.drawerBalanceButtonContainer {
+     padding: 6px 16px;
+     /* More padding */
+     display: flex;
+     justify-content: center;
+}
+
+.drawerBalanceButton {
+     width: 100%;
+     /* Darker Blue gradient */
+     color: #ccecec !important;
+     padding: 8px 10px !important;
+     /* Adjusted padding */
+     font-size: 0.85rem !important;
+     border-radius: 8px !important;
+     text-transform: none !important;
+     justify-content: center !important;
+     gap: 8px !important;
+     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+     transition: all 0.2s ease !important;
+}
+
+.drawerBalanceButton:hover {
+     box-shadow: 0 2px 4px rgba(29, 78, 216, 0.3);
+     transform: translateY(-1px);
+}
+
+.drawerBalanceButtonClosed {
+     padding: 8px !important;
+     /* Square padding for icon */
+     min-width: auto !important;
+}
+
+/* --- List Item --- */
+.listItem {
+     min-height: 44px !important;
+     /* Slightly taller items */
+     padding: 0 20px !important;
+     /* More padding */
+     margin: 4px 12px !important;
+     /* Adjust margin */
+     border-radius: 8px !important;
+     color: inherit !important;
+     transition: background-color 0.2s ease, color 0.2s ease,
+          transform 0.1s ease !important;
+}
+
+.listItem:hover {
+     background-color: rgba(255, 255, 255, 0.04) !important;
+     color: #f1f5f9 !important;
+     /* Brightest text on hover */
+     transform: translateX(2px);
+     /* Subtle shift on hover */
+}
+
+.listItemOpen {
+     justify-content: flex-start !important;
+}
+
+.listItemClosed {
+     justify-content: center !important;
+     padding: 0 12px !important;
+}
+
+/* Adjust closed padding */
+
+.listItemActive {
+     background: linear-gradient(90deg,
+               rgba(59, 130, 246, 0.2),
+               rgba(59, 130, 246, 0.1)) !important;
+     /* Gradient active background */
+     color: #2196F3 !important;
+     /* Lighter blue active color */
+     font-weight: 600 !important;
+     /* Bolder active text */
+}
+
+.listItemActive .listItemIcon {
+     color: #2196F3 !important;
+}
+
+.listItemActive:hover {
+     color: #bfdbfe !important;
+     /* Even lighter on hover active */
+}
+
+.listItemIcon {
+     min-width: auto !important;
+     color: inherit !important;
+     font-size: 1.15rem !important;
+     /* Slightly smaller icons */
+     transition: color 0.2s ease !important;
+}
+
+.listItemIconOpen {
+     margin-right: 2px !important;
+     /* More space */
+     display: flex;
+     align-items: center;
+}
+
+.listItemIconClosed {
+     margin-right: 0 !important;
+}
+
+.listItemText {
+     font-size: 0.9rem !important;
+     /* Slightly larger text */
+     font-weight: inherit;
+     opacity: 1;
+     transition: opacity 0.3s ease;
+     white-space: nowrap;
+}
+
+.listItemTextHidden {
+     opacity: 0;
+     width: 0;
+     overflow: hidden;
+}
+
+/* --- Main Content Area --- */
+.mainContent {
+     background-color: #0f172a;
+     /* Match root */
+     color: #cbd5e1;
+     /* Default text */
+     transition: margin-left 0.3s ease-out;
+     /* Match drawer transition */
+}
+
+@media (min-width: 600px) {
+
+     /* sm breakpoint */
+     .mainContent {
+          padding: 0px;
+     }
+}
+
+.contentSpacer {
+     /* Class for the Toolbar spacer */
+     min-height: 60px !important;
+     /* Match AppBar height */
+}

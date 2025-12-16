@@ -1,0 +1,74 @@
+{
+    "seo": {
+        "title": "Estrategia de Velas Engulfing – Patrones de Reversión Alcistas y Bajistas | Qption",
+        "description": "Aprende la estrategia de velas Engulfing: identifica los patrones de reversión alcistas y bajistas, confirma con soporte/resistencia y volumen, y gestiona el riesgo con stops precisos. Incluye reglas de identificación, confirmaciones, ventajas y desventajas.",
+        "keywords": "vela envolvente, engulfing alcista, engulfing bajista, patrón de reversión, acción del precio, soporte y resistencia, confirmación de volumen, gestión del riesgo, análisis técnico, estrategia de trading, Qption",
+        "ogAlt": "Estrategia de velas Engulfing mostrada en un gráfico de trading",
+        "ld": {
+            "headline": "Estrategia de Velas Engulfing – Patrones de Reversión Alcistas y Bajistas"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estrategia de trading"
+    },
+    "hero": {
+        "title": "Estrategia de Velas Engulfing"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "startTrading": "Comenzar a operar"
+    },
+    "video": {
+        "aria": "La estrategia de velas Engulfing es un patrón de reversión popular que indica un posible cambio de tendencia."
+    },
+    "overview": {
+        "title": "Descripción general",
+        "items": {
+            "1": "La estrategia de velas Engulfing es un patrón de reversión popular que señala un posible cambio de tendencia.",
+            "2": "Esta estrategia consiste en identificar un patrón donde una vela grande 'envuelve' completamente el cuerpo de la vela anterior.",
+            "3": "Existen dos tipos principales: Engulfing alcista (señala cambio a tendencia alcista) y Engulfing bajista (señala cambio a tendencia bajista)."
+        }
+    },
+    "bullish": {
+        "title": "1. Patrón Engulfing Alcista",
+        "items": {
+            "1": "Formación: ocurre durante una tendencia bajista, cuando una vela alcista grande cubre completamente el cuerpo de la vela bajista anterior.",
+            "2": "Primera vela: una vela bajista pequeña que refleja la continuación de la tendencia descendente.",
+            "3": "Segunda vela: una vela alcista grande que abre por debajo del cierre anterior y cierra por encima de la apertura previa.",
+            "4": "Confirmación: una vela alcista posterior confirma la reversión de la tendencia."
+        }
+    },
+    "bearish": {
+        "title": "2. Patrón Engulfing Bajista",
+        "items": {
+            "1": "Formación: aparece durante una tendencia alcista, cuando una vela bajista grande cubre completamente el cuerpo de la vela alcista anterior.",
+            "2": "Primera vela: una vela alcista pequeña que representa la continuación de la tendencia ascendente.",
+            "3": "Segunda vela: una vela bajista grande que abre por encima del cierre anterior y cierra por debajo de la apertura previa.",
+            "4": "Confirmación: una vela bajista posterior confirma la reversión de la tendencia."
+        }
+    },
+    "using": {
+        "title": "Cómo usar la Estrategia de Velas Engulfing",
+        "items": {
+            "1": "Combina con niveles de soporte y resistencia para aumentar la fiabilidad de la señal.",
+            "2": "Usa indicadores de volumen para confirmar la fuerza en la dirección de la vela envolvente.",
+            "3": "Coloca órdenes de stop-loss por debajo del mínimo de un Engulfing alcista o por encima del máximo de un Engulfing bajista para gestionar el riesgo."
+        }
+    },
+    "pros": {
+        "title": "Ventajas",
+        "items": {
+            "1": "Señal de reversión clara: ofrece una indicación evidente de un posible cambio de tendencia.",
+            "2": "Funciona en múltiples temporalidades: útil tanto para operaciones a corto como a largo plazo.",
+            "3": "Fácil de identificar: se reconoce fácilmente con conocimientos básicos de velas japonesas."
+        }
+    },
+    "cons": {
+        "title": "Desventajas",
+        "items": {
+            "1": "Requiere confirmación: necesita validación adicional para evitar señales falsas.",
+            "2": "Menos fiable en mercados de bajo volumen: las señales falsas son más frecuentes en condiciones de baja liquidez.",
+            "3": "Puede ser engañoso si se usa solo: se recomienda combinarlo con otros indicadores para una validación más fuerte."
+        }
+    }
+}

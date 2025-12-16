@@ -1,0 +1,133 @@
+{
+    "seo": {
+        "title": "Politique LBC/FT | Qption",
+        "description": "Politique de Qption relative à la Lutte contre le Blanchiment d’Argent (LBC) et le Financement du Terrorisme (FT) : définitions, programme, obligations des employés et des clients, contrôles KYC, gestion des activités suspectes et responsabilité.",
+        "keywords": "LBC, FT, KYC, anti-blanchiment, financement du terrorisme, transactions suspectes, conformité, Qption",
+        "ogTitle": "Politique Anti-Blanchiment (LBC) et Contre le Financement du Terrorisme (FT) | Qption",
+        "ogDescription": "Découvrez comment Qption prévient le blanchiment d’argent et le financement du terrorisme : gouvernance du programme, vérifications, suivi et obligations des clients.",
+        "url": "https://qption.com/aml-kyc",
+        "image": "https://qption.com/images/og/aml-kyc-qption.jpg",
+        "canonical": "https://qption.com/aml-kyc"
+    },
+    "hero": {
+        "title": "Politique Anti-Blanchiment (LBC) et Contre le Financement du Terrorisme (FT)"
+    },
+    "sections": [
+        {
+            "key": "general",
+            "icon": "general",
+            "title": "1. Politique Générale",
+            "items": [
+                "L’entreprise interdit et œuvre activement à prévenir le blanchiment d’argent et les activités finançant le terrorisme ou d’autres actions criminelles. Tous les employés et partenaires doivent respecter ces normes afin d’éviter toute utilisation illégale des services de l’entreprise."
+            ]
+        },
+        {
+            "key": "definition",
+            "icon": "definition",
+            "title": "2. Définition du Blanchiment d’Argent",
+            "items": [
+                "Le blanchiment d’argent comprend les actions visant à dissimuler l’origine de fonds obtenus illégalement pour les faire apparaître comme provenant de sources légitimes."
+            ]
+        },
+        {
+            "key": "stages",
+            "icon": "stages",
+            "title": "3. Étapes du Blanchiment d’Argent",
+            "items": [
+                "Placement : l’argent issu d’activités criminelles entre dans le système financier.",
+                "Empilage : les fonds sont déplacés entre comptes ou institutions pour en masquer davantage l’origine.",
+                "Intégration : les fonds réintègrent l’économie pour acheter des actifs légitimes ou financer d’autres activités."
+            ]
+        },
+        {
+            "key": "employees",
+            "icon": "employees",
+            "title": "4. Responsabilités des Employés",
+            "items": [
+                "Les employés impliqués dans les services de l’entreprise doivent connaître et respecter les lois et réglementations relatives à la prévention du blanchiment d’argent."
+            ]
+        },
+        {
+            "key": "program",
+            "icon": "program",
+            "title": "5. Programme de Conformité LBC",
+            "items": [
+                "L’entreprise maintient un programme continu visant à assurer la conformité légale, à réduire les risques liés au blanchiment d’argent et à harmoniser les exigences réglementaires dans toutes les unités commerciales."
+            ]
+        },
+        {
+            "key": "affiliates",
+            "icon": "affiliates",
+            "title": "6. Conformité des Partenaires",
+            "items": [
+                "Chaque partenaire de l’entreprise doit se conformer aux politiques LBC et Connaissance du Client (KYC)."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "7. Conservation des Documents",
+            "items": [
+                "Tous les documents d’identification et les enregistrements de services sont conservés pendant au moins la période minimale requise par la législation locale."
+            ]
+        },
+        {
+            "key": "training",
+            "icon": "training",
+            "title": "8. Formation des Employés",
+            "items": [
+                "Les nouveaux employés reçoivent une formation anti-blanchiment lors de leur intégration. Une formation annuelle LBC et KYC est obligatoire pour les employés concernés."
+            ]
+        },
+        {
+            "key": "obligations",
+            "icon": "obligations",
+            "title": "9. Obligations des Clients",
+            "items": [
+                "Les clients doivent se conformer aux lois relatives à la lutte contre le blanchiment, la fraude et les activités illégales.",
+                "Les clients doivent s’assurer que les fonds transférés sur leur compte proviennent de sources légitimes."
+            ]
+        },
+        {
+            "key": "checks",
+            "icon": "checks",
+            "title": "10. Contrôles KYC et LBC",
+            "items": [
+                "L’entreprise se réserve le droit d’effectuer des vérifications KYC et LBC/FT sur les clients afin de se conformer aux réglementations et de prévenir les crimes financiers.",
+                "Les clients doivent fournir tous les documents demandés pour la vérification. Le non-respect peut entraîner des retards ou la suspension des services."
+            ]
+        },
+        {
+            "key": "suspicious",
+            "icon": "suspicious",
+            "title": "11. Gestion des Transactions Suspectes",
+            "items": [
+                "En cas de détection de transactions suspectes ou frauduleuses, l’entreprise peut suspendre les services, bloquer le compte du client et annuler les transactions en attente d’enquête."
+            ]
+        },
+        {
+            "key": "docs",
+            "icon": "docs",
+            "title": "12. Demandes de Documents Pendant les Enquêtes",
+            "items": [
+                "Lors des enquêtes, l’entreprise peut demander des pièces d’identité et des preuves de l’origine des fonds pour confirmer leur légalité."
+            ]
+        },
+        {
+            "key": "prohibition",
+            "icon": "prohibition",
+            "title": "13. Interdiction des Activités Illégales",
+            "items": [
+                "L’utilisation des services ou logiciels de l’entreprise à des fins illégales ou frauduleuses, y compris le blanchiment d’argent, est strictement interdite."
+            ]
+        },
+        {
+            "key": "liability",
+            "icon": "liability",
+            "title": "14. Responsabilité de l’Entreprise",
+            "items": [
+                "Le refus de l’entreprise de traiter des transactions suspectes ne crée aucune responsabilité envers le client ou des tiers."
+            ]
+        }
+    ]
+}

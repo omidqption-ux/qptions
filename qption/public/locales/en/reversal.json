@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "title": "Reversal Trading Strategy – Signals, Confirmation & Risk Management | Qption",
+        "description": "Learn the Reversal trading strategy: spot trend exhaustion, use support/resistance, RSI/MACD/divergence and candlestick patterns, confirm entries, and manage risk with clear stops and targets. Includes a step-by-step flow and an example.",
+        "url": "https://qption.com/trading-strategy/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "imageAlt": "Reversal trading strategy",
+        "keywords": "Reversal strategy, trend reversal, trend exhaustion, support and resistance, divergence, RSI, MACD, candlestick patterns, hammer, engulfing pattern, risk management, confirmation signals, entry and exit, trading strategy, Qption",
+        "jsonLd": {
+            "headline": "Reversal Trading Strategy – Signals, Confirmation & Risk Management",
+            "about": [
+                "Reversal Trading",
+                "Trend Exhaustion",
+                "Support and Resistance",
+                "Divergence",
+                "RSI",
+                "MACD",
+                "Candlestick Patterns",
+                "Risk Management"
+            ],
+            "articleSection": [
+                "Reversal Strategy",
+                "Key Concepts of the Reversal Strategy",
+                "Applying the Reversal Strategy",
+                "Example of a Reversal Strategy in Action"
+            ]
+        }
+    },
+    "breadcrumb": "Trading strategy",
+    "title": "Reversal Strategy",
+    "cta": {
+        "prompt": "Ready to trade?",
+        "button": "Start Trading"
+    },
+    "video": {
+        "aria": "A reversal occurs when the current trend weakens and may change direction. Watch for exhaustion, divergence and key candlestick confirmations."
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Key Concepts of the Reversal Strategy",
+            "items": {
+                "exhaustion": {
+                    "title": "Trend Exhaustion",
+                    "desc": "A reversal can form when momentum slows and structure shows lower highs in an uptrend or higher lows in a downtrend."
+                },
+                "sr": {
+                    "title": "Support and Resistance Levels",
+                    "desc": "Price reactions at major support/resistance often precede reversals. Look for rejection wicks, failed breaks, or closes back inside."
+                },
+                "indicators": {
+                    "title": "Technical Indicators",
+                    "desc": "Use RSI, MACD or Stochastics for overbought/oversold context and momentum shifts that support a reversal idea."
+                },
+                "candles": {
+                    "title": "Candlestick Patterns",
+                    "desc": "Hammers, dojis, engulfing patterns and pin bars near key levels can signal turning points—confirm with structure."
+                },
+                "divergence": {
+                    "title": "Divergence",
+                    "desc": "Bullish divergence (price lower lows, indicator higher lows) or bearish divergence (price higher highs, indicator lower highs) can foreshadow reversals."
+                }
+            }
+        },
+        "applying": {
+            "title": "Applying the Reversal Strategy",
+            "items": {
+                "identifyTrend": {
+                    "title": "Identify the Trend",
+                    "desc": "Start with a clear prevailing trend on higher timeframes; reversals are more reliable after extended moves."
+                },
+                "watchSignals": {
+                    "title": "Watch for Reversal Signals",
+                    "desc": "Monitor exhaustion near key zones, indicator extremes, and reversal candles that align with market context."
+                },
+                "confirm": {
+                    "title": "Wait for Confirmation",
+                    "desc": "Use breaks/retests of levels, consecutive closes, or confirmed divergence before entering against the prior trend."
+                },
+                "entriesExits": {
+                    "title": "Set Entry and Exit Points",
+                    "desc": "Plan entries around retests of broken structure. Define profit targets via nearby structure or measured moves."
+                },
+                "risk": {
+                    "title": "Implement Risk Management",
+                    "desc": "Place stop-losses beyond invalidation (above resistance for shorts, below support for longs) and size positions accordingly."
+                }
+            }
+        },
+        "example": {
+            "title": "Example of a Reversal Strategy in Action",
+            "p1": "A market rallies into a major resistance after weeks of ascent. RSI prints overbought and MACD shows bearish divergence. A bearish engulfing candle forms at resistance.",
+            "p2": "A short entry is taken after confirmation, with a stop just above resistance and targets at prior structure lows. If price follows through, the reversal leg captures the rotation down."
+        }
+    }
+}

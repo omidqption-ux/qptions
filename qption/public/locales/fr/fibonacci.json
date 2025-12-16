@@ -1,0 +1,122 @@
+{
+    "seo": {
+        "title": "Retracements de Fibonacci et Vagues d’Elliott – Guide d’Analyse Graphique | Qption",
+        "description": "Apprenez les retracements de Fibonacci et la théorie des vagues d’Elliott : niveaux clés (23,6 %, 38,2 %, 50 %, 61,8 %, 78,6 %), tracé, S/R, continuation ou retournement, vagues impulsives et correctives, et combinaison avec moyennes mobiles et lignes de tendance.",
+        "keywords": "retracement de Fibonacci, théorie des vagues d’Elliott, analyse graphique, analyse technique, support et résistance, vagues impulsives, vagues correctives, niveaux de Fibonacci, moyennes mobiles, lignes de tendance, objectifs de prix, gestion des risques, Qption",
+        "url": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+        "image": "https://qption.com/videos/fibonacci-elliott-waves/fibonacci-elliott-waves.jpg"
+    },
+    "ui": {
+        "backToGraphical": "Retour à l’analyse graphique"
+    },
+    "page": {
+        "title": "Retracements de Fibonacci et Vagues d’Elliott en Analyse Graphique"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "start": "Commencer à trader"
+    },
+    "video": {
+        "aria": "Les retracements de Fibonacci aident à identifier les zones de support/résistance potentielles à l’aide des ratios de Fibonacci."
+    },
+    "sections": {
+        "fibOverview": {
+            "h": "Aperçu des retracements de Fibonacci",
+            "i1": "Les retracements de Fibonacci sont un outil populaire pour marquer les zones de support/résistance potentielles à l’aide des ratios de Fibonacci.",
+            "i2": "Niveaux communs : 23,6 %, 38,2 %, 50 %, 61,8 %, 78,6 %.",
+            "i3": "Ils aident à déterminer les points d’entrée et de sortie en observant les réactions du prix à ces niveaux."
+        },
+        "fibHow": {
+            "h": "Comment fonctionnent les retracements de Fibonacci",
+            "s1": {
+                "h": "Traçage :",
+                "t": "Du plus bas au plus haut en tendance haussière (ou inversement), créant des lignes horizontales aux niveaux de Fibonacci."
+            },
+            "s2": {
+                "h": "Support/Résistance :",
+                "t": "Les niveaux agissent souvent comme zones de réaction où le prix se renverse ou consolide."
+            },
+            "s3": {
+                "h": "Continuation :",
+                "t": "Si le prix maintient un niveau, la tendance reprend souvent — offrant des opportunités d’entrée."
+            },
+            "s4": {
+                "h": "Indication de retournement :",
+                "t": "Une cassure nette au-delà d’un niveau clé peut signaler un changement de tendance."
+            }
+        },
+        "fibTech": {
+            "h": "Techniques de retracement de Fibonacci",
+            "t1": {
+                "h": "1) Fibonacci et lignes de tendance",
+                "i1": "La confluence avec les lignes de tendance renforce la validité des niveaux.",
+                "i2": "Cherchez les zones d’alignement comme points de confluence élevés."
+            },
+            "t2": {
+                "h": "2) Fibonacci et moyennes mobiles",
+                "i1": "Lorsqu’un niveau coïncide avec une moyenne mobile, la fiabilité augmente.",
+                "i2": "Les moyennes 50/200 combinées aux niveaux Fib signalent souvent de fortes réactions."
+            }
+        },
+        "fibProsCons": {
+            "h": "Avantages et limites des retracements de Fibonacci",
+            "p1": {
+                "h": "Avantage :",
+                "t": "Fournit des niveaux clairs pour planifier entrées, sorties et stops."
+            },
+            "p2": {
+                "h": "Avantage :",
+                "t": "Fonctionne bien avec les lignes de tendance et les moyennes mobiles."
+            },
+            "c1": {
+                "h": "Limite :",
+                "t": "Ne doit pas être utilisé seul — peut générer de faux signaux dans les marchés volatils."
+            }
+        },
+        "ewOverview": {
+            "h": "Aperçu de la théorie des vagues d’Elliott",
+            "i1": "Étudie les prix en vagues pour interpréter les cycles et la direction du marché.",
+            "i2": "Cinq vagues impulsives et trois vagues correctives (A-B-C).",
+            "i3": "Utilisée pour anticiper les continuations, retournements et retracements."
+        },
+        "ewHow": {
+            "h": "Comment fonctionnent les vagues d’Elliott",
+            "s1": {
+                "h": "Vagues impulsives :",
+                "t": "Cinq vagues dans la direction de la tendance — 1,3,5 avec la tendance ; 2,4 correctives."
+            },
+            "s2": {
+                "h": "Vagues correctives :",
+                "t": "Trois vagues (A-B-C) contre la tendance principale."
+            },
+            "s3": {
+                "h": "Identification :",
+                "t": "Identifier les schémas pour anticiper la continuation ou la fin d’une tendance."
+            },
+            "s4": {
+                "h": "Ratios :",
+                "t": "Les ratios de Fibonacci apparaissent souvent dans les vagues (ex. retracements 2/4, extensions 5)."
+            }
+        },
+        "ewTech": {
+            "h": "Techniques des vagues d’Elliott",
+            "t1": {
+                "h": "1) Utiliser les vagues pour cartographier les tendances",
+                "i1": "Les vagues impulsives montrent la direction principale ; les correctives marquent les retraits.",
+                "i2": "Entrer avec les impulsions, anticiper les retracements avec les corrections."
+            },
+            "t2": {
+                "h": "2) Combiner vagues d’Elliott et Fibonacci",
+                "i1": "Les ratios Fib apparaissent à l’intérieur des vagues.",
+                "i2": "Combinez les deux pour projeter les objectifs et les retournements."
+            }
+        },
+        "ewProsCons": {
+            "h": "Avantages et limites des vagues d’Elliott",
+            "p1": "Avantage : Permet une vision structurée des cycles de marché.",
+            "p2": "Avantage : Fonctionne bien avec Fibonacci pour les cibles et stops.",
+            "c1": "Limite : Complexe et subjectif — les décomptes peuvent varier.",
+            "c2": "Limite : Mauvais étiquetage = prévisions erronées."
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "seo": {
+        "title": "交易术语表 – 关键术语与核心概念 | Qption",
+        "description": "清晰易懂地解释最重要的交易术语：买价与卖价、牛市与熊市、波动率、流动性、支撑与阻力、趋势线、相关性等。",
+        "keywords": "交易术语表, 交易术语, 买价, 卖价, 牛市, 熊市, 波动率, 流动性, 支撑, 阻力, 相关性, 趋势线, Qption",
+        "ogTitle": "交易术语表 – 关键术语与核心概念 | Qption",
+        "ogDescription": "通过 Qption 交易术语表学习市场语言：用简单方式理解关键交易概念。",
+        "url": "https://qption.com/glossary",
+        "image": "https://qption.com/images/og/glossary-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "交易术语表 – 关键术语与核心概念 | Qption",
+        "twitterDescription": "用简洁易懂的方式学习交易基础术语，帮助你更快掌握市场并做出明智决策。",
+        "twitterImage": "https://qption.com/images/og/glossary-qption.jpg",
+        "canonical": "https://qption.com/glossary"
+    },
+    "hero": {
+        "title": "关键交易术语与概念"
+    },
+    "terms": [
+        {
+            "key": "ask",
+            "title": "买价（Ask）",
+            "desc": "当前市场中你可以买入资产的价格。"
+        },
+        {
+            "key": "bull",
+            "title": "多头（Bull）",
+            "desc": "预期价格上涨并购买资产以期在未来以更高价格卖出的交易者或投资者。"
+        },
+        {
+            "key": "bullMarket",
+            "title": "牛市",
+            "desc": "价格普遍上涨、市场情绪乐观的市场状态，通常在图表中表现为上升趋势。"
+        },
+        {
+            "key": "return",
+            "title": "回报率（Return）",
+            "desc": "交易所获得的收益或百分比。在 Qption 等平台上，即使亏损交易也可能获得最高 45% 的投资回报，回报比例在购买时确定。"
+        },
+        {
+            "key": "volatility",
+            "title": "波动率（Volatility）",
+            "desc": "一定时期内资产价格的波动幅度。波动率越高，价格变动越大越快。"
+        },
+        {
+            "key": "deposit",
+            "title": "存款（Deposit）",
+            "desc": "交易账户中可用于开仓或管理交易的资金。"
+        },
+        {
+            "key": "diversification",
+            "title": "分散投资（Diversification）",
+            "desc": "一种风险管理策略，通过将资金分散到不同资产或市场以降低整体风险。"
+        },
+        {
+            "key": "indicator",
+            "title": "技术指标（Indicator）",
+            "desc": "基于价格或成交量数据的技术分析工具，用于判断趋势、动能或波动情况，辅助交易决策。"
+        },
+        {
+            "key": "bid",
+            "title": "卖价（Bid）",
+            "desc": "当前市场中你可以卖出资产的价格。"
+        },
+        {
+            "key": "priceCorridor",
+            "title": "价格通道（Price Corridor）",
+            "desc": "价格在支撑（下边界）与阻力（上边界）之间波动的区域。"
+        },
+        {
+            "key": "correction",
+            "title": "价格回调（Correction）",
+            "desc": "在强势趋势之后，价格短暂地逆势调整的现象。"
+        },
+        {
+            "key": "correlation",
+            "title": "相关性（Correlation）",
+            "desc": "衡量两个资产走势关系的指标，从 -1（反向）到 +1（同向）。例如：EUR/USD 和 GBP/USD 通常同向移动。"
+        },
+        {
+            "key": "liquidity",
+            "title": "流动性（Liquidity）",
+            "desc": "在不显著影响价格的情况下买入或卖出资产的容易程度。交易量越高，流动性通常越好。"
+        },
+        {
+            "key": "supportLine",
+            "title": "支撑线（Support Line）",
+            "desc": "买盘力量增强、防止价格进一步下跌的价格水平。"
+        },
+        {
+            "key": "resistanceLine",
+            "title": "阻力线（Resistance Line）",
+            "desc": "卖盘力量增强、限制价格继续上涨的价格水平。"
+        },
+        {
+            "key": "trendLine",
+            "title": "趋势线（Trend Line）",
+            "desc": "在上升趋势中连接更高低点、或在下降趋势中连接更低高点的线，用于显示总体方向。"
+        },
+        {
+            "key": "bear",
+            "title": "空头（Bear）",
+            "desc": "预期价格下跌并从市场下跌中获利的交易者或投资者。"
+        },
+        {
+            "key": "bearMarket",
+            "title": "熊市",
+            "desc": "价格持续下跌、市场情绪悲观的时期，通常伴随明显的下降趋势。"
+        },
+        {
+            "key": "bearRaid",
+            "title": "打压行动（Bear Raid）",
+            "desc": "交易者协调大量卖出以压低资产价格的行为。"
+        },
+        {
+            "key": "traderSentiment",
+            "title": "交易者情绪（Trader Sentiment）",
+            "desc": "反映市场总体方向的指标，显示多数交易者是在买入还是卖出。"
+        },
+        {
+            "key": "bar",
+            "title": "柱（Bar）",
+            "desc": "在特定时间段显示价格波动（开盘价、最高价、最低价、收盘价）的图表元素。"
+        },
+        {
+            "key": "bonus",
+            "title": "奖金（Bonus）",
+            "desc": "由平台添加到账户中的额外资金，通常作为促销或存款奖励。"
+        }
+    ]
+}

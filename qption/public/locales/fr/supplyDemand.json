@@ -1,0 +1,132 @@
+{
+    "seo": {
+        "title": "Stratégie de Cassure – Niveaux, Confirmation du Volume et Gestion du Risque | Qption",
+        "description": "Maîtrisez la stratégie de cassure : identifiez les niveaux clés de support/résistance, confirmez avec le volume et les indicateurs (RSI, MACD, ATR, Bandes de Bollinger), évitez les fausses cassures et définissez des entrées, sorties et contrôles de risque précis. Comprend les avantages, inconvénients et un exemple concret.",
+        "url": "https://qption.com/trading-strategy/breakout",
+        "image": "https://qption.com/videos/breakout-strategy/breakout-strategy.jpg",
+        "imageAlt": "Stratégie de cassure",
+        "keywords": "stratégie de cassure, cassures, support et résistance, confirmation du volume, fausses cassures, RSI, MACD, ATR, bandes de Bollinger, trading de momentum, gestion du risque, points d'entrée et de sortie, stratégie de trading, Qption",
+        "jsonLd": {
+            "headline": "Stratégie de Cassure – Niveaux, Confirmation du Volume et Gestion du Risque",
+            "about": [
+                "Trading de Cassure",
+                "Support et Résistance",
+                "Confirmation du Volume",
+                "Fausses Cassures",
+                "RSI",
+                "MACD",
+                "ATR",
+                "Bandes de Bollinger",
+                "Momentum",
+                "Gestion du Risque"
+            ],
+            "articleSection": [
+                "Stratégie de Cassure",
+                "Concepts Clés de la Stratégie de Cassure",
+                "Comment Utiliser la Stratégie de Cassure",
+                "Avantages et Inconvénients de la Stratégie de Cassure",
+                "Exemple de Stratégie de Cassure en Action"
+            ]
+        }
+    },
+    "breadcrumb": "Stratégie de trading",
+    "title": "Stratégie de Cassure",
+    "cta": {
+        "prompt": "Prêt à trader ?",
+        "button": "Commencer à trader"
+    },
+    "video": {
+        "aria": "Les cassures se produisent souvent lorsque le prix franchit des niveaux clés de support ou de résistance."
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Concepts Clés de la Stratégie de Cassure",
+            "items": {
+                "levels": {
+                    "title": "Niveaux de Support et Résistance :",
+                    "desc": "Les cassures surviennent souvent lorsque le prix franchit des niveaux clés de support ou de résistance. Ces niveaux agissent comme des barrières psychologiques, et lorsqu’ils sont cassés, le prix prend souvent de l’élan dans la direction de la cassure."
+                },
+                "volume": {
+                    "title": "Confirmation par le Volume :",
+                    "desc": "Une augmentation du volume de transactions pendant une cassure renforce sa validité. Une cassure avec un volume élevé indique un fort intérêt pour la nouvelle direction du prix, augmentant la probabilité de poursuite de la tendance."
+                },
+                "types": {
+                    "title": "Types de Cassures :",
+                    "bull": "Cassure Haussière : se produit lorsque le prix franchit un niveau de résistance, suggérant une tendance haussière potentielle.",
+                    "bear": "Cassure Baissière : se produit lorsque le prix tombe en dessous d’un niveau de support, indiquant une tendance baissière possible."
+                },
+                "indicators": {
+                    "title": "Indicateurs Techniques :",
+                    "desc": "Des indicateurs comme la Moyenne Mobile, les Bandes de Bollinger et l’ATR peuvent aider à confirmer la force d’une cassure. Par exemple, les Bandes de Bollinger s’élargissent lors d’une forte volatilité, signalant une cassure potentielle."
+                },
+                "false": {
+                    "title": "Fausses Cassures :",
+                    "desc": "Parfois, le prix dépasse brièvement un niveau de support ou de résistance avant de revenir rapidement en arrière. Ce sont des fausses cassures. Les traders doivent confirmer les cassures avec des signaux supplémentaires (comme le volume ou les clôtures de bougies) pour éviter d’entrer sur des signaux trompeurs."
+                }
+            }
+        },
+        "howTo": {
+            "title": "Comment Utiliser la Stratégie de Cassure",
+            "items": {
+                "levels": {
+                    "title": "Identifier les Niveaux Clés :",
+                    "desc": "Utilisez les graphiques pour repérer les niveaux de support et de résistance importants. Ces niveaux peuvent être des lignes horizontales formées par des sommets et creux historiques, des lignes de tendance ou des chiffres ronds perçus comme des seuils psychologiques."
+                },
+                "confirm": {
+                    "title": "Attendre la Confirmation :",
+                    "desc": "Entrer immédiatement sur une cassure peut être risqué, car les fausses cassures sont fréquentes. Attendez la confirmation via des facteurs supplémentaires tels qu’une augmentation du volume, une clôture au-dessus/en dessous du niveau de cassure, ou le soutien d’indicateurs."
+                },
+                "indicators": {
+                    "title": "Utiliser les Indicateurs Techniques :",
+                    "desc": "Combinez les signaux de cassure avec des indicateurs comme le RSI, le MACD ou les Moyennes Mobiles pour confirmer la cassure. Une valeur RSI supérieure à 50 lors d’une cassure haussière ou inférieure à 50 lors d’une cassure baissière renforce la validité du signal."
+                },
+                "entriesExits": {
+                    "title": "Définir les Points d’Entrée et de Sortie :",
+                    "desc": "Entrée : placez un ordre légèrement au-dessus du niveau de résistance pour les cassures haussières ou en dessous du support pour les cassures baissières.\nSortie : fixez vos objectifs de profit en fonction de la distance entre les niveaux de support et de résistance (appelée la fourchette) ou utilisez des stops suiveurs pour sécuriser vos gains au fur et à mesure de la progression de la tendance."
+                },
+                "risk": {
+                    "title": "Gérer le Risque :",
+                    "desc": "Utilisez des ordres stop-loss pour limiter les pertes potentielles. Placez le stop-loss légèrement en dessous du niveau de cassure dans une cassure haussière ou au-dessus dans une cassure baissière. Cela protège contre les retournements et les fausses cassures."
+                }
+            }
+        },
+        "prosCons": {
+            "title": "Avantages et Inconvénients de la Stratégie de Cassure",
+            "pros": {
+                "title": "Avantages :",
+                "items": {
+                    "reward": {
+                        "title": "Fort Potentiel de Gain :",
+                        "desc": "Les cassures peuvent générer de fortes tendances, offrant des opportunités de profit significatives lorsqu’elles sont détectées tôt."
+                    },
+                    "momentum": {
+                        "title": "Basée sur le Momentum :",
+                        "desc": "Cette stratégie exploite le momentum, facilitant les entrées dans les tendances dès leur début."
+                    },
+                    "markets": {
+                        "title": "Applicable à Divers Marchés :",
+                        "desc": "Les stratégies de cassure peuvent être utilisées sur différents marchés, notamment les actions, le forex et les matières premières."
+                    }
+                }
+            },
+            "cons": {
+                "title": "Inconvénients :",
+                "items": {
+                    "falseBreakouts": {
+                        "title": "Risque de Fausses Cassures :",
+                        "desc": "Entrer sur des fausses cassures peut entraîner des pertes rapides si le prix se renverse."
+                    },
+                    "timing": {
+                        "title": "Problèmes de Timing :",
+                        "desc": "Identifier les véritables cassures peut être difficile, et une mauvaise synchronisation peut entraîner des pertes ou des occasions manquées."
+                    }
+                }
+            }
+        },
+        "example": {
+            "title": "Exemple de Stratégie de Cassure en Action",
+            "p1": "Imaginez une action qui se négocie dans une fourchette étroite, avec une résistance à 100 $ et un support à 95 $. Après plusieurs tentatives infructueuses, le prix franchit enfin la résistance des 100 $ avec un volume élevé. C’est un signal de cassure haussière.",
+            "p2": "Un trader pourrait placer un ordre d’achat à 101 $ pour confirmer la cassure et un stop-loss à 98 $ pour se protéger contre un retournement. Si le prix continue de monter, le trader peut fixer un objectif de profit basé sur la fourchette précédente ou utiliser un stop suiveur pour capturer des gains supplémentaires."
+        }
+    }
+}

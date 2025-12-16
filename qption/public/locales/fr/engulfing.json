@@ -1,0 +1,74 @@
+{
+    "seo": {
+        "title": "Stratégie des Chandeliers Englobants – Figures de retournement haussières & baissières | Qption",
+        "description": "Apprenez la stratégie des chandeliers englobants : repérez les retournements haussiers et baissiers, confirmez avec supports/résistances et volume, et gérez le risque avec des stop-loss précis. Inclut règles d’identification, confirmations, avantages et limites.",
+        "keywords": "chandelier englobant, bullish engulfing, bearish engulfing, figure de retournement, price action, support et résistance, confirmation par le volume, gestion du risque, analyse technique, stratégie de trading, Qption",
+        "ogAlt": "Stratégie des chandeliers englobants illustrée sur un graphique boursier",
+        "ld": {
+            "headline": "Stratégie des Chandeliers Englobants – Retournements haussiers & baissiers"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Stratégie de trading"
+    },
+    "hero": {
+        "title": "Stratégie des Chandeliers Englobants"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "startTrading": "Commencer à trader"
+    },
+    "video": {
+        "aria": "La stratégie des chandeliers englobants est une figure de retournement populaire signalant un possible changement de tendance."
+    },
+    "overview": {
+        "title": "Aperçu",
+        "items": {
+            "1": "La stratégie des chandeliers englobants est une figure de retournement populaire indiquant une possible inversion de tendance.",
+            "2": "Elle consiste à identifier une bougie dont le corps « englobe » totalement le corps de la bougie précédente.",
+            "3": "Deux types principaux : Englobant haussier (retournement haussier) et Englobant baissier (retournement baissier)."
+        }
+    },
+    "bullish": {
+        "title": "1. Modèle Englobant Haussier",
+        "items": {
+            "1": "Formation : Survient en tendance baissière ; une grande bougie haussière couvre totalement le corps de la bougie baissière précédente.",
+            "2": "Première bougie : Petite bougie baissière reflétant la poursuite de la baisse.",
+            "3": "Deuxième bougie : Grande bougie haussière ouvrant sous la clôture précédente et clôturant au-dessus de l’ouverture précédente.",
+            "4": "Confirmation : Une bougie haussière supplémentaire après l’englobement confirme l’inversion."
+        }
+    },
+    "bearish": {
+        "title": "2. Modèle Englobant Baissier",
+        "items": {
+            "1": "Formation : Apparaît en tendance haussière ; une grande bougie baissière couvre totalement le corps de la bougie haussière précédente.",
+            "2": "Première bougie : Petite bougie haussière reflétant la poursuite de la hausse.",
+            "3": "Deuxième bougie : Grande bougie baissière ouvrant au-dessus de la clôture précédente et clôturant sous l’ouverture précédente.",
+            "4": "Confirmation : Une bougie baissière supplémentaire après l’englobement confirme l’inversion."
+        }
+    },
+    "using": {
+        "title": "Utiliser la Stratégie des Chandeliers Englobants",
+        "items": {
+            "1": "Combiner avec les zones de support et de résistance pour renforcer la fiabilité du signal.",
+            "2": "Employer des indicateurs de volume pour confirmer la force dans le sens de la bougie englobante.",
+            "3": "Placer un stop-loss sous le plus bas (haussier) ou au-dessus du plus haut (baissier) de la bougie englobante pour gérer le risque."
+        }
+    },
+    "pros": {
+        "title": "Avantages",
+        "items": {
+            "1": "Signal de retournement clair : Indication nette d’un changement de tendance potentiel.",
+            "2": "Multi-horizons : Utile sur plusieurs unités de temps, du court au long terme.",
+            "3": "Reconnaissance simple : Facile à identifier avec des notions de base en chandeliers."
+        }
+    },
+    "cons": {
+        "title": "Limites",
+        "items": {
+            "1": "Nécessite confirmation : Pour éviter les faux signaux.",
+            "2": "Moins fiable en faible volume : Les faux signaux sont plus fréquents en conditions peu liquides.",
+            "3": "Peut être trompeur seul : À combiner avec d’autres indicateurs pour une validation renforcée."
+        }
+    }
+}

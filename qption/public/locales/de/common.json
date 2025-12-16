@@ -1,0 +1,96 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "trade": "Handeln",
+        "education": "Lernen",
+        "pricing": "Preise",
+        "dashboard": "Dashboard",
+        "login": "Anmelden",
+        "signup": "Registrieren",
+        "logout": "Abmelden",
+        "language": "Sprache"
+    },
+    "hero": {
+        "title": "Cleverer handeln mit Qption",
+        "subtitle": "Echtzeit-Charts, schnelle Ausführung und transparente Preise.",
+        "cta": "Jetzt starten"
+    },
+    "auth": {
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "password": "Passwort",
+        "confirmPassword": "Passwort bestätigen",
+        "login": "Anmelden",
+        "signup": "Konto erstellen",
+        "forgot": "Passwort vergessen?",
+        "otp": "Bestätigungscode eingeben",
+        "verify": "Bestätigen",
+        "or": "oder"
+    },
+    "trade": {
+        "buy": "Kaufen",
+        "sell": "Verkaufen",
+        "openTrade": "Position eröffnen",
+        "closeTrade": "Position schließen",
+        "amount": "Betrag",
+        "balance": "Kontostand",
+        "profitLoss": "G/V",
+        "timeframe": "Zeiteinheit",
+        "marketOpen": "Markt ist geöffnet",
+        "marketClosed": "Markt ist geschlossen",
+        "mode": {
+            "live": "Live",
+            "demo": "Demo",
+            "real": "Real"
+        }
+    },
+    "chart": {
+        "loading": "Chart wird geladen…",
+        "indicators": "Indikatoren",
+        "movingAverage": "Gleitender Durchschnitt",
+        "bollingerBands": "Bollinger-Bänder",
+        "rsi": "RSI",
+        "alligator": "Alligator"
+    },
+    "wallet": {
+        "deposit": "Einzahlen",
+        "withdraw": "Auszahlen",
+        "address": "Adresse",
+        "copy": "Kopieren",
+        "copied": "Kopiert!",
+        "confirmations": "Bestätigungen",
+        "status": {
+            "waiting": "Wartet",
+            "confirmed": "Bestätigt",
+            "rejected": "Abgelehnt"
+        }
+    },
+    "kyc": {
+        "title": "Kontoverifizierung",
+        "uploadDoc": "Dokumente hochladen",
+        "pending": "In Prüfung",
+        "approved": "Genehmigt",
+        "rejected": "Abgelehnt"
+    },
+    "errors": {
+        "required": "Dieses Feld ist erforderlich",
+        "invalidEmail": "Ungültige E-Mail",
+        "network": "Netzwerkfehler, bitte erneut versuchen",
+        "unknown": "Es ist ein Fehler aufgetreten"
+    },
+    "common": {
+        "save": "Speichern",
+        "cancel": "Abbrechen",
+        "confirm": "Bestätigen",
+        "back": "Zurück",
+        "next": "Weiter",
+        "search": "Suchen",
+        "loading": "Laden…",
+        "viewMore": "Mehr anzeigen"
+    },
+    "footer": {
+        "rights": "Alle Rechte vorbehalten."
+    },
+    "tryDemo": "Demo testen",
+    "registration": "Registrierung"
+}

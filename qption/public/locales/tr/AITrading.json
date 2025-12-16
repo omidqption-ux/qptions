@@ -1,0 +1,137 @@
+{
+    "seo": {
+        "title": "Yapay Zeka ile Trading – Tek Tıklamayla Piyasa Yönü | Qption",
+        "description": "Qption’un yapay zekasını kullanın: Tek bir tıklama ile yükseliş veya düşüş eğilimini, giriş bölgelerini ve dinamik risk seviyelerini anında görün.",
+        "keywords": "Qption yapay zeka trading, algoritmik işlem, piyasa yönü aracı, işlem sinyalleri, otomatik analiz, forex AI, kripto AI, akıllı trading",
+        "ogTitle": "Yapay Zeka ile Trading – Tek Tıklamayla Piyasa Yönü | Qption",
+        "ogDescription": "Gürültüyü ortadan kaldırın — yapay zekamız fiyat hareketlerini ve göstergeleri gerçek zamanlı tarayarak en olası yönü ve işlem seviyelerini gösterir.",
+        "url": "https://qption.com/aiTrading",
+        "image": "https://qption.com/images/og/ai-trading-qption.jpg"
+    },
+    "hero": {
+        "title": "Yapay Zeka Trading Stratejileri",
+        "subtitle": "Risk toleransınıza uygun mükemmel trading planını seçin"
+    },
+    "tabs": {
+        "conservative": "Temkinli",
+        "moderate": "Dengeli",
+        "aggressive": "Agresif"
+    },
+    "labels": {
+        "description": "Açıklama",
+        "expectedReturns": "Beklenen Getiri",
+        "riskLevel": "Risk Seviyesi",
+        "recommendedFor": "Kimin İçin Uygun",
+        "strategiesUsed": "Kullanılan Stratejiler",
+        "coreTitle": "AI Trading’in Temel Bileşenleri",
+        "advantagesTitle": "AI Trading’in Avantajları"
+    },
+    "plans": [
+        {
+            "title": "Piano di Trading AI Conservativo",
+            "subtitle": "Conservazione del Capitale con Rendimenti Moderati",
+            "description": "Questo piano utilizza strategie a basso rischio, focalizzandosi su configurazioni ad alta probabilità per garantire rendimenti stabili e ridurre al minimo il drawdown. Include strategie come il trend-following in mercati stabili e investimenti a reddito fisso come CFD obbligazionari o coppie Forex a bassa volatilità.",
+            "returns": "5-8%",
+            "risk": "Basso",
+            "recommended": "Clienti avversi al rischio che privilegiano la conservazione del capitale rispetto alla crescita aggressiva.",
+            "strategies": [
+                {
+                    "title": "Mean Reversion",
+                    "description": "Cattura piccoli profitti dalle deviazioni di prezzo rispetto alle medie storiche, concentrandosi su asset a bassa volatilità."
+                },
+                {
+                    "title": "Arbitraggio",
+                    "description": "Sfrutta piccole discrepanze di prezzo tra coppie Forex e CFD per ottenere profitti costanti e regolari."
+                },
+                {
+                    "title": "Analisi del Sentiment",
+                    "description": "Analizza il sentiment di mercato su asset stabili per prevedere piccoli aggiustamenti di prezzo."
+                }
+            ]
+        },
+        {
+            "title": "Piano di Trading AI Moderato",
+            "subtitle": "Crescita Bilanciata e Reddito",
+            "description": "Questo piano è rivolto ai clienti che cercano un reddito moderato con rischio bilanciato. L’AI utilizza trend-following, analisi del sentiment e trading ad alta frequenza selettivo su asset diversificati come Forex, criptovalute principali e CFD su materie prime.",
+            "returns": "12-18%",
+            "risk": "Moderato",
+            "recommended": "Clienti con una tolleranza al rischio moderata che cercano un equilibrio tra crescita e reddito.",
+            "strategies": [
+                {
+                    "title": "Trend Following",
+                    "description": "Cattura profitti seguendo trend consolidati su coppie Forex e principali criptovalute."
+                },
+                {
+                    "title": "Analisi del Sentiment nei Mercati Crypto e Forex",
+                    "description": "Identifica i cambiamenti nel sentiment degli investitori per adeguare le posizioni e aumentare la probabilità di profitto."
+                },
+                {
+                    "title": "Trading ad Alta Frequenza Selettivo (HFT)",
+                    "description": "Esegue operazioni a breve termine su coppie ad alta liquidità per catturare piccoli profitti da movimenti rapidi."
+                }
+            ]
+        },
+        {
+            "title": "Piano di Trading AI Aggressivo",
+            "subtitle": "Strategia ad Alto Rischio e Alto Rendimento",
+            "description": "Questo piano è pensato per i clienti con alta tolleranza al rischio e obiettivi di rendimento elevato. L’AI utilizza strategie di trading ad alta frequenza (HFT) e CFD con leva per massimizzare i profitti sui movimenti rapidi di mercato, soprattutto su criptovalute e coppie Forex volatili.",
+            "returns": "25-40%",
+            "risk": "Da Moderato ad Alto",
+            "recommended": "Clienti con elevata propensione al rischio, disposti ad accettare forti oscillazioni del capitale in cambio di potenziali rendimenti più elevati.",
+            "strategies": [
+                {
+                    "title": "Trading ad Alta Frequenza (HFT)",
+                    "description": "Esegue numerose operazioni su coppie volatili per sfruttare le rapide fluttuazioni di prezzo."
+                },
+                {
+                    "title": "Trend Following con Leva",
+                    "description": "Utilizza la leva su coppie Forex e crypto in trend per massimizzare i guadagni da movimenti significativi."
+                },
+                {
+                    "title": "Trading basato su Notizie e Sentiment",
+                    "description": "L’AI reagisce rapidamente a notizie o cambiamenti di sentiment, catturando movimenti di prezzo in tempo reale."
+                }
+            ]
+        }
+    ],
+    "core": [
+        {
+            "title": "Analisi dei Dati",
+            "description": "I sistemi AI analizzano dati storici e in tempo reale per individuare schemi e correlazioni, inclusi trend di prezzo, sentiment di mercato, indicatori economici e notizie."
+        },
+        {
+            "title": "Modelli di Machine Learning",
+            "description": "I modelli di machine learning apprendono dai dati storici per prevedere i movimenti futuri del mercato. Possono essere supervisionati, non supervisionati o basati su rinforzo."
+        },
+        {
+            "title": "Elaborazione del Linguaggio Naturale (NLP)",
+            "description": "I modelli NLP analizzano dati testuali, come articoli di notizie, post sui social e report finanziari, per valutare il sentiment di mercato e il suo potenziale impatto sui prezzi degli asset."
+        },
+        {
+            "title": "Backtesting e Ottimizzazione",
+            "description": "I modelli AI vengono testati su dati storici per valutarne l’efficacia e ottimizzati per migliorare le prestazioni, consentendo strategie di trading robuste e adattabili."
+        },
+        {
+            "title": "Esecuzione Automatica",
+            "description": "I sistemi di trading AI eseguono automaticamente ordini di acquisto e vendita basati su condizioni predefinite o pattern appresi, riducendo l’intervento umano e le decisioni emotive."
+        }
+    ],
+    "advantages": [
+        {
+            "title": "Velocità ed Efficienza",
+            "description": "I sistemi AI elaborano enormi quantità di dati ed eseguono ordini in millisecondi, sfruttando opportunità istantanee."
+        },
+        {
+            "title": "Decisioni Basate sui Dati",
+            "description": "L’AI analizza simultaneamente molteplici fonti di dati, prendendo decisioni informate basate su una visione completa del mercato."
+        },
+        {
+            "title": "Riduzione del Bias Emotivo",
+            "description": "Eliminando le emozioni umane dal trading, l’AI mantiene strategie coerenti ed evita decisioni impulsive o dettate dalla paura."
+        },
+        {
+            "title": "Trading 24/7",
+            "description": "I sistemi AI operano in modo continuo, ideale per mercati come Forex e crypto attivi 24 ore su 24, 7 giorni su 7."
+        }
+    ]
+}

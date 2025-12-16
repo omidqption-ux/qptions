@@ -1,0 +1,76 @@
+{
+    "seo": {
+        "title": "Drei-Methoden-Handelsstrategie – Trend-, Range- und Umkehrtechniken | Qption",
+        "description": "Entdecke die Drei-Methoden-Handelsstrategie, die Trendfolge-, Range- und Umkehransätze kombiniert. Lerne, Marktbedingungen zu erkennen, Signale zu filtern und Risiken mithilfe von Werkzeugen wie gleitenden Durchschnitten, Bollinger-Bändern, RSI, MACD und Fibonacci-Niveaus zu managen.",
+        "keywords": "Drei-Methoden-Strategie, Trendfolge, Range-Trading, Mean Reversion, Umkehrhandel, ADX, MACD, RSI, Bollinger-Bänder, Fibonacci, Divergenz, gleitende Durchschnitte, Risikomanagement, Qption",
+        "ogAlt": "Drei-Methoden-Handelsstrategie, die Trend-, Range- und Umkehr-Setups kombiniert",
+        "ld": {
+            "headline": "Drei-Methoden-Handelsstrategie – Trend-, Range- und Umkehrtechniken"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Handelsstrategie"
+    },
+    "cta": {
+        "ready": "Bereit zum Handeln?",
+        "startTrading": "Jetzt handeln"
+    },
+    "hero": {
+        "title": "Drei-Methoden-Strategie",
+        "subtitle": "Meistere Trend-, Range- und Umkehrhandelsstrategien – erkenne Marktbedingungen, filtere Rauschen und erfasse hochwahrscheinliche Setups mit Präzision und Vertrauen."
+    },
+    "trend": {
+        "title": "1. Trendfolgestrategie",
+        "items": {
+            "1": "Ziel: Gewinne erzielen, indem in Richtung des Trends gehandelt wird.",
+            "2": "Werkzeuge: Gleitende Durchschnitte, MACD, ADX.",
+            "3": "Kaufsignal: Kurzfristiger gleitender Durchschnitt kreuzt über langfristigen (bullisches Crossover).",
+            "4": "Verkaufssignal: Kurzfristiger gleitender Durchschnitt kreuzt unter langfristigen (bärisches Crossover).",
+            "5": "Beispiel: 50- und 200-Tage gleitende Durchschnitte – Golden-Cross- und Death-Cross-Setups."
+        }
+    },
+    "range": {
+        "title": "2. Range-gebundene (Mean Reversion) Strategie",
+        "items": {
+            "1": "Ziel: Gewinne in seitwärts gerichteten Märkten erzielen, indem man nahe der Unterstützung kauft und nahe dem Widerstand verkauft.",
+            "2": "Werkzeuge: Bollinger-Bänder, RSI, Unterstützungs- und Widerstandsniveaus.",
+            "3": "Kaufsignal: Preis nahe der Unterstützung oder dem unteren Bollinger-Band.",
+            "4": "Verkaufssignal: Preis nahe dem Widerstand oder dem oberen Bollinger-Band.",
+            "5": "Beispiel: Stop-Loss knapp außerhalb der Range-Grenzen platzieren, um Ausbruchsverluste zu vermeiden."
+        }
+    },
+    "reversal": {
+        "title": "3. Umkehrstrategie",
+        "items": {
+            "1": "Ziel: Gewinne aus größeren Trendumkehrungen erzielen.",
+            "2": "Werkzeuge: Candlestick-Muster, Divergenz-Indikatoren, Fibonacci-Niveaus.",
+            "3": "Kaufsignal: Bullisches Umkehrmuster (z. B. Hammer) mit bullischer Divergenz.",
+            "4": "Verkaufssignal: Bärisches Umkehrmuster (z. B. Shooting Star) mit bärischer Divergenz.",
+            "5": "Beispiel: Stop-Loss unter dem Tief des bullischen Musters oder über dem Hoch des bärischen Musters platzieren."
+        }
+    },
+    "combine": {
+        "title": "Kombination der drei Methoden",
+        "items": {
+            "1": "Marktbedingungen identifizieren: Verwende ADX und Bollinger-Bänder, um festzustellen, ob der Markt trendet oder seitwärts verläuft.",
+            "2": "Signale filtern: Bestätige Trades mit sekundären Indikatoren, um die Genauigkeit zu verbessern.",
+            "3": "Risikomanagement: Passe Stop-Loss und Positionsgröße basierend auf Volatilität und Marktbedingungen an."
+        }
+    },
+    "pros": {
+        "title": "Vorteile",
+        "items": {
+            "1": "Vielseitig: Funktioniert in trendenden, seitwärts gerichteten und umkehrenden Marktbedingungen.",
+            "2": "Verbesserte Genauigkeit: Die Nutzung mehrerer Methoden reduziert Fehlsignale.",
+            "3": "Umfassend: Balanciert Trendfolge-, Range- und Umkehransätze für ein ganzheitliches Trading."
+        }
+    },
+    "cons": {
+        "title": "Nachteile",
+        "items": {
+            "1": "Komplexität: Erfordert Verständnis mehrerer Handelsmethoden und Indikatoren.",
+            "2": "Hoher Überwachungsaufwand: Benötigt aktive Analyse und regelmäßige Anpassungen.",
+            "3": "Risiko des Überhandelns: Kann zu übermäßig vielen Trades führen, wenn keine Disziplin gewahrt wird."
+        }
+    }
+}

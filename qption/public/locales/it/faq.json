@@ -1,0 +1,108 @@
+{
+    "seo": {
+        "title": "FAQ – Qption",
+        "description": "Trova rapidamente le risposte alle domande più comuni sulla piattaforma di trading di opzioni Qption, sui prezzi, la sicurezza e l’assistenza.",
+        "keywords": "Qption FAQ, aiuto trading opzioni, commissioni, sicurezza account, depositi, prelievi, assistenza clienti",
+        "ogDescription": "Tutto ciò che devi sapere su Qption – raccolto in un’unica pagina di Domande Frequenti.",
+        "twitterDescription": "Hai domande? Trova subito le risposte nella sezione FAQ di Qption.",
+        "url": "https://qption.com/faq",
+        "ogImage": "https://qption.com/images/og/faq-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Domande Frequenti",
+        "subtitle": "Trova le risposte alle domande più comuni sulla nostra piattaforma e sui nostri servizi"
+    },
+    "faqs": [
+        {
+            "icon": "chartLine",
+            "q": "Che cos’è il trading di opzioni?",
+            "a": "Il trading di opzioni consiste nell’acquisto e nella vendita di contratti che danno il diritto (ma non l’obbligo) di comprare o vendere un asset a un prezzo prestabilito entro una certa data. Consente ai trader di trarre profitto dai movimenti di prezzo senza possedere l’asset stesso."
+        },
+        {
+            "icon": "idCard",
+            "q": "Come verifico il mio account e quali documenti servono?",
+            "a": "Per verificare il tuo account, effettua un deposito e invia una foto a colori di un documento d’identità valido (passaporto o carta d’identità). Per i depositi con carta potremmo richiedere l’estratto conto della carta. Assicurati che i documenti siano chiari e leggibili."
+        },
+        {
+            "icon": "moneyBill",
+            "q": "Qual è l’importo minimo per depositi e prelievi?",
+            "a": "Importo minimo per deposito e prelievo: 10 $ (o equivalente nella tua valuta)."
+        },
+        {
+            "icon": "wallet",
+            "q": "Come posso prelevare fondi e quali metodi sono disponibili?",
+            "a": "Vai alla sezione FINANZA e crea una richiesta di prelievo. I fondi depositati vengono restituiti alla fonte originale (carta/e-wallet). I profitti vengono inviati a un portafoglio elettronico verificato. Non sono ammessi conti di terze parti."
+        },
+        {
+            "icon": "handshake",
+            "q": "Posso diventare vostro partner commerciale?",
+            "a": "Sì, tramite il nostro Programma di Referral. Condividi il tuo codice, invita nuovi clienti e guadagna denaro reale."
+        },
+        {
+            "icon": "coins",
+            "q": "Quanto posso guadagnare sulla piattaforma?",
+            "a": "I guadagni dipendono dalla tua strategia, dalle condizioni di mercato e dalla gestione del rischio. Il trading comporta rischi; i profitti non sono garantiti."
+        },
+        {
+            "icon": "exchange",
+            "q": "Come inizio a fare trading su Qption?",
+            "a": "Crea un account, completa la verifica e fai un deposito iniziale. Poi puoi iniziare a fare trading subito."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Quali tipi di opzioni sono disponibili?",
+            "a": "Offriamo opzioni binarie, digitali e FX, ognuna con caratteristiche e rischi specifici."
+        },
+        {
+            "icon": "chartLine",
+            "q": "Quali asset sono disponibili sulla piattaforma?",
+            "a": "Forex, azioni, materie prime e indici – per una diversificazione completa del portafoglio."
+        },
+        {
+            "icon": "coins",
+            "q": "Quanto profitto posso ottenere in un singolo trade?",
+            "a": "Dipende dal tipo di opzione, dall’importo e dalle condizioni di mercato. Anche le perdite sono possibili."
+        },
+        {
+            "icon": "warning",
+            "q": "Il trading di opzioni è rischioso?",
+            "a": "Sì. I mercati possono essere imprevedibili. Utilizza sempre una corretta gestione del rischio."
+        },
+        {
+            "icon": "tools",
+            "q": "Quali strumenti di trading offre Qption?",
+            "a": "Medie mobili, Bande di Bollinger, RSI, MACD e altri indicatori tecnici per l’analisi del mercato."
+        },
+        {
+            "icon": "clock",
+            "q": "Quanto tempo ci vuole per un prelievo?",
+            "a": "Generalmente da 1 a 24 ore, a seconda del metodo. Elaboriamo le richieste il più rapidamente possibile."
+        },
+        {
+            "icon": "creditCard",
+            "q": "Ci sono commissioni su Qption?",
+            "a": "Non applichiamo commissioni sulla maggior parte dei trade, ma alcune opzioni possono avere spread o costi aggiuntivi."
+        },
+        {
+            "icon": "lock",
+            "q": "I miei dati personali e finanziari sono al sicuro?",
+            "a": "Sì. Usiamo crittografia avanzata e standard di sicurezza del settore per proteggere i tuoi dati."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Qual è la differenza tra opzioni binarie e digitali?",
+            "a": "Le opzioni binarie offrono un payout fisso, mentre le digitali variano in base alla distanza dal prezzo di esercizio."
+        },
+        {
+            "icon": "headset",
+            "q": "Quali sono gli orari dell’assistenza clienti?",
+            "a": "Disponibile 24 ore su 24, 7 giorni su 7, tramite chat dal vivo, e-mail o telefono."
+        },
+        {
+            "icon": "wallet",
+            "q": "Come posso depositare fondi sul mio account?",
+            "a": "Carte di credito/debito, bonifici bancari e portafogli elettronici (disponibilità variabile per regione)."
+        }
+    ]
+}

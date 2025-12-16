@@ -1,0 +1,80 @@
+{
+    "seo": {
+        "title": "Stratégie Alligator – Analyse Technique | Qption",
+        "description": "Maîtrisez le suivi de tendance et le trading de momentum avec l’indicateur Alligator : comprenez la Mâchoire, les Dents et les Lèvres, apprenez les entrées/sorties et réduisez les faux signaux en marchés plats.",
+        "keywords": "Alligator, Bill Williams, analyse technique, suivi de tendance, momentum, moyennes mobiles, stratégie de trading, Qption",
+        "ogTitle": "Stratégie Alligator – Analyse Technique | Qption",
+        "ogDescription": "Un guide pratique du trading avec l’indicateur Alligator — de sa structure à ses signaux, limites et meilleures pratiques.",
+        "url": "https://qption.com/technical-analysis/alligator",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Analyse Technique"
+    },
+    "promo": {
+        "text": "Prêt à trader avec Alligator ?",
+        "cta": "Commencer à Trader"
+    },
+    "hero": {
+        "title": "Stratégie Alligator",
+        "subtitle": "Maîtrisez le suivi de tendance et le momentum grâce à notre analyse complète de l’indicateur Alligator"
+    },
+    "overview": {
+        "title": "Aperçu",
+        "bullets": [
+            "L’indicateur Alligator, créé par Bill Williams, aide à identifier les tendances du marché et les phases de consolidation.",
+            "Il se compose de trois moyennes mobiles lissées représentant la Mâchoire, les Dents et les Lèvres de l’Alligator.",
+            "Il aide les traders à déterminer si le marché est en tendance ou en phase de range."
+        ]
+    },
+    "how": {
+        "title": "Fonctionnement de l’Alligator",
+        "items": [
+            {
+                "title": "Mâchoire (Ligne Bleue)",
+                "desc": "Moyenne mobile lissée sur 13 périodes décalée de 8, représentant la tendance long terme."
+            },
+            {
+                "title": "Dents (Ligne Rouge)",
+                "desc": "Moyenne mobile lissée sur 8 périodes décalée de 5, représentant la tendance moyen terme."
+            },
+            {
+                "title": "Lèvres (Ligne Verte)",
+                "desc": "Moyenne mobile lissée sur 5 périodes décalée de 3, représentant la tendance court terme."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Stratégies Clés",
+        "items": [
+            {
+                "title": "1. Identification de la Tendance",
+                "points": [
+                    "Lorsque les trois lignes sont alignées et se déplacent dans la même direction, cela indique une forte tendance.",
+                    "Lorsque les lignes s’entrecroisent, cela suggère un marché en range ou en consolidation."
+                ]
+            },
+            {
+                "title": "2. Signaux d’Entrée",
+                "points": [
+                    "Acheter lorsque les Lèvres croisent au-dessus des Dents et de la Mâchoire en tendance haussière.",
+                    "Vendre lorsque les Lèvres croisent en dessous des Dents et de la Mâchoire en tendance baissière."
+                ]
+            },
+            {
+                "title": "3. Signaux de Sortie",
+                "points": [
+                    "Sortir des positions longues lorsque les Lèvres croisent sous les Dents.",
+                    "Sortir des positions courtes lorsque les Lèvres croisent au-dessus des Dents."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limites",
+        "bullets": [
+            "Retard : en raison du lissage, les signaux peuvent être tardifs dans les marchés rapides.",
+            "Optimisé pour les tendances : moins performant en marché latéral, avec risque de faux signaux."
+        ]
+    }
+}

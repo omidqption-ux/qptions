@@ -1,0 +1,58 @@
+{
+    "seo": {
+        "title": "Auszahlungsprozess und Bedingungen | Qption",
+        "description": "Erfahre, wie Auszahlungen bei Qption funktionieren: Antragsablauf, Rücküberweisung auf die ursprüngliche Einzahlungsmethode, Pflichten des Kunden und Regeln zur Kontoschließung.",
+        "keywords": "Auszahlungsrichtlinie, Auszahlungsantrag, ursprüngliche Einzahlungsmethode, Kundenverantwortung, Kontoschließung, Qption",
+        "ogTitle": "Auszahlungsprozess und Bedingungen | Qption",
+        "ogDescription": "Ausführliche Hinweise zu Auszahlungsanträgen, Bearbeitungszeiten, Auszahlungswegen und Compliance-Vorgaben.",
+        "url": "https://qption.com/withdrawal-policy",
+        "image": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Auszahlungsprozess und Bedingungen | Qption",
+        "twitterDescription": "So stellst du Auszahlungsanträge, erfährst Bearbeitungsfristen, Auszahlungswege und mehr.",
+        "twitterImage": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "canonical": "https://qption.com/withdrawal-policy"
+    },
+    "hero": {
+        "title": "Auszahlungsprozess und Bedingungen"
+    },
+    "sections": [
+        {
+            "key": "request",
+            "icon": "request",
+            "title": "1. Ablauf für Auszahlungsanträge",
+            "items": [
+                "Um eine Auszahlung zu veranlassen, stellt der Kunde über seinen persönlichen Bereich auf der Website einen Antrag, wählt eine Auszahlungsmethode und ergänzt alle erforderlichen Angaben.",
+                "Nach dem Absenden erhält der Antrag den Status „Requested“. Sobald die Bearbeitung beginnt, wechselt er zu „In process“; dann werden die Mittel vom Kontostand abgezogen. Nach Abschluss lautet der Status „Processed“ und die Gelder werden auf das Zahlungskonto des Kunden überwiesen.",
+                "Auszahlungsanträge bearbeitet die Finanzabteilung in der Reihenfolge ihres Eingangs. Die Bearbeitung kann bis zu fünf (5) Werktage dauern; das Unternehmen darf diese Frist bei Bedarf verlängern."
+            ]
+        },
+        {
+            "key": "originalMethod",
+            "icon": "originalMethod",
+            "title": "2. Auszahlung auf die ursprüngliche Einzahlungsmethode",
+            "items": [
+                "Auszahlungen sind nur auf das Zahlungsmittel möglich, das auch für die Einzahlung verwendet wurde. Ist dies technisch nicht umsetzbar, kann das Unternehmen eine alternative Methode wählen, sofern die persönlichen Daten des Kunden mit den Zahlungsdaten übereinstimmen.",
+                "Bei Einzahlungen per Bankkarte müssen Auszahlungen auf dieselbe Karte erfolgen. Andere Wege sind nur zulässig, wenn der Auszahlungsbetrag die ursprüngliche Einzahlung übersteigt.",
+                "Reicht der Kunde nach einer Einzahlung einen Auszahlungsantrag ein, ohne in der Zwischenzeit gehandelt zu haben, muss dieselbe Zahlungsart/-verbindung wie bei der Einzahlung genutzt werden. Das Unternehmen kann Gebühren zur Kostendeckung berechnen."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "3. Verantwortung und Datenrichtigkeit",
+            "items": [
+                "Der Kunde trägt die volle Verantwortung für die Richtigkeit aller Angaben im Auszahlungsantrag."
+            ]
+        },
+        {
+            "key": "closure",
+            "icon": "closure",
+            "title": "4. Kontoschließung bei Verstoß gegen die AGB",
+            "items": [
+                "Wird ein Konto wegen Verstößen gegen die AGB geschlossen, behält sich das Unternehmen vor, erzielte Gewinne einzubehalten.",
+                "Nach eigenem Ermessen kann das Unternehmen eingezahlte Gelder abzüglich aller fälligen Gebühren und Kosten zurückerstatten."
+            ]
+        }
+    ]
+}

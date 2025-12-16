@@ -1,0 +1,137 @@
+{
+    "seo": {
+        "title": "Partnerprogramm – Verdienen Sie bis zu 40 % Umsatzbeteiligung | Qption",
+        "description": "Werden Sie Partner von Qption und verwandeln Sie Ihr Publikum in Profit. Verdienen Sie flexible CPA- oder Umsatzbeteiligungsprovisionen, profitieren Sie von Echtzeit-Tracking und wöchentlicher Auszahlung für jeden geworbenen Trader.",
+        "keywords": "Qption Partnerprogramm, Trading Affiliate, Forex CPA, Krypto Affiliate, Umsatzbeteiligung, Partnerprogramm, Trader werben, IB Programm, Broker Partnerschaft",
+        "ogTitle": "Partnerprogramm – Verdienen Sie bis zu 40 % Umsatzbeteiligung | Qption",
+        "ogDescription": "Treten Sie dem Qption-Partnerprogramm bei und erhalten Sie branchenführende Auszahlungen, Marketingmaterialien und persönlichen Support.",
+        "url": "https://qption.com/affiliate",
+        "image": "https://qption.com/images/og/affiliate-qption.jpg"
+    },
+    "hero": {
+        "title": "Partnerprogramm",
+        "subtitle": "Werden Sie Teil unseres Partnerprogramms und verdienen Sie Provisionen, indem Sie Trader auf unsere Plattform verweisen. Wählen Sie den Plan, der zu Ihren Zielen passt."
+    },
+    "tabs": {
+        "basic": "Basic",
+        "pro": "Pro",
+        "elite": "Elite"
+    },
+    "labels": {
+        "commission": "Provision",
+        "incomePotential": "Einkommenspotenzial",
+        "featuresTitle": "Funktionen",
+        "benefitsTitle": "Programmvorteile"
+    },
+    "stats": [
+        {
+            "title": "Aktive Partner",
+            "value": "10.000+"
+        },
+        {
+            "title": "Gesamtauszahlungen",
+            "value": "$5 M+"
+        },
+        {
+            "title": "Erfolgsquote",
+            "value": "95 %"
+        }
+    ],
+    "plans": [
+        {
+            "title": "Basic Partnerprogramm",
+            "subtitle": "Einsteigerstufe",
+            "description": "Ideal für Anfänger, die mit minimalem Aufwand starten möchten. Bauen Sie Ihr Netzwerk auf und verdienen Sie regelmäßige Provisionen.",
+            "commission": "5–10 %",
+            "income": "$50 – $500/Monat",
+            "gradient": "bg-linear-to-br from-green-500/20 to-green-500/5",
+            "features": [
+                {
+                    "title": "Direkte Empfehlungsprovision",
+                    "description": "5–10 % Provision auf Handelsgebühren der geworbenen Kunden."
+                },
+                {
+                    "title": "Einmaliger Registrierungsbonus",
+                    "description": "Kleiner Bonus für jeden direkt geworbenen aktiven Nutzer."
+                },
+                {
+                    "title": "Marketingunterstützung",
+                    "description": "Zugang zu grundlegenden Marketingmaterialien und Tutorials zur Promotion."
+                }
+            ]
+        },
+        {
+            "title": "Pro Partnerprogramm",
+            "subtitle": "Mittleres Niveau",
+            "description": "Für erfahrene Marketer, die ihr Einkommen skalieren möchten. Erhalten Sie Zugang zu erweiterten Tools und mehrstufigen Provisionen.",
+            "commission": "10–15 %",
+            "income": "$500 – $2.000/Monat",
+            "gradient": "bg-linear-to-br from-green-500/30 to-green-500/10",
+            "features": [
+                {
+                    "title": "Direkte Empfehlungsprovision",
+                    "description": "10–15 % auf Handelsgebühren Ihrer persönlich geworbenen Kunden."
+                },
+                {
+                    "title": "Zweitstufenprovision",
+                    "description": "3–5 % auf Handelsgebühren von Kunden Ihrer direkten Partner."
+                },
+                {
+                    "title": "Leistungsboni",
+                    "description": "Zusätzliche Boni für das Erreichen von Empfehlungszielen."
+                },
+                {
+                    "title": "Erweiterte Marketingressourcen",
+                    "description": "Zugang zu professionellen Werbematerialien und Strategieberatung."
+                }
+            ]
+        },
+        {
+            "title": "Elite Partnerprogramm",
+            "subtitle": "Fortgeschrittenes Niveau",
+            "description": "Für Spitzenpartner, die ihr Einkommen maximieren möchten. Erhalten Sie exklusive Vorteile und die höchsten Provisionssätze.",
+            "commission": "15–20 %",
+            "income": "$2.000 – $10.000/Monat",
+            "gradient": "bg-linear-to-br from-green-500/40 to-green-500/15",
+            "features": [
+                {
+                    "title": "Direkte Empfehlungsprovision",
+                    "description": "15–20 % auf Handelsgebühren der geworbenen Kunden."
+                },
+                {
+                    "title": "Mehrstufige Provision",
+                    "description": "5 % auf zweiter Ebene, 2 % auf dritter und 1 % auf vierter Ebene."
+                },
+                {
+                    "title": "VIP-Marketingpaket",
+                    "description": "Personalisierte Marketingmaterialien und eigene Landingpages."
+                },
+                {
+                    "title": "Leadership-Boni",
+                    "description": "Spezielle Boni für Partner, die ihre Unterpartner zu Pro- oder Elite-Status führen."
+                },
+                {
+                    "title": "Exklusiver Support",
+                    "description": "Zugang zu persönlichem Partnermanager und exklusiven Events."
+                }
+            ]
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Residualeinnahmen",
+            "description": "Verdienen Sie fortlaufende Provisionen durch die Handelsaktivität Ihres Netzwerks."
+        },
+        {
+            "title": "Strukturiertes Wachstum",
+            "description": "Bauen und skalieren Sie Ihr Netzwerk mit unserer bewährten Multi-Level-Struktur."
+        },
+        {
+            "title": "Leistungsprämien",
+            "description": "Erhalten Sie Boni und Belohnungen für erreichte Ziele und Meilensteine."
+        }
+    ],
+    "cta": {
+        "join": "Dem Partnerprogramm beitreten"
+    }
+}

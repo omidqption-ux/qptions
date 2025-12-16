@@ -1,0 +1,132 @@
+{
+    "seo": {
+        "title": "Teknik trading’de grafik analiz – Trendler, S/R, formasyonlar ve mumlar | Qption",
+        "description": "Grafik analize dair pratik rehber: trend tanımla, destek/direnç çiz, grafik ve mum formasyonlarını oku, MA, Bollinger, RSI, Fibonacci gibi araçları kullan. Faydaları, sınırlamaları ve görsel verilerle karar alma yollarını keşfet.",
+        "keywords": "grafik analiz, teknik analiz, fiyat trendleri, destek ve direnç, grafik formasyonları, mum analizi, hareketli ortalamalar, Bollinger bantları, RSI, Fibonacci düzeltmesi, trend çizgileri, trading stratejisi, Qption",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "ogAlt": "Trend çizgileri, formasyonlar ve göstergelerle grafik analizi",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Teknik trading’de grafik analiz – Trendler, S/R, formasyonlar ve mumlar",
+            "description": "Grafik analiz rehberi: trendleri tanı, destek/direnç çiz, grafik ve mum formasyonlarını oku; MA, Bollinger, RSI, Fibonacci gibi araçları kullan.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis",
+            "publisher": { "@type": "Organization", "name": "Qption" },
+            "about": [
+                { "@type": "Thing", "name": "Grafik Analiz" },
+                { "@type": "Thing", "name": "Fiyat Trendleri" },
+                { "@type": "Thing", "name": "Destek ve Direnç" },
+                { "@type": "Thing", "name": "Grafik Formasyonları" },
+                { "@type": "Thing", "name": "Mum Analizi" },
+                { "@type": "Thing", "name": "Hareketli Ortalamalar" },
+                { "@type": "Thing", "name": "Bollinger Bantları" },
+                { "@type": "Thing", "name": "RSI" },
+                { "@type": "Thing", "name": "Fibonacci Düzeltmesi" }
+            ],
+            "articleSection": [
+                "Teknik trading’de grafik analiz",
+                "Genel Bakış",
+                "Grafik Analizde Temel Kavramlar",
+                "Grafik Analizde Yaygın Teknikler",
+                "Trend Çizgisi Analizi",
+                "Destek ve Direnç Seviyeleri",
+                "Grafik Formasyon Analizi",
+                "Mum Analizi",
+                "Grafik Analizinde Kullanılan Araçlar",
+                "Grafik Analizin Faydaları",
+                "Grafik Analizin Sınırlamaları"
+            ],
+            "additionalProperty": [
+                { "@type": "PropertyValue", "name": "Temel Araçlar", "value": "Trend çizgileri, Destek/Direnç, Grafik & Mum Formasyonları" },
+                { "@type": "PropertyValue", "name": "Göstergeler", "value": "Hareketli Ortalamalar, Bollinger Bantları, RSI, Fibonacci Düzeltmeleri" },
+                { "@type": "PropertyValue", "name": "Kullanım Alanları", "value": "Trend tanımlama, breakout, reversal, hedef belirleme, risk kontrolü" }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Grafik Analize Geri Dön"
+    },
+    "page": {
+        "title": "Teknik Trading’de Grafik Analiz"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "start": "Ticarete Başla"
+    },
+    "sections": {
+        "overview": {
+            "h": "Genel Bakış",
+            "items": [
+                "Grafik analiz, geçmiş verilere dayanan fiyat grafiklerini ve formasyonlarını yorumlayarak gelecekteki hareketleri tahmin etmeye dayanır.",
+                "Grafik formasyonları, trend çizgileri, destek/direnç bölgeleri ve farklı teknik göstergeler gibi görsel araçlara dayanır.",
+                "Hisse, forex, kripto ve emtia gibi tüm piyasalarda veri odaklı kararlar için kullanılır."
+            ]
+        },
+        "key": {
+            "h": "Grafik Analizde Temel Kavramlar",
+            "items": {
+                "trends": "Fiyat Trendleri: Piyasalar yükselen trend, düşen trend veya yatay bantlarda hareket eder; bu yapılar tanımlanıp trade edilebilir.",
+                "sr": "Destek & Direnç: Fiyatın sık durakladığı veya döndüğü alanlar; destek taban, direnç tavan işlevi görür.",
+                "patterns": "Grafik Formasyonları: Omuz-baş-omuz, üçgen, flama gibi yapılar devam veya dönüş sinyali verir.",
+                "volume": "Hacim Analizi: Artan hacim trendleri/breakout’ları teyit eder; düşük hacim zayıf hareket uyarısıdır."
+            }
+        },
+        "tech": {
+            "h": "Grafik Analizde Yaygın Teknikler",
+            "trend": {
+                "h": "1. Trend Çizgisi Analizi",
+                "items": [
+                    "Yükselen trendde dipleri, düşen trendde tepeleri birleştirerek yönü görselleştir.",
+                    "Trend çizgilerini dinamik destek/direnç gibi kullanarak giriş/çıkış zamanla."
+                ]
+            },
+            "sr": {
+                "h": "2. Destek ve Direnç Seviyeleri",
+                "items": [
+                    "Fiyatın daha önce tepki verdiği önemli swing dip/tepelerine yatay çizgiler çek.",
+                    "Bu bölgeleri giriş/çıkış ve stop-loss konumlandırmada kullan."
+                ]
+            },
+            "patterns": {
+                "h": "3. Grafik Formasyon Analizi",
+                "items": [
+                    "Üçgen, flama, ikili tepe/dip, omuz-baş-omuz gibi formasyonlar görsel ipuçları sunar.",
+                    "Ölçülü hareket teknikleriyle formasyon yüksekliği veya bandına göre hedef projeksiyonu yapılabilir."
+                ]
+            },
+            "candles": {
+                "h": "4. Mum Analizi",
+                "items": [
+                    "Mumlar açılış-kapanış ve en yüksek/düşük seviyeleri göstererek hissiyat ve momentum okumasını hızlandırır.",
+                    "Doji, hammer, engulfing gibi setuplar dönüş veya devam sinyali verebilir."
+                ]
+            }
+        },
+        "tools": {
+            "h": "Grafik Analizinde Kullanılan Araçlar",
+            "items": {
+                "ma": "Hareketli Ortalamalar (SMA/EMA): fiyatı smoot eder, trendi ve dinamik S/R noktalarını gösterir.",
+                "bb": "Bollinger Bantları: volatiliteyi ölçer; sıkışmalar genellikle genişleme/breakout öncesidir.",
+                "rsi": "RSI: aşırı alım/aşırı satım ve diverjansları gösteren momentum osilatörü.",
+                "fib": "Fibonacci Düzeltmeleri: %23,6, %38,2, %50, %61,8, %78,6 seviyelerinde potansiyel S/R alanları."
+            }
+        },
+        "benefits": {
+            "h": "Grafik Analizin Faydaları",
+            "items": [
+                "Trend ve formasyonları tespit ederek daha net trade fikirleri sağlar.",
+                "Scalping’den swing ve pozisyon tradelerine kadar tüm zaman dilimlerinde esnektir.",
+                "Karmaşık matematik yerine sezgisel görselleştirme sunar."
+            ]
+        },
+        "limitations": {
+            "h": "Grafik Analizin Sınırlamaları",
+            "items": [
+                "Öznellik: Trader’lar seviyeleri veya formasyonları farklı çizebilir.",
+                "Geçmiş fiyat hareketi geleceği garanti etmez.",
+                "Yanlış sinyalleri azaltmak için çoğu zaman gösterge/hacim teyidi gerekir."
+            ]
+        }
+    }
+}

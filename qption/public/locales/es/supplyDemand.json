@@ -1,0 +1,138 @@
+{
+    "seo": {
+        "title": "Oferta y demanda en materias primas y criptomonedas – Factores, choques y señales | Qption",
+        "description": "Comprende cómo la producción, la geopolítica, el clima, los halvings, la adopción y los flujos de minería o staking influyen en la oferta y demanda de materias primas y criptomonedas. Aprende las reacciones típicas del mercado, los beneficios del seguimiento y las principales limitaciones.",
+        "url": "https://qption.com/fundamental-analysis/supply-and-demand-commodities",
+        "keywords": "oferta y demanda, materias primas, criptomonedas, halving de Bitcoin, niveles de producción, riesgo geopolítico, choques climáticos, adopción, recompensas de minería, recompensas de staking, sentimiento del mercado, elasticidad del precio, Qption",
+        "ld": {
+            "headline": "Oferta y demanda en materias primas y criptomonedas – Factores, choques y señales",
+            "about": {
+                "supplyDemand": "Oferta y Demanda",
+                "commodities": "Materias Primas",
+                "crypto": "Criptomonedas",
+                "halving": "Halving de Bitcoin",
+                "mining": "Recompensas de Minería",
+                "staking": "Staking",
+                "geopolitics": "Geopolítica",
+                "weather": "Riesgo Climático",
+                "sentiment": "Sentimiento del Mercado"
+            },
+            "props": {
+                "scarcity": {
+                    "name": "Dinámica de escasez",
+                    "value": "Las ofertas limitadas (por ejemplo, BTC) y la reducción en la emisión pueden amplificar los movimientos de precios impulsados por la demanda."
+                },
+                "shock": {
+                    "name": "Sensibilidad a los choques",
+                    "value": "Las materias primas reaccionan con fuerza a choques externos (clima, conflictos) que restringen la producción."
+                },
+                "flowstock": {
+                    "name": "Flujo vs. Existencias",
+                    "value": "En las criptomonedas, la emisión nueva (flujo) frente al stock existente y el comportamiento de los poseedores determinan la liquidez."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análisis Fundamental"
+    },
+    "page": {
+        "title": "Oferta y demanda en los mercados de materias primas y criptomonedas"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "start": "Comienza a operar"
+    },
+    "sections": {
+        "overview": {
+            "title": "Visión general",
+            "items": [
+                "La oferta y la demanda son principios económicos fundamentales que determinan el precio y la disponibilidad de los activos, incluidas las materias primas y las criptomonedas.",
+                "En los mercados de materias primas, la oferta está influenciada por la producción, el clima y los eventos geopolíticos, mientras que la demanda depende de la actividad económica global y las necesidades industriales.",
+                "En los mercados de criptomonedas, la oferta suele ser limitada por diseño (por ejemplo, la oferta fija de Bitcoin) y la demanda varía según el interés de los inversores, las regulaciones y la adopción."
+            ]
+        },
+        "commodityFactors": {
+            "title": "Factores que influyen en la oferta y la demanda en los mercados de materias primas",
+            "items": [
+                {
+                    "label": "Niveles de producción:",
+                    "text": "En materias primas como el petróleo, los metales y los productos agrícolas, los niveles de producción influyen directamente en la oferta. Un aumento de producción con demanda constante puede reducir los precios."
+                },
+                {
+                    "label": "Eventos geopolíticos:",
+                    "text": "Los conflictos, sanciones y políticas comerciales pueden interrumpir las cadenas de suministro y afectar la disponibilidad de materias primas, especialmente el petróleo y los metales."
+                },
+                {
+                    "label": "Condiciones climáticas:",
+                    "text": "Fenómenos climáticos como sequías o huracanes pueden reducir la producción agrícola, elevando los precios de productos como el trigo, el café o la soja."
+                },
+                {
+                    "label": "Crecimiento económico global:",
+                    "text": "En períodos de expansión económica, la demanda de materias primas aumenta debido a un mayor consumo industrial; durante las recesiones, disminuye."
+                },
+                {
+                    "label": "Energías alternativas y tecnología:",
+                    "text": "El desarrollo de energías renovables y las innovaciones tecnológicas pueden reducir la demanda de materias primas tradicionales como el petróleo y el carbón."
+                }
+            ]
+        },
+        "cryptoFactors": {
+            "title": "Factores que influyen en la oferta y la demanda en los mercados de criptomonedas",
+            "fixed": {
+                "title": "1. Oferta fija y halvings",
+                "items": [
+                    "Muchas criptomonedas, como Bitcoin, tienen una oferta máxima limitada, lo que crea escasez y puede impulsar la demanda.",
+                    "Los halvings de Bitcoin reducen la tasa de creación de nuevas monedas, disminuyendo la oferta y, a menudo, aumentando el precio con el tiempo."
+                ]
+            },
+            "sentiment": {
+                "title": "2. Sentimiento del mercado y adopción",
+                "items": [
+                    "La demanda de criptomonedas está fuertemente influenciada por el sentimiento del mercado, que se ve afectado por noticias, cambios regulatorios y la opinión de figuras influyentes.",
+                    "La adopción por parte de empresas, instituciones y consumidores aumenta la demanda al ampliar los casos de uso de las criptomonedas."
+                ]
+            },
+            "rewards": {
+                "title": "3. Recompensas de minería y staking",
+                "items": [
+                    "Las recompensas de minería o staking introducen nueva oferta en el mercado, afectando los precios según la demanda existente.",
+                    "Los cambios en la dificultad de minería o en las recompensas de staking pueden modificar la tasa de emisión y, por tanto, la liquidez del mercado."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Reacción de los mercados a los cambios en la oferta y la demanda",
+            "commodity": {
+                "title": "1. Mercados de materias primas",
+                "items": [
+                    "Cuando la oferta disminuye (por ejemplo, por malas condiciones climáticas o tensiones geopolíticas), los precios suelen aumentar debido a la escasez.",
+                    "Durante periodos de alta demanda, como fases de expansión económica, los precios de las materias primas tienden a subir."
+                ]
+            },
+            "crypto": {
+                "title": "2. Mercados de criptomonedas",
+                "items": [
+                    "Cuando la demanda de criptomonedas aumenta, los precios suelen subir rápidamente debido a la oferta limitada, especialmente en activos como Bitcoin.",
+                    "Los choques de oferta, como las reducciones de recompensas tras un halving, pueden impulsar los precios por la expectativa de menor disponibilidad futura."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Beneficios de comprender la oferta y la demanda en el trading",
+            "items": [
+                "Mejor sincronización del mercado al anticipar los desequilibrios entre oferta y demanda.",
+                "Decisiones de inversión más informadas al comprender la dinámica de los mercados sensibles a la oferta y la demanda.",
+                "Planificación a largo plazo, especialmente para activos con oferta fija, como Bitcoin, mediante el análisis de las tendencias de demanda."
+            ]
+        },
+        "limits": {
+            "title": "Limitaciones del análisis de oferta y demanda",
+            "items": [
+                "La alta volatilidad puede invalidar temporalmente los fundamentos de la oferta y la demanda.",
+                "La especulación puede distorsionar la dinámica real del mercado, dificultando el análisis.",
+                "Factores externos como la política, la regulación y la tecnología pueden alterar el equilibrio de oferta y demanda inesperadamente."
+            ]
+        }
+    }
+}

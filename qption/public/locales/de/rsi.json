@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Relative Strength Index (RSI) – Technische Analyse | Qption",
+        "description": "Lerne, wie du den RSI für die technische Analyse nutzt: RSI berechnen, überkaufte/überverkaufte Niveaus erkennen, Divergenzen lesen und optimale Einstellungen für verschiedene Märkte wählen.",
+        "keywords": "RSI, Relative Strength Index, technische Analyse, Momentum-Oszillator, überkauft, überverkauft, Divergenz, Handelsstrategie, Qption",
+        "ogTitle": "Relative Strength Index (RSI) – Technische Analyse | Qption",
+        "ogDescription": "Ein klarer Leitfaden zum RSI: wie er berechnet wird, wie man OB/OS-Signale und Divergenzen handelt und wo er funktioniert oder versagt.",
+        "url": "https://qption.com/technical-analysis/RSIIndicator",
+        "image": "https://qption.com/videos/og/rsi-indicator/rsi-indicator.png"
+    },
+    "labels": {
+        "backToTechnical": "Technische Analyse",
+        "videoAria": "RSI (Relative Strength Index) ist ein Momentum-Oszillator, der die Geschwindigkeit und Veränderung von Kursbewegungen misst."
+    },
+    "promo": {
+        "text": "Bereit, mit dem RSI zu handeln?",
+        "cta": "Jetzt handeln"
+    },
+    "hero": {
+        "title": "RSI-Indikator-Strategie",
+        "subtitle": "Meistere das Momentum-Trading mit unserer umfassenden RSI-Analyse"
+    },
+    "overview": {
+        "title": "Überblick",
+        "bullets": [
+            "Der RSI ist ein Momentum-Oszillator, der die Geschwindigkeit und Veränderung von Kursbewegungen misst.",
+            "Er schwankt zwischen 0 und 100 — Werte über 70 gelten als überkauft, unter 30 als überverkauft.",
+            "Der RSI hilft, potenzielle Umkehrpunkte und OB/OS-Bedingungen in verschiedenen Märkten zu identifizieren."
+        ]
+    },
+    "how": {
+        "title": "Wie der RSI funktioniert",
+        "items": [
+            {
+                "title": "Berechnung",
+                "desc": "Der RSI wird aus den durchschnittlichen Gewinnen und Verlusten über einen Betrachtungszeitraum (typischerweise 14) berechnet."
+            },
+            {
+                "title": "Überkauft/Überverkauft",
+                "desc": "Werte über 70 deuten auf überkaufte, unter 30 auf überverkaufte Marktbedingungen hin."
+            },
+            {
+                "title": "Divergenz",
+                "desc": "Wenn der Preis neue Hochs/Tiefs bildet, der RSI jedoch nicht, kann eine potenzielle Umkehr bevorstehen."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Wichtige Strategien",
+        "items": [
+            {
+                "title": "1. Handel mit überkauften/überverkauften Signalen",
+                "points": [
+                    "Kaufe, wenn der RSI über 30 steigt (Verlassen des überverkauften Bereichs), und verkaufe, wenn er unter 70 fällt (Verlassen des überkauften Bereichs).",
+                    "Nutze Bestätigung durch Preisaktion oder andere Indikatoren zur Unterstützung."
+                ]
+            },
+            {
+                "title": "2. RSI-Divergenz",
+                "points": [
+                    "Bullische Divergenz: Der Preis bildet tiefere Tiefs, während der RSI höhere Tiefs bildet.",
+                    "Bärische Divergenz: Der Preis bildet höhere Hochs, während der RSI niedrigere Hochs bildet."
+                ]
+            },
+            {
+                "title": "3. RSI-Trendlinien",
+                "points": [
+                    "Ziehe Trendlinien direkt auf dem RSI, um mögliche Ausbrüche oder Zusammenbrüche zu erkennen.",
+                    "Kombiniere RSI-Trendbrüche mit Marktstruktur für Ein- und Ausstiege."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Einschränkungen",
+        "bullets": [
+            "In starken Trends kann der RSI über längere Zeiträume überkauft oder überverkauft bleiben.",
+            "In unruhigen, seitwärts verlaufenden Märkten können falsche Signale entstehen."
+        ]
+    }
+}

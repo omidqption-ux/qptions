@@ -1,0 +1,103 @@
+{
+    "seo": {
+        "title": "Análisis Fundamental – Perspectivas Macroeconómicas y Radar de Ganancias | Qption",
+        "description": "Mantente a la vanguardia del mercado con el centro de análisis fundamental de Qption: impacto en tiempo real del calendario económico, informes de ganancias y estudios macroeconómicos para forex, criptomonedas e índices globales.",
+        "keywords": "análisis fundamental, calendario económico, informes de ganancias, análisis macroeconómico, datos de inflación, tasas de interés, PIB, fundamentos de forex, fundamentos de criptomonedas, investigación Qption",
+        "ogTitle": "Análisis Fundamental – Perspectivas Macroeconómicas y Radar de Ganancias | Qption",
+        "ogDescription": "Sigue los datos que mueven los mercados: el equipo de investigación de Qption traduce los principales eventos económicos e informes financieros en ideas de trading prácticas.",
+        "url": "https://qption.com/es/fundamental-analysis",
+        "image": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Análisis Fundamental – Perspectivas Macroeconómicas y Radar de Ganancias | Qption",
+        "twitterDescription": "Descubre la historia detrás de los gráficos: sigue las publicaciones económicas y los informes de ganancias en tiempo real con el conjunto de análisis fundamental de Qption.",
+        "twitterImage": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "canonical": "https://qption.com/es/fundamental-analysis"
+    },
+    "page": {
+        "title": "Análisis Fundamental",
+        "subtitle": "Explora un análisis integral de los indicadores económicos, tendencias del mercado y herramientas financieras para tomar decisiones de trading informadas."
+    },
+    "cta": {
+        "takeQuiz": "Realiza nuestro quiz"
+    },
+    "cards": {
+        "economicIndicators": {
+            "title": "Indicadores Económicos",
+            "description": "Métricas económicas clave y su impacto en los mercados"
+        },
+        "centralBankPolicies": {
+            "title": "Políticas de Bancos Centrales",
+            "description": "Políticas monetarias y su influencia en el mercado"
+        },
+        "inflation": {
+            "title": "Análisis de la Inflación",
+            "description": "Comprender las tendencias inflacionarias y sus efectos"
+        },
+        "interestRates": {
+            "title": "Tasas de Interés",
+            "description": "Movimientos de tasas de interés e impacto en los mercados"
+        },
+        "geopolitics": {
+            "title": "Eventos Geopolíticos y Mercados",
+            "description": "Eventos globales y sus implicaciones en los mercados"
+        },
+        "fiscalPolicy": {
+            "title": "Políticas Fiscales y Gasto Gubernamental",
+            "description": "Efectos del gasto público y los impuestos"
+        },
+        "debtAndFX": {
+            "title": "Niveles de Deuda y Valoración de Divisas",
+            "description": "Análisis de los mercados de bonos e instrumentos de deuda"
+        },
+        "supplyDemandCommodities": {
+            "title": "Oferta y Demanda de Materias Primas",
+            "description": "Mercados de materias primas y factores de precio"
+        },
+        "safeHavens": {
+            "title": "Activos Refugio vs. Turbulencia del Mercado",
+            "description": "Análisis de inversiones tradicionales de refugio seguro"
+        },
+        "forexCfds": {
+            "title": "Forex y CFDs",
+            "description": "Mercados de divisas e instrumentos derivados"
+        },
+        "cryptoRegulation": {
+            "title": "Adopción y Regulación Cripto",
+            "description": "Tendencias del mercado de criptomonedas y su adopción"
+        },
+        "blockchainFA": {
+            "title": "Análisis Fundamental de Blockchain",
+            "description": "Desarrollos y aplicaciones de la tecnología blockchain"
+        }
+    },
+    "tournaments": {
+        "title": "Torneos",
+        "labels": {
+            "prize": "Premio",
+            "participants": "Participantes"
+        },
+        "ui": {
+            "join": "Unirse al torneo",
+            "close": "Cerrar"
+        },
+        "defaults": {
+            "weekly": {
+                "title": "Desafío Semanal de Trading",
+                "prize": "$5,000",
+                "participants": "1,234",
+                "startDate": "2024-04-25",
+                "endDate": "2024-05-02",
+                "status": "Comienza pronto"
+            },
+            "monthly": {
+                "title": "Torneo Maestro Mensual",
+                "prize": "$25,000",
+                "participants": "3,456",
+                "startDate": "2024-05-01",
+                "endDate": "2024-05-31",
+                "status": "Registro abierto"
+            }
+        },
+        "list": []
+    }
+}

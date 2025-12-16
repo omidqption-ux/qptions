@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "Stratégie V-Bounce (pic de volume) | Qption",
+        "description": "Apprends la stratégie V-Bounce : exploiter supports/résistances, décider break/bounce, trader le breakout (« strike ») et le premier pullback (« boomerang »), plus entrées sur rebond et confirmation fractale pour options 60s.",
+        "keywords": "V-Bounce, pic de volume, support résistance, stratégie breakout, pullback, boomerang, confirmation fractale, options 60 secondes, stratégie de trading, Qption",
+        "ogAlt": "Stratégie V-Bounce illustrant pic de volume et zones S/R",
+        "ld": {
+            "headline": "Stratégie V-Bounce (pic de volume)"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Stratégie de trading"
+    },
+    "cta": {
+        "ready": "Prêt à trader",
+        "startTrading": "Commencer à trader"
+    },
+    "hero": {
+        "title": "Stratégie V-Bounce à pic de volume",
+        "subtitle": "Pour maximiser les profits sur des trades courts, beaucoup de traders ciblent les marchés liquides afin d’augmenter la fréquence. Une stratégie populaire (options 60 s) consiste à repérer des rebonds clairs sur des niveaux définis de support ou résistance. Cette approche capitalise sur des mouvements rapides et prévisibles."
+    },
+    "sr": {
+        "title": "Rôle des supports et résistances",
+        "p1": "Les niveaux S/R sont essentiels sur Qption. Ils signalent les zones où les prix ont déjà réagi, ce qui aide à définir potentiels entrées/sorties.",
+        "p2": "Quand le prix s’approche d’une S/R préalablement tracée, on peut fixer un « point break ou bounce ». On sait ainsi si le prix va probablement rebondir ou casser, donnant un signal de continuation.",
+        "list": {
+            "title": "Éléments S/R courants",
+            "i1": { "h": "Hauts et bas historiques", "p": "Les anciens sommets/creux servent souvent de zones S/R." },
+            "i2": { "h": "Moyennes mobiles", "p": "Les MAs (50/200) jouent le rôle de support/résistance dynamiques." },
+            "i3": { "h": "Lignes de tendance", "p": "Relient swing highs/lows pour anticiper continuation ou retournement." },
+            "i4": { "h": "Retracements Fibonacci", "p": "Les niveaux 38,2 %, 50 %, 61,8 % coïncident souvent avec S/R." },
+            "i5": { "h": "Nombres ronds", "p": "Les niveaux psychologiques (ex. 1.00 / 100) agissent fréquemment comme barrières." }
+        }
+    },
+    "bb": {
+        "title": "Point break ou bounce",
+        "p": "Une fois qu’un trader Qption identifie un niveau clé, il trace une « ligne dans le sable ». L’attention est alors portée sur la réaction du prix : rebond ou cassure."
+    },
+    "why": {
+        "title": "Pourquoi c’est crucial",
+        "l1": "Tracer les niveaux à l’avance filtre le bruit et fournit des décisions objectives.",
+        "l2": "Sans filtre, chaque tick semble important, ce qui favorise des décisions dictées par peur ou cupidité.",
+        "p1": "Après avoir défini ton point break/bounce, attends que le prix s’en approche. Quand c’est le cas, observe s’il casse le niveau ou s’il est rejeté.",
+        "strike": {
+            "h": "Breakout (Strike)",
+            "p": "Le prix traverse la S/R, signalant une possible continuation – à trader dans le sens de la cassure."
+        },
+        "boomerang": {
+            "h": "Premier pullback (Boomerang)",
+            "p": "Après la cassure, le prix reteste souvent le niveau. Ce premier pullback confirme la force et propose une entrée secondaire."
+        },
+        "p2": "Sur Qption, on traque les strikes (breakouts) et le premier pullback (boomerang) pour entrer sur les options."
+    },
+    "bounce": {
+        "title": "Trader les rebonds",
+        "p1": "Un rebond peut être léger, profond ou carrément un retournement. Les grands sommets/creux et les niveaux Fibonacci sont rarement franchis sans respect.",
+        "p2": "Styles d’entrée sur rebond :",
+        "direct": {
+            "h": "Direct",
+            "p": "Placer l’ordre directement sur la S/R (Fibo, sommet). Avantage : remplissage immédiat. Inconvénient : un dépassement temporaire peut compliquer le stop."
+        },
+        "confirm": {
+            "h": "Confirmation",
+            "p": "Attendre un signe visuel (stall/rejet), puis entrer après confirmation plutôt que via un limit order aveugle."
+        },
+        "breakAfter": {
+            "h": "Breakout après rebond",
+            "p": "Utiliser des outils comme les fractales pour définir la structure et ajuster l’échelle via la plateforme Qption."
+        }
+    },
+    "fractals": {
+        "title": "Rebonds avec fractales",
+        "lead": "Méthodologie :",
+        "steps": {
+            "1": "Anticiper un niveau S/R important.",
+            "2": "Attendre la réaction du prix et l’apparition d’une fractale.",
+            "3": "Attendre que le prix s’éloigne du niveau.",
+            "4": "Attendre une fractale du côté opposé.",
+            "5": "Trader la cassure de cette fractale opposée."
+        },
+        "meanTitle": "Implication",
+        "meanBody": "En laissant le prix stop–reverse–stop–reverse, tu obtiens deux lignes dans le sable : le niveau S/R et la fractale opposée. La cassure de l’une d’elles révèle le camp dominant."
+    }
+}

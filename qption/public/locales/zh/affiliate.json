@@ -1,0 +1,140 @@
+{
+    "seo": {
+        "title": "联盟计划 – 最高可赚取 40% 收益分成 | Qption",
+        "description": "加入 Qption 联盟计划，将您的受众转化为收益。通过灵活的 CPA 或收益分成模式赚取佣金，实时跟踪并为每位您推荐的交易者每周获得支付。",
+        "keywords": "Qption 联盟, 交易联盟计划, CPA 外汇, 加密货币联盟, 收益分成, 合作伙伴计划, 推荐交易者, IB 计划, 经纪商合作",
+        "ogTitle": "联盟计划 – 最高可赚取 40% 收益分成 | Qption",
+        "ogDescription": "加入 Qption 联盟计划，获取行业领先的佣金、营销资源和专属支持。",
+        "url": "https://qption.com/affiliate",
+        "image": "https://qption.com/images/og/affiliate-qption.jpg"
+    },
+    "hero": {
+        "title": "联盟计划",
+        "subtitle": "加入我们的联盟计划，通过推荐交易者来赚取佣金。选择最符合您目标的方案，开始轻松获利。"
+    },
+    "tabs": {
+        "basic": "基础",
+        "pro": "专业",
+        "elite": "精英"
+    },
+    "labels": {
+        "commission": "佣金比例",
+        "incomePotential": "收入潜力",
+        "featuresTitle": "功能亮点",
+        "benefitsTitle": "计划优势"
+    },
+    "stats": [
+        {
+            "title": "活跃联盟伙伴",
+            "value": "10,000+"
+        },
+        {
+            "title": "累计支付金额",
+            "value": "$5M+"
+        },
+        {
+            "title": "成功率",
+            "value": "95%"
+        }
+    ],
+    "plans": [
+        {
+            "title": "基础联盟计划",
+            "subtitle": "入门级",
+            "description": "非常适合初学者，以最低门槛开始赚取收益。建立您的网络并获得稳定的佣金收入。",
+            "commission": "5-10%",
+            "income": "$50 - $500/月",
+            "gradient": "bg-linear-to-br from-green-500/20 to-green-500/5",
+            "features": [
+                {
+                    "title": "直接推荐佣金",
+                    "description": "对您直接推荐的客户交易手续费赚取 5–10% 佣金。"
+                },
+                {
+                    "title": "一次性注册奖励",
+                    "description": "每位成功注册并活跃的直接推荐用户可获得额外奖励。"
+                },
+                {
+                    "title": "营销支持",
+                    "description": "可访问基础营销素材和推广教程，助您轻松宣传。"
+                }
+            ]
+        },
+        {
+            "title": "专业联盟计划",
+            "subtitle": "中级",
+            "description": "适合有经验的营销者，想要扩大收入规模。提供高级工具及多层级佣金制度。",
+            "commission": "10-15%",
+            "income": "$500 - $2,000/月",
+            "gradient": "bg-linear-to-br from-green-500/30 to-green-500/10",
+            "features": [
+                {
+                    "title": "直接推荐佣金",
+                    "description": "对您直接推荐的交易者所产生的手续费赚取 10–15% 佣金。"
+                },
+                {
+                    "title": "二级推荐佣金",
+                    "description": "对您的下级推荐客户交易手续费获得 3–5% 分成。"
+                },
+                {
+                    "title": "业绩奖励",
+                    "description": "完成推荐目标后可获得额外奖金。"
+                },
+                {
+                    "title": "高级营销资源",
+                    "description": "可获取优化的宣传资料与战略指导课程。"
+                }
+            ]
+        },
+        {
+            "title": "精英联盟计划",
+            "subtitle": "高级",
+            "description": "专为顶级推广者打造，追求高回报。享受专属权益及最高佣金比例。",
+            "commission": "15-20%",
+            "income": "$2,000 - $10,000/月",
+            "gradient": "bg-linear-to-br from-green-500/40 to-green-500/15",
+            "features": [
+                {
+                    "title": "直接推荐佣金",
+                    "description": "对直接推荐客户的交易手续费赚取 15–20% 佣金。"
+                },
+                {
+                    "title": "多层级佣金制度",
+                    "description": "第二级 5%，第三级 2%，第四级 1% 分成。"
+                },
+                {
+                    "title": "VIP 营销套餐",
+                    "description": "提供可定制的营销素材与专属落地页。"
+                },
+                {
+                    "title": "领导力奖励",
+                    "description": "帮助您的团队成员达到 Pro 或 Elite 级别可获得特别奖励。"
+                },
+                {
+                    "title": "专属支持",
+                    "description": "专属联盟经理服务与邀请制活动资格。"
+                }
+            ]
+        }
+    ],
+    "benefits": [
+        {
+            "title": "持续收入",
+            "description": "从您的网络交易活动中持续获得佣金收益。",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/5"
+        },
+        {
+            "title": "结构化成长 ",
+            "description": "通过我们成熟的多层级体系构建并扩展您的网络。",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/10"
+        },
+        {
+            "title": "绩效奖励",
+            "description": "达成目标与里程碑后可获得额外奖金与激励。",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/15"
+        }
+    ],
+    "cta": {
+        "join": "加入联盟计划"
+    }
+}

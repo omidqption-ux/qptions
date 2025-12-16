@@ -1,0 +1,40 @@
+{
+    "sections": {
+        "home": "Início",
+        "trading": "Trading",
+        "education": "Educação",
+        "company": "Empresa"
+    },
+    "links": {
+        "home": "Início",
+        "register": "Cadastrar",
+        "about": "Sobre",
+        "contact": "Contato",
+        "faq": "Perguntas frequentes",
+        "news": "Notícias",
+        "accountTypes": "Tipos de conta",
+        "socialTrading": "Social Trading",
+        "aiTrading": "Trading com IA",
+        "affiliate": "Programa de Afiliados",
+        "technicalAnalysis": "Análise técnica",
+        "tradingStrategies": "Estratégias de trading",
+        "graphicalAnalysis": "Análise gráfica",
+        "fundamentalAnalysis": "Análise fundamental",
+        "glossary": "Glossário",
+        "paymentPolicy": "Política de pagamentos",
+        "returnPolicy": "Política de reembolso",
+        "amlKyc": "AML & KYC",
+        "privacyPolicy": "Política de Privacidade",
+        "terms": "Termos e Condições"
+    },
+    "followUs": "Siga-nos:",
+    "riskWarning": "Aviso de risco: CFDs são instrumentos complexos e envolvem alto risco de perda rápida devido à alavancagem. 72% das contas de investidores de varejo perdem dinheiro ao negociar CFDs com este provedor. Avalie se você entende o funcionamento e pode arcar com o risco.",
+    "recaptcha": {
+        "prefix": "Este site é protegido pelo reCAPTCHA e pela",
+        "privacy": "Política de Privacidade",
+        "and": "e",
+        "terms": "Termos de Serviço",
+        "apply": "do Google."
+    },
+    "payments": "Pagamentos"
+}

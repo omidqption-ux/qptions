@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Estratégia de Médias Móveis (SMA e EMA) – Análise Técnica | Qption",
+        "description": "Domine o acompanhamento de tendências com Médias Móveis: diferença entre SMA e EMA, cruzamentos (Cruz Dourada e Cruz da Morte), suporte/resistência dinâmico, faixas de médias móveis e principais limitações — guia completo para traders.",
+        "keywords": "médias móveis, SMA, EMA, cruzamento de médias móveis, cruz dourada, cruz da morte, faixa de médias móveis, suporte e resistência dinâmico, acompanhamento de tendência, momentum, análise técnica, Qption",
+        "ogAlt": "Estratégia de médias móveis explicada em um gráfico com SMA e EMA",
+        "ld": {
+            "headline": "Estratégia de Médias Móveis (SMA e EMA) – Análise Técnica"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estratégia de trading"
+    },
+    "cta": {
+        "ready": "Pronto para operar com Médias Móveis?",
+        "startTrading": "Começar a negociar"
+    },
+    "hero": {
+        "title": "Estratégia de Médias Móveis",
+        "subtitle": "Domine o acompanhamento de tendências e o trading de momentum com nossa análise completa de Médias Móveis."
+    },
+    "video": {
+        "aria": "As médias móveis (MA) suavizam os dados de preços para facilitar a identificação de tendências e reversões."
+    },
+    "overview": {
+        "title": "Visão geral",
+        "items": {
+            "1": "As médias móveis (MA) são ferramentas populares de análise técnica que suavizam os dados de preços, tornando mais fácil identificar tendências e reversões.",
+            "2": "Os dois tipos mais comuns são a Média Móvel Simples (SMA) e a Média Móvel Exponencial (EMA), que diferem na forma como ponderam os preços recentes.",
+            "3": "As médias móveis ajudam os traders a identificar a direção da tendência, gerar sinais de negociação e identificar níveis dinâmicos de suporte e resistência."
+        }
+    },
+    "how": {
+        "title": "Como funcionam as Médias Móveis",
+        "blocks": {
+            "1": {
+                "title": "Média Móvel Simples (SMA)",
+                "desc": "Calculada pela média aritmética de um número específico de preços recentes. Usada para análise geral de tendências."
+            },
+            "2": {
+                "title": "Média Móvel Exponencial (EMA)",
+                "desc": "Dá mais peso aos preços recentes, reagindo mais rapidamente às mudanças de mercado. Ideal para mercados voláteis."
+            },
+            "3": {
+                "title": "Identificação de tendência",
+                "desc": "Quando o preço está acima da média móvel, indica tendência de alta; abaixo dela, tendência de baixa."
+            }
+        }
+    },
+    "strategies": {
+        "title": "Estratégias principais",
+        "crossover": {
+            "title": "1. Estratégia de Cruzamento de Médias Móveis",
+            "items": {
+                "1": "Cruz Dourada: ocorre quando uma média móvel de curto prazo (ex.: 50 dias) cruza acima de uma média de longo prazo (ex.: 200 dias), indicando uma tendência de alta.",
+                "2": "Cruz da Morte: ocorre quando uma média móvel de curto prazo cruza abaixo de uma média de longo prazo, indicando uma tendência de baixa."
+            }
+        },
+        "dynamicSR": {
+            "title": "2. Suporte e Resistência Dinâmicos",
+            "items": {
+                "1": "Suporte em tendência de alta: a média móvel atua como suporte dinâmico, onde o preço tende a reagir e subir novamente.",
+                "2": "Resistência em tendência de baixa: a média móvel atua como resistência, empurrando os preços para baixo."
+            }
+        },
+        "ribbon": {
+            "title": "3. Estratégia de Faixa de Médias Móveis",
+            "items": {
+                "1": "Configuração: use várias médias móveis com diferentes períodos (ex.: 10, 20, 50, 100, 200) para criar um efeito de faixa.",
+                "2": "Sinal de tendência: quando todas as médias móveis estão alinhadas na mesma direção, indica uma forte tendência."
+            }
+        }
+    },
+    "limits": {
+        "title": "Limitações",
+        "items": {
+            "1": "Indicador atrasado: as médias móveis reagem lentamente a mudanças repentinas do mercado.",
+            "2": "Sinais falsos: podem gerar sinais enganosos em mercados laterais ou com pouca volatilidade."
+        }
+    }
+}

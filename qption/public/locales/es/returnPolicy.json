@@ -1,0 +1,58 @@
+{
+    "seo": {
+        "title": "Proceso y Condiciones de Retiro | Qption",
+        "description": "Conoce cómo funcionan los retiros en Qption: flujo de solicitud, devolución a la forma de depósito original, responsabilidades del cliente y reglas de cierre de cuenta.",
+        "keywords": "política de retiro, solicitud de retiro, método de depósito original, responsabilidad del cliente, cierre de cuenta, Qption",
+        "ogTitle": "Proceso y Condiciones de Retiro | Qption",
+        "ogDescription": "Guía detallada sobre solicitudes de retiro, tiempos de procesamiento, rutas de pago y requisitos de cumplimiento.",
+        "url": "https://qption.com/withdrawal-policy",
+        "image": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Proceso y Condiciones de Retiro | Qption",
+        "twitterDescription": "Cómo solicitar retiros, plazos de procesamiento, reglas de pago y más.",
+        "twitterImage": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "canonical": "https://qption.com/withdrawal-policy"
+    },
+    "hero": {
+        "title": "Proceso y Condiciones de Retiro"
+    },
+    "sections": [
+        {
+            "key": "request",
+            "icon": "request",
+            "title": "1. Procedimiento para Solicitar Retiros",
+            "items": [
+                "Para iniciar un retiro, el Cliente debe enviar una solicitud desde su zona personal en el Sitio, seleccionar un método de retiro y proporcionar la información requerida.",
+                "Tras el envío, la solicitud recibe el estado “Solicitado”. Cuando comienza el procesamiento, cambia a “En proceso”, momento en el que los fondos se descuentan del saldo. Al finalizar, el estado pasa a “Procesado” y los fondos se transfieren a la cartera del sistema de pago del Cliente.",
+                "Las solicitudes de retiro son procesadas por el departamento financiero de la Empresa por orden de recepción. El procesamiento puede tardar hasta cinco (5) días hábiles. La Empresa se reserva el derecho de ampliar este plazo si es necesario."
+            ]
+        },
+        {
+            "key": "originalMethod",
+            "icon": "originalMethod",
+            "title": "2. Retiro al Método de Depósito Original",
+            "items": [
+                "Los fondos solo pueden retirarse a la cuenta del sistema de pago utilizada originalmente para el depósito. Si esto no fuera técnicamente posible, la Empresa podrá seleccionar un método alternativo, garantizando que los datos personales del Cliente coincidan con los datos de pago.",
+                "Si el depósito se realizó con tarjeta bancaria, los retiros deben enviarse a la misma tarjeta. Solo se podrán usar otros métodos si el importe del retiro supera el depósito inicial.",
+                "Si el Cliente presenta una solicitud de retiro sin realizar operaciones de trading después de un depósito, el retiro debe efectuarse con las mismas credenciales y el mismo sistema de pago utilizados en el depósito. La Empresa se reserva el derecho de cobrar comisiones por la devolución de fondos y los costos de procesamiento."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "3. Responsabilidad del Cliente y Exactitud de la Información",
+            "items": [
+                "El Cliente es plenamente responsable de la exactitud de toda la información proporcionada en la solicitud de retiro."
+            ]
+        },
+        {
+            "key": "closure",
+            "icon": "closure",
+            "title": "4. Cierre de Cuenta por Incumplimiento de Términos",
+            "items": [
+                "Si la cuenta del Cliente se cierra por incumplimiento de los Términos y Condiciones, la Empresa se reserva el derecho de retener las ganancias obtenidas por el Cliente.",
+                "A discreción de la Empresa, se podrán devolver los fondos depositados al Cliente, deduciendo todas las comisiones y cargos aplicables."
+            ]
+        }
+    ]
+}

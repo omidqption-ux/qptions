@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Analyse Technique – Graphiques, Indicateurs et Configurations | Qption",
+        "description": "Maîtrisez les marchés grâce à l’analyse technique approfondie de Qption : idées de graphiques en direct, guides d’indicateurs et configurations hebdomadaires pour le forex, la crypto et les indices.",
+        "keywords": "analyse technique, graphiques de trading, action des prix, indicateurs, figures de chandeliers, supports et résistances, formation Qption, analyse forex, analyse crypto",
+        "ogTitle": "Analyse Technique – Graphiques, Indicateurs et Configurations | Qption",
+        "ogDescription": "Obtenez des analyses de graphiques exploitables et des guides d’indicateurs détaillés par les analystes de Qption — mis à jour quotidiennement pour les traders forex et crypto.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Analyse Technique – Graphiques, Indicateurs et Configurations | Qption",
+        "twitterDescription": "Idées de graphiques en direct et configurations hebdomadaires sur le forex, la crypto et les indices — propulsées par Qption.",
+        "twitterImage": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "canonical": "https://qption.com/technical-analysis"
+    },
+    "page": {
+        "title": "Analyse Technique",
+        "subtitle": "Mettez vos connaissances en trading à l’épreuve et affinez vos compétences avec notre quiz interactif sur l’analyse technique — testez votre compréhension des figures chartistes, des indicateurs et de la psychologie des marchés pour devenir un trader plus confiant et éclairé."
+    },
+    "quiz": {
+        "header": "Quiz",
+        "progress": "Question {{current}} sur {{total}}",
+        "correct": "Correct ✅",
+        "incorrect": "Pas tout à fait ⚠️",
+        "selectHint": "Choisissez une option et validez votre réponse."
+    },
+    "ui": {
+        "previous": "Précédent",
+        "submit": "Soumettre",
+        "finish": "Terminer",
+        "next": "Suivant",
+        "newRandom": "Nouveau lot de 10 questions",
+        "loading": "Chargement du quiz…"
+    },
+    "results": {
+        "score": "Score : {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Excellent ! Vos connaissances en analyse technique sont solides.",
+            "good": "Beau travail ! Continuez à pratiquer pour progresser davantage.",
+            "retry": "Bon début — révisez les leçons et réessayez."
+        }
+    },
+    "pool": [
+        {
+            "q": "À quoi sert principalement une moyenne mobile simple (SMA) ?",
+            "options": [
+                "Trouver le prix d’entrée le plus élevé possible",
+                "Afficher le prix moyen sur une période donnée en réduisant le bruit",
+                "Identifier le point de retournement exact du marché",
+                "Déterminer un niveau de cassure du momentum"
+            ],
+            "correct": "Afficher le prix moyen sur une période donnée en réduisant le bruit",
+            "explain": "La SMA lisse les données de prix en les moyennant sur une période, révélant ainsi la tendance sous-jacente.",
+            "topic": "MA"
+        },
+        {
+            "q": "Quel type de moyenne mobile réagit le plus rapidement aux variations récentes du prix ?",
+            "options": [
+                "SMA",
+                "WMA",
+                "EMA",
+                "Toutes réagissent de la même façon"
+            ],
+            "correct": "EMA",
+            "explain": "L’EMA accorde plus de poids aux prix récents et réagit donc plus vite que la SMA ou la WMA.",
+            "topic": "MA"
+        },
+        {
+            "q": "Un signal d’achat typique basé sur le croisement de moyennes mobiles se produit lorsque…",
+            "options": [
+                "La moyenne mobile courte croise au-dessus de la moyenne longue",
+                "La moyenne mobile longue croise au-dessus de la moyenne courte",
+                "Le prix passe sous les deux moyennes mobiles",
+                "Les deux moyennes restent plates"
+            ],
+            "correct": "La moyenne mobile courte croise au-dessus de la moyenne longue",
+            "explain": "Un croisement haussier suggère un regain de momentum ; l’inverse peut indiquer une tendance baissière.",
+            "topic": "MA"
+        },
+        {
+            "q": "Quel est l’inconvénient principal des moyennes mobiles ?",
+            "options": [
+                "Elles anticipent les sommets et les creux du marché",
+                "Elles accusent un retard sur le prix et peuvent donner de faux signaux en marché plat",
+                "Elles ne nécessitent aucun réglage",
+                "Elles ne fonctionnent que sur les graphiques journaliers"
+            ],
+            "correct": "Elles accusent un retard sur le prix et peuvent donner de faux signaux en marché plat",
+            "explain": "Les moyennes mobiles sont des indicateurs retardés et peuvent générer de faux signaux dans les phases sans tendance.",
+            "topic": "MA"
+        },
+        {
+            "q": "Quel est le but principal des Bandes de Bollinger ?",
+            "options": [
+                "Mesurer la valeur fondamentale à long terme",
+                "Afficher la volatilité et les niveaux relatifs de prix autour d’une moyenne mobile",
+                "Remplacer totalement les moyennes mobiles",
+                "Tracer automatiquement des lignes de tendance"
+            ],
+            "correct": "Afficher la volatilité et les niveaux relatifs de prix autour d’une moyenne mobile",
+            "explain": "Les bandes s’élargissent ou se contractent selon la volatilité, indiquant les zones de prix extrêmes autour de la moyenne.",
+            "topic": "BB"
+        },
+        {
+            "q": "Quand le prix touche ou clôture au-dessus de la bande supérieure de Bollinger, cela indique souvent…",
+            "options": [
+                "Un retournement garanti",
+                "Une expansion du momentum ou de la volatilité (pas toujours une surachat)",
+                "Aucune information utile",
+                "Un krach imminent"
+            ],
+            "correct": "Une expansion du momentum ou de la volatilité (pas toujours une surachat)",
+            "explain": "Les clôtures hors des bandes indiquent souvent un fort momentum ; le contexte reste crucial.",
+            "topic": "BB"
+        },
+        {
+            "q": "Un réglage courant pour les Bandes de Bollinger est :",
+            "options": [
+                "Moyenne mobile sur 20 périodes avec ±2 écarts-types",
+                "Moyenne mobile sur 50 périodes avec ±1 écart-type",
+                "Moyenne mobile sur 14 périodes avec ±3 écarts-types",
+                "Moyenne mobile sur 9 périodes avec ±1,5 écart-type"
+            ],
+            "correct": "Moyenne mobile sur 20 périodes avec ±2 écarts-types",
+            "explain": "Le paramètre classique est une SMA sur 20 périodes avec des bandes à ±2σ, ajustable selon le marché et l’unité de temps.",
+            "topic": "BB"
+        },
+        {
+            "q": "L’indicateur Alligator de Williams est composé de :",
+            "options": [
+                "Deux lignes : la mâchoire et les dents",
+                "Trois lignes : la mâchoire, les dents et les lèvres",
+                "Quatre lignes incluant la langue",
+                "Une seule moyenne mobile lissée"
+            ],
+            "correct": "Trois lignes : la mâchoire, les dents et les lèvres",
+            "explain": "Il utilise trois moyennes mobiles lissées décalées : mâchoire (lente), dents (moyenne) et lèvres (rapide).",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Lorsque les lignes de l’Alligator sont entrelacées (endormi), cela suggère :",
+            "options": [
+                "Une forte tendance en cours",
+                "Une phase de range ou de faible volatilité",
+                "Une cassure haussière garantie",
+                "Une cassure baissière garantie"
+            ],
+            "correct": "Une phase de range ou de faible volatilité",
+            "explain": "Des lignes entrelacées indiquent une consolidation ; les traders attendent qu’elles divergent avant d’entrer en position.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "L’Alligator est considéré comme « actif » (en tendance) lorsque :",
+            "options": [
+                "Les trois lignes s’écartent et s’alignent avec la direction du prix",
+                "Les trois lignes se chevauchent étroitement",
+                "Seul le prix bouge tandis que les lignes restent plates",
+                "Le volume tombe à zéro"
+            ],
+            "correct": "Les trois lignes s’écartent et s’alignent avec la direction du prix",
+            "explain": "Des lignes divergentes dans le sens du mouvement du prix indiquent le développement d’une tendance.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Des lectures du RSI supérieures à 70 indiquent généralement :",
+            "options": [
+                "Des conditions de survente",
+                "Des conditions de surachat (risque de repli possible)",
+                "Aucun signal",
+                "Une poursuite de tendance garantie"
+            ],
+            "correct": "Des conditions de surachat (risque de repli possible)",
+            "explain": "Le surachat peut persister dans une forte tendance ; confirmez avec la structure du marché.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Une valeur de RSI proche de 30 suggère souvent :",
+            "options": [
+                "Des conditions de surachat",
+                "Des conditions de survente (rebond possible)",
+                "Aucune valeur analytique",
+                "Une cassure au-dessus d’une résistance"
+            ],
+            "correct": "Des conditions de survente (rebond possible)",
+            "explain": "Comme pour le surachat, le survente peut durer ; combinez avec l’action des prix pour de meilleures entrées.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Une divergence haussière du RSI se produit lorsque :",
+            "options": [
+                "Le prix fait des sommets plus hauts tandis que le RSI fait des sommets plus bas",
+                "Le prix fait des creux plus bas tandis que le RSI fait des creux plus hauts",
+                "Le RSI dépasse 70",
+                "Le RSI passe sous 30"
+            ],
+            "correct": "Le prix fait des creux plus bas tandis que le RSI fait des creux plus hauts",
+            "explain": "Une perte de momentum lors de nouveaux creux de prix peut signaler un retournement haussier.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Comment définir le support ?",
+            "options": [
+                "Un niveau de prix où la demande (achat) a tendance à apparaître",
+                "Un niveau où les ventes doivent obligatoirement se produire",
+                "Une moyenne mobile",
+                "Une ligne fixe qui ne se brise jamais"
+            ],
+            "correct": "Un niveau de prix où la demande (achat) a tendance à apparaître",
+            "explain": "Le support est une zone où la demande s’est historiquement manifestée ; il peut parfois être rompu.",
+            "topic": "TA"
+        },
+        {
+            "q": "Comment définir la résistance ?",
+            "options": [
+                "Un niveau de prix où l’offre (vente) a tendance à apparaître",
+                "Un niveau qui garantit un retournement",
+                "Un concept basé uniquement sur le volume",
+                "Un ratio de Fibonacci"
+            ],
+            "correct": "Un niveau de prix où l’offre (vente) a tendance à apparaître",
+            "explain": "La résistance est l’opposé du support : c’est là que l’offre a tendance à dominer.",
+            "topic": "TA"
+        },
+        {
+            "q": "Quelle combinaison améliore le plus la fiabilité des signaux ?",
+            "options": [
+                "Utiliser un seul indicateur sur une seule unité de temps",
+                "Combiner plusieurs signaux non corrélés (tendance + momentum + structure)",
+                "Ajouter de nombreux indicateurs du même type",
+                "Ignorer la gestion du risque"
+            ],
+            "correct": "Combiner plusieurs signaux non corrélés (tendance + momentum + structure)",
+            "explain": "La confluence réduit les faux signaux ; utilisez des outils variés et vérifiez plusieurs unités de temps.",
+            "topic": "TA"
+        },
+        {
+            "q": "En marché latéral (sans tendance), quels outils sont les plus efficaces ?",
+            "options": [
+                "Uniquement les moyennes mobiles de tendance",
+                "Les oscillateurs comme le RSI ou le Stochastique",
+                "Uniquement les systèmes de cassure",
+                "Ignorer complètement le marché"
+            ],
+            "correct": "Les oscillateurs comme le RSI ou le Stochastique",
+            "explain": "Les oscillateurs permettent d’identifier les retournements aux extrêmes de range ; les MAs peuvent donner des faux signaux.",
+            "topic": "TA"
+        },
+        {
+            "q": "Quelle affirmation sur les indicateurs est la plus juste ?",
+            "options": [
+                "Ils garantissent des profits s’ils sont bien paramétrés",
+                "Ce sont des outils d’aide à la décision, pas des garanties de profit",
+                "Ils ne fonctionnent que sur les graphiques crypto",
+                "Ils remplacent la nécessité d’une gestion du risque"
+            ],
+            "correct": "Ce sont des outils d’aide à la décision, pas des garanties de profit",
+            "explain": "Aucun indicateur ne garantit le succès ; combinez-les avec une gestion du risque et de la discipline.",
+            "topic": "TA"
+        },
+        {
+            "q": "Pourquoi utiliser plusieurs unités de temps (MTF) dans l’analyse ?",
+            "options": [
+                "Pour complexifier les graphiques",
+                "Pour aligner la tendance de long terme avec les entrées de court terme",
+                "Pour éviter de placer des stop-loss",
+                "Pour éliminer la volatilité"
+            ],
+            "correct": "Pour aligner la tendance de long terme avec les entrées de court terme",
+            "explain": "L’analyse top-down améliore le contexte et le timing des entrées.",
+            "topic": "TA"
+        },
+        {
+            "q": "Quelle erreur est courante lors du backtesting d’un indicateur ?",
+            "options": [
+                "Tenir compte du slippage et du spread",
+                "Utiliser des données hors échantillon",
+                "Sur-ajuster les paramètres aux données passées",
+                "Inclure les coûts de transaction"
+            ],
+            "correct": "Sur-ajuster les paramètres aux données passées",
+            "explain": "Le sur-ajustement échoue en conditions réelles ; validez toujours sur des données nouvelles et incluez les coûts.",
+            "topic": "TA"
+        }
+    ]
+}

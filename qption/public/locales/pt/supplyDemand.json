@@ -1,0 +1,138 @@
+{
+    "seo": {
+        "title": "Oferta e Demanda em Commodities e Criptomoedas – Fatores, Choques e Sinais | Qption",
+        "description": "Entenda como produção, geopolítica, clima, halvings, adoção e fluxos de mineração/staking moldam a oferta e demanda em commodities e criptomoedas. Veja reações típicas do mercado, benefícios de acompanhar S&D e limitações principais.",
+        "url": "https://qption.com/fundamental-analysis/supply-and-demand-commodities",
+        "keywords": "oferta e demanda, commodities, criptomoedas, halving do Bitcoin, níveis de produção, risco geopolítico, choques climáticos, adoção, recompensas de mineração, recompensas de staking, sentimento de mercado, elasticidade de preço, Qption",
+        "ld": {
+            "headline": "Oferta e Demanda em Commodities e Criptomoedas – Fatores, Choques e Sinais",
+            "about": {
+                "supplyDemand": "Oferta e Demanda",
+                "commodities": "Commodities",
+                "crypto": "Criptomoedas",
+                "halving": "Halving do Bitcoin",
+                "mining": "Recompensas de Mineração",
+                "staking": "Staking",
+                "geopolitics": "Geopolítica",
+                "weather": "Condições Climáticas",
+                "sentiment": "Sentimento de Mercado"
+            },
+            "props": {
+                "scarcity": {
+                    "name": "Dinâmica de Escassez",
+                    "value": "Ofertas limitadas (como o BTC) e emissões decrescentes podem amplificar movimentos de preços impulsionados pela demanda."
+                },
+                "shock": {
+                    "name": "Sensibilidade a Choques",
+                    "value": "Os mercados de commodities reagem fortemente a choques externos (clima, conflitos) que restringem a produção."
+                },
+                "flowstock": {
+                    "name": "Fluxo vs. Estoque",
+                    "value": "Para cripto, a nova emissão (fluxo) versus o estoque existente e o comportamento dos detentores moldam a liquidez."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análise Fundamental"
+    },
+    "page": {
+        "title": "Oferta e Demanda nos Mercados de Commodities e Criptomoedas"
+    },
+    "cta": {
+        "ready": "Pronto para negociar?",
+        "start": "Comece a negociar"
+    },
+    "sections": {
+        "overview": {
+            "title": "Visão Geral",
+            "items": [
+                "Oferta e demanda são princípios econômicos fundamentais que determinam o preço e a disponibilidade de ativos, incluindo commodities e criptomoedas.",
+                "Nos mercados de commodities, a oferta é influenciada por taxas de produção, condições climáticas e fatores geopolíticos, enquanto a demanda depende da atividade econômica global e das necessidades industriais.",
+                "Nos mercados de criptomoedas, a oferta é frequentemente limitada por design (por exemplo, o fornecimento fixo do Bitcoin), e a demanda varia conforme o interesse dos investidores, regulamentações e níveis de adoção."
+            ]
+        },
+        "commodityFactors": {
+            "title": "Fatores que Influenciam a Oferta e Demanda em Commodities",
+            "items": [
+                {
+                    "label": "Níveis de Produção:",
+                    "text": "Em commodities como petróleo, metais e produtos agrícolas, os níveis de produção impactam fortemente a oferta; produção elevada tende a reduzir os preços se a demanda permanecer constante."
+                },
+                {
+                    "label": "Eventos Geopolíticos:",
+                    "text": "Conflitos, sanções e políticas comerciais podem interromper cadeias de suprimento e afetar a disponibilidade de commodities, especialmente petróleo e metais."
+                },
+                {
+                    "label": "Condições Climáticas:",
+                    "text": "Eventos climáticos como secas ou furacões podem reduzir a oferta de commodities agrícolas como trigo, café e soja, elevando os preços."
+                },
+                {
+                    "label": "Crescimento Econômico Global:",
+                    "text": "A demanda por commodities aumenta em economias em crescimento devido à expansão industrial e ao consumo, e diminui durante recessões."
+                },
+                {
+                    "label": "Energia Alternativa e Tecnologias:",
+                    "text": "O avanço das energias renováveis e inovações tecnológicas pode reduzir a demanda por commodities tradicionais como petróleo e carvão."
+                }
+            ]
+        },
+        "cryptoFactors": {
+            "title": "Fatores que Influenciam a Oferta e Demanda em Criptomoedas",
+            "fixed": {
+                "title": "1. Oferta Fixa e Halvings",
+                "items": [
+                    "Muitas criptomoedas, como o Bitcoin, têm um fornecimento máximo fixo. Essa escassez pode aumentar a demanda ao longo do tempo.",
+                    "Os halvings do Bitcoin, que reduzem a taxa de criação de novos bitcoins, diminuem a oferta e geralmente impulsionam os preços à medida que o mercado se ajusta."
+                ]
+            },
+            "sentiment": {
+                "title": "2. Sentimento de Mercado e Adoção",
+                "items": [
+                    "A demanda por criptomoedas é fortemente influenciada pelo sentimento de mercado, afetado por notícias, mudanças regulatórias e apoio de figuras influentes.",
+                    "A adoção por empresas, instituições e consumidores aumenta a demanda, à medida que mais participantes usam criptomoedas para transações, poupança ou proteção contra inflação."
+                ]
+            },
+            "rewards": {
+                "title": "3. Recompensas de Mineração e Staking",
+                "items": [
+                    "As recompensas de mineração e staking introduzem nova oferta no mercado, impactando os preços de acordo com o nível de demanda.",
+                    "Mudanças na dificuldade de mineração ou nas taxas de recompensa podem alterar o ritmo de emissão e influenciar a liquidez do mercado."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Reações do Mercado às Mudanças na Oferta e Demanda",
+            "commodity": {
+                "title": "1. Mercados de Commodities",
+                "items": [
+                    "Quando a oferta diminui (por exemplo, devido ao clima ou tensões geopolíticas), os preços geralmente sobem por causa da escassez.",
+                    "Durante períodos de alta demanda, como fases de crescimento econômico, os preços das commodities tendem a subir com o aumento do consumo industrial."
+                ]
+            },
+            "crypto": {
+                "title": "2. Mercados de Criptomoedas",
+                "items": [
+                    "Quando a demanda por criptomoedas aumenta, os preços frequentemente sobem rapidamente, especialmente para ativos com oferta limitada, como o Bitcoin.",
+                    "Choques de oferta, como a redução das recompensas de mineração após um halving, podem levar a fortes altas de preços devido à expectativa de menor oferta futura."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefícios de Entender a Oferta e Demanda no Trading",
+            "items": [
+                "Melhor Timing de Mercado: Reconhecer mudanças de oferta e demanda ajuda os traders a prever movimentos de preço e ajustar suas posições.",
+                "Decisões de Investimento Aprimoradas: Entender a dinâmica de oferta e demanda em commodities e criptomoedas permite decisões de alocação de ativos mais informadas.",
+                "Planejamento de Longo Prazo: Em ativos com oferta fixa, como o Bitcoin, analisar as tendências de demanda auxilia na compreensão do potencial de preço a longo prazo."
+            ]
+        },
+        "limits": {
+            "title": "Limitações da Análise de Oferta e Demanda",
+            "items": [
+                "Volatilidade de Mercado: Tanto os mercados de commodities quanto os de criptomoedas são altamente voláteis, podendo apresentar movimentos inesperados.",
+                "Influência da Especulação: A negociação especulativa, especialmente em criptomoedas, pode distorcer a verdadeira dinâmica de oferta e demanda.",
+                "Fatores Externos: Eventos geopolíticos, mudanças regulatórias e avanços tecnológicos podem alterar a oferta e demanda de forma imprevisível."
+            ]
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "seo": {
+        "title": "Política de Prevenção à Lavagem de Dinheiro (AML) e Financiamento ao Terrorismo (CTF) | Qption",
+        "description": "Política AML e CTF da Qption: definições, etapas, responsabilidades de funcionários e clientes, verificações KYC, e medidas contra transações suspeitas.",
+        "url": "https://qption.com/aml-kyc"
+    },
+    "hero": {
+        "title": "Política AML e CTF"
+    },
+    "sections": [
+        {
+            "title": "1. Política geral",
+            "items": [
+                "A empresa proíbe e combate ativamente a lavagem de dinheiro e o financiamento ao terrorismo. Todos os funcionários e parceiros devem seguir essas normas."
+            ]
+        },
+        {
+            "title": "2. Definição de lavagem de dinheiro",
+            "items": [
+                "A lavagem de dinheiro é o processo de disfarçar a origem de fundos obtidos ilegalmente, fazendo-os parecer legítimos."
+            ]
+        },
+        {
+            "title": "3. Etapas da lavagem de dinheiro",
+            "items": [
+                "Colocação: o dinheiro ilícito entra no sistema financeiro.",
+                "Estruturação: movimentação de fundos entre contas para ocultar sua origem.",
+                "Integração: reintrodução dos fundos na economia por meio de ativos legais."
+            ]
+        },
+        {
+            "title": "4. Responsabilidades dos funcionários",
+            "items": [
+                "Os funcionários devem conhecer e cumprir as leis e regulamentos relacionados à AML."
+            ]
+        },
+        {
+            "title": "5. Programa de Conformidade AML",
+            "items": [
+                "A empresa possui um programa contínuo para garantir o cumprimento das leis e reduzir riscos de lavagem de dinheiro."
+            ]
+        },
+        {
+            "title": "6. Conformidade de afiliados",
+            "items": [
+                "Todos os afiliados devem seguir as políticas AML e KYC."
+            ]
+        },
+        {
+            "title": "7. Retenção de documentos",
+            "items": [
+                "Os documentos de identificação e registros de serviço são mantidos pelo período exigido por lei."
+            ]
+        },
+        {
+            "title": "8. Treinamento de funcionários",
+            "items": [
+                "Novos funcionários recebem treinamento AML e todos os funcionários participam de treinamentos anuais KYC/AML."
+            ]
+        },
+        {
+            "title": "9. Obrigações dos clientes",
+            "items": [
+                "Os clientes devem garantir que os fundos depositados sejam de origem legítima."
+            ]
+        },
+        {
+            "title": "10. Verificações KYC e AML",
+            "items": [
+                "A empresa pode realizar verificações KYC e AML para cumprir regulações e prevenir crimes financeiros."
+            ]
+        },
+        {
+            "title": "11. Transações suspeitas",
+            "items": [
+                "Transações suspeitas podem resultar na suspensão ou bloqueio da conta até o fim da investigação."
+            ]
+        },
+        {
+            "title": "12. Solicitação de documentação",
+            "items": [
+                "Durante investigações, a empresa pode solicitar documentos de identidade e prova de origem dos fundos."
+            ]
+        },
+        {
+            "title": "13. Proibição de atividades ilegais",
+            "items": [
+                "É estritamente proibido usar os serviços da empresa para atividades ilegais ou fraudulentas."
+            ]
+        },
+        {
+            "title": "14. Responsabilidade da empresa",
+            "items": [
+                "A recusa da empresa em processar transações suspeitas não gera responsabilidade perante o cliente ou terceiros."
+            ]
+        }
+    ]
+}

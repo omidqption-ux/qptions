@@ -1,0 +1,55 @@
+{
+    "seo": {
+        "title": "Social Trading – Follow Our Top Traders | Qption",
+        "description": "Discover Qption’s social-trading hub: subscribe to live trade ideas from our lead traders, mirror their strategies, and never miss a market move. Follow us on X, Telegram, YouTube and Instagram for real-time signals and education.",
+        "keywords": "Qption social trading, copy trading, follow top traders, trading signals, forex signals, crypto signals, Telegram trading group, YouTube trading channel, trading education",
+        "ogType": "website",
+        "ogTitle": "Social Trading – Follow Our Top Traders | Qption",
+        "ogDescription": "Join the Qption social-trading community: connect on X, Telegram, YouTube and Instagram, copy pro strategies and trade with confidence.",
+        "ogUrl": "https://qption.com/socialTrading",
+        "ogImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "Social Trading – Follow Our Top Traders | Qption",
+        "twitterDescription": "Follow Qption’s lead traders for real-time forex & crypto signals, market commentary and educational streams.",
+        "twitterImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "canonical": "https://qption.com/socialTrading",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "Social Trading",
+        "introBullets": [
+            "Watch other traders, trade in real-time.",
+            "Trade with other investors and your friends.",
+            "Experience the confidence of VIP traders and let their results inspire your growth."
+        ],
+        "video": {
+            "src": "/videos/socialTrading3.mp4",
+            "poster": "/videos/socialTrading.jpg",
+            "aria": "Qption allows users to replicate the strategies of leading traders, automatically matching their trades while letting you control the investment percentage and set personalized profit targets for your portfolio. This helps you benefit from expert insights without constant manual effort. Don’t wait—open your account now and get a 200% bonus to supercharge your first trades with top market experts!"
+        },
+        "followUs": "Follow us on",
+        "social": {
+            "facebook": {
+                "label": "Facebook",
+                "handle": "facebook/qption",
+                "aria": "Qption on Facebook"
+            },
+            "twitter": {
+                "label": "Twitter",
+                "handle": "twitter/qption",
+                "aria": "Qption on Twitter"
+            },
+            "instagram": {
+                "label": "Instagram",
+                "handle": "instagram/qption",
+                "aria": "Qption on Instagram"
+            },
+            "youtube": {
+                "label": "YouTube",
+                "handle": "youtube/qption",
+                "aria": "Qption on YouTube"
+            }
+        }
+    }
+}

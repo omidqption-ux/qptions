@@ -1,0 +1,90 @@
+{
+    "seo": {
+        "title": "Strategia Bande di Bollinger – Analisi Tecnica | Qption",
+        "description": "Padroneggia il trading basato sulla volatilità con le Bande di Bollinger: configurazioni squeeze, inversioni ipercomprato/ipervenduto e trend-following. Guida completa su Qption.",
+        "keywords": "Bande di Bollinger, analisi tecnica, squeeze, ipercomprato, ipervenduto, trend following, volatilità, strategia di trading, Qption",
+        "ogTitle": "Strategia Bande di Bollinger – Analisi Tecnica | Qption",
+        "ogDescription": "Guida pratica all’uso delle Bande di Bollinger per individuare squeeze, inversioni e continuazioni di trend.",
+        "url": "https://qption.com/technical-analysis/bollinger",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Strategia di Trading"
+    },
+    "labels": {
+        "backToTechnical": "Analisi Tecnica",
+        "videoAria": "Le Bande di Bollinger sono uno strumento di analisi tecnica usato per misurare la volatilità del mercato e identificare condizioni di ipercomprato o ipervenduto."
+    },
+    "promo": {
+        "text": "Pronto a fare trading con le Bande di Bollinger?",
+        "cta": "Inizia a Fare Trading"
+    },
+    "hero": {
+        "title": "Strategia Bande di Bollinger",
+        "subtitle": "Padroneggia il trading basato sulla volatilità con la nostra analisi completa delle Bande di Bollinger"
+    },
+    "overview": {
+        "title": "Panoramica",
+        "bullets": [
+            "Le Bande di Bollinger sono uno strumento popolare di analisi tecnica per misurare la volatilità e individuare zone di ipercomprato o ipervenduto.",
+            "L’indicatore comprende tre linee: una banda centrale (di solito una media mobile a 20 periodi) e bande superiore/inferiore distanziate di alcune deviazioni standard.",
+            "Aiutano i trader ad anticipare i movimenti di prezzo analizzando la relazione tra prezzo e volatilità."
+        ]
+    },
+    "how": {
+        "title": "Come Funzionano le Bande di Bollinger",
+        "items": [
+            {
+                "title": "Banda Centrale",
+                "desc": "Media mobile (di solito a 20 periodi) che ammorbidisce i dati di prezzo e mostra il trend principale."
+            },
+            {
+                "title": "Banda Superiore",
+                "desc": "Di norma impostata a 2 deviazioni standard sopra la media; il prezzo che la tocca può segnalare ipercomprato."
+            },
+            {
+                "title": "Banda Inferiore",
+                "desc": "Impostata a 2 deviazioni standard sotto la media; il prezzo vicino può indicare ipervenduto."
+            },
+            {
+                "title": "Interpretazione della Volatilità",
+                "desc": "Le bande si allargano durante alta volatilità e si restringono durante bassa volatilità, spesso prima di cambi di trend o breakout."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Strategie Principali",
+        "items": [
+            {
+                "title": "1. Bollinger Band Squeeze",
+                "points": [
+                    "Formazione: Le bande si contraggono, segnalando bassa volatilità e potenziale movimento imminente.",
+                    "Interpretazione: Rottura sopra la banda superiore → continuazione rialzista; sotto la banda inferiore → continuazione ribassista.",
+                    "Conferma: Usa volume o indicatori aggiuntivi per validare la direzione del breakout."
+                ]
+            },
+            {
+                "title": "2. Inversioni Ipercomprato/Ipervenduto",
+                "points": [
+                    "Ipercomprato: Prezzo oltre la banda superiore può anticipare un’inversione ribassista.",
+                    "Ipervenduto: Prezzo oltre la banda inferiore può anticipare un’inversione rialzista.",
+                    "Conferma: RSI o oscillatori simili migliorano l’affidabilità."
+                ]
+            },
+            {
+                "title": "3. Cavalcare le Bande (Trend Following)",
+                "points": [
+                    "Segnale di Trend: Prezzo che segue la banda superiore indica un trend rialzista forte; inferiore = trend ribassista.",
+                    "Entrata/Uscita: Segui il trend usando la banda centrale come stop dinamico."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitazioni",
+        "bullets": [
+            "Indicatore Ritardato: Basato su prezzi storici, può reagire lentamente ai movimenti improvvisi.",
+            "Falsi Segnali: Nei mercati laterali può generare segnali ingannevoli."
+        ]
+    }
+}

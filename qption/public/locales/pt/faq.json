@@ -1,0 +1,108 @@
+{
+    "seo": {
+        "title": "Perguntas Frequentes – Qption",
+        "description": "Encontre respostas rápidas para as perguntas mais comuns sobre a plataforma de negociação de opções da Qption, preços, segurança e suporte.",
+        "keywords": "FAQ Qption, ajuda negociação de opções, taxas, segurança de conta, depósitos, retiradas, resolução de problemas",
+        "ogDescription": "Tudo o que você precisa saber sobre usar a Qption — compilado em uma prática página de Perguntas Frequentes.",
+        "twitterDescription": "Tem perguntas? Encontre respostas rápidas no FAQ da Qption.",
+        "url": "https://qption.com/faq",
+        "ogImage": "https://qption.com/images/og/faq-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Perguntas Frequentes",
+        "subtitle": "Encontre respostas para perguntas comuns sobre nossa plataforma e serviços"
+    },
+    "faqs": [
+        {
+            "icon": "chartLine",
+            "q": "O que é negociação de opções?",
+            "a": "Negociação de opções envolve comprar e vender contratos de opções, que lhe dão o direito (mas não a obrigação) de comprar ou vender um ativo a um preço especificado dentro de um determinado período de tempo. Isso permite que os traders potencialmente lucrem com os movimentos de preço do ativo sem possuir o ativo em si."
+        },
+        {
+            "icon": "idCard",
+            "q": "Como verifico minha conta e quais documentos são necessários?",
+            "a": "Para verificar sua conta, você precisará primeiro fazer um depósito e fornecer uma foto colorida do seu documento de identidade principal válido (passaporte ou carteira de identidade nacional)… Para depósitos com cartão, podemos solicitar também seu extrato de cartão para verificar a autenticidade. Certifique-se de que os documentos estejam nítidos e legíveis."
+        },
+        {
+            "icon": "moneyBill",
+            "q": "Qual é o valor mínimo de depósito e retirada?",
+            "a": "Depósito e retirada mínimos: 10 $ (ou equivalente na moeda que você escolher)."
+        },
+        {
+            "icon": "wallet",
+            "q": "Como posso fazer uma retirada e quais métodos de pagamento estão disponíveis para isso?",
+            "a": "Vá até FINANCE e crie uma solicitação de retirada. Os fundos depositados voltam para a fonte original (cartão/ e‐wallet). Os lucros são enviados para uma das suas e-wallets verificadas. Não são permitidos cartões/ carteiras de terceiros."
+        },
+        {
+            "icon": "handshake",
+            "q": "Posso me tornar parceiro comercial de vocês?",
+            "a": "Você pode ganhar sem depósito por meio do nosso Programa de Indicação. Compartilhe seu código de referido, convide novos clientes e receba fundos reais. Veja 'Become a Partner' para mais detalhes."
+        },
+        {
+            "icon": "coins",
+            "q": "Quanto posso ganhar na plataforma?",
+            "a": "Os ganhos dependem da sua estratégia, das condições de mercado e do gerenciamento de risco. A negociação envolve risco; os lucros não são garantidos."
+        },
+        {
+            "icon": "exchange",
+            "q": "Como começo a negociar na Qption?",
+            "a": "Crie uma conta, complete a verificação e faça um depósito inicial. Em seguida, acesse a plataforma e comece a negociar."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Quais tipos de opções estão disponíveis para negociação?",
+            "a": "Oferecemos vários tipos de opções, incluindo opções binárias, opções digitais e opções FX. Cada uma possui características e riscos distintos."
+        },
+        {
+            "icon": "chartLine",
+            "q": "Quais ativos de negociação estão disponíveis na plataforma?",
+            "a": "Forex, ações, commodities e índices — permitindo diversificação entre classes de ativos."
+        },
+        {
+            "icon": "coins",
+            "q": "Quanto lucro posso obter em uma única negociação?",
+            "a": "O potencial de lucro varia conforme o tipo de opção, o tamanho da negociação e as condições de mercado. Lembre-se: perdas também são possíveis."
+        },
+        {
+            "icon": "warning",
+            "q": "Negociar opções é arriscado?",
+            "a": "Sim. Os mercados podem ser imprevisíveis. Use gestão de risco e negocie de forma responsável."
+        },
+        {
+            "icon": "tools",
+            "q": "Que ferramentas de negociação e indicadores a Qption oferece?",
+            "a": "Médias móveis, Bandas de Bollinger, RSI, MACD e mais para apoiar a análise de mercado."
+        },
+        {
+            "icon": "clock",
+            "q": "Quanto tempo leva para retirar fundos?",
+            "a": "Normalmente 1 a 24 horas, dependendo do método. Processamos o mais rápido possível."
+        },
+        {
+            "icon": "creditCard",
+            "q": "Há taxas para negociar na Qption?",
+            "a": "Não cobramos comissões na maioria das negociações, mas algumas opções podem ter taxas ou spreads. Consulte nossa página de Estrutura de Taxas para mais detalhes."
+        },
+        {
+            "icon": "lock",
+            "q": "Minhas informações pessoais e financeiras estão seguras?",
+            "a": "Sim. Utilizamos criptografia avançada e padrões do setor para proteger seus dados."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Qual é a diferença entre opções binárias e digitais?",
+            "a": "Opções binárias têm pagamentos fixos. Opções digitais oferecem pagamentos variáveis com base na distância até o preço de exercício."
+        },
+        {
+            "icon": "headset",
+            "q": "Qual é o horário de atendimento ao cliente de vocês?",
+            "a": "24 horas por dia, 7 dias por semana por chat ao vivo, e-mail ou telefone."
+        },
+        {
+            "icon": "wallet",
+            "q": "Como posso depositar fundos na minha conta?",
+            "a": "Cartões de crédito/débito, transferências bancárias e e-wallets (disponibilidade varia por região)."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "Moving Averages Strategy (SMA & EMA) – Technical Analysis | Qption",
+        "description": "Master trend following with Moving Averages: SMA vs EMA, crossovers (Golden/Death Cross), dynamic support/resistance, MA ribbons, and key limitations—complete guide for traders.",
+        "keywords": "moving averages, SMA, EMA, moving average crossover, golden cross, death cross, moving average ribbon, dynamic support and resistance, trend following, momentum, technical analysis, Qption",
+        "ogTitle": "Moving Averages Strategy (SMA & EMA) – Technical Analysis | Qption",
+        "ogDescription": "Learn SMA vs EMA, how crossovers work, dynamic S/R with MAs, and MA ribbons to level up your trading.",
+        "url": "https://qption.com/technical-analysis/moving-averages",
+        "image": "https://qption.com/videos/moving-average/moving-average.png",
+        "imageAlt": "Moving Averages strategy explained on a chart"
+    },
+    "labels": {
+        "backToTechnical": "Technical Analysis",
+        "backToGraphical": "Back to Graphical Analysis"
+    },
+    "promo": {
+        "text": "Ready to trade with Moving Averages?",
+        "cta": "Start Trading"
+    },
+    "hero": {
+        "title": "Moving Averages Strategy",
+        "subtitle": "Master trend following and momentum trading with our comprehensive Moving Averages analysis"
+    },
+    "video": {
+        "aria": "Moving averages (MAs) are popular technical analysis tools used to smooth price data and help identify trends and reversals."
+    },
+    "overview": {
+        "title": "Overview",
+        "bullets": [
+            "Moving averages (MAs) smooth price data to make trends and reversals easier to spot.",
+            "The two most common types are Simple Moving Average (SMA) and Exponential Moving Average (EMA), which use different weighting methods.",
+            "MAs help traders identify trend direction, generate trade signals, and find dynamic support and resistance."
+        ]
+    },
+    "how": {
+        "title": "How Moving Averages Work",
+        "items": [
+            {
+                "title": "Simple Moving Average (SMA)",
+                "desc": "An average of recent prices with equal weighting—great for general trend analysis."
+            },
+            {
+                "title": "Exponential Moving Average (EMA)",
+                "desc": "Weights recent prices more heavily—faster response to market changes; favored in fast markets."
+            },
+            {
+                "title": "Trend Identification",
+                "desc": "Price above the MA suggests a bullish trend; price below the MA suggests a bearish trend."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Key Strategies",
+        "items": [
+            {
+                "title": "Moving Average Crossover",
+                "points": [
+                    "Golden Cross: A short-term MA (e.g., 50-day) crosses above a long-term MA (e.g., 200-day) — bullish signal.",
+                    "Death Cross: A short-term MA crosses below a long-term MA — bearish signal."
+                ]
+            },
+            {
+                "title": "Dynamic Support and Resistance",
+                "points": [
+                    "Uptrends: MAs often act as dynamic support where price bounces.",
+                    "Downtrends: MAs can act as dynamic resistance, pushing price lower."
+                ]
+            },
+            {
+                "title": "Moving Average Ribbon Strategy",
+                "points": [
+                    "Setup multiple MAs (e.g., 10, 20, 50, 100, 200) to create a ribbon.",
+                    "When the ribbon is aligned in one direction, it often signals a strong trend."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitations",
+        "bullets": [
+            "Moving averages are lagging indicators and can react slowly to sudden market changes.",
+            "They can produce false signals in choppy or ranging markets."
+        ]
+    }
+}

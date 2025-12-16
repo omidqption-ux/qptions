@@ -1,0 +1,83 @@
+{
+    "seo": {
+        "title": "Strategie di trading – Setup e segnali collaudati | Qption",
+        "description": "Esplora la libreria curata di strategie Qption: scalping, day trading, swing e position con regole d’ingresso, gestione del rischio e dati di performance live.",
+        "keywords": "strategie di trading, strategie forex, strategie crypto, scalping, day trading, swing trading, position trading, gestione del rischio, segnali Qption",
+        "ogTitle": "Strategie di trading – Setup e segnali collaudati | Qption",
+        "ogDescription": "Dai breakout momentum ai trade di mean-reversion—scopri le regole esatte che seguono i nostri analisti e replica tutto sul tuo account.",
+        "url": "https://qption.com/trading-strategies",
+        "image": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Strategie di trading – Setup e segnali collaudati | Qption",
+        "twitterDescription": "Impara, passo dopo passo, le regole che i nostri lead trader applicano su forex e crypto.",
+        "twitterImage": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "canonical": "https://qption.com/trading-strategies"
+    },
+    "hero": {
+        "title": "Strategie di trading",
+        "subtitle": "Padroneggia strategie comprovate—dai rapidissimi scalping ai long swing—con setup chiari basati su regole che trasformano l’intuizione in azione."
+    },
+    "cta": {
+        "learnMore": "Scopri di più"
+    },
+    "quiz": {
+        "link": "/trading-strategy/quiz-trading-strategy",
+        "cta": "Fai il quiz sulle strategie"
+    },
+    "cards": [
+        {
+            "title": "Strategia V-Bounce con spike di volume",
+            "link": "/trading-strategy/v-bounce",
+            "icon": "chartBar"
+        },
+        {
+            "title": "Strategia Martingala",
+            "link": "/trading-strategy/martingale",
+            "icon": "chartLine"
+        },
+        {
+            "title": "Strategia Reversal",
+            "link": "/trading-strategy/reversal",
+            "icon": "chartPie"
+        },
+        {
+            "title": "Strategia Breakout",
+            "link": "/trading-strategy/breakout",
+            "icon": "chartArea"
+        },
+        {
+            "title": "Strategia Alligator",
+            "link": "/trading-trategy/alligator",
+            "icon": "globe"
+        },{
+            "title": "Strategia Bande di Bollinger",
+            "link": "/trading-strategy/bollinger",
+            "icon": "bitcoin"
+        },
+        {
+            "title": "Strategia Medie Mobili",
+            "link": "/trading-strategy/moving-average",
+            "icon": "coins"
+        },
+        {
+            "title": "Strategia Three Methods",
+            "link": "/trading-strategy/threeMethods",
+            "icon": "chartPie"
+        },
+        {
+            "title": "Strategia Tweezer",
+            "link": "/trading-strategy/tweezersStrategy",
+            "icon": "trophy"
+        },
+        {
+            "title": "Strategia candlestick Squat",
+            "link": "/trading-strategy/squat-candle-stick",
+            "icon": "exchange"
+        },
+        {
+            "title": "Strategia candlestick Engulfing",
+            "link": "/trading-strategy/engulfing-candlestick",
+            "icon": "dollar"
+        }
+    ]
+}

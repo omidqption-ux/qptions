@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "Estrategia de Velas Squat – Señales de agotamiento y reversión con alto volumen | Qption",
+        "description": "Aprende la estrategia de velas Squat: identifica velas con alto volumen, cuerpo pequeño y mechas largas que indican agotamiento del mercado cerca de niveles clave. Descubre cómo reconocer velas Squat en tendencias alcistas y bajistas, confirmar con volumen y establecer entradas, salidas y controles de riesgo.",
+        "keywords": "vela squat, estrategia squat, alto volumen, cuerpo pequeño, agotamiento del mercado, señales de reversión, soporte y resistencia, análisis de volumen, gestión de riesgo, estrategia de trading, Qption",
+        "ogAlt": "Patrón de vela Squat que muestra agotamiento del mercado y señal de reversión",
+        "ld": {
+            "headline": "Estrategia de Velas Squat – Señales de agotamiento y reversión con alto volumen"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estrategia de trading"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "startTrading": "Comenzar a operar"
+    },
+    "hero": {
+        "title": "Estrategia de Velas Squat",
+        "subtitle": "La estrategia de velas Squat se centra en identificar velas con alto volumen pero movimiento de precio limitado — una señal de lucha entre compradores y vendedores. Estas velas suelen aparecer antes de fuertes rupturas o reversiones, ayudando a los traders a anticipar puntos de giro con mejor tiempo y confirmación."
+    },
+    "video": {
+        "aria": "Aparece durante una tendencia alcista cerca de la resistencia, con una vela de cuerpo pequeño y alto volumen, indicando agotamiento y posible reversión."
+    },
+    "overview": {
+        "title": "Resumen general",
+        "items": {
+            "1": "La estrategia de velas Squat ayuda a identificar posibles reversiones o señales de agotamiento del mercado.",
+            "2": "Se basa en detectar velas únicas con alto volumen y movimiento de precio limitado.",
+            "3": "Estas velas suelen formarse al final de una tendencia o cerca de zonas de soporte y resistencia, mostrando indecisión en el mercado."
+        }
+    },
+    "identify": {
+        "title": "1. Cómo identificar una vela Squat",
+        "items": {
+            "1": "Tiene un cuerpo pequeño, lo que indica poco movimiento entre apertura y cierre.",
+            "2": "Presenta mechas largas, mostrando rechazo de precios en ambos extremos.",
+            "3": "Tiene un volumen inusualmente alto, reflejando fuerte interés o lucha entre compradores y vendedores.",
+            "4": "Suele formarse cerca de niveles clave de soporte o resistencia, indicando una posible reversión o ruptura."
+        }
+    },
+    "uptrend": {
+        "title": "2. Vela Squat en tendencia alcista",
+        "items": {
+            "1": "Formación: Aparece durante una tendencia alcista cerca de la resistencia, con alto volumen y cuerpo pequeño.",
+            "2": "Interpretación: Indica agotamiento de los compradores cuando el precio no logra romper la resistencia.",
+            "3": "Confirmación: Una vela bajista posterior confirma la posible reversión.",
+            "4": "Ejecución: Los traders pueden abrir una posición corta cuando la siguiente vela cierra por debajo del mínimo de la vela Squat."
+        }
+    },
+    "downtrend": {
+        "title": "3. Vela Squat en tendencia bajista",
+        "items": {
+            "1": "Formación: Aparece durante una tendencia bajista cerca del soporte, con alto volumen y cuerpo pequeño.",
+            "2": "Interpretación: Indica agotamiento de los vendedores cuando el precio no logra romper el soporte.",
+            "3": "Confirmación: Una vela alcista posterior confirma la posible reversión.",
+            "4": "Ejecución: Los traders pueden abrir una posición larga cuando la siguiente vela cierra por encima del máximo de la vela Squat."
+        }
+    },
+    "use": {
+        "title": "Cómo usar la estrategia de velas Squat",
+        "items": {
+            "1": "Combina las velas Squat con indicadores de volumen para confirmar la fuerza de la señal.",
+            "2": "Busca velas Squat formadas cerca de niveles de soporte o resistencia para aumentar la precisión.",
+            "3": "Coloca órdenes de stop-loss justo más allá del máximo o mínimo de la vela Squat para gestionar el riesgo."
+        }
+    },
+    "pros": {
+        "title": "Ventajas",
+        "items": {
+            "1": "Señal temprana de reversión – indica agotamiento del mercado antes del cambio de tendencia.",
+            "2": "Confirmación con alto volumen que mejora la fiabilidad de la señal.",
+            "3": "Funciona bien junto a otros indicadores como volumen, medias móviles y niveles de soporte/resistencia."
+        }
+    },
+    "cons": {
+        "title": "Desventajas",
+        "items": {
+            "1": "Requiere confirmación – necesita una vela posterior para evitar señales falsas.",
+            "2": "Menos efectiva en mercados laterales – puede generar señales falsas en movimientos sin tendencia.",
+            "3": "Sensibilidad al volumen – un alto volumen sin movimiento de precio puede ser engañoso."
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "seo": {
+        "title": "Programa de Afiliados – Gana hasta el 40% de revenue share | Qption",
+        "description": "Asóciate con Qption y convierte tu audiencia en ingresos. Gana comisiones flexibles por CPA o revenue share, con seguimiento en tiempo real y pagos semanales por cada trader referido.",
+        "keywords": "afiliados Qption, programa de afiliación trading, CPA forex, afiliados cripto, revenue share, programa de socios, referir traders, programa IB, asociación con bróker",
+        "ogTitle": "Programa de Afiliados – Gana hasta el 40% de revenue share | Qption",
+        "ogDescription": "Únete al Programa de Afiliados de Qption y recibe pagos líderes del sector, recursos de marketing y soporte dedicado.",
+        "url": "https://qption.com/affiliate",
+        "image": "https://qption.com/images/og/affiliate-qption.jpg"
+    },
+    "hero": {
+        "title": "Programa de Afiliados",
+        "subtitle": "Únete a nuestro programa de afiliados y empieza a ganar comisiones al referir traders a nuestra plataforma. Elige el plan que mejor se ajuste a tus objetivos."
+    },
+    "tabs": {
+        "basic": "Básico",
+        "pro": "Pro",
+        "elite": "Élite"
+    },
+    "labels": {
+        "commission": "Comisión",
+        "incomePotential": "Potencial de ingresos",
+        "featuresTitle": "Características",
+        "benefitsTitle": "Beneficios del programa"
+    },
+    "stats": [
+        {
+            "title": "Afiliados activos",
+            "value": "10,000+"
+        },
+        {
+            "title": "Pagos totales",
+            "value": "$5M+"
+        },
+        {
+            "title": "Tasa de éxito",
+            "value": "95%"
+        }
+    ],
+    "plans": [
+        {
+            "title": "Programa de Afiliados Básico",
+            "subtitle": "Nivel inicial",
+            "description": "Perfecto para principiantes que desean empezar a ganar con un compromiso mínimo. Construye tu red y obtén comisiones constantes.",
+            "commission": "5-10%",
+            "income": "$50 - $500/mes",
+            "gradient": "bg-linear-to-br from-green-500/20 to-green-500/5",
+            "features": [
+                {
+                    "title": "Comisión por referidos directos",
+                    "description": "Comisión del 5-10% sobre las comisiones de trading generadas por tus referidos directos."
+                },
+                {
+                    "title": "Bono único por registro",
+                    "description": "Pequeño bono por cada referido directo que se convierta en usuario activo."
+                },
+                {
+                    "title": "Soporte de marketing",
+                    "description": "Acceso a materiales de marketing básicos y tutoriales para ayudarte a promocionar."
+                }
+            ]
+        },
+        {
+            "title": "Programa de Afiliados Pro",
+            "subtitle": "Nivel intermedio",
+            "description": "Para marketers con experiencia que buscan escalar sus ingresos. Acceso a herramientas avanzadas y comisiones multinivel.",
+            "commission": "10-15%",
+            "income": "$500 - $2,000/mes",
+            "gradient": "bg-linear-to-br from-green-500/30 to-green-500/10",
+            "features": [
+                {
+                    "title": "Comisión por referidos directos",
+                    "description": "10-15% sobre las comisiones de trading generadas por tus referidos directos."
+                },
+                {
+                    "title": "Comisión de segundo nivel",
+                    "description": "3-5% sobre las comisiones de trading de los referidos captados por tus referidos directos."
+                },
+                {
+                    "title": "Bonos por desempeño",
+                    "description": "Bonos adicionales al alcanzar objetivos de referidos."
+                },
+                {
+                    "title": "Recursos de marketing avanzados",
+                    "description": "Acceso a materiales promocionales mejorados y sesiones de estrategia."
+                }
+            ]
+        },
+        {
+            "title": "Programa de Afiliados Élite",
+            "subtitle": "Nivel avanzado",
+            "description": "Para top performers que desean maximizar sus ingresos. Acceso a beneficios exclusivos y las tasas de comisión más altas.",
+            "commission": "15-20%",
+            "income": "$2,000 - $10,000/mes",
+            "gradient": "bg-linear-to-br from-green-500/40 to-green-500/15",
+            "features": [
+                {
+                    "title": "Comisión por referidos directos",
+                    "description": "15-20% sobre las comisiones de trading de tus referidos directos."
+                },
+                {
+                    "title": "Comisión multinivel",
+                    "description": "5% en segundo nivel, 2% en tercer nivel y 1% en cuarto nivel."
+                },
+                {
+                    "title": "Paquete de marketing VIP",
+                    "description": "Materiales de marketing personalizables y landing pages dedicadas."
+                },
+                {
+                    "title": "Bonos de liderazgo",
+                    "description": "Bonos especiales para afiliados que ayudan a su equipo a alcanzar nivel Pro o Élite."
+                },
+                {
+                    "title": "Soporte exclusivo",
+                    "description": "Acceso a un gestor de afiliados dedicado y a eventos exclusivos."
+                }
+            ]
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Ingresos residuales",
+            "description": "Gana comisiones continuas por la actividad de trading de tu red.",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/5"
+        },
+        {
+            "title": "Crecimiento estructurado",
+            "description": "Construye y escala tu red con nuestra estructura multinivel probada.",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/10"
+        },
+        {
+            "title": "Recompensas por desempeño",
+            "description": "Obtén bonos e incentivos al alcanzar metas y hitos.",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/15"
+        }
+    ],
+    "cta": {
+        "join": "Únete a nuestro Programa de Afiliados"
+    }
+}

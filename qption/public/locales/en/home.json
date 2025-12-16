@@ -1,0 +1,216 @@
+{
+    "hero": {
+        "newsBar": {
+            "title": "Latest Market News"
+        },
+        "marketBar": {
+            "title": "Market Overview"
+        },
+        "slides": [
+            {
+                "title": "<strong>Qption</strong> Trading Platform",
+                "subtitle": "Professional Trading Made Simple",
+                "bullets": [
+                    {
+                        "title": "Fast Execution",
+                        "desc": "Ultra-low latency"
+                    },
+                    {
+                        "title": "Secure Platform",
+                        "desc": "Bank-level security"
+                    },
+                    {
+                        "title": "Low Fees",
+                        "desc": "Competitive costs"
+                    }
+                ]
+            },
+            {
+                "title": "<strong>AI-Powered</strong> Trading Solutions",
+                "subtitle": "Smart Trading with Advanced AI Technology",
+                "bullets": [
+                    {
+                        "title": "AI Analysis",
+                        "desc": "Smart market insights"
+                    },
+                    {
+                        "title": "Real-time Data",
+                        "desc": "Live market updates"
+                    },
+                    {
+                        "title": "Risk Management",
+                        "desc": "Smart protection"
+                    }
+                ]
+            },
+            {
+                "title": "<strong>Global</strong> Market Access",
+                "subtitle": "Trade Anywhere, Anytime",
+                "bullets": [
+                    {
+                        "title": "Global Markets",
+                        "desc": "Worldwide access"
+                    },
+                    {
+                        "title": "24/7 Trading",
+                        "desc": "Always available"
+                    },
+                    {
+                        "title": "Multiple Assets",
+                        "desc": "Diverse options"
+                    }
+                ]
+            }
+        ],
+        "images": {
+            "hero1Alt": "Trading Platform",
+            "hero2Alt": "Trading Platform – angled",
+            "hero3Alt": "Trading Platform – dashboard"
+        }
+    },
+    "benefits": {
+        "heading": "Trading <accent>Benefits</accent>",
+        "sub": "Trade smarter, faster, and better — experience our platform.",
+        "cards": [
+            {
+                "title": "$50,000 demo account",
+                "desc": "Try out your investment strategies with a free demo account.",
+                "features": [
+                    "Real-time market data",
+                    "Advanced trading tools",
+                    "Risk-free practice",
+                    "Full platform access"
+                ],
+                "alt": "Demo Account"
+            },
+            {
+                "title": "200% Bonus",
+                "desc": "Get a 200% bonus on your first deposit. Boost your trading potential with our generous welcome offer.",
+                "features": [
+                    "200% bonus on first deposit",
+                    "Instant bonus activation",
+                    "Trade with bonus funds",
+                    "Multiple payment methods"
+                ],
+                "alt": "Bonus"
+            },
+            {
+                "title": "24/7 Support",
+                "desc": "Professional support team available around the clock to assist you.",
+                "features": [
+                    "Live chat support",
+                    "Email assistance",
+                    "Phone support",
+                    "Multilingual team"
+                ],
+                "alt": "24/7 Support"
+            }
+        ]
+    },
+    "simpleStart": {
+        "title": "It's <accent>Simple</accent> to Get Started",
+        "sub": "Start your trading journey in just a few easy steps",
+        "steps": [
+            {
+                "title": "Sign up",
+                "desc": "Create your account in a minute",
+                "alt": "Sign up"
+            },
+            {
+                "title": "Explore the platform",
+                "desc": "Discover our trading tools",
+                "alt": "Platform"
+            },
+            {
+                "title": "Start trading",
+                "desc": "Begin your trading journey",
+                "alt": "Trading"
+            },
+            {
+                "title": "Withdraw",
+                "desc": "Instant access to your funds",
+                "alt": "Withdraw"
+            }
+        ]
+    },
+    "foundation": {
+        "title": "Let<accent>AI</accent> Work for You",
+        "sub": "Take your trading to the next level with our cutting-edge AI-driven social trading platform. Choose from a variety of account options tailored to your financial goals and risk preferences.",
+        "plans": [
+            {
+                "title": "Conservative AI Trading Plan",
+                "subtitle": "Steady profits - Low risk",
+                "minDepositLabel": "Min deposit:",
+                "returnsLabel": "Expected Returns:",
+                "strategiesLabel": "Strategies:",
+                "minDeposit": "500$",
+                "returns": "5-6%",
+                "strategies": "Mean Reversion (Price Correction), Technical Analysis (Pattern Recognition), Risk Management (Position Sizing)",
+                "features": [
+                    "Low-risk strategies",
+                    "Stable returns",
+                    "Market analysis",
+                    "Risk management"
+                ],
+                "cta": "Start AI Trading"
+            },
+            {
+                "title": "Moderate AI Trading Plan",
+                "subtitle": "Balanced Growth and Income",
+                "minDepositLabel": "Min deposit:",
+                "returnsLabel": "Expected Returns:",
+                "strategiesLabel": "Strategies:",
+                "minDeposit": "3,000$",
+                "returns": "12-18%",
+                "strategies": "Trend Following, Sentiment Analysis in Crypto and Forex Markets, Selective High-Frequency Trading (HFT)",
+                "features": [
+                    "Balanced approach",
+                    "Diversified strategies",
+                    "Market adaptation",
+                    "Performance tracking"
+                ],
+                "cta": "Start AI Trading"
+            },
+            {
+                "title": "Aggressive AI Trading Plan",
+                "subtitle": "High-Risk, High-Return",
+                "minDepositLabel": "Min deposit:",
+                "returnsLabel": "Expected Returns:",
+                "strategiesLabel": "Strategies:",
+                "minDeposit": "10,000$",
+                "returns": "25-40%",
+                "strategies": "High-Frequency Trading (HFT), Leveraged Trend Following, Sentiment and News-Driven Trading",
+                "features": [
+                    "Advanced strategies",
+                    "High-frequency trading",
+                    "Market opportunities",
+                    "Risk optimization"
+                ],
+                "cta": "Start AI Trading"
+            }
+        ]
+    },
+    "investment": {
+        "title": "What Makes <accent>Qption</accent> the Smart Choice?",
+        "sub": "Discover why traders choose our platform for their investment journey",
+        "features": [
+            {
+                "title": "Industry-leading platform",
+                "desc": "An award-winning platform, acclaimed and endorsed by top industry experts"
+            },
+            {
+                "title": "Customizable interface",
+                "desc": "Tailor the platform to suit your needs—from chart types to color themes"
+            },
+            {
+                "title": "Effortless withdrawals",
+                "desc": "Instantly access your funds through a variety of secure payment options"
+            },
+            {
+                "title": "Support 24/7",
+                "desc": "Round-the-clock support available 24/7 to assist you whenever you need it"
+            }
+        ],
+        "cta": "Learn more"
+    }
+}

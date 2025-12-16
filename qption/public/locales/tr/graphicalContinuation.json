@@ -1,0 +1,139 @@
+{
+    "seo": {
+        "title": "Trend devam formasyonları – Flama, bayrak, üçgen ve dikdörtgen | Qption",
+        "description": "Grafik analizde trend devam formasyonlarını anlayın: bayrak, flama, yükselen/alçalan üçgenler ve dikdörtgenler. Oluşum, breakout teyidi, fayda-sınırlamalar ve sahte break’leri azaltmak için hacim kullanımını öğrenin.",
+        "keywords": "trend devam formasyonları, bayrak formasyonu, flama formasyonu, yükselen üçgen, alçalan üçgen, dikdörtgen formasyonu, breakout teyidi, hacim teyidi, teknik analiz, grafik analiz, trend takip, Qption",
+        "url": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+        "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+        "ogAlt": "Trend devam formasyonları rehberi",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Trend Devam Formasyonları – Bayrak, Flama, Üçgen ve Dikdörtgen",
+            "description": "Grafik analizde trend devam formasyonlarını öğrenin: bayrak, flama, yükselen/alçalan üçgen ve dikdörtgen; breakout teyidi ve hacim sinyalleriyle nasıl trade edileceğini keşfedin.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+            "publisher": { "@type": "Organization", "name": "Qption" },
+            "about": [
+                { "@type": "Thing", "name": "Trend Devam Formasyonu" },
+                { "@type": "Thing", "name": "Bayrak Formasyonu" },
+                { "@type": "Thing", "name": "Flama Formasyonu" },
+                { "@type": "Thing", "name": "Yükselen Üçgen" },
+                { "@type": "Thing", "name": "Alçalan Üçgen" },
+                { "@type": "Thing", "name": "Dikdörtgen Formasyonu" },
+                { "@type": "Thing", "name": "Breakout" },
+                { "@type": "Thing", "name": "Hacim Teyidi" }
+            ],
+            "articleSection": [
+                "Grafik Analizde Trend Devam Formasyonları",
+                "Genel Bakış",
+                "Yaygın Trend Devam Formasyonları",
+                "Bayrak",
+                "Flama",
+                "Yükselen Üçgen",
+                "Alçalan Üçgen",
+                "Dikdörtgen",
+                "Formasyonların Faydaları",
+                "Formasyonların Sınırlamaları"
+            ],
+            "additionalProperty": [
+                { "@type": "PropertyValue", "name": "Bayrak", "value": "Güçlü hareket (direk) sonrası küçük paralel kanal konsolidasyonu; breakout trend yönünde" },
+                { "@type": "PropertyValue", "name": "Flama", "value": "Kısa konsolidasyon, yakınsayan trend çizgileri arasında; breakout önceki trendle aynı yönde" },
+                { "@type": "PropertyValue", "name": "Yükselen Üçgen", "value": "Yatay direnç + yükselen dipler; direnç kırılımı bullish devam sinyali" },
+                { "@type": "PropertyValue", "name": "Alçalan Üçgen", "value": "Yatay destek + düşen tepeler; destek kırılımı bearish devam sinyali" },
+                { "@type": "PropertyValue", "name": "Dikdörtgen", "value": "Yatay S/R arasında yatay konsolidasyon; breakout geçmiş trendi sürdürür" },
+                { "@type": "PropertyValue", "name": "Teyit & Risk", "value": "Breakout’ta hacim artışı kullan; sahte kırılımlar için stop’ları desen sınırları dışında konumlandır" }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Grafik Analize Geri Dön",
+        "graphicalLink": "Grafik Analiz"
+    },
+    "page": {
+        "title": "Grafik Analizde Trend Devam Formasyonları"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "start": "Ticarete Başla"
+    },
+    "video": {
+        "aria": "Trend devam formasyonları, mevcut trendde kısa bir duraklama ardından aynı yönde devamı işaret eden grafik oluşumlarıdır."
+    },
+    "sections": {
+        "overview": {
+            "h": "Genel Bakış",
+            "items": [
+                "Trend devam formasyonları, hareketin ara verdiğini ve ardından aynı yönde devam edebileceğini gösteren grafik oluşumlarıdır.",
+                "Kısa konsolidasyonlardan sonra trende katılmak için potansiyel giriş noktaları sunar.",
+                "Boğa ve ayı piyasalarında, farklı zaman dilimlerinde görülebilir."
+            ]
+        },
+        "patterns": {
+            "h": "Yaygın Trend Devam Formasyonları",
+            "list": [
+                {
+                    "h": "1. Bayrak",
+                    "items": [
+                        "Keskin fiyat hareketi sonrası oluşan kısa vadeli, bayrağı andıran konsolidasyon.",
+                        "Oluşum: Güçlü yönlü hareket (direk) ardından küçük paralel kanalda yataylaşma (bayrak).",
+                        "Breakout: Yükseliş trendinde yukarı, düşüşte aşağı kırarak mevcut trendi sürdürür.",
+                        "Grafik yorumu: Breakout sonrası trendin aynı yönde devam etme olasılığını artırır."
+                    ]
+                },
+                {
+                    "h": "2. Flama",
+                    "items": [
+                        "Bayrağa benzer, ancak konsolidasyon converging küçük üçgen (flama) şeklindedir.",
+                        "Oluşum: Fiyat sert yükselir/düşer, ardından yakınsayan trend çizgileri içinde sıkışır.",
+                        "Breakout: Önceki hareket yönünde kırılım devam sinyali verir.",
+                        "Grafik yorumu: Trendin kaldığı yerden kısa sürede devam edeceğini ima eder."
+                    ]
+                },
+                {
+                    "h": "3. Yükselen Üçgen",
+                    "items": [
+                        "Yatay direnç ve yükselen diplerle oluşan bullish devam formasyonu.",
+                        "Oluşum: Yükselen dipler, yatay dirençle birlikte üçgen yapısı oluşturur.",
+                        "Breakout: Direncin kırılmasıyla uptrend’in sürdüğüne dair sinyal gelir.",
+                        "Grafik yorumu: Artan alım baskısı, genellikle yukarı kırılımla sonuçlanır."
+                    ]
+                },
+                {
+                    "h": "4. Alçalan Üçgen",
+                    "items": [
+                        "Yatay destek ve düşen tepelerle oluşan bearish devam formasyonu.",
+                        "Oluşum: Düşen tepeler yatay destekle üçgen oluşturur.",
+                        "Breakout: Desteğin aşağı kırılması downtrend’in devamını işaret eder.",
+                        "Grafik yorumu: Artan satış baskısı, çoğu zaman aşağı yönlü kırılımla sonuçlanır."
+                    ]
+                },
+                {
+                    "h": "5. Dikdörtgen",
+                    "items": [
+                        "Yatay destek ve direncin sınırladığı bant içinde konsolidasyon.",
+                        "Oluşum: Fiyat yatay seviyeler arasında gidip gelerek dikdörtgen oluşturur.",
+                        "Breakout: Dikdörtgenin üstü/altı kırıldığında önceki trend yönünde devam eder.",
+                        "Grafik yorumu: Trend yeniden başlamadan önce geçici duraklama."
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "h": "Trend Devam Formasyonlarının Faydaları",
+            "items": [
+                "Konsolidasyon dönemlerinde daha net giriş zamanlaması sağlar.",
+                "Trend takip stratejilerini, olası devam noktalarını vurgulayarak güçlendirir.",
+                "Özellikle güçlü, kalıcı trendlerde etkilidir."
+            ]
+        },
+        "limitations": {
+            "h": "Trend Devam Formasyonlarının Sınırlamaları",
+            "items": [
+                "Volatil veya dalgalı piyasalarda sahte break’ler görülebilir.",
+                "Yanlış sinyalleri azaltmak için genellikle hacim gibi ek teyit gerekir.",
+                "Yatay/kararsız piyasalarda güvenilirliği düşer; ek confluence gerekebilir."
+            ]
+        }
+    }
+}

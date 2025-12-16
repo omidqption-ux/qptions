@@ -1,0 +1,137 @@
+{
+    "seo": {
+        "title": "Programma di affiliazione – Guadagna fino al 40% di revenue share | Qption",
+        "description": "Collabora con Qption e trasforma il tuo pubblico in profitto. Guadagna commissioni CPA o revenue share flessibili, monitora in tempo reale e ricevi pagamenti settimanali per ogni trader che inviti.",
+        "keywords": "programma di affiliazione Qption, trading affiliate, forex CPA, affiliazione crypto, revenue share, programma partner, invita trader, programma IB, partnership broker",
+        "ogTitle": "Programma di affiliazione – Guadagna fino al 40% di revenue share | Qption",
+        "ogDescription": "Unisciti al Programma di Affiliazione Qption e ricevi pagamenti leader nel settore, materiali di marketing e supporto dedicato.",
+        "url": "https://qption.com/affiliate",
+        "image": "https://qption.com/images/og/affiliate-qption.jpg"
+    },
+    "hero": {
+        "title": "Programma di affiliazione",
+        "subtitle": "Partecipa al nostro programma di affiliazione e inizia a guadagnare commissioni invitando trader sulla nostra piattaforma. Scegli il piano più adatto ai tuoi obiettivi."
+    },
+    "tabs": {
+        "basic": "Basic",
+        "pro": "Pro",
+        "elite": "Elite"
+    },
+    "labels": {
+        "commission": "Commissione",
+        "incomePotential": "Potenziale di guadagno",
+        "featuresTitle": "Funzionalità",
+        "benefitsTitle": "Vantaggi del programma"
+    },
+    "stats": [
+        {
+            "title": "Affiliati attivi",
+            "value": "10.000+"
+        },
+        {
+            "title": "Pagamenti totali",
+            "value": "$5M+"
+        },
+        {
+            "title": "Tasso di successo",
+            "value": "95%"
+        }
+    ],
+    "plans": [
+        {
+            "title": "Programma di affiliazione Basic",
+            "subtitle": "Livello iniziale",
+            "description": "Perfetto per chi vuole iniziare a guadagnare con un impegno minimo. Costruisci la tua rete e ottieni commissioni costanti.",
+            "commission": "5-10%",
+            "income": "$50 - $500/mese",
+            "gradient": "bg-linear-to-br from-green-500/20 to-green-500/5",
+            "features": [
+                {
+                    "title": "Commissione diretta",
+                    "description": "5-10% sulle commissioni di trading generate dai clienti invitati."
+                },
+                {
+                    "title": "Bonus di iscrizione una tantum",
+                    "description": "Piccolo bonus per ogni referral diretto che diventa un utente attivo."
+                },
+                {
+                    "title": "Supporto marketing",
+                    "description": "Accesso a materiali promozionali di base e tutorial per le campagne."
+                }
+            ]
+        },
+        {
+            "title": "Programma di affiliazione Pro",
+            "subtitle": "Livello intermedio",
+            "description": "Per i marketer esperti che vogliono aumentare i propri guadagni. Accedi a strumenti avanzati e a commissioni multi-livello.",
+            "commission": "10-15%",
+            "income": "$500 - $2.000/mese",
+            "gradient": "bg-linear-to-br from-green-500/30 to-green-500/10",
+            "features": [
+                {
+                    "title": "Commissione diretta",
+                    "description": "10-15% sulle commissioni di trading dei clienti invitati."
+                },
+                {
+                    "title": "Commissione di secondo livello",
+                    "description": "3-5% sulle commissioni provenienti dai referral dei tuoi clienti diretti."
+                },
+                {
+                    "title": "Bonus di performance",
+                    "description": "Bonus aggiuntivi per il raggiungimento degli obiettivi di referral."
+                },
+                {
+                    "title": "Risorse di marketing avanzate",
+                    "description": "Accesso a materiali promozionali potenziati e sessioni strategiche."
+                }
+            ]
+        },
+        {
+            "title": "Programma di affiliazione Elite",
+            "subtitle": "Livello avanzato",
+            "description": "Per i migliori affiliati che vogliono massimizzare i profitti. Ottieni vantaggi esclusivi e le più alte percentuali di commissione.",
+            "commission": "15-20%",
+            "income": "$2.000 - $10.000/mese",
+            "gradient": "bg-linear-to-br from-green-500/40 to-green-500/15",
+            "features": [
+                {
+                    "title": "Commissione diretta",
+                    "description": "15-20% sulle commissioni dei clienti invitati personalmente."
+                },
+                {
+                    "title": "Commissione multi-livello",
+                    "description": "5% al secondo livello, 2% al terzo e 1% al quarto livello."
+                },
+                {
+                    "title": "Pacchetto marketing VIP",
+                    "description": "Materiali promozionali personalizzati e landing page dedicate."
+                },
+                {
+                    "title": "Bonus leadership",
+                    "description": "Bonus speciali per gli affiliati che aiutano i propri referral a raggiungere lo status Pro o Elite."
+                },
+                {
+                    "title": "Supporto esclusivo",
+                    "description": "Accesso a un manager affiliato personale e a eventi esclusivi."
+                }
+            ]
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Entrate ricorrenti",
+            "description": "Guadagna commissioni continue dalle attività di trading della tua rete."
+        },
+        {
+            "title": "Crescita strutturata",
+            "description": "Costruisci e amplia la tua rete con la nostra struttura multi-livello."
+        },
+        {
+            "title": "Premi di performance",
+            "description": "Ricevi bonus e incentivi per il raggiungimento degli obiettivi."
+        }
+    ],
+    "cta": {
+        "join": "Unisciti al programma di affiliazione"
+    }
+}

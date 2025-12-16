@@ -1,0 +1,151 @@
+{
+    "seo": {
+        "title": "Tecnología Blockchain y Análisis Fundamental de Criptomonedas | Qption",
+        "description": "Aprende cómo la descentralización, el consenso, la tokenómica y las métricas on-chain impulsan el valor intrínseco en las criptomonedas. Una guía práctica para evaluar redes, equipos y adopción.",
+        "url": "https://qption.com/fundamental-analysis/blockchain-fundamental-analysis",
+        "keywords": "fundamentos de blockchain, análisis fundamental cripto, métricas on-chain, tokenómica, seguridad del hash rate, direcciones activas, PoW vs PoS, actividad de desarrolladores, valoración cripto, Qption",
+        "ld": {
+            "headline": "Tecnología Blockchain y Análisis Fundamental de Criptomonedas",
+            "about": {
+                "blockchain": "Blockchain",
+                "crypto": "Criptomoneda",
+                "pow": "Prueba de Trabajo (PoW)",
+                "pos": "Prueba de Participación (PoS)",
+                "tokenomics": "Tokenómica",
+                "onchain": "Analítica On-Chain"
+            },
+            "props": {
+                "onchain": {
+                    "name": "Indicadores On-Chain",
+                    "value": "El volumen de transacciones, las direcciones activas y el hash rate reflejan el uso, la participación y la seguridad."
+                },
+                "utility": {
+                    "name": "Utilidad y Suministro del Token",
+                    "value": "El diseño de la utilidad y los calendarios de emisión determinan la demanda, la inflación y el valor a largo plazo."
+                },
+                "execution": {
+                    "name": "Riesgo de Ejecución",
+                    "value": "La calidad del equipo, la entrega del plan de ruta y la actividad de desarrollo influyen en la adopción y la durabilidad."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análisis Fundamental"
+    },
+    "page": {
+        "title": "Tecnología Blockchain y Análisis Fundamental de Criptomonedas"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "start": "Comenzar a operar"
+    },
+    "sections": {
+        "_list": [
+            "Descripción general",
+            "Componentes principales de la tecnología blockchain",
+            "Descentralización",
+            "Inmutabilidad",
+            "Transparencia",
+            "Mecanismos de consenso",
+            "Métricas clave para el análisis fundamental cripto",
+            "Métricas on-chain",
+            "Tokenómica",
+            "Equipo del proyecto y actividad de desarrollo",
+            "Cómo la blockchain influye en el análisis fundamental",
+            "Seguridad y fiabilidad de la red",
+            "Adopción y crecimiento del ecosistema",
+            "Beneficios",
+            "Limitaciones"
+        ],
+        "overview": {
+            "title": "Descripción general",
+            "items": [
+                "Blockchain es un libro mayor descentralizado y distribuido que permite un registro seguro e inmutable de datos en una red de computadoras.",
+                "El análisis fundamental cripto evalúa métricas de blockchain, viabilidad del proyecto, tokenómica y actividad de desarrolladores para estimar su valor intrínseco.",
+                "El enfoque se centra en la adopción y sostenibilidad a largo plazo en lugar del ruido de precios a corto plazo."
+            ]
+        },
+        "core": {
+            "title": "Componentes principales de la tecnología blockchain",
+            "items": [
+                {
+                    "label": "Descentralización:",
+                    "text": "Los datos se replican en múltiples nodos, reduciendo el riesgo de un punto único de falla y la censura."
+                },
+                {
+                    "label": "Inmutabilidad:",
+                    "text": "Los registros confirmados son prácticamente imposibles de modificar, mejorando la auditabilidad y la confianza."
+                },
+                {
+                    "label": "Transparencia:",
+                    "text": "Las cadenas públicas permiten verificar transacciones y rastrear flujos abiertamente."
+                },
+                {
+                    "label": "Mecanismos de consenso:",
+                    "text": "Protocolos como PoW y PoS coordinan a los participantes para validar transacciones y asegurar la red."
+                }
+            ]
+        },
+        "metrics": {
+            "title": "Métricas clave para el análisis fundamental cripto",
+            "onchain": {
+                "title": "1. Métricas On-Chain",
+                "items": [
+                    "Volumen de transacciones: Un mayor uso refleja una demanda y utilidad crecientes.",
+                    "Direcciones activas: Indica participación de usuarios y actividad en la red.",
+                    "Hash rate / número de validadores: Representa seguridad y compromiso económico."
+                ]
+            },
+            "tokenomics": {
+                "title": "2. Tokenómica",
+                "items": [
+                    "Mecanismo de suministro: La oferta total, circulante, emisión y quema afectan la inflación o escasez.",
+                    "Utilidad del token: Sus funciones en el ecosistema (gobernanza, staking, pagos) influyen en la demanda y el valor a largo plazo.",
+                    "Distribución: Analizar la asignación de tokens (equipo, inversores, comunidad) revela concentración y presión vendedora."
+                ]
+            },
+            "team": {
+                "title": "3. Equipo del proyecto y actividad de desarrollo",
+                "items": [
+                    "Actividad de desarrolladores: Commits, lanzamientos y calidad del código reflejan innovación y compromiso continuo.",
+                    "Equipo central y asesores: Su experiencia y reputación afectan la credibilidad y confianza de los inversores.",
+                    "Alianzas: Las asociaciones estratégicas amplían la adopción y validan el mercado."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Cómo la tecnología blockchain influye en el análisis fundamental cripto",
+            "security": {
+                "title": "1. Seguridad y fiabilidad de la red",
+                "items": [
+                    "Una mayor seguridad y descentralización mejoran la resiliencia y la confianza de los usuarios.",
+                    "Un consenso sólido y diversidad de clientes reducen caídas y riesgos de ataque."
+                ]
+            },
+            "adoption": {
+                "title": "2. Adopción y crecimiento del ecosistema",
+                "items": [
+                    "Ecosistemas activos, herramientas de desarrollo y estándares interoperables impulsan la adopción.",
+                    "Casos de uso reales y asociaciones fortalecen el crecimiento sostenible."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Beneficios del análisis fundamental cripto",
+            "items": [
+                "Perspectiva de inversión a largo plazo: Se enfoca en la utilidad y sostenibilidad.",
+                "Identificación de oportunidades de valor: Detecta proyectos infravalorados con potencial de crecimiento.",
+                "Gestión de riesgos: Comprender los fundamentos ayuda a mitigar riesgos especulativos."
+            ]
+        },
+        "limits": {
+            "title": "Limitaciones del análisis fundamental cripto",
+            "items": [
+                "Volatilidad del mercado: Los precios pueden desconectarse de los fundamentos a corto plazo.",
+                "Datos históricos limitados: La corta historia de las criptomonedas dificulta evaluaciones precisas.",
+                "Naturaleza especulativa: El sentimiento del mercado puede dominar por períodos prolongados."
+            ]
+        }
+    }
+}

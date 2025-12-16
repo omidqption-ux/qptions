@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "Strategia con candela Squat – Esaurimento ad alto volume & segnali di inversione | Qption",
+        "description": "Impara la strategia della candela Squat: individua candele a volume elevato e corpo ridotto con lunghe shadow che segnalano esaurimento vicino ai livelli chiave. Scopri come riconoscerle in uptrend/downtrend, confermare col volume e impostare ingressi, uscite e controlli di rischio.",
+        "keywords": "candela squat, strategia candlestick squat, alto volume corpo piccolo, esaurimento di mercato, segnali di inversione, supporto e resistenza, candela di conferma, analisi del volume, shadow di rifiuto, gestione del rischio, strategia di trading, Qption",
+        "ogAlt": "Pattern candlestick Squat che mostra esaurimento ad alto volume e un potenziale reversal",
+        "ld": {
+            "headline": "Strategia con candela Squat – Esaurimento ad alto volume & segnali di inversione"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Strategia di trading"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "startTrading": "Inizia a fare trading"
+    },
+    "hero": {
+        "title": "Strategia della candela Squat",
+        "subtitle": "La strategia Squat si concentra sull’individuare candele con volume elevato ma movimento di prezzo limitato, segnale di lotta tra compratori e venditori. Queste candele compaiono spesso prima di breakout o inversioni improvvise, aiutando i trader ad anticipare i turning point e a migliorare timing e conferme."
+    },
+    "video": {
+        "aria": "Compare in un uptrend vicino alla resistenza con corpo piccolo e volume elevato, indicando esaurimento e possibile inversione."
+    },
+    "overview": {
+        "title": "Panoramica",
+        "items": {
+            "1": "La strategia Squat individua potenziali inversioni o segnali di esaurimento del mercato.",
+            "2": "Si basa sul riconoscere una candela unica con alto volume ma movimento contenuto.",
+            "3": "Le candele Squat emergono spesso verso la fine di un trend o vicino a supporti/resistenze, indicando indecisione e possibile reversal."
+        }
+    },
+    "identify": {
+        "title": "1. Come riconoscere una candela Squat",
+        "items": {
+            "1": "Corpo piccolo, quindi poco movimento tra apertura e chiusura.",
+            "2": "Lunghe shadow che segnalano forti rifiuti di prezzo su entrambi i lati.",
+            "3": "Volume insolitamente alto che rivela intensa attività o scontro tra compratori e venditori.",
+            "4": "Si forma spesso vicino a livelli chiave di supporto/resistenza, suggerendo possibile inversione o breakout."
+        }
+    },
+    "uptrend": {
+        "title": "2. Candela Squat in un uptrend",
+        "items": {
+            "1": "Formazione: compare durante un trend rialzista vicino alla resistenza con corpo piccolo e volume elevato.",
+            "2": "Interpretazione: indica esaurimento dei compratori quando il prezzo non riesce a superare la resistenza.",
+            "3": "Conferma: una candela ribassista successiva alla Squat conferma il possibile reversal.",
+            "4": "Esecuzione: i trader possono aprire short quando la candela seguente chiude sotto il minimo della Squat."
+        }
+    },
+    "downtrend": {
+        "title": "3. Candela Squat in un downtrend",
+        "items": {
+            "1": "Formazione: appare durante un trend ribassista vicino al supporto con corpo piccolo e volume elevato.",
+            "2": "Interpretazione: segnala esaurimento dei venditori se il prezzo non riesce a spingersi più in basso.",
+            "3": "Conferma: una candela rialzista dopo la Squat convalida un potenziale reversal.",
+            "4": "Esecuzione: i trader possono andare long quando la candela successiva chiude sopra il massimo della Squat."
+        }
+    },
+    "use": {
+        "title": "Utilizzare la strategia Squat",
+        "items": {
+            "1": "Combina le candele Squat con indicatori di volume per confermare la forza del segnale.",
+            "2": "Concentrati sulle Squat che si formano vicino a supporti/resistenze importanti per aumentare la probabilità di inversione.",
+            "3": "Posiziona gli stop-loss poco oltre il massimo/minimo della candela Squat per gestire il rischio."
+        }
+    },
+    "pros": {
+        "title": "Vantaggi",
+        "items": {
+            "1": "Segnale precoce di inversione: indica l’esaurimento del trend prima della rotazione.",
+            "2": "La conferma del volume aumenta l’affidabilità del segnale.",
+            "3": "Funziona bene con altri strumenti come volume, medie mobili e zone di supporto/resistenza."
+        }
+    },
+    "cons": {
+        "title": "Svantaggi",
+        "items": {
+            "1": "Richiede conferme: serve una candela successiva per evitare falsi segnali.",
+            "2": "Meno efficace in mercati laterali: può generare falsi reversal in condizioni di range.",
+            "3": "Sensibilità al volume: un volume alto senza movimento di prezzo può risultare fuorviante."
+        }
+    }
+}

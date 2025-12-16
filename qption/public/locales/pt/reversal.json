@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "title": "Estratégia de Reversão – Sinais, Confirmação e Gestão de Risco | Qption",
+        "description": "Aprenda a estratégia de reversão: como identificar o enfraquecimento da tendência, usar suporte/resistência, RSI, MACD, divergência e padrões de velas, confirmar entradas e gerenciar riscos com stops e metas claros. Inclui exemplo prático passo a passo.",
+        "url": "https://qption.com/trading-strategy/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "imageAlt": "Estratégia de Reversão",
+        "keywords": "estratégia de reversão, reversão de tendência, exaustão de tendência, suporte e resistência, divergência, RSI, MACD, padrões de velas, martelo, padrão de engolfo, gestão de risco, confirmação de sinais, entradas e saídas, estratégia de negociação, Qption",
+        "jsonLd": {
+            "headline": "Estratégia de Reversão – Sinais, Confirmação e Gestão de Risco",
+            "about": [
+                "Negociação de Reversão",
+                "Exaustão de Tendência",
+                "Suporte e Resistência",
+                "Divergência",
+                "RSI",
+                "MACD",
+                "Padrões de Velas",
+                "Gestão de Risco"
+            ],
+            "articleSection": [
+                "Estratégia de Reversão",
+                "Conceitos-Chave da Estratégia de Reversão",
+                "Aplicando a Estratégia de Reversão",
+                "Exemplo da Estratégia de Reversão em Ação"
+            ]
+        }
+    },
+    "breadcrumb": "Estratégias de Negociação",
+    "title": "Estratégia de Reversão",
+    "cta": {
+        "prompt": "Pronto para começar a negociar?",
+        "button": "Começar a Negociar"
+    },
+    "video": {
+        "aria": "Uma reversão ocorre quando a tendência atual enfraquece, sinalizando uma possível mudança de direção. Os traders observam sinais como perda de impulso, divergência e padrões de velas."
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Conceitos-Chave da Estratégia de Reversão",
+            "items": {
+                "exhaustion": {
+                    "title": "Exaustão da Tendência",
+                    "desc": "Uma reversão ocorre quando a tendência atual enfraquece. Traders observam sinais de exaustão como perda de impulso, topos mais baixos em uma tendência de alta ou fundos mais altos em uma tendência de baixa."
+                },
+                "sr": {
+                    "title": "Níveis de Suporte e Resistência",
+                    "desc": "Os níveis de suporte e resistência são cruciais. Quando o preço se aproxima de um desses níveis fortes, pode ocorrer uma reversão. Traders analisam as reações de preço nesses pontos."
+                },
+                "indicators": {
+                    "title": "Indicadores Técnicos",
+                    "desc": "RSI, MACD e osciladores estocásticos ajudam a identificar condições de sobrecompra ou sobrevenda. Um RSI acima de 70 pode indicar uma reversão de baixa, e abaixo de 30, uma reversão de alta."
+                },
+                "candles": {
+                    "title": "Padrões de Velas",
+                    "desc": "Padrões como doji, martelo e engolfo são sinais comuns de reversão. Um martelo em tendência de baixa pode indicar reversão de alta, enquanto um engolfo em topo pode sinalizar reversão de baixa."
+                },
+                "divergence": {
+                    "title": "Divergência",
+                    "desc": "A divergência ocorre quando o preço se move em direção oposta a um indicador, como RSI ou MACD. Divergência altista indica reversão de alta; divergência baixista, reversão de baixa."
+                }
+            }
+        },
+        "applying": {
+            "title": "Aplicando a Estratégia de Reversão",
+            "items": {
+                "identifyTrend": {
+                    "title": "Identifique a Tendência",
+                    "desc": "Comece identificando a tendência predominante. Estratégias de reversão funcionam melhor após uma tendência clara e prolongada."
+                },
+                "watchSignals": {
+                    "title": "Observe os Sinais de Reversão",
+                    "desc": "Procure sinais de perda de força, indicadores em níveis extremos e padrões de velas característicos de reversão."
+                },
+                "confirm": {
+                    "title": "Espere pela Confirmação",
+                    "desc": "Confirme o sinal de reversão com múltiplos fatores, como rompimento de suporte/resistência, divergência ou sequência de velas no sentido oposto."
+                },
+                "entriesExits": {
+                    "title": "Defina Pontos de Entrada e Saída",
+                    "desc": "Após confirmação, defina claramente os pontos de entrada e saída usando suporte, resistência ou médias móveis como referência."
+                },
+                "risk": {
+                    "title": "Gerencie o Risco",
+                    "desc": "Como reversões podem falhar, use ordens de stop loss logo abaixo do suporte ou acima da resistência para limitar possíveis perdas."
+                }
+            }
+        },
+        "example": {
+            "title": "Exemplo da Estratégia de Reversão em Ação",
+            "p1": "Suponha que uma ação esteja em forte tendência de alta há semanas. O RSI ultrapassa 70 (sobrecompra), forma-se um padrão de engolfo de baixa perto da resistência e o MACD mostra divergência de baixa.",
+            "p2": "Com esses sinais, o trader abre uma posição vendida com stop loss acima da resistência e busca lucro à medida que o preço cai até o próximo nível de suporte."
+        }
+    }
+}

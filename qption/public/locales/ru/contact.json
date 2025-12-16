@@ -1,0 +1,21 @@
+{
+    "seo": {
+        "title": "Связаться с нами – Qption",
+        "description": "Нужна помощь с платформой Qption? Наша поддержка доступна 24/7 в чате, по email или телефону.",
+        "keywords": "Qption контакт, служба поддержки, помощь трейдерам, телефон Qption, email Qption",
+        "ogDescription": "Вопросы по трейдингу, партнерству или платформе? Свяжитесь с живым оператором Qption — 24/7.",
+        "twitterDescription": "Поддержка Qption 24/7 — свяжитесь с нами сейчас.",
+        "url": "https://qption.com/contact",
+        "ogImage": "https://qption.com/images/og/contact-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Связаться с нами",
+        "support": "Служба поддержки",
+        "supportHours": "Круглосуточно, 7 дней в неделю",
+        "email": "Электронная почта",
+        "phone": "Номер телефона",
+        "address": "Адрес",
+        "cityCountry": "Стокгольм, Швеция"
+    }
+}

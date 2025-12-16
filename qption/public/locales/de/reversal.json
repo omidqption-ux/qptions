@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "title": "Reversal-Trading-Strategie – Signale, Bestätigung & Risikomanagement | Qption",
+        "description": "Lerne die Reversal-Strategie: Trenderschöpfung erkennen, Unterstützung/Widerstand, RSI/MACD/Divergenzen und Candlestick-Muster nutzen, Einstiege bestätigen und Risiken mit klaren Stops/Zielen steuern. Enthält Ablaufplan und Beispiel.",
+        "url": "https://qption.com/trading-strategy/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "imageAlt": "Reversal-Trading-Strategie",
+        "keywords": "Reversal-Strategie, Trendwende, Trenderschöpfung, Unterstützung und Widerstand, Divergenz, RSI, MACD, Candlestick-Muster, Hammer, Engulfing, Risikomanagement, Bestätigungssignale, Entry und Exit, Trading-Strategie, Qption",
+        "jsonLd": {
+            "headline": "Reversal-Trading-Strategie – Signale, Bestätigung & Risikomanagement",
+            "about": [
+                "Reversal-Trading",
+                "Trenderschöpfung",
+                "Unterstützung und Widerstand",
+                "Divergenz",
+                "RSI",
+                "MACD",
+                "Candlestick-Muster",
+                "Risikomanagement"
+            ],
+            "articleSection": [
+                "Reversal-Strategie",
+                "Schlüsselkonzepte der Reversal-Strategie",
+                "Reversal-Strategie anwenden",
+                "Beispiel für eine Reversal-Strategie"
+            ]
+        }
+    },
+    "breadcrumb": "Handelsstrategie",
+    "title": "Reversal-Strategie",
+    "cta": {
+        "prompt": "Bereit zu handeln?",
+        "button": "Jetzt handeln"
+    },
+    "video": {
+        "aria": "Eine Umkehr entsteht, wenn der aktuelle Trend an Stärke verliert und die Richtung wechseln könnte. Achte auf Ermüdung, Divergenzen und Candlestick-Bestätigungen."
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Schlüsselkonzepte der Reversal-Strategie",
+            "items": {
+                "exhaustion": {
+                    "title": "Trenderschöpfung",
+                    "desc": "Umkehrungen bilden sich, wenn Momentum nachlässt und die Struktur im Aufwärtstrend tiefere Hochs bzw. im Abwärtstrend höhere Tiefs zeigt."
+                },
+                "sr": {
+                    "title": "Unterstützungs- und Widerstandsniveaus",
+                    "desc": "Kursreaktionen an markanten S/R-Bereichen gehen Umkehrungen oft voraus. Achte auf Rejection-Wicks, Fehlausbrüche oder Closes innerhalb der Zone."
+                },
+                "indicators": {
+                    "title": "Technische Indikatoren",
+                    "desc": "RSI, MACD oder Stochastik liefern OB/OS-Kontext und Momentumwechsel, die das Reversal-Szenario stützen."
+                },
+                "candles": {
+                    "title": "Candlestick-Muster",
+                    "desc": "Hammer, Doji, Engulfing oder Pin Bars an Schlüssellevels signalisieren Wendepunkte – mit Struktur bestätigen."
+                },
+                "divergence": {
+                    "title": "Divergenz",
+                    "desc": "Bullische Divergenz (Preis tiefere Tiefs, Indikator höhere Tiefs) oder bärische Divergenz (Preis höhere Hochs, Indikator tiefere Hochs) deuten Umkehrungen an."
+                }
+            }
+        },
+        "applying": {
+            "title": "Reversal-Strategie anwenden",
+            "items": {
+                "identifyTrend": {
+                    "title": "Trend identifizieren",
+                    "desc": "Beginne auf höheren Zeitebenen mit einem klaren Trend; Reversals sind nach längeren Bewegungen verlässlicher."
+                },
+                "watchSignals": {
+                    "title": "Umkehrsignale beobachten",
+                    "desc": "Überwache Ermüdung nahe Schlüsselzonen, Indikator-Extreme und Reversal-Kerzen, die zum Kontext passen."
+                },
+                "confirm": {
+                    "title": "Auf Bestätigung warten",
+                    "desc": "Nutze Brüche/Retests, aufeinanderfolgende Closes oder bestätigte Divergenzen, bevor du gegen den vorhandenen Trend handelst."
+                },
+                "entriesExits": {
+                    "title": "Ein- und Ausstieg planen",
+                    "desc": "Plane Entries bei Retests gebrochener Struktur. Setze Ziele anhand nahegelegener Struktur oder per Measured Move."
+                },
+                "risk": {
+                    "title": "Risikomanagement umsetzen",
+                    "desc": "Stops hinter der Invalidation platzieren (Short: über Widerstand, Long: unter Unterstützung) und Positionsgröße entsprechend wählen."
+                }
+            }
+        },
+        "example": {
+            "title": "Reversal-Strategie in der Praxis",
+            "p1": "Ein Markt steigt wochenlang und erreicht einen starken Widerstand. RSI signalisiert Überkauft, MACD zeigt bärische Divergenz, eine bearish Engulfing Candle bildet sich am Level.",
+            "p2": "Nach Bestätigung erfolgt der Short-Einstieg, Stop knapp über dem Widerstand, Ziel an vorherigen Struktur-Tiefs. Läuft der Preis wie erwartet, fängt die Reversal-Phase den Rücklauf ein."
+        }
+    }
+}

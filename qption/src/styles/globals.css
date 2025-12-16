@@ -1,0 +1,246 @@
+@import 'tailwindcss' important;
+
+@layer utilities {
+
+     /* 1) Define the keyframes */
+     @keyframes ticker {
+          0% {
+               transform: translateX(100%);
+          }
+
+          100% {
+               transform: translateX(-100%);
+          }
+     }
+
+     /* 2) Expose an animate-ticker utility */
+     .animate-ticker {
+          animation: ticker 20s linear infinite;
+     }
+
+     .shimmer {
+          position: relative;
+          overflow: hidden;
+     }
+
+     .shimmer::after {
+          content: '';
+          position: absolute;
+          top: 0;
+          left: -100%;
+          height: 100%;
+          width: 100%;
+          background: linear-gradient(90deg,
+                    transparent,
+                    rgba(255, 255, 255, 0.2),
+                    transparent);
+          animation: shimmer 1.5s infinite;
+     }
+
+     @keyframes shimmer {
+          100% {
+               left: 100%;
+          }
+     }
+}
+
+@theme {
+     --font-display: 'Satoshi', 'sans-serif';
+     --breakpoint-sm: 480px;
+     --breakpoint-md: 680px;
+     --breakpoint-lg: 886px;
+     --breakpoint-xl: 1228px;
+     --breakpoint-3xl: 1920px;
+     --color-avocado-100: oklch(0.99 0 0);
+     --color-avocado-200: oklch(0.98 0.04 113.22);
+     --color-avocado-300: oklch(0.94 0.11 115.03);
+     --color-avocado-400: oklch(0.92 0.19 114.08);
+     --color-avocado-500: oklch(0.84 0.18 117.33);
+     --color-avocado-600: oklch(0.53 0.12 118.34);
+     --color-orange-500: #fb8122;
+     --color-orange-300: #ff9b47;
+     --color-green-500: #00743f;
+     --color-green-800: #161a25;
+     --color-blue-800: #0d5c75;
+     --color-blue-300: #72a2c0;
+     --color-blue-400: #199fb1;
+     /* “skyblue”  */
+     --color-blue-200: #a5d1e1;
+     /* neutrals / greys */
+     --color-gray-900: #333333;
+     /* “textgray” */
+     --color-gray-600: #757575;
+     --color-gray-300: #e0e0e0;
+     --color-grey: #e0e0e0;
+     --color-gray-50: #f9f9f9;
+     /* “offwhite” */
+
+     /* navys & dark backgrounds */
+     --color-blue-950: #161a25;
+     /* “navy” / “darkstart” */
+     --color-darkStart: #161a25;
+     /* “navy” / “darkstart” */
+     --color-blue-900: #22293d;
+     /* “lightnavy” */
+     --color-gray-100: rgb(244 244 246);
+     /* “bgwhite” */
+
+     /* supporting colours */
+     --color-gray-700: #4a4a4a;
+     /* “txt”      */
+     --color-red-400: #ff6347;
+     /* “tomato”   */
+     --color-blue-600: #3c6eaf;
+     /* “ethblue”  */
+     --color-blue-700: #006daf;
+     /* “webmoneyblue” */
+     --color-green-600: #26a079;
+     /* “tetgreen” */
+     --color-yellow-500: #ffbf00;
+     /* “gold”     */
+     --color-green-400: #77dd77;
+     /* “greentxt” */
+     --color-orange-200: #ffdab9;
+     /* “peach”    */
+
+     /* footer */
+     --color-blue-950-footer: #161c2a;
+     /* “footerbg” */
+     --color-sky-400-footer: rgb(57 178 255);
+     /* “footertxt” */
+     --color-gray-400: rgb(169 181 203);
+     /* “lightgrey” */
+
+     /* gradients */
+     --color-blue-850: #45546a;
+     /* “darkend”  */
+     --color-darkEnd: #45546a;
+     /* “darkend”  */
+
+     /* social brands */
+     --color-blue-700-fb: #3b5998;
+     /* Facebook  */
+     --color-blue-tw: #1da1f2;
+     /* Twiiter  */
+     --color-instagram: #e4405f;
+     /* Twiiter  */
+     --color-youtube: #ffffff;
+     /* Twiiter  */
+     --color-red-600-google: #ea4335;
+     /* Google  */
+
+     /* metallics */
+     --color-gray-700-dark: rgb(75 85 107);
+     /* “darkgrey” */
+     --color-gray-500-silver: #8e9199;
+     /* “silver”   */
+     --color-gray-700-darksilver: #4b5563;
+     /* “darksilver”*/
+     --color-gray-500-silver: #8e9199;
+     /* “silver”   */
+     --color-gray-700-darksilver: #4b5563;
+     /* “darksilver”*/
+     --color-gray-500-silver: #8e9199;
+     /* “silver”   */
+     --color-gray-700-darksilver: #4b5563;
+     /* “darksilver”*/
+     --color-gray-500-silver: #8e9199;
+     /* “silver”   */
+     --color-gray-700-darksilver: #4b5563;
+     /* “darksilver”*/
+     --color-gray-500-silver: #8e9199;
+     /* “silver”   */
+     --color-gray-700-darksilver: #4b5563;
+     /* “darksilver”*/
+     --color-gray-500-silver: #8e9199;
+     /* “silver”   */
+     --color-gray-700-darksilver: #4b5563;
+     /* “darksilver”*/
+     --color-gray-500-silver: #8e9199;
+     /* “silver”   */
+     --color-darkgrey: rgb(75, 85, 107);
+     --color-silver: #8e9199;
+     --color-darksilver: #4b5563;
+     --ease-fluid: cubic-bezier(0.3, 0, 0, 1);
+     --ease-snappy: cubic-bezier(0.2, 0, 0, 1);
+     --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+     --ease-in: cubic-bezier(0.4, 0, 1, 1);
+     --ease-out: cubic-bezier(0, 0, 0.2, 1);
+     --ease-in-out-quad: cubic-bezier(0.45, 0.05, 0.55, 0.95);
+     --ease-in-quad: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+     --ease-out-quad: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+     --ease-in-out-cubic: cubic-bezier(0.645, 0.045, 0.355, 1);
+     --ease-in-cubic: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+     --ease-out-cubic: cubic-bezier(0.215, 0.61, 0.355, 1);
+     --ease-in-out-quart: cubic-bezier(0.77, 0, 0.175, 1);
+     --ease-in-quart: cubic-bezier(0.895, 0.03, 0.685, 0.22);
+     --ease-out-quart: cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.grecaptcha-badge {
+     visibility: hidden;
+}
+
+@layer components {
+
+     /* Root wrapper */
+     .PhoneInput {
+          @apply bg-[#20293E] rounded-md h-[38px] px-3 flex items-center border border-transparent;
+          /* kill any focus ring on the whole control when input is focused */
+          @apply focus-within:outline-none focus-within:ring-0;
+     }
+
+     /* The actual text input */
+     .PhoneInputInput {
+          @apply bg-[#20293E] text-gray-300 placeholder:text-gray-400 w-full outline-none focus:outline-none ring-0 focus:ring-0 border-0 focus:border-0;
+     }
+
+     /* Country button area (flag + caret) */
+     .PhoneInputCountry {
+          @apply bg-transparent mr-2;
+     }
+
+     .PhoneInputCountryIcon {
+          @apply bg-transparent;
+     }
+
+     /* Native select element (controls the closed-state bg and, on some browsers, the menu) */
+     .PhoneInputCountrySelect {
+          @apply outline-none focus:outline-none border-0 focus:border-0;
+          background-color: #20293E;
+          /* closed state bg */
+          color: #e5e7eb;
+          /* text to match your theme */
+     }
+
+     /* Attempt to style the dropdown menu items (support varies by OS/Browser) */
+     .PhoneInputCountrySelect option {
+          background-color: #20293E;
+          color: #e5e7eb;
+     }
+
+     /* Optional: remove iOS default inner shadow / appearance quirks */
+     .PhoneInputCountrySelect {
+          -webkit-appearance: none;
+          -moz-appearance: none;
+          appearance: none;
+          padding-left: 5;
+          scrollbar-width: thin;
+          scrollbar-color: #6b7280 transparent;
+     }
+
+     .PhoneInputCountrySelect::-webkit-scrollbar {
+          width: 6px;
+          height: 6px;
+     }
+
+     .PhoneInputCountrySelect::-webkit-scrollbar-thumb {
+          background: #6b7280;
+          /* gray-500-ish */
+          border-radius: 9999px;
+     }
+
+     .PhoneInputCountrySelect::-webkit-scrollbar-track {
+          background: transparent;
+     }
+}

@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Strategia V-Bounce (Volume Spike) | Qption",
+        "description": "Impara la strategia V-Bounce: usa supporti e resistenze, punti decisivi break-or-bounce, breakout “strike” e primo pullback “boomerang”, oltre a ingressi su rimbalzo e conferme con frattali per opzioni da 60 secondi.",
+        "keywords": "V-Bounce, volume spike, supporto e resistenza, strategia breakout, strategia pullback, ingresso boomerang, conferma con frattali, opzioni 60 secondi, strategia di trading, Qption",
+        "ogAlt": "Strategia V-Bounce con spike di volume e uso di supporto/resistenza",
+        "ld": {
+            "headline": "Strategia di trading V-Bounce (Volume Spike)"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Strategia di trading"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading",
+        "startTrading": "Inizia a fare trading"
+    },
+    "hero": {
+        "title": "Strategia di trading V-Bounce Volume Spike",
+        "subtitle": "Per massimizzare i profitti nelle operazioni più piccole, molti trader si concentrano su mercati liquidi per aumentare la frequenza dei trade. Una strategia popolare per le opzioni a 60 secondi è individuare chiari rimbalzi del prezzo su supporti o resistenze definiti, così da sfruttare movimenti rapidi e prevedibili in un orizzonte molto breve."
+    },
+    "sr": {
+        "title": "Ruolo di supporto e resistenza",
+        "p1": "I livelli di supporto e resistenza (S&R) sono strumenti essenziali nel trading su Qption. Aiutano a individuare potenziali punti di entrata e uscita, segnando zone in cui il prezzo ha storicamente invertito o si è fermato. Riconoscere queste zone permette decisioni più consapevoli, anticipando rimbalzi o breakout per ottimizzare la strategia.",
+        "p2": "Quando il prezzo si avvicina a un supporto o resistenza predefinito, il trader può identificare un potenziale “break or bounce spot”: diventa chiaro se il prezzo è più incline a rimbalzare sul livello o a romperlo, segnalando una continuazione.",
+        "list": {
+            "title": "Elementi S&R comuni",
+            "i1": {
+                "h": "Massimi e minimi storici",
+                "p": "I picchi e i minimi precedenti agiscono spesso come zone S&R solide."
+            },
+            "i2": {
+                "h": "Medie mobili",
+                "p": "Le MA più usate (es. 50/200) possono comportarsi da supporto/resistenza dinamici."
+            },
+            "i3": {
+                "h": "Trend line",
+                "p": "Linee tracciate sui swing evidenziano aree probabili di continuazione o inversione."
+            },
+            "i4": {
+                "h": "Ritracciamenti Fibonacci",
+                "p": "Livelli come 38,2%, 50% e 61,8% spesso coincidono con S&R."
+            },
+            "i5": {
+                "h": "Numeri tondi",
+                "p": "Livelli psicologici (es. 1,00 / 100) fungono spesso da barriere."
+            }
+        }
+    },
+    "bb": {
+        "title": "Break or bounce spot",
+        "p": "Una volta individuato un livello S&R chiave, diventa una vera e propria “linea nella sabbia”. Questo punto decisionale predeterminato concentra l’attenzione sul comportamento del prezzo proprio su quel livello, osservando da vicino se avverrà un rimbalzo o una rottura."
+    },
+    "why": {
+        "title": "Perché è importante?",
+        "l1": "Pre-segnare i livelli filtra il rumore e crea decision point oggettivi.",
+        "l2": "Senza filtri, ogni tick sembra importante e alimenta decisioni guidate da paura o avidità.",
+        "p1": "Dopo aver mappato il punto break/bounce con i tuoi strumenti, attendi che il prezzo si avvicini alla zona. Quando arriva, osserva se rompe il livello oppure lo rispetta invertendo.",
+        "strike": {
+            "h": "Breakout (Strike)",
+            "p": "Il prezzo supera S&R, segnalando una possibile continuazione. Si può tradare nella direzione del breakout."
+        },
+        "boomerang": {
+            "h": "Primo pullback (Boomerang)",
+            "p": "Dopo il break, il prezzo spesso retesta il livello rotto. Questo primo pullback può confermare la forza e offrire un ingresso secondario."
+        },
+        "p2": "Su Qption ci concentriamo nell’individuare strike (breakout) e primo pullback (boomerang) per ingressi sulle opzioni."
+    },
+    "bounce": {
+        "title": "Trading dei rimbalzi",
+        "p1": "Un bounce può essere un piccolo ritracciamento, un recupero profondo o un’inversione completa. Massimi/minimi importanti e livelli Fibonacci raramente vengono infranti senza qualche “rispetto”.",
+        "p2": "Gli stili di ingresso su rimbalzo includono:",
+        "direct": {
+            "h": "Diretto",
+            "p": "Piazza un ordine di ingresso esattamente sul S&R (es. livello Fibonacci o top precedente). Vantaggio: riempimento immediato. Avvertenza: su timeframe bassi il prezzo può violare temporaneamente la zona, complicando gli stop."
+        },
+        "confirm": {
+            "h": "Conferma del rimbalzo",
+            "p": "Attendi una reazione visibile sul S&R (stall/reject) e poi entra con conferma invece che con ordini limit alla cieca."
+        },
+        "breakAfter": {
+            "h": "Breakout dopo il rimbalzo",
+            "p": "Usa strumenti come i frattali per definire la struttura e valuta ingressi/uscite scalari sulla piattaforma Qption."
+        }
+    },
+    "fractals": {
+        "title": "Rimbalzi con i frattali",
+        "lead": "Un’altra modalità per tradare il rimbalzo è usare i frattali. Processo:",
+        "steps": {
+            "1": "Anticipa un S&R importante.",
+            "2": "Attendi che il prezzo reagisca e formi un frattale in quell’area.",
+            "3": "Aspetta che il prezzo si allontani da quel S&R.",
+            "4": "Attendi la formazione di un frattale sul lato opposto.",
+            "5": "Trada la rottura di quel frattale opposto."
+        },
+        "meanTitle": "Cosa significa?",
+        "meanBody": "Lasciando che il prezzo faccia stop–reverse–stop–reverse ottieni due linee nella sabbia: l’S&R previsto e il frattale opposto. La rottura di una delle due linee indica spesso quale forza ha più probabilità di prevalere."
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "seo": {
+        "title": "Ödeme Politikası | Qption",
+        "description": "Qption’ın ödeme politikası; hesap bakiyesi gösterimi, para yatırma/çekme süreçleri, müşteri doğrulaması (KYC), vergi yükümlülükleri ve diğer önemli şartları kapsar.",
+        "keywords": "ödeme politikası, para yatırma, para çekme, hesap bakiyesi, KYC, doğrulama, vergi, Qption",
+        "ogTitle": "Ödeme Politikası | Qption",
+        "ogDescription": "Qption’ın para yatırma/çekme, bakiye takibi, KYC ve vergi politikaları hakkında bilgi edinin.",
+        "url": "https://qption.com/payment-policy",
+        "image": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Ödeme Politikası | Qption",
+        "twitterDescription": "Para yatırma/çekme prosedürleri, bakiye sorumlulukları, KYC, vergilendirme ve daha fazlası.",
+        "twitterImage": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "canonical": "https://qption.com/payment-policy"
+    },
+    "hero": {
+        "title": "Ödeme Politikası"
+    },
+    "sections": [
+        {
+            "key": "account",
+            "icon": "account",
+            "title": "1. Hesap Bakiyesi Sorumluluğu",
+            "items": [
+                "Şirket, müşterinin hesap bakiyesini her an görünür kılmaktan sorumludur.",
+                "Sorumluluk, depozito kaydı oluşturulduğunda başlar ve müşteri tarafından para çekme talebi tamamen işlenene kadar devam eder.",
+                "Müşteri, talep anında hesabında bulunan fonları isteme hakkına sahiptir."
+            ]
+        },
+        {
+            "key": "payments",
+            "icon": "payments",
+            "title": "2. Para Yatırma ve Çekme Prosedürleri",
+            "items": [
+                "Yatırma ve çekme işlemleri, şirketin web sitesinde listelenen resmi yöntemler üzerinden yapılır.",
+                "Bu ödeme sağlayıcıları şirketin iştiraki olmadığından, yöntem kullanımına ilişkin tüm riskleri müşteri üstlenir.",
+                "Şirket, fonlar yalnızca şirketin banka/ödeme hesabına ulaştığında sorumluluk üstlenir."
+            ]
+        },
+        {
+            "key": "registration",
+            "icon": "registration",
+            "title": "3. Müşteri Kaydı",
+            "items": [
+                "Kayıt sırasında doğru kimlik ve iletişim bilgileri verilmelidir.",
+                "Doğrulama süreci, devletten verilmiş bir kimlik belgesi gerektirir.",
+                "Kimlik tespiti 10 iş günü içinde tamamlanmalıdır."
+            ]
+        },
+        {
+            "key": "deposit",
+            "icon": "deposit",
+            "title": "4. Para Yatırma Süreçleri",
+            "items": [
+                "Para yatırma işlemleri, müşterinin web sitesindeki kişisel hesabından başlatılır.",
+                "Elektronik ödemeler sağlayıcıya bağlı olarak saniyeler içinde işlenebileceği gibi birkaç gün sürebilir."
+            ]
+        },
+        {
+            "key": "tax",
+            "icon": "tax",
+            "title": "5. Vergi Yükümlülükleri",
+            "items": [
+                "Şirket, müşteri adına vergi sorumlusu değildir; beyan ve ödeme sorumluluğu tamamen müşteriye aittir."
+            ]
+        },
+        {
+            "key": "misc",
+            "icon": "misc",
+            "title": "6. Diğer Şartlar",
+            "items": [
+                "Sözleşmeyi kabul eden müşteri, yasal yaş sınırını karşıladığını beyan eder.",
+                "Müşteri, geçerli tüm yerel yasa ve düzenlemelere uyumdan sorumludur."
+            ]
+        }
+    ]
+}

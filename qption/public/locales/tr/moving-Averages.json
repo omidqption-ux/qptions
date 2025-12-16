@@ -1,0 +1,78 @@
+{
+    "seo": {
+        "title": "Hareketli Ortalamalar Stratejisi (SMA & EMA) – Teknik Analiz | Qption",
+        "description": "Hareketli ortalamalarla trend takibini ustalaştırın: SMA vs EMA, kesişimler (Golden/Death Cross), dinamik destek/direnç, MA ribbon’ları ve ana sınırlamalar—trader’lar için eksiksiz rehber.",
+        "keywords": "hareketli ortalamalar, SMA, EMA, MA kesişimi, golden cross, death cross, hareketli ortalama ribbon, dinamik destek direnç, trend takibi, momentum, teknik analiz, Qption",
+        "ogAlt": "SMA, EMA, kesişimler ve MA ribbon’larıyla hareketli ortalama stratejisi"
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading Stratejisi"
+    },
+    "cta": {
+        "ready": "Hareketli Ortalamalarla trade etmeye hazır mısın?",
+        "startTrading": "Ticarete Başla"
+    },
+    "hero": {
+        "title": "Hareketli Ortalamalar Stratejisi",
+        "subtitle": "Kapsamlı Hareketli Ortalama analizimizle trend takibi ve momentum trading’de ustalaş."
+    },
+    "video": {
+        "aria": "Hareketli ortalamalar (MA), fiyat verisini yumuşatarak trend ve dönüşleri tespit etmeyi kolaylaştırır."
+    },
+    "overview": {
+        "title": "Genel Bakış",
+        "items": {
+            "1": "MA’lar popüler teknik araçlardır; fiyat verisini smoot edip trend/dönüşleri daha görünür kılar.",
+            "2": "En yaygın iki tür: Simple Moving Average (SMA) ve Exponential Moving Average (EMA); son fiyatlara verdikleri ağırlık farklıdır.",
+            "3": "MA’lar trader’lara trend yönünü belirleme, sinyal üretme ve dinamik S/R bölgelerini vurgulamada yardımcı olur."
+        }
+    },
+    "how": {
+        "title": "Hareketli Ortalamalar Nasıl Çalışır?",
+        "blocks": {
+            "1": {
+                "title": "Simple Moving Average (SMA)",
+                "desc": "Seçilen dönem içindeki fiyatların aritmetik ortalamasıdır. Genel trend analizi için kullanışlıdır."
+            },
+            "2": {
+                "title": "Exponential Moving Average (EMA)",
+                "desc": "Son fiyatlara daha fazla ağırlık vererek piyasa değişimlerine daha hızlı tepki verir; hızlı piyasalarda tercih edilir."
+            },
+            "3": {
+                "title": "Trend Tanımlama",
+                "desc": "Fiyat MA’nın üzerindeyse yükseliş; altındaysa düşüş eğilimine işaret eder."
+            }
+        }
+    },
+    "strategies": {
+        "title": "Temel Stratejiler",
+        "crossover": {
+            "title": "1. Hareketli Ortalama Kesişimi",
+            "items": {
+                "1": "Golden Cross: Kısa vadeli MA (örn. 50 günlük) uzun vadeli MA’nın (örn. 200 günlük) üzerine çıkar—bullish sinyal.",
+                "2": "Death Cross: Kısa vadeli MA uzun vadeli MA’nın altına iner—bearish sinyal."
+            }
+        },
+        "dynamicSR": {
+            "title": "2. Dinamik Destek ve Direnç",
+            "items": {
+                "1": "Yükseliş trendinde destek: MA, fiyatın sıkça zıpladığı dinamik destek rolü görebilir.",
+                "2": "Düşüş trendinde direnç: MA direnç gibi davranarak fiyatı aşağı yönlendirebilir."
+            }
+        },
+        "ribbon": {
+            "title": "3. Hareketli Ortalama Ribbon’ı",
+            "items": {
+                "1": "Kurulum: Farklı uzunluklarda birden fazla MA (örn. 10, 20, 50, 100, 200) kullanarak ribbon oluştur.",
+                "2": "Trend Sinyali: Tüm MA’ların aynı yönde hizalanması güçlü, kalıcı trendi işaret eder."
+            }
+        }
+    },
+    "limits": {
+        "title": "Sınırlamalar",
+        "items": {
+            "1": "Gecikmeli yapısı: MA’lar ani piyasa hareketlerine ve dönüşlere yavaş tepki verebilir.",
+            "2": "Whipsaw riski: Dalgalı veya yatay piyasalarda yanlış sinyal üretme olasılığı artar."
+        }
+    }
+}

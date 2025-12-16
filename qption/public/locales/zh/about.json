@@ -1,0 +1,62 @@
+{
+    "seo": {
+        "title": "关于我们 – Qption",
+        "description": "了解 Qption 的团队、使命与技术——高速、透明、适合各层级交易者的交易平台。"
+    },
+    "hero": {
+        "title": "重塑在线交易",
+        "subtitle": "由金融科技专家创立，Qption 正在重新定义当今数字时代的交易。我们相信交易应当对所有人可及、创新且富有回报。"
+    },
+    "box": {
+        "heading": "关于 Qption",
+        "companyRegistration": {
+            "title": "公司注册",
+            "body": "Qption LLC 注册于 SVG，地址：First Floor, First St. Vincent Bank Ltd Building, James Street, Kingstown, St. Vincent and the Grenadines，注册号 1744 LLC 22。"
+        },
+        "globalPresence": {
+            "title": "全球布局",
+            "body": "为全球交易者提供安全可靠的交易平台。"
+        },
+        "securityFirst": {
+            "title": "安全优先",
+            "body": "您的安全是我们的首要任务。我们采用行业领先的安全措施保护您的数据与资金。"
+        },
+        "tradingExcellence": {
+            "title": "卓越交易体验",
+            "body": "提供先进工具与资源，助您在市场中取得成功。"
+        }
+    },
+    "stats": {
+        "activeTraders": "活跃交易者",
+        "monthlyVolume": "月度成交量",
+        "countries": "国家/地区",
+        "avgIncome": "月均收入"
+    },
+    "values": {
+        "heading": "核心价值观",
+        "innovationFirst": {
+            "title": "创新为先",
+            "desc": "以前沿功能和新标准不断突破边界。"
+        },
+        "customerCentric": {
+            "title": "以客户为中心",
+            "desc": "您的成功就是我们的成功，提供卓越服务与支持。"
+        },
+        "communityDriven": {
+            "title": "社区驱动",
+            "desc": "平台因交易者互动与共同成功而繁荣。"
+        },
+        "integrity": {
+            "title": "诚信",
+            "desc": "以透明与合规开展一切运营。"
+        },
+        "sustainability": {
+            "title": "可持续性",
+            "desc": "建立长期关系，打造稳定可靠的平台。"
+        },
+        "sharedSuccess": {
+            "title": "共享成功",
+            "desc": "让交易对所有人都可及并富有收益。"
+        }
+    }
+}

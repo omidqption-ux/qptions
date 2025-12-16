@@ -1,0 +1,131 @@
+{
+    "seo": {
+        "title": "Glossaire du trading – Termes clés et concepts essentiels | Qption",
+        "description": "Définitions claires et concises des termes essentiels du trading : offre/demande, marchés haussiers et baissiers, volatilité, liquidité, support/résistance, lignes de tendance, corrélation et plus encore.",
+        "keywords": "glossaire trading, termes de trading, offre, demande, marché haussier, marché baissier, volatilité, liquidité, support, résistance, corrélation, ligne de tendance, Qption",
+        "ogTitle": "Glossaire du trading – Termes clés et concepts essentiels | Qption",
+        "ogDescription": "Apprenez le langage des marchés avec le glossaire Qption : définitions simples et exemples pour les concepts clés du trading.",
+        "url": "https://qption.com/glossary",
+        "image": "https://qption.com/images/og/glossary-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Glossaire du trading – Termes clés et concepts essentiels | Qption",
+        "twitterDescription": "Les définitions essentielles du trading, expliquées simplement pour un apprentissage plus rapide et de meilleures décisions.",
+        "twitterImage": "https://qption.com/images/og/glossary-qption.jpg",
+        "canonical": "https://qption.com/glossary"
+    },
+    "hero": {
+        "title": "Termes et concepts clés du trading"
+    },
+    "terms": [
+        {
+            "key": "ask",
+            "title": "Prix de vente (Ask)",
+            "desc": "Le prix actuel du marché auquel vous pouvez acheter un actif."
+        },
+        {
+            "key": "bull",
+            "title": "Taureau (Bull)",
+            "desc": "Un trader ou investisseur qui s’attend à une hausse des prix et achète dans le but de vendre plus tard à un prix supérieur."
+        },
+        {
+            "key": "bullMarket",
+            "title": "Marché haussier",
+            "desc": "Un environnement de marché caractérisé par une hausse généralisée des prix et un sentiment positif — souvent représenté par une tendance ascendante sur les graphiques."
+        },
+        {
+            "key": "return",
+            "title": "Rendement",
+            "desc": "Le paiement ou pourcentage que vous recevez d’une position. Sur des plateformes comme Qption, les traders peuvent recevoir jusqu’à 45 % du montant investi même sur une transaction perdante (selon l’actif). Le taux de rendement est défini au moment de l’achat."
+        },
+        {
+            "key": "volatility",
+            "title": "Volatilité",
+            "desc": "Le degré de fluctuation des prix sur une période donnée. Une volatilité élevée signifie des variations plus larges et plus rapides."
+        },
+        {
+            "key": "deposit",
+            "title": "Dépôt",
+            "desc": "Fonds disponibles sur un compte de trading pouvant être utilisés pour ouvrir et gérer des positions."
+        },
+        {
+            "key": "diversification",
+            "title": "Diversification",
+            "desc": "Une approche de gestion des risques consistant à répartir le capital sur différents actifs ou marchés afin de réduire l’exposition à une seule position."
+        },
+        {
+            "key": "indicator",
+            "title": "Indicateur",
+            "desc": "Outil d’analyse technique dérivé des données de prix et de volume, utilisé pour évaluer la tendance, le momentum ou la volatilité et orienter les décisions de trading."
+        },
+        {
+            "key": "bid",
+            "title": "Prix d’achat (Bid)",
+            "desc": "Le prix actuel du marché auquel vous pouvez vendre un actif."
+        },
+        {
+            "key": "priceCorridor",
+            "title": "Corridor de prix",
+            "desc": "Une zone de prix sur le graphique délimitée par un support (limite inférieure) et une résistance (limite supérieure) à l’intérieur de laquelle l’actif évolue."
+        },
+        {
+            "key": "correction",
+            "title": "Correction",
+            "desc": "Un mouvement temporairement contraire à la tendance principale, qui retrace une partie d’une forte hausse ou baisse avant une éventuelle reprise de la tendance initiale."
+        },
+        {
+            "key": "correlation",
+            "title": "Corrélation",
+            "desc": "Une mesure de la manière dont deux actifs évoluent l’un par rapport à l’autre, de −1 (inverse) à +1 (directe). Exemple : EUR/USD et GBP/USD évoluent souvent dans des directions similaires."
+        },
+        {
+            "key": "liquidity",
+            "title": "Liquidité",
+            "desc": "La facilité avec laquelle un actif peut être acheté ou vendu sans modifier sensiblement son prix. Un volume de transactions élevé implique généralement une plus grande liquidité."
+        },
+        {
+            "key": "supportLine",
+            "title": "Ligne de support",
+            "desc": "Une zone de prix où la demande apparaît historiquement, empêchant souvent le prix de baisser davantage."
+        },
+        {
+            "key": "resistanceLine",
+            "title": "Ligne de résistance",
+            "desc": "Une zone de prix où l’offre apparaît historiquement, limitant souvent les hausses supplémentaires."
+        },
+        {
+            "key": "trendLine",
+            "title": "Ligne de tendance",
+            "desc": "Une ligne reliant des creux ascendants dans une tendance haussière (support) ou des sommets descendants dans une tendance baissière (résistance), illustrant la direction du mouvement."
+        },
+        {
+            "key": "bear",
+            "title": "Ours (Bear)",
+            "desc": "Un trader ou investisseur qui s’attend à une baisse des prix et cherche à profiter de cette baisse."
+        },
+        {
+            "key": "bearMarket",
+            "title": "Marché baissier",
+            "desc": "Une période prolongée de baisse généralisée des prix et de sentiment négatif — souvent représentée par des tendances descendantes sur les graphiques."
+        },
+        {
+            "key": "bearRaid",
+            "title": "Attaque baissière (Bear Raid)",
+            "desc": "Une action coordonnée de traders visant à faire baisser le prix d’un actif, généralement par des ventes massives."
+        },
+        {
+            "key": "traderSentiment",
+            "title": "Sentiment des traders",
+            "desc": "Un indicateur reflétant le biais global des participants au marché (par exemple, la proportion de positions longues par rapport aux positions courtes)."
+        },
+        {
+            "key": "bar",
+            "title": "Barre (Bar)",
+            "desc": "Un élément de graphique affichant le prix d’ouverture, le plus haut, le plus bas et le prix de clôture (OHLC) pour une période donnée ; utilisé dans les graphiques en barres."
+        },
+        {
+            "key": "bonus",
+            "title": "Bonus",
+            "desc": "Fonds supplémentaires crédités par la plateforme (par exemple, dans le cadre d’une promotion ou d’un bonus de dépôt) pouvant être utilisés pour trader sous certaines conditions."
+        }
+    ]
+}

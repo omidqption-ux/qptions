@@ -1,0 +1,108 @@
+{
+    "seo": {
+        "title": "SSS – Qption",
+        "description": "Qption platformu, fiyatlandırma, güvenlik ve destek hakkında en sık sorulan soruların yanıtlarını bulun.",
+        "keywords": "Qption SSS, opsiyon ticareti yardımı, ücretler, hesap güvenliği, para yatırma, para çekme, destek",
+        "ogDescription": "Qption hakkında bilmeniz gereken her şey – tek bir kullanışlı Sıkça Sorulan Sorular sayfasında toplandı.",
+        "twitterDescription": "Sorularınız mı var? Qption’un SSS bölümünde yanıtları hızlıca bulun.",
+        "url": "https://qption.com/faq",
+        "ogImage": "https://qption.com/images/og/faq-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Sıkça Sorulan Sorular",
+        "subtitle": "Platformumuz ve hizmetlerimizle ilgili en yaygın soruların yanıtlarını bulun"
+    },
+    "faqs": [
+        {
+            "icon": "chartLine",
+            "q": "Opsiyon ticareti nedir?",
+            "a": "Opsiyon ticareti, belirli bir süre içinde belirli bir fiyattan bir varlığı alma veya satma hakkı (zorunluluğu değil) veren sözleşmelerin alım satımını içerir. Bu, yatırımcılara varlığı doğrudan sahip olmadan fiyat hareketlerinden yararlanma imkânı sağlar."
+        },
+        {
+            "icon": "idCard",
+            "q": "Hesabımı nasıl doğrularım ve hangi belgeler gereklidir?",
+            "a": "Hesabınızı doğrulamak için önce bir para yatırma işlemi yapmanız ve geçerli kimlik belgenizin (pasaport veya kimlik kartı) renkli bir fotoğrafını göndermeniz gerekir. Kartla yapılan yatırımlarda kart ekstresi istenebilir. Belgelerin net ve okunaklı olduğundan emin olun."
+        },
+        {
+            "icon": "moneyBill",
+            "q": "Minimum para yatırma ve çekme tutarı nedir?",
+            "a": "Minimum para yatırma ve çekme tutarı: 10 $ (veya seçilen para biriminizde eşdeğeri)."
+        },
+        {
+            "icon": "wallet",
+            "q": "Nasıl para çekebilirim ve hangi yöntemleri kullanabilirim?",
+            "a": "FİNANS bölümüne gidin ve bir para çekme talebi oluşturun. Yatırılan fonlar orijinal kaynağa (kart/e-cüzdan) geri gönderilir. Kârlar doğrulanmış bir e-cüzdana gönderilir. Üçüncü taraf hesaplar kabul edilmez."
+        },
+        {
+            "icon": "handshake",
+            "q": "İş ortağınız olabilir miyim?",
+            "a": "Evet, Referans Programımız aracılığıyla. Kodunuzu paylaşın, yeni kullanıcılar davet edin ve gerçek kazanç elde edin."
+        },
+        {
+            "icon": "coins",
+            "q": "Platformda ne kadar kazanabilirim?",
+            "a": "Kazançlar stratejiye, piyasa koşullarına ve risk yönetimine bağlıdır. Ticaret risk içerir; kâr garantisi yoktur."
+        },
+        {
+            "icon": "exchange",
+            "q": "Qption’da nasıl işlem yapmaya başlarım?",
+            "a": "Bir hesap oluşturun, doğrulama işlemini tamamlayın ve ilk yatırımınızı yapın. Ardından hemen işlem yapabilirsiniz."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Hangi opsiyon türleri mevcut?",
+            "a": "İkili opsiyonlar, dijital opsiyonlar ve FX opsiyonları sunuyoruz. Her birinin farklı özellikleri ve riskleri vardır."
+        },
+        {
+            "icon": "chartLine",
+            "q": "Platformda hangi varlıklarla işlem yapabilirim?",
+            "a": "Forex, hisse senetleri, emtialar ve endeksler – yatırım çeşitliliği için."
+        },
+        {
+            "icon": "coins",
+            "q": "Tek bir işlemden ne kadar kâr elde edebilirim?",
+            "a": "Bu, opsiyon türüne, işlem büyüklüğüne ve piyasa koşullarına bağlıdır. Zarar olasılığı da vardır."
+        },
+        {
+            "icon": "warning",
+            "q": "Opsiyon ticareti riskli midir?",
+            "a": "Evet. Piyasalar öngörülemez olabilir. Risk yönetimini kullanın ve sorumlu şekilde işlem yapın."
+        },
+        {
+            "icon": "tools",
+            "q": "Qption hangi ticaret araçlarını sunuyor?",
+            "a": "Hareketli ortalamalar, Bollinger Bantları, RSI, MACD ve daha fazlası – piyasa analizleri için."
+        },
+        {
+            "icon": "clock",
+            "q": "Para çekme işlemi ne kadar sürer?",
+            "a": "Genellikle 1–24 saat arası, yönteme bağlı olarak. Mümkün olan en kısa sürede işleme alıyoruz."
+        },
+        {
+            "icon": "creditCard",
+            "q": "Qption’da işlem ücretleri var mı?",
+            "a": "Çoğu işlemde komisyon alınmaz, ancak bazı opsiyonlarda ücret veya spread olabilir."
+        },
+        {
+            "icon": "lock",
+            "q": "Kişisel bilgilerim güvende mi?",
+            "a": "Evet. Verilerinizi korumak için gelişmiş şifreleme ve güvenlik standartları kullanıyoruz."
+        },
+        {
+            "icon": "chartBar",
+            "q": "İkili ve dijital opsiyonlar arasındaki fark nedir?",
+            "a": "İkili opsiyonlar sabit getirilidir, dijital opsiyonlar ise kullanım fiyatına olan mesafeye göre değişken getiri sağlar."
+        },
+        {
+            "icon": "headset",
+            "q": "Müşteri desteğiniz ne zaman açık?",
+            "a": "7/24 canlı sohbet, e-posta veya telefon üzerinden hizmet vermekteyiz."
+        },
+        {
+            "icon": "wallet",
+            "q": "Hesabıma nasıl para yatırabilirim?",
+            "a": "Kredi/banka kartı, banka havalesi ve e-cüzdan (bölgeye göre değişir) yöntemlerini kullanabilirsiniz."
+        }
+    ]
+}

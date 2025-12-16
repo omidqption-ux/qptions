@@ -1,0 +1,76 @@
+{
+    "seo": {
+        "title": "Estratégia dos Três Métodos – Técnicas de Tendência, Faixa e Reversão | Qption",
+        "description": "Descubra a Estratégia dos Três Métodos que combina abordagens de tendência, consolidação e reversão. Aprenda a identificar as condições de mercado, filtrar sinais e gerenciar riscos usando ferramentas como Médias Móveis, Bandas de Bollinger, RSI, MACD e níveis de Fibonacci.",
+        "keywords": "estratégia três métodos, tendência, reversão, faixa de negociação, ADX, MACD, RSI, Bandas de Bollinger, níveis de Fibonacci, padrões de velas, divergência, médias móveis, gerenciamento de risco, Qption",
+        "ogAlt": "Estratégia dos Três Métodos combinando tendências, faixas e reversões",
+        "ld": {
+            "headline": "Estratégia dos Três Métodos – Técnicas de Tendência, Faixa e Reversão"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estratégia de negociação"
+    },
+    "cta": {
+        "ready": "Pronto para negociar?",
+        "startTrading": "Começar a negociar"
+    },
+    "hero": {
+        "title": "Estratégia dos Três Métodos",
+        "subtitle": "Domine três abordagens essenciais de negociação — tendência, faixa e reversão. Aprenda a identificar a direção do mercado, filtrar ruídos e aproveitar oportunidades com alta probabilidade de sucesso."
+    },
+    "trend": {
+        "title": "1. Estratégia Seguidora de Tendência",
+        "items": {
+            "1": "Objetivo: lucrar negociando na direção da tendência predominante.",
+            "2": "Ferramentas: Médias Móveis, MACD, ADX.",
+            "3": "Sinal de compra: quando a média móvel curta cruza acima da média longa (sinal de alta).",
+            "4": "Sinal de venda: quando a média móvel curta cruza abaixo da média longa (sinal de baixa).",
+            "5": "Exemplo: médias móveis de 50 e 200 períodos (Cruz Dourada e Cruz da Morte)."
+        }
+    },
+    "range": {
+        "title": "2. Estratégia de Faixa (Retorno à Média)",
+        "items": {
+            "1": "Objetivo: lucrar em mercados laterais comprando próximo ao suporte e vendendo próximo à resistência.",
+            "2": "Ferramentas: Bandas de Bollinger, RSI, níveis de suporte e resistência.",
+            "3": "Sinal de compra: preço próximo ao suporte ou à banda inferior de Bollinger.",
+            "4": "Sinal de venda: preço próximo à resistência ou à banda superior de Bollinger.",
+            "5": "Exemplo: use stop-loss fora da faixa para evitar perdas em caso de rompimento."
+        }
+    },
+    "reversal": {
+        "title": "3. Estratégia de Reversão",
+        "items": {
+            "1": "Objetivo: capturar lucros em mudanças de direção da tendência.",
+            "2": "Ferramentas: padrões de velas, indicadores de divergência, níveis de Fibonacci.",
+            "3": "Sinal de compra: padrão de reversão de alta (por exemplo, martelo) com divergência altista.",
+            "4": "Sinal de venda: padrão de reversão de baixa (por exemplo, estrela cadente) com divergência baixista.",
+            "5": "Exemplo: posicione o stop-loss abaixo da mínima do padrão de alta ou acima da máxima do padrão de baixa."
+        }
+    },
+    "combine": {
+        "title": "Combinando os Três Métodos",
+        "items": {
+            "1": "Identifique as condições de mercado: use ADX e Bandas de Bollinger para determinar se o mercado está em tendência ou em consolidação.",
+            "2": "Filtre sinais: confirme com indicadores secundários para melhorar a precisão.",
+            "3": "Gerencie o risco: defina stop-loss e tamanhos de posição conforme as condições do mercado."
+        }
+    },
+    "pros": {
+        "title": "Vantagens",
+        "items": {
+            "1": "Versátil: aplicável em mercados de tendência, consolidação e reversão.",
+            "2": "Maior precisão: múltiplos métodos reduzem sinais falsos.",
+            "3": "Equilibrada: combina técnicas de tendência, faixa e reversão."
+        }
+    },
+    "cons": {
+        "title": "Desvantagens",
+        "items": {
+            "1": "Complexidade: requer conhecimento de várias estratégias e indicadores.",
+            "2": "Alta exigência de monitoramento: demanda análise e ajustes regulares.",
+            "3": "Risco de sobre-negociação: pode levar ao excesso de operações se não for bem controlada."
+        }
+    }
+}

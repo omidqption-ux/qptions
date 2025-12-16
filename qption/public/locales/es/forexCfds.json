@@ -1,0 +1,150 @@
+{
+    "seo": {
+        "title": "Correlación entre los mercados de acciones y Forex/CFD: factores, patrones y regímenes de riesgo | Qption",
+        "description": "Descubre cómo los mercados de acciones y Forex/CFD se mueven juntos (o en direcciones opuestas). Aprende los impulsores macroeconómicos —tasas de interés, datos de crecimiento, sentimiento de riesgo y flujos de capital— además de los pares positivos/negativos comunes y cómo usar la correlación para la diversificación y cobertura.",
+        "url": "https://qption.com/fundamental-analysis/forex-cfds",
+        "keywords": "correlación entre acciones y forex, correlación CFD, riesgo on/off, tasas de interés y FX, flujos de capital, monedas refugio JPY CHF, USD y acciones, correlación AUD y materias primas, cobertura de cartera, Qption",
+        "ld": {
+            "headline": "Correlación entre los mercados de acciones y Forex/CFDs",
+            "about": {
+                "equities": "Mercados de Acciones",
+                "forex": "Mercado de Divisas (Forex)",
+                "cfds": "Contratos por Diferencia (CFDs)",
+                "riskSentiment": "Sentimiento Global de Riesgo",
+                "safeHavens": "Monedas Refugio",
+                "rates": "Tasas de Interés",
+                "flows": "Flujos de Capital"
+            },
+            "props": {
+                "regimes": {
+                    "name": "Regímenes de Correlación",
+                    "value": "Las relaciones cambian en fases de riesgo on/off; las monedas refugio (JPY, CHF) suelen fortalecerse cuando las acciones globales caen."
+                },
+                "commodity": {
+                    "name": "Vínculos con Materias Primas",
+                    "value": "El AUD y los sectores de acciones ligados a recursos pueden moverse juntos debido a los ciclos de comercio y materias primas."
+                },
+                "practice": {
+                    "name": "Uso Práctico",
+                    "value": "Los operadores usan el conocimiento de correlaciones para diversificar, cubrir riesgos y evitar exposiciones concentradas sin intención."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análisis Fundamental"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "start": "Comienza a Operar"
+    },
+    "page": {
+        "title": "Correlación entre los mercados de acciones y Forex/CFDs"
+    },
+    "sections": {
+        "_list": [
+            "Visión General",
+            "Factores Clave de Correlación",
+            "Tasas de Interés",
+            "Datos Económicos",
+            "Sentimiento Global de Riesgo",
+            "Flujos de Capital",
+            "Correlaciones Comunes entre Acciones y Forex/CFD",
+            "Correlaciones Positivas",
+            "Correlaciones Negativas",
+            "Cómo los Mercados de Acciones Impactan en Forex/CFDs",
+            "Aumentos del Mercado Accionario y Fortaleza de Monedas",
+            "Caídas del Mercado Accionario y Monedas Refugio",
+            "Beneficios de Entender las Correlaciones entre Acciones y Forex/CFD",
+            "Limitaciones de Confiar en las Correlaciones"
+        ],
+        "overview": {
+            "title": "Visión General",
+            "items": [
+                "Los mercados de acciones y Forex/CFD a menudo se mueven en relación entre sí, con cambios en uno que influyen en el otro.",
+                "Esta correlación surge de factores macroeconómicos como las expectativas de crecimiento, tasas de interés, apetito por el riesgo y flujos de capital globales.",
+                "Comprender estas conexiones ayuda a los operadores a construir mejores estrategias de diversificación y cobertura entre clases de activos."
+            ]
+        },
+        "drivers": {
+            "title": "Factores Clave de Correlación",
+            "items": [
+                {
+                    "label": "Tasas de Interés:",
+                    "text": "Las políticas de los bancos centrales afectan tanto a las monedas como a las acciones: tasas más altas pueden fortalecer las divisas pero presionar las valoraciones bursátiles."
+                },
+                {
+                    "label": "Datos Económicos:",
+                    "text": "Indicadores sólidos de PIB, empleo e inflación influyen en el sentimiento del inversor en ambos mercados, alineando su dirección."
+                },
+                {
+                    "label": "Sentimiento Global de Riesgo:",
+                    "text": "Durante fases de aversión al riesgo, los inversores abandonan las acciones y se mueven hacia divisas refugio como el JPY y el CHF; en fases de apetito por el riesgo ocurre lo contrario."
+                },
+                {
+                    "label": "Flujos de Capital:",
+                    "text": "Las inversiones extranjeras en mercados de acciones aumentan la demanda de la moneda local, mientras que las salidas de capital pueden debilitarla."
+                }
+            ]
+        },
+        "common": {
+            "title": "Correlaciones Comunes entre Acciones y Forex/CFDs",
+            "positive": {
+                "title": "Correlaciones Positivas",
+                "items": [
+                    "USD y Acciones de EE. UU.: Una economía fuerte puede impulsar tanto el dólar como el mercado bursátil a medida que los inversores esperan un mayor crecimiento.",
+                    "AUD y Acciones de Materias Primas: La moneda australiana tiende a moverse con los sectores mineros y energéticos debido a la naturaleza exportadora de Australia."
+                ]
+            },
+            "negative": {
+                "title": "Correlaciones Negativas",
+                "items": [
+                    "JPY y Acciones Japonesas: Cuando las acciones japonesas caen, el yen tiende a fortalecerse por la repatriación de capitales, un comportamiento típico de refugio seguro.",
+                    "CHF y Acciones Globales: El franco suizo generalmente se fortalece cuando las acciones globales caen, reflejando la búsqueda de activos estables."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Cómo los Mercados de Acciones Impactan en Forex/CFD",
+            "rallies": {
+                "title": "Aumentos del Mercado Accionario y Fortaleza de Monedas",
+                "items": [
+                    "Cuando los mercados bursátiles suben, los flujos de capital pueden fortalecer la moneda local al aumentar la demanda de inversión.",
+                    "El buen desempeño de las acciones impulsa la confianza del inversor, atrayendo inversión extranjera y apoyando la apreciación de la moneda."
+                ]
+            },
+            "declines": {
+                "title": "Caídas del Mercado Accionario y Monedas Refugio",
+                "items": [
+                    "Durante las caídas bursátiles, los inversores tienden a refugiarse en monedas seguras como el USD, JPY y CHF, lo que fortalece estas divisas.",
+                    "En tiempos de crisis, los inversores reducen su exposición al riesgo y trasladan fondos de las acciones hacia monedas estables para preservar el capital."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Beneficios de Entender las Correlaciones entre Acciones y Forex/CFD",
+            "items": [
+                "Mejora la diversificación al gestionar el riesgo entre diferentes clases de activos.",
+                "Permite una mejor sincronización al entender cómo un mercado influye en el otro.",
+                "Ayuda a identificar oportunidades de cobertura para compensar posibles pérdidas."
+            ]
+        },
+        "limits": {
+            "title": "Limitaciones de Confiar en las Correlaciones",
+            "items": [
+                {
+                    "label": "Cambios Impredecibles:",
+                    "text": "Las correlaciones pueden cambiar rápidamente como respuesta a políticas o eventos globales, reduciendo su fiabilidad."
+                },
+                {
+                    "label": "Factores Específicos del Mercado:",
+                    "text": "Eventos locales, como resultados corporativos o inestabilidad política, pueden alterar los patrones habituales entre mercados."
+                },
+                {
+                    "label": "Interdependencias Complejas:",
+                    "text": "Varios factores macro y microeconómicos interactúan, haciendo que las correlaciones sean dinámicas y dependientes del tiempo."
+                }
+            ]
+        }
+    }
+}

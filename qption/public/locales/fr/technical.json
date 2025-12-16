@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Vue d’ensemble de l’analyse technique | Qption",
+        "description": "Maîtrise l’analyse de marché grâce à notre guide complet : concepts clés, indicateurs populaires et limites usuelles.",
+        "keywords": "analyse technique, price action, indicateurs, tendances, support résistance, RSI, moyennes mobiles, Bollinger, formation trading, Qption",
+        "ogTitle": "Vue d’ensemble de l’analyse technique | Qption",
+        "ogDescription": "Guide concis et pratique : qu’est-ce que l’analyse technique, comment elle fonctionne et quels outils utilisent les traders.",
+        "url": "https://qption.com/technical-analysis/technical",
+        "image": "https://qption.com/images/og/technical-overview-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Analyse technique"
+    },
+    "promo": {
+        "text": "Prêt à maîtriser l’analyse technique ?",
+        "cta": "Commencer à apprendre"
+    },
+    "hero": {
+        "title": "Vue d’ensemble de l’analyse technique",
+        "subtitle": "Domine l’art de l’analyse de marché grâce à notre guide complet"
+    },
+    "overview": {
+        "title": "Vue d’ensemble",
+        "bullets": [
+            "L’analyse technique utilise graphiques, figures et indicateurs pour anticiper les mouvements futurs.",
+            "Elle s’appuie sur les données historiques (prix, volumes, métriques) pour identifier tendances et zones d’entrée/sortie.",
+            "Elle est largement utilisée sur actions, forex, crypto et matières premières."
+        ]
+    },
+    "core": {
+        "title": "Concepts essentiels",
+        "items": [
+            {
+                "title": "Tendances de prix",
+                "desc": "Les cours évoluent souvent en tendances (haussière, baissière, range) jusqu’à un retournement."
+            },
+            {
+                "title": "Supports et résistances",
+                "desc": "Niveaux où le prix peut s’arrêter ou se retourner. Le support agit comme un plancher, la résistance comme un plafond."
+            },
+            {
+                "title": "Cycles de marché",
+                "desc": "Les prix suivent des cycles influencés par la psychologie, la macro et le sentiment."
+            }
+        ]
+    },
+    "indicators": {
+        "title": "Indicateurs populaires",
+        "items": [
+            {
+                "title": "Moyennes mobiles",
+                "points": [
+                    "Lissent les prix pour révéler la direction et les zones de retournement.",
+                    "Les plus courantes : SMA (simple) et EMA (exponentielle)."
+                ]
+            },
+            {
+                "title": "RSI (Relative Strength Index)",
+                "points": [
+                    "Oscillateur de momentum mesurant vitesse et amplitude des variations.",
+                    "Au-dessus de 70 = surachat, en dessous de 30 = survente."
+                ]
+            },
+            {
+                "title": "Bandes de Bollinger",
+                "points": [
+                    "Une moyenne avec bandes supérieure/inférieure pour mesurer la volatilité.",
+                    "Les bandes s’écartent quand la volatilité augmente et se resserrent quand elle baisse."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limites",
+        "bullets": [
+            "Basée sur les données passées, aucune garantie pour l’avenir.",
+            "Sujette aux faux signaux en marché erratique ou range.",
+            "Nécessite un savoir-faire : les indicateurs peuvent se contredire, la confluence est clé."
+        ]
+    }
+}

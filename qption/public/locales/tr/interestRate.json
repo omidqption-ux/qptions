@@ -1,0 +1,143 @@
+{
+    "seo": {
+        "title": "Faiz farkları ve döviz carry trade’leri – Mekanik, koşullar, riskler | Qption",
+        "description": "Faiz farklarının FX hareketlerini ve carry trade’lerini nasıl yönlendirdiğini öğrenin. Mekaniği, carry için elverişli koşulları, kilit göstergeleri, faydaları ve volatilite, değer kaybı, politika şokları gibi riskleri keşfedin.",
+        "keywords": "faiz farkları, döviz carry trade, FX carry, para politikası, merkez bankası faizleri, risk-on, düşük volatilite, değer kaybı riski, AUD/JPY, NZD/JPY, JPY funding, forex stratejisi, temel analiz, Qption",
+        "ogTitle": "Faiz farkları ve döviz carry trade’leri",
+        "ogDescription": "Carry 101: neden faiz spread’leri önemli, carry ne zaman çalışır ve P/L’yi tersine çevirebilecek riskler neler.",
+        "url": "https://qption.com/fundamental-analysis/interest-rate-differentials-carry-trades",
+        "image": "https://qption.com/images/og/interest-rate-differentials-carry-trades.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "FX Carry & Faiz Farkları | Qption",
+        "twitterDescription": "Döviz carry trade’lerinin mekanikleri, koşulları, göstergeleri, faydaları ve riskleri.",
+        "twitterImage": "https://qption.com/images/og/interest-rate-differentials-carry-trades.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/interest-rate-differentials-carry-trades",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Faiz farkları ve döviz carry trade’leri – Mekanik, koşullar, riskler",
+            "description": "Faiz spread’lerinin FX hareketlerini ve carry stratejilerini nasıl yönlendirdiği, hangi koşullarda çalıştığı ve riskler.",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/interest-rate-differentials-carry-trades",
+            "publisher": { "@type": "Organization", "name": "Qption" },
+            "about": [
+                { "@type": "Thing", "name": "Faiz Farkı" },
+                { "@type": "Thing", "name": "Döviz Carry Trade" },
+                { "@type": "Thing", "name": "Para Politikası" },
+                { "@type": "Thing", "name": "Döviz (Forex)" },
+                { "@type": "Thing", "name": "Volatilite" },
+                { "@type": "Thing", "name": "Risk-On Sentimenti" }
+            ],
+            "articleSection": [
+                "Genel Bakış",
+                "Faiz Farklarını Anlamak",
+                "Carry Mekaniği",
+                "Elverişli Koşullar",
+                "Faydalar",
+                "Riskler & Sınırlamalar"
+            ],
+            "additionalProperty": [
+                { "@type": "PropertyValue", "name": "Temel Fikir", "value": "Düşük getirili para biriminden borçlanıp yüksek getirili para birimine yatırım yaparak spread’i toplamak." },
+                { "@type": "PropertyValue", "name": "Tipik Pariteler", "value": "Funding: JPY/CHF; Hedef: AUD/NZD (kontekste bağlı)." },
+                { "@type": "PropertyValue", "name": "Elverişli Koşullar", "value": "Düşük volatilite, stabil/genişleyen spread’ler, yaygın risk-on havası." },
+                { "@type": "PropertyValue", "name": "Ana Sürücüler", "value": "Merkez banka patikaları, enflasyon, büyüme, istihdam, yönlendirme." },
+                { "@type": "PropertyValue", "name": "Başlıca Riskler", "value": "FX değer kaybı, volatilite sıçramaları, spread’leri sıkıştıran politika sürprizleri." }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "page": {
+        "title": "Faiz Farkları ve Döviz Carry Trade Stratejileri"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "startTrading": "Ticarete Başla"
+    },
+    "sections": {
+        "overview": {
+            "title": "Genel Bakış",
+            "bullets": [
+                "Faiz farkı, iki ekonominin faizleri arasındaki boşluktur; FX trendlerini etkiler ve carry trade’lere güç verir.",
+                "Bir carry trade, düşük faizli para biriminden borçlanıp yüksek faizli para biriminde pozisyon tutarak spread kazanmayı hedefler.",
+                "Carry sakin piyasalarda cazip olabilir ancak volatilite ve politika değişimlerine duyarlıdır."
+            ]
+        },
+        "understanding": {
+            "title": "Faiz Farklarını Anlamak",
+            "items": [
+                {
+                    "label": "Faiz Politikaları",
+                    "text": "Merkez bankaları enflasyon ve büyümeyi yönetmek için faizleri ayarlar; farklılaşan patikalar carry fırsatları doğurur."
+                },
+                {
+                    "label": "Para Birimi Değerlemesi",
+                    "text": "Yüksek faizli para birimleri sermaye girişleriyle değer kazanabilir; düşük faizli funding paraları zayıflayabilir."
+                },
+                {
+                    "label": "Ekonomik Göstergeler",
+                    "text": "Enflasyon, GSYİH, istihdam verileri politika beklentilerini yönlendirerek carry ortamını şekillendirir."
+                }
+            ]
+        },
+        "mechanics": {
+            "title": "Döviz Carry Trade Mekaniği",
+            "choose": {
+                "title": "1. Carry için para birimi seçimi",
+                "bullets": [
+                    "Düşük getirili para (örn. JPY/CHF) ile fonlanıp yüksek getirili para (örn. AUD/NZD) tutulur.",
+                    "Pozisyon, yüksek getirili taraftan net faiz (“carry”) kazanmayı hedefler."
+                ]
+            },
+            "earn": {
+                "title": "2. Faiz farkı kazancı",
+                "bullets": [
+                    "Carry P/L’i, ödenen faiz (funding) ile kazanılan faiz (hedef) arasındaki spread’den gelir.",
+                    "Stabil veya genişleyen spread’lere ek olarak olumlu FX drift’i getirileri bileşik hale getirebilir."
+                ]
+            }
+        },
+        "conditions": {
+            "title": "Carry Trade İçin Elverişli Koşullar",
+            "lowVol": {
+                "title": "1. Düşük piyasa volatilitesi",
+                "bullets": [
+                    "Carry, FX bantlarının sakin olduğu ve tail risklerin sınırlı olduğu dönemlerde en iyi çalışır.",
+                    "Sakin ortamda faiz spread’i sonuçları domine eder."
+                ]
+            },
+            "riskOn": {
+                "title": "2. Risk-on sentiment",
+                "bullets": [
+                    "İyimser dönemlerde yatırımcılar yüksek getirili paraları tutmaya daha istekli olur.",
+                    "Risk-on arka planı, yüksek faizli FX’in güçlenmesi ve carry’e destekle örtüşür."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Carry Trade Faydaları",
+            "bullets": [
+                "Faiz spread’inden ek gelir potansiyeli, piyasa yatay olsa bile.",
+                "Yüksek faizli para güçlenirse sermaye kazancı fırsatı.",
+                "Hisse/tahvil pozisyonlarına kıyasla portföy çeşitlendirmesi."
+            ]
+        },
+        "risks": {
+            "title": "Carry Trade Riskleri ve Sınırlamaları",
+            "items": [
+                {
+                    "label": "Piyasa Volatilitesi",
+                    "text": "Ani FX hareketleri carry gelirini bastırıp getirileri negatife çevirebilir."
+                },
+                {
+                    "label": "Para Birimi Değer Kaybı",
+                    "text": "Yüksek faizli para ciddi şekilde zayıflarsa carry kazanımları silinebilir."
+                },
+                {
+                    "label": "Politika Değişimleri",
+                    "text": "Beklenmedik merkez bankası hamleleri spread’leri sıkıştırıp trendleri hızla tersine çevirebilir."
+                }
+            ]
+        }
+    }
+}

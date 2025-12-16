@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Quiz de Análisis Fundamental – Pon a prueba tu conocimiento del mercado | Qption",
+        "description": "Desafía tu comprensión de la macroeconomía, las tasas de interés, la inflación y el comportamiento del mercado con el Quiz de Análisis Fundamental de Qption. Aprende y opera con más inteligencia.",
+        "keywords": "quiz análisis fundamental, macroeconomía, quiz forex, inflación, tasas de interés, bancos centrales, PIB, IPC, carry trade, Qption",
+        "ogTitle": "Quiz de Análisis Fundamental – Pon a prueba tu conocimiento del mercado | Qption",
+        "ogDesc": "Quiz interactivo para poner a prueba tu comprensión de los indicadores económicos, los bancos centrales, la inflación y los mercados globales.",
+        "url": "https://qption.com/fundamental-analysis/quiz",
+        "ogImage": "https://qption.com/images/og/fundamental-analysis-quiz.jpg"
+    },
+    "ui": {
+        "loadingPool": "Cargando preguntas del quiz…",
+        "preparing": "Preparando el quiz…",
+        "h1": "Análisis Fundamental",
+        "intro": "Pon a prueba tu mentalidad macroeconómica con nuestro Quiz interactivo de Análisis Fundamental: evalúa tu comprensión sobre el crecimiento, la inflación, la política de los bancos centrales, las diferencias de tasas de interés, el impacto fiscal y las dinámicas entre activos para convertirte en un trader más informado y con convicción.",
+        "quizTitle": "Quiz de Análisis Fundamental",
+        "questionOf": "Pregunta {{current}} de {{total}}",
+        "selectPrompt": "Selecciona una opción y envía tu respuesta.",
+        "correct": "¡Correcto ✅!",
+        "notQuite": "No del todo ⚠️",
+        "learnMore": "Aprender más ↗",
+        "prev": "Anterior",
+        "submit": "Enviar",
+        "next": "Siguiente",
+        "finish": "Finalizar",
+        "scoreLabel": "Puntuación: {{score}} / {{total}}",
+        "resultHigh": "¡Excelente! Tu radar macroeconómico está muy afinado.",
+        "resultMid": "¡Buen trabajo! Sigue practicando para mejorar.",
+        "resultLow": "Buen comienzo. Revisa las lecciones y vuelve a intentarlo.",
+        "newRandom": "Nuevas 10 aleatorias"
+    },
+    "pool": [
+        {
+            "q": "¿Qué indicador se utiliza directamente como la medida principal de la inflación al consumidor?",
+            "options": [
+                "PIB",
+                "IPC",
+                "Balanza Comercial",
+                "Ventas Minoristas"
+            ],
+            "correctIndex": 1,
+            "explain": "El Índice de Precios al Consumidor (IPC) mide los cambios en los precios de una canasta de bienes y servicios y es un indicador clave de la inflación.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Indicadores Económicos"
+        },
+        {
+            "q": "Un aumento en el PIB, en igualdad de condiciones, sugiere:",
+            "options": [
+                "Contracción económica",
+                "Expansión económica",
+                "Estanflación",
+                "Solo depreciación de la moneda"
+            ],
+            "correctIndex": 1,
+            "explain": "El PIB mide la producción total; un aumento generalmente refleja crecimiento económico.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Indicadores Económicos"
+        },
+        {
+            "q": "¿Qué publicación puede provocar grandes movimientos en el mercado FX por sus implicaciones en el empleo?",
+            "options": [
+                "Nóminas no agrícolas (datos de empleo)",
+                "IPP",
+                "Inventarios minoristas",
+                "Presupuesto nacional"
+            ],
+            "correctIndex": 0,
+            "explain": "Los datos de empleo influyen en las expectativas de tasas y en la perspectiva de crecimiento, moviendo las divisas.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Indicadores Económicos"
+        },
+        {
+            "q": "Cuando un banco central reduce su tasa de interés, su objetivo principal es:",
+            "options": [
+                "Enfriar una economía sobrecalentada",
+                "Estimular el crédito y el gasto",
+                "Reducir la oferta monetaria",
+                "Fortalecer la moneda de inmediato"
+            ],
+            "correctIndex": 1,
+            "explain": "Las tasas más bajas reducen los costos de financiamiento, impulsando la demanda y la inversión.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Bancos Centrales"
+        },
+        {
+            "q": "Los precios de los bonos se mueven típicamente _____ con respecto a las tasas de interés.",
+            "options": [
+                "De manera inversa",
+                "De manera idéntica",
+                "Aleatoriamente",
+                "Sin relación"
+            ],
+            "correctIndex": 0,
+            "explain": "A medida que suben los rendimientos, los cupones fijos existentes pierden atractivo, bajando los precios (y viceversa).",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Bancos Centrales"
+        },
+        {
+            "q": "La orientación futura (forward guidance) se refiere a:",
+            "options": [
+                "Un régimen de tipo de cambio fijo",
+                "Comunicaciones sobre las intenciones de política futura",
+                "Solo operaciones de QE",
+                "Proyecciones de déficit fiscal"
+            ],
+            "correctIndex": 1,
+            "explain": "Los bancos centrales moldean las expectativas a través de su orientación sobre futuras políticas.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Bancos Centrales"
+        },
+        {
+            "q": "La alta inflación tiende a _____ una moneda, a menos que se compense con tasas más altas.",
+            "options": [
+                "Fortalecer",
+                "Debilitar",
+                "No tener efecto",
+                "Fijar el tipo de cambio"
+            ],
+            "correctIndex": 1,
+            "explain": "La inflación reduce el poder adquisitivo; las subidas de tasas pueden contrarrestarlo mediante mayores rendimientos.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Inflación"
+        },
+        {
+            "q": "Algunos inversores ven a Bitcoin como cobertura contra la inflación porque:",
+            "options": [
+                "Tiene una oferta ilimitada",
+                "Su oferta está limitada por protocolo",
+                "Sigue el IPC por diseño",
+                "Está vinculado al USD"
+            ],
+            "correctIndex": 1,
+            "explain": "La percepción de escasez hace que algunos consideren a BTC como una cobertura en períodos de alta inflación.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Inflación"
+        },
+        {
+            "q": "Una operación de carry trade clásica busca:",
+            "options": [
+                "Pedir prestado en monedas de alta tasa e invertir en monedas de baja tasa",
+                "Pedir prestado en monedas de baja tasa e invertir en monedas de alta tasa",
+                "Eliminar exposición a tasas de interés",
+                "Mantener solo efectivo"
+            ],
+            "correctIndex": 1,
+            "explain": "Las diferencias positivas de tasas generan beneficios (carry) hasta que la volatilidad o los cambios de régimen los eliminan.",
+            "source": "https://qption.com/fundamentalanalysis/interest-rate-differentials-carry-trades",
+            "topic": "Carry Trade"
+        },
+        {
+            "q": "Durante tensiones geopolíticas, los inversores suelen rotar hacia:",
+            "options": [
+                "Solo acciones de crecimiento pequeñas",
+                "Activos de alto riesgo (beta alta)",
+                "Activos refugio (por ejemplo, oro, CHF, JPY, bonos del Tesoro)",
+                "Microcapitalizaciones ilíquidas"
+            ],
+            "correctIndex": 2,
+            "explain": "La incertidumbre impulsa la demanda de seguridad y liquidez.",
+            "source": "https://qption.com/fundamentalanalysis/geopolitical-events-and-markets",
+            "topic": "Geopolítica"
+        },
+        {
+            "q": "La política fiscal expansiva típicamente incluye:",
+            "options": [
+                "Aumentar impuestos y reducir el gasto",
+                "Reducir impuestos y/o aumentar el gasto",
+                "Solo equilibrar el presupuesto",
+                "Vender reservas internacionales"
+            ],
+            "correctIndex": 1,
+            "explain": "Objetivo: impulsar la demanda agregada, el crecimiento y el empleo durante desaceleraciones.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Política Fiscal"
+        },
+        {
+            "q": "Un riesgo clave de déficits fiscales persistentes es:",
+            "options": [
+                "Deuda pública decreciente",
+                "Reducción de costos de interés",
+                "Aumento de la deuda pública y de los intereses",
+                "Apreciación automática de la moneda"
+            ],
+            "correctIndex": 2,
+            "explain": "Una alta deuda reduce la flexibilidad y puede desplazar otras prioridades económicas.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Política Fiscal"
+        },
+        {
+            "q": "Un alto ratio deuda/PIB puede indicar:",
+            "options": [
+                "Baja dependencia del endeudamiento",
+                "Posibles problemas de sostenibilidad",
+                "Crecimiento garantizado",
+                "Tipos de cambio fijos"
+            ],
+            "correctIndex": 1,
+            "explain": "Una elevada deuda puede afectar el crecimiento y la confianza en la moneda si no se gestiona adecuadamente.",
+            "source": "https://qption.com/fundamentalanalysis/global-debt-levels-and-currency-valuation",
+            "topic": "Deuda y Moneda"
+        },
+        {
+            "q": "Los precios de las materias primas están impulsados principalmente por:",
+            "options": [
+                "Solo la política de los bancos centrales",
+                "Dinámica de oferta y demanda y shocks",
+                "Movimiento aleatorio",
+                "Solo política fiscal"
+            ],
+            "correctIndex": 1,
+            "explain": "Las interrupciones en la oferta o los aumentos en la demanda (por ejemplo, crecimiento, clima) mueven los precios.",
+            "source": "https://qption.com/fundamentalanalysis/supply-and-demand-commodities",
+            "topic": "Materias Primas"
+        },
+        {
+            "q": "¿Cuál de los siguientes se considera comúnmente un activo refugio?",
+            "options": [
+                "Acción tecnológica de alto riesgo",
+                "Oro",
+                "Pequeña empresa biotecnológica",
+                "Moneda emergente de carry trade"
+            ],
+            "correctIndex": 1,
+            "explain": "En periodos de turbulencia, el capital suele rotar hacia el oro, CHF, JPY y bonos soberanos de alta calidad.",
+            "source": "https://qption.com/fundamentalanalysis/safe-haven-assets-market-turbulence",
+            "topic": "Activos Refugio"
+        },
+        {
+            "q": "Las acciones y los FX/CFDs pueden moverse juntos porque ambos están influenciados por:",
+            "options": [
+                "Los mismos factores macroeconómicos (crecimiento, inflación, tasas, apetito por riesgo)",
+                "Fuerzas completamente no relacionadas",
+                "El clima únicamente",
+                "Un solo informe de ganancias"
+            ],
+            "correctIndex": 0,
+            "explain": "Los regímenes macroeconómicos (risk-on/risk-off) suelen mostrar correlaciones entre activos.",
+            "source": "https://qption.com/fundamentalanalysis/forex-cfds",
+            "topic": "Correlación entre Activos"
+        },
+        {
+            "q": "Una regulación más estricta de las criptomonedas puede:",
+            "options": [
+                "Solo aumentar los precios",
+                "No tener efecto en la participación",
+                "Afectar la adopción, la liquidez y la estructura del mercado",
+                "Eliminar completamente la volatilidad"
+            ],
+            "correctIndex": 2,
+            "explain": "Las reglas influyen en las vías de entrada/salida, el acceso institucional y el comportamiento de los participantes.",
+            "source": "https://qption.com/fundamentalanalysis/crypto-adoption-regulation",
+            "topic": "Regulación Cripto"
+        },
+        {
+            "q": "A alto nivel, las blockchains aseguran el historial de transacciones utilizando:",
+            "options": [
+                "Solo registros centralizados",
+                "Consenso distribuido y criptografía",
+                "Registros en papel",
+                "El servidor de una sola empresa"
+            ],
+            "correctIndex": 1,
+            "explain": "El consenso (por ejemplo, PoW/PoS) y el enlace criptográfico mantienen la integridad de los datos.",
+            "source": "https://qption.com/fundamentalanalysis/blockchain-fundamental-analysis",
+            "topic": "Blockchain"
+        }
+    ]
+}

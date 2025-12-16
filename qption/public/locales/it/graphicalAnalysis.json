@@ -1,0 +1,41 @@
+{
+    "seo": {
+        "title": "Analisi grafica – Grafici interattivi & Pattern Scanner | Qption",
+        "description": "Esplora la suite di analisi grafica di Qption: grafici multi-asset, rilevamento automatico dei pattern e strumenti di disegno in tempo reale per forex, crypto e indici.",
+        "keywords": "analisi grafica, grafici interattivi, pattern chartistici, triangolo, testa e spalle, linee di tendenza, grafici forex, strumenti Qption",
+        "ogTitle": "Analisi grafica – Grafici interattivi & Pattern Scanner | Qption",
+        "ogDescription": "Individua wedge, canali e break-out in pochi secondi con lo scanner automatico di pattern e gli strumenti avanzati di disegno Qption.",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Analisi grafica – Grafici interattivi & Pattern Scanner | Qption",
+        "twitterDescription": "Trada ciò che vedi: usa i grafici live di Qption e l’AI di riconoscimento pattern per confermare ingressi e uscite.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/graphical-analysis"
+    },
+    "page": {
+        "title": "Analisi grafica",
+        "subtitle": "Decodifica il price action con grafici dinamici, riconoscimento dei pattern e trend visivi: trada ogni movimento con chiarezza e fiducia."
+    },
+    "ui": {
+        "learnMore": "Scopri di più"
+    },
+    "cards": {
+        "movingAverage": { "title": "Indicatore di media mobile" },
+        "fibonacciElliott": { "title": "Ritracciamenti Fibonacci e onde di Elliott" },
+        "reversal": { "title": "Pattern di inversione" },
+        "trendContinuation": { "title": "Pattern di continuazione" },
+        "graphicalAnalysis": { "title": "Analisi grafica" }
+    },
+    "video": {
+        "aria": "L’analisi tecnica utilizza grafici, pattern e indicatori per anticipare i movimenti futuri del prezzo."
+    },
+    "cta": {
+        "takeQuiz": "Fai il quiz di analisi grafica"
+    },
+    "bullets": [
+        "L’analisi grafica studia il comportamento dei prezzi tramite grafici, pattern visivi e strumenti di disegno per prevedere i movimenti più probabili.",
+        "Dà risalto ai segnali visivi – trendline, supporti/resistenze, profili di volume e overlay – per cogliere i cambiamenti di momentum e sincronizzare entrate/uscite.",
+        "I trader applicano l’analisi grafica su diverse asset class – azioni, crypto, forex, materie prime – per decisioni rapide e precise."
+    ]
+}

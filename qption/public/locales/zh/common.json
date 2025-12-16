@@ -1,0 +1,97 @@
+{
+    "nav": {
+        "home": "首页",
+        "trade": "交易",
+        "education": "学习",
+        "pricing": "定价",
+        "dashboard": "仪表盘",
+        "login": "登录",
+        "signup": "注册",
+        "logout": "退出",
+        "language": "语言"
+    },
+    "hero": {
+        "title": "用 Qption 更聪明地交易",
+        "subtitle": "实时图表、极速执行、透明报价。",
+        "cta": "开始使用"
+    },
+    "auth": {
+        "email": "邮箱",
+        "phone": "手机号",
+        "password": "密码",
+        "confirmPassword": "确认密码",
+        "login": "登录",
+        "signup": "创建账户",
+        "forgot": "忘记密码？",
+        "otp": "输入验证码",
+        "verify": "验证",
+        "or": "或"
+    },
+    "trade": {
+        "buy": "买入",
+        "sell": "卖出",
+        "openTrade": "开仓",
+        "closeTrade": "平仓",
+        "amount": "金额",
+        "balance": "余额",
+        "profitLoss": "盈亏",
+        "timeframe": "时间周期",
+        "marketOpen": "市场已开放",
+        "marketClosed": "市场已关闭",
+        "mode": {
+            "live": "实盘",
+            "demo": "模拟",
+            "real": "真实"
+        }
+    },
+    "chart": {
+        "loading": "图表加载中…",
+        "indicators": "指标",
+        "movingAverage": "移动平均",
+        "bollingerBands": "布林带",
+        "rsi": "相对强弱指数",
+        "alligator": "鳄鱼指标"
+    },
+    "wallet": {
+        "deposit": "充值",
+        "withdraw": "提现",
+        "address": "地址",
+        "copy": "复制",
+        "copied": "已复制！",
+        "confirmations": "确认数",
+        "status": {
+            "waiting": "等待中",
+            "confirmed": "已确认",
+            "rejected": "已拒绝"
+        }
+    },
+    "kyc": {
+        "title": "账户验证",
+        "uploadDoc": "上传文件",
+        "pending": "审核中",
+        "approved": "已通过",
+        "rejected": "已拒绝"
+    },
+    "errors": {
+        "required": "必填项",
+        "invalidEmail": "邮箱格式不正确",
+        "network": "网络错误，请重试",
+        "unknown": "出现错误"
+    },
+    "common": {
+        "save": "保存",
+        "cancel": "取消",
+        "confirm": "确认",
+        "back": "返回",
+        "next": "下一步",
+        "search": "搜索",
+        "loading": "加载中…",
+        "viewMore": "查看更多"
+    },
+    "footer": {
+        "rights": "版权所有。"
+    },
+    "tryDemo": "试用模拟账户",
+    "registration": "注册",
+    "clientCabinet": "客户中心"
+}

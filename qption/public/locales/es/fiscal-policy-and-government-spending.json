@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Política Fiscal y Gasto Público – Tipos, Componentes e Impactos | Qption",
+        "description": "Comprende la política fiscal: expansiva vs. restrictiva, impuestos, gasto público y déficits presupuestarios. Descubre cómo el gasto gubernamental (infraestructura, programas sociales, defensa) afecta el crecimiento, la inflación, el empleo y la deuda, junto con sus beneficios y limitaciones.",
+        "keywords": "política fiscal, gasto público, política expansiva, política restrictiva, deuda pública y déficit, gasto en infraestructura, programas sociales, control de la inflación, crecimiento económico y empleo, análisis fundamental, Qption",
+        "url": "https://qption.com/fundamental-analysis/fiscal-policy-and-government-spending",
+        "ld": {
+            "headline": "Política Fiscal y Gasto Público – Tipos, Componentes e Impactos"
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análisis Fundamental"
+    },
+    "page": {
+        "title": "Política Fiscal y Gasto Público"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "start": "Comenzar a operar"
+    },
+    "sections": {
+        "overview": {
+            "title": "Resumen general",
+            "items": [
+                "La política fiscal se refiere a las decisiones gubernamentales sobre impuestos, gasto y endeudamiento para influir en el crecimiento económico, la inflación y el empleo.",
+                "El gasto público, parte clave de la política fiscal, incluye inversiones en bienes y servicios públicos, infraestructura y programas sociales que afectan la estabilidad y el crecimiento económico.",
+                "A través de la política fiscal, los gobiernos buscan lograr un crecimiento sostenible, reducir el desempleo y mantener la estabilidad de precios."
+            ]
+        },
+        "types": {
+            "title": "Tipos de Política Fiscal",
+            "items": [
+                {
+                    "label": "Política fiscal expansiva:",
+                    "text": "Se aplica para estimular la economía mediante el aumento del gasto público, la reducción de impuestos o ambos. Se utiliza durante las recesiones para impulsar la demanda y generar empleo."
+                },
+                {
+                    "label": "Política fiscal restrictiva:",
+                    "text": "Busca desacelerar una economía sobrecalentada reduciendo el gasto público o aumentando los impuestos con el fin de controlar la inflación."
+                },
+                {
+                    "label": "Política fiscal neutral:",
+                    "text": "Mantiene un presupuesto equilibrado donde el gasto público es igual a los ingresos, sin efectos expansivos ni restrictivos."
+                }
+            ]
+        },
+        "components": {
+            "title": "Componentes del Gasto Público",
+            "public": {
+                "title": "Bienes y Servicios Públicos",
+                "items": [
+                    "El gasto público financia servicios esenciales como educación, salud y seguridad, promoviendo el bienestar social y la estabilidad económica.",
+                    "Las inversiones en infraestructura —carreteras, transporte y servicios públicos— impulsan el crecimiento económico al mejorar la eficiencia y la productividad."
+                ]
+            },
+            "social": {
+                "title": "Programas Sociales",
+                "items": [
+                    "El gasto en programas sociales como seguros de desempleo, seguridad social y asistencia pública apoya a los hogares de bajos ingresos y reduce la desigualdad económica.",
+                    "Estos programas actúan como estabilizadores automáticos, manteniendo el consumo durante las recesiones y ayudando a la recuperación económica."
+                ]
+            },
+            "defense": {
+                "title": "Defensa y Seguridad Nacional",
+                "items": [
+                    "Una parte importante del gasto público se destina a la defensa y la seguridad nacional, garantizando la protección y estabilidad del país.",
+                    "El gasto en este sector apoya al personal militar, la tecnología y la infraestructura, impulsando además las industrias relacionadas."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Impacto de la Política Fiscal en la Economía",
+            "growth": {
+                "title": "Crecimiento Económico y Empleo",
+                "items": [
+                    "La política fiscal expansiva impulsa el crecimiento económico al aumentar la demanda, lo que conduce a la creación de empleo y a un mayor PIB.",
+                    "Por el contrario, una política restrictiva puede desacelerar el crecimiento, reducir la demanda y aumentar el desempleo al intentar controlar la inflación."
+                ]
+            },
+            "inflation": {
+                "title": "Control de la Inflación",
+                "items": [
+                    "Durante los períodos inflacionarios, los gobiernos pueden aplicar políticas restrictivas reduciendo el gasto o aumentando los impuestos para moderar la demanda.",
+                    "Controlar la inflación es esencial para evitar incrementos excesivos de precios y preservar el poder adquisitivo."
+                ]
+            },
+            "debt": {
+                "title": "Deuda Pública y Déficit Presupuestario",
+                "items": [
+                    "Cuando el gasto público supera los ingresos, se genera un déficit presupuestario que incrementa la deuda pública, limitando la flexibilidad fiscal futura.",
+                    "Aunque el endeudamiento puede estimular el crecimiento, un exceso de deuda puede elevar los costos de intereses y poner en riesgo la sostenibilidad fiscal."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Beneficios de una Política Fiscal Efectiva",
+            "items": [
+                "Promueve la estabilidad económica: las políticas fiscales bien gestionadas reducen la volatilidad económica y respaldan un crecimiento sostenido.",
+                "Mejora el empleo y el nivel de vida: las políticas expansivas generan oportunidades laborales, aumentan los ingresos y mejoran la calidad de vida.",
+                "Favorece la redistribución de ingresos: los programas sociales financiados por el gasto público ayudan a reducir la desigualdad y proteger a los grupos de bajos ingresos."
+            ]
+        },
+        "limits": {
+            "title": "Limitaciones y Desafíos de la Política Fiscal",
+            "items": [
+                "Restricciones políticas: las decisiones fiscales suelen verse influenciadas por factores políticos, lo que puede retrasar o debilitar las medidas necesarias.",
+                "Efecto rezagado: los cambios en la política fiscal tardan en reflejarse en la economía, limitando su eficacia ante crisis inmediatas.",
+                "Riesgo de aumento de la deuda pública: los déficits persistentes y la acumulación de deuda reducen la flexibilidad fiscal y aumentan los costos de servicio de la deuda para las generaciones futuras."
+            ]
+        }
+    }
+}

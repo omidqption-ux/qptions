@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Conditions générales | Qption",
+        "description": "Lisez les CGU de Qption : avertissement sur les risques, création/vérification de compte, dépôts & retraits, protection des données, LBC/FT, force majeure et résiliation.",
+        "keywords": "conditions générales, disclosure de risque, vérification de compte, dépôts, retraits, LBC/FT, protection des données, force majeure, résiliation, Qption",
+        "ogTitle": "Conditions générales | Qption",
+        "ogDescription": "Les règles qui encadrent l’utilisation de Qption : comptes, vérification, paiements, sécurité, LBC et plus.",
+        "url": "https://qption.com/terms-and-conditions",
+        "image": "https://qption.com/images/og/terms-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Conditions générales | Qption",
+        "twitterDescription": "Comprenez les règles et protections applicables lors de l’utilisation de Qption.",
+        "twitterImage": "https://qption.com/images/og/terms-qption.jpg",
+        "canonical": "https://qption.com/terms-and-conditions"
+    },
+    "hero": {
+        "title": "Conditions générales"
+    },
+    "sections": [
+        {
+            "icon": "intro",
+            "title": "1. Introduction",
+            "items": [
+                "Qption fournit les services de courtage décrits dans les présentes CG.",
+                "Ces CG s’ajoutent à tout autre accord entre vous et Qption.",
+                "Le Client doit consulter régulièrement ces termes ; l’utilisation continue du site vaut acceptation des modifications.",
+                "La langue officielle de Qption est l’anglais. Les traductions sont proposées uniquement pour plus de confort."
+            ]
+        },
+        {
+            "icon": "risk",
+            "title": "2. Avertissement sur les risques",
+            "items": [
+                "Les CFD sont des produits à effet de levier comportant un risque élevé : vous pouvez perdre tout votre capital.",
+                "Ils ne conviennent pas à tous les profils. Le Client doit s’assurer de comprendre les risques.",
+                "Le Client reconnaît que la valeur des investissements peut monter comme descendre."
+            ]
+        },
+        {
+            "icon": "definitions",
+            "title": "3. Définitions",
+            "items": [
+                "Compte : tout compte ouvert pour un Client afin de trader avec Qption.",
+                "Client : toute personne physique ou morale à qui Qption fournit ses services.",
+                "Dépôt : fonds que le Client crédite sur son/leurs compte(s) Qption.",
+                "Retrait : fonds que le Client retire de son/leurs compte(s) Qption."
+            ]
+        },
+        {
+            "icon": "account",
+            "title": "4. Compte du client",
+            "items": [
+                "Pour utiliser Qption, le Client doit ouvrir un compte avec des informations exactes.",
+                "Il doit informer Qption de toute modification des données fournies.",
+                "Les informations de compte sont conservées conformément à la Politique de confidentialité de Qption."
+            ]
+        },
+        {
+            "icon": "verification",
+            "title": "5. Vérification",
+            "items": [
+                "Qption exige des informations et documents valides pour vérifier l’identité.",
+                "L’entreprise peut demander des justificatifs d’identité et de domicile à tout moment.",
+                "Le Client doit avoir au moins 18 ans pour contracter avec Qption."
+            ]
+        },
+        {
+            "icon": "payments",
+            "title": "6. Dépôts et retraits",
+            "items": [
+                "Le Client peut déposer à tout moment via les moyens de paiement approuvés.",
+                "Les retraits s’effectuent via la même méthode utilisée pour le dépôt.",
+                "Qption peut exiger des documents prouvant l’origine des fonds."
+            ]
+        },
+        {
+            "icon": "dataProtection",
+            "title": "7. Protection des données",
+            "items": [
+                "Qption protège les données personnelles via le chiffrement SSL.",
+                "La société utilise pare-feu, authentifications et contrôles d’accès.",
+                "Le Client doit signaler toute mise à jour de ses informations personnelles."
+            ]
+        },
+        {
+            "icon": "aml",
+            "title": "8. Lutte anti-blanchiment",
+            "items": [
+                "Qption s’engage à prévenir le blanchiment d’argent et le financement du terrorisme.",
+                "La société applique des politiques alignées sur la réglementation LBC/FT.",
+                "Qption se réserve le droit de refuser toute transaction suspecte."
+            ]
+        },
+        {
+            "icon": "forceMajeure",
+            "title": "9. Force majeure",
+            "items": [
+                "Qption n’est pas responsable des retards ou manquements dus à des événements indépendants de sa volonté.",
+                "Inclut notamment les catastrophes naturelles, guerres, incendies, pannes réseau ou logicielles."
+            ]
+        },
+        {
+            "icon": "termination",
+            "title": "10. Résiliation",
+            "items": [
+                "Chaque partie peut résilier le contrat avec un préavis écrit de cinq jours ouvrés.",
+                "Qption peut résilier en cas de non-respect des présentes.",
+                "À la clôture, les fonds du Client sont restitués déduction faite des frais applicables."
+            ]
+        }
+    ]
+}

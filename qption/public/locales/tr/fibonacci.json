@@ -1,0 +1,122 @@
+{
+    "seo": {
+        "title": "Fibonacci Düzeltmeleri ve Elliott Dalgaları – Grafik Analiz Rehberi | Qption",
+        "description": "Fibonacci düzeltmeleri ve Elliott Dalga Teorisi: temel seviyeler (23,6%, 38,2%, 50%, 61,8%, 78,6%), çizim, destek/direnç, devam mı dönüş mü, itki/düzeltme dalgaları, hareketli ortalamalar ve trend çizgileri ile kombinasyon.",
+        "keywords": "Fibonacci düzeltmesi, Elliott Dalga Teorisi, grafik analiz, teknik analiz, destek ve direnç, itki dalgaları, düzeltme dalgaları, Fibonacci seviyeleri, hareketli ortalamalar, trend çizgileri, fiyat hedefleri, risk yönetimi, Qption",
+        "url": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+        "image": "https://qption.com/videos/fibonacci-elliott-waves/fibonacci-elliott-waves.jpg"
+    },
+    "ui": {
+        "backToGraphical": "Grafik Analizine Dön"
+    },
+    "page": {
+        "title": "Grafik Analizde Fibonacci Düzeltmeleri ve Elliott Dalgaları"
+    },
+    "cta": {
+        "ready": "İşlem yapmaya hazır mısın?",
+        "start": "Hemen Başla"
+    },
+    "video": {
+        "aria": "Fibonacci düzeltmeleri, fiyat grafiklerinde potansiyel destek/direnç bölgelerini belirlemeye yardımcı olur."
+    },
+    "sections": {
+        "fibOverview": {
+            "h": "Fibonacci Düzeltmelerine Genel Bakış",
+            "i1": "Fibonacci düzeltmeleri, fiyat hareketlerinde destek/direnç bölgelerini belirlemek için kullanılan popüler bir araçtır.",
+            "i2": "Yaygın seviyeler: %23,6, %38,2, %50, %61,8, %78,6.",
+            "i3": "Bu seviyelerdeki fiyat tepkilerini izleyerek giriş ve çıkış noktaları belirlenir."
+        },
+        "fibHow": {
+            "h": "Fibonacci Düzeltmeleri Nasıl Çalışır",
+            "s1": {
+                "h": "Çizim:",
+                "t": "Yükseliş trendinde dipten tepeye (ya da düşüşte tepeden dibe) çizilerek yatay Fibonacci seviyeleri oluşturulur."
+            },
+            "s2": {
+                "h": "Destek/Direnç:",
+                "t": "Bu seviyeler, fiyatın dönebileceği veya konsolide olabileceği bölgeler olarak işlev görür."
+            },
+            "s3": {
+                "h": "Devam:",
+                "t": "Fiyat belirli bir seviyeyi korursa, trend genellikle devam eder."
+            },
+            "s4": {
+                "h": "Tersine Dönüş İpucu:",
+                "t": "Bir seviyenin güçlü şekilde kırılması trend değişikliğine işaret edebilir."
+            }
+        },
+        "fibTech": {
+            "h": "Fibonacci Düzeltme Teknikleri",
+            "t1": {
+                "h": "1) Fibonacci ve Trend Çizgileri",
+                "i1": "Trend çizgileriyle kesişim seviyelerin güvenirliğini artırır.",
+                "i2": "Bu uyumlu bölgeler güçlü tepki alanları oluşturur."
+            },
+            "t2": {
+                "h": "2) Fibonacci ve Hareketli Ortalamalar",
+                "i1": "Bir seviye hareketli ortalamayla çakıştığında sinyal daha güvenilirdir.",
+                "i2": "50/200 MA ile Fibonacci seviyeleri birleştiğinde güçlü dönüşler gözlenir."
+            }
+        },
+        "fibProsCons": {
+            "h": "Fibonacci Düzeltmelerinin Artıları ve Eksileri",
+            "p1": {
+                "h": "Avantaj:",
+                "t": "Giriş, çıkış ve stop seviyelerini net şekilde belirler."
+            },
+            "p2": {
+                "h": "Avantaj:",
+                "t": "Trend çizgileri ve hareketli ortalamalarla iyi çalışır."
+            },
+            "c1": {
+                "h": "Dezavantaj:",
+                "t": "Tek başına kullanıldığında volatil piyasalarda yanlış sinyaller üretebilir."
+            }
+        },
+        "ewOverview": {
+            "h": "Elliott Dalga Teorisine Genel Bakış",
+            "i1": "Fiyat hareketlerini dalga döngüleriyle inceleyerek yönü belirler.",
+            "i2": "Beş itki ve üç düzeltme dalgası (A-B-C) içerir.",
+            "i3": "Devam, dönüş ve düzeltmeleri tahmin etmek için kullanılır."
+        },
+        "ewHow": {
+            "h": "Elliott Dalgaları Nasıl Çalışır",
+            "s1": {
+                "h": "İtki Dalgaları:",
+                "t": "Trend yönünde beş dalga – 1,3,5 trendle, 2,4 düzeltme olarak hareket eder."
+            },
+            "s2": {
+                "h": "Düzeltme Dalgaları:",
+                "t": "Ana trende karşı üç dalgadan (A-B-C) oluşur."
+            },
+            "s3": {
+                "h": "Dalga Tanımlama:",
+                "t": "Trendin devamı veya bitişi için desenleri belirlemeye yarar."
+            },
+            "s4": {
+                "h": "Oranlar:",
+                "t": "Fibonacci oranları genellikle dalgalarla ilişkilidir (ör. 2/4 düzeltmeleri, 5 uzantısı)."
+            }
+        },
+        "ewTech": {
+            "h": "Elliott Dalga Teknikleri",
+            "t1": {
+                "h": "1) İtki/Düzeltme Dalgalarıyla Trend Analizi",
+                "i1": "İtki dalgaları yönü gösterir; düzeltmeler geri çekilmeleri belirtir.",
+                "i2": "İtkiyle giriş, düzeltmeyle yeniden konumlanma yapılabilir."
+            },
+            "t2": {
+                "h": "2) Elliott Dalgaları ve Fibonacci’yi Birleştirme",
+                "i1": "Fibonacci oranları dalga yapıları içinde görünür.",
+                "i2": "İkisini birlikte kullanarak hedefleri ve dönüş noktalarını tahmin edin."
+            }
+        },
+        "ewProsCons": {
+            "h": "Elliott Dalga Teorisinin Artıları ve Eksileri",
+            "p1": "Avantaj: Piyasa döngülerine yapı kazandırır.",
+            "p2": "Avantaj: Fibonacci ile hedef ve stop belirlemede etkilidir.",
+            "c1": "Dezavantaj: Karmaşık ve öznel olabilir; sayımlar farklılık gösterebilir.",
+            "c2": "Dezavantaj: Yanlış sayım hatalı tahminlere yol açar."
+        }
+    }
+}

@@ -1,0 +1,345 @@
+{
+    "seo": {
+        "title": "Teknik Strateji Quiz’i – Trading bilginizi test edin | Qption",
+        "description": "V-Bounce, breakout, reversal, Alligator, Bollinger bantları, hareketli ortalamalar, Three Methods, Tweezer, Squat mumları ve Engulfing pattern’leri üzerine 10 rastgele soruyla kendinizi sınayın.",
+        "keywords": "trading quiz, teknik analiz quiz, V-Bounce, breakout, reversal, Alligator, Bollinger Bandı, hareketli ortalama, Three Methods, Tweezer, Squat mum, Engulfing, Qption",
+        "ogTitle": "Teknik Strateji Quiz’i – Trading bilginizi test edin",
+        "ogDescription": "Her turda 10 rastgele soru. Uygulayarak öğrenin, strateji avantajınızı güçlendirin.",
+        "url": "https://qption.com/tools/technical-quiz",
+        "image": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Teknik Strateji Quiz’i – Qption",
+        "twitterDescription": "Breakout’tan reversal’a—interaktif quiz’imizle yeteneğinizi kanıtlayın.",
+        "twitterImage": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "canonical": "https://qption.com/tools/technical-quiz"
+    },
+    "page": {
+        "title": "Teknik Strateji Quiz’i",
+        "subtitle": "Grafik formasyonları, göstergeler ve trade planlarını kapsayan interaktif quiz’imizle bilginizi test edin. Her oturum kütüphaneden 10 rastgele soru seçer ve seçenekleri karıştırır."
+    },
+    "quiz": {
+        "header": "Trading Stratejileri Quiz’i",
+        "progress": "Soru {{current}} / {{total}}",
+        "correct": "Doğru ✅",
+        "incorrect": "Tam değil ⚠️",
+        "selectHint": "Bir seçenek seçip cevabınızı gönderin.",
+        "learnMore": "Daha fazlası ↗"
+    },
+    "ui": {
+        "previous": "Önceki",
+        "submit": "Gönder",
+        "next": "Sonraki",
+        "finish": "Bitir",
+        "newRandom": "Yeni Rastgele 10",
+        "loading": "Quiz yükleniyor…"
+    },
+    "results": {
+        "score": "Skor: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Harika! Strateji bilgin çok keskin.",
+            "good": "Güzel iş! Seviye atlamak için pratik etmeye devam et.",
+            "retry": "İyi başlangıç — dersleri gözden geçir ve tekrar dene."
+        }
+    },
+    "pool": [
+        {
+            "q": "V-Bounce setup’ında trader’lar hangi fiyat tepkilerine odaklanır?",
+            "options": [
+                "Rastgele fiyat noktaları",
+                "Önceden tanımlı destek veya direnç bölgeleri",
+                "Sadece hareketli ortalama kesişimleri",
+                "Yalnızca Fibonacci zaman uzantıları"
+            ],
+            "correct": "Önceden tanımlı destek veya direnç bölgeleri",
+            "explain": "V-Bounce, hızlı girişler için kilit S/R bölgelerindeki sert geri dönüşleri kollar.",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "V-Bounce planında breakout sonrası ilk retest genellikle ne için kullanılır?",
+            "options": [
+                "Hareketi hemen fade etmek",
+                "Gücü teyit edip devam girişleri aramak",
+                "Piyasayı görmezden gelmek",
+                "Uzun vadeli yatırıma geçmek"
+            ],
+            "correct": "Gücü teyit edip devam girişleri aramak",
+            "explain": "Retest (boomerang) breakout’u doğrular ve ikincil giriş fırsatı sunar.",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "“Bounce mı break mi” kararı temel olarak neye bağlıdır?",
+            "options": [
+                "Seviyenin tutunmasına veya net şekilde kırılmasına",
+                "Haftanın gününe",
+                "Yalnızca spread büyüklüğüne",
+                "Sadece hesap türüne"
+            ],
+            "correct": "Seviyenin tutunmasına veya net şekilde kırılmasına",
+            "explain": "Fiyat ya seviyesi korur (bounce) ya da güçlü şekilde kırar (breakout).",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "Trading’de Martingale yaklaşımı en çok ne anlama gelir?",
+            "options": [
+                "Kayıplardan sonra pozisyon küçültmek",
+                "Kayıplardan sonra pozisyonu ikiye katlayarak telafi etmek",
+                "Pozisyon boyutunu sabit tutmak",
+                "Sadece kazananlara eklemek"
+            ],
+            "correct": "Kayıplardan sonra pozisyonu ikiye katlayarak telafi etmek",
+            "explain": "Klasik Martingale kayıp sonrası boyutu artırarak daha hızlı breakeven hedefler; risklidir.",
+            "source": "https://qption.com/trading-strategy/martingale",
+            "topic": "Martingale"
+        },
+        {
+            "q": "Martingale’in temel risklerinden biri nedir?",
+            "options": [
+                "Çok yavaş drawdown",
+                "Uzayan ters hareketlerde sermayenin hızla tükenmesi",
+                "Birkaç adımda garanti kâr",
+                "Kısa zaman dilimlerinde kullanılamaması"
+            ],
+            "correct": "Uzayan ters hareketlerde sermayenin hızla tükenmesi",
+            "explain": "Peş peşe katlamalar maruziyeti hızla büyütür.",
+            "source": "https://qption.com/trading-strategy/martingale",
+            "topic": "Martingale"
+        },
+        {
+            "q": "Potansiyel reversal’ın klasik işareti hangisidir?",
+            "options": [
+                "Artan momentumla yeni zirveler",
+                "RSI gibi göstergelerde bullish/bearish diverjanslar",
+                "Fiyatın MA’ya bir kez temas etmesi",
+                "Grafikteki tek bir doji"
+            ],
+            "correct": "RSI gibi göstergelerde bullish/bearish diverjanslar",
+            "explain": "Diverjans, yeni ekstrem noktalarda momentumun zayıfladığını gösterir.",
+            "source": "https://qption.com/trading-strategy/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Reversal trader’ları teyit için genellikle ne arar?",
+            "options": [
+                "Yapı kırılışları, hacim ipuçları veya retest’ler",
+                "Üst zaman dilimini yok saymak",
+                "Rastgele girişler",
+                "Sabit pip mesafeleri"
+            ],
+            "correct": "Yapı kırılışları, hacim ipuçları veya retest’ler",
+            "explain": "Yapı değişimi ve teyit filtreleri sahte dönüşleri azaltır.",
+            "source": "https://qption.com/trading-strategy/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Breakout’lar ne zaman daha inandırıcıdır?",
+            "options": [
+                "Hacim düşerken",
+                "Artan hacim/volatilite ve net kapanışlarla",
+                "Volatilite değişmezken",
+                "Sadece fitiller seviye geçtiğinde"
+            ],
+            "correct": "Artan hacim/volatilite ve net kapanışlarla",
+            "explain": "Hareketin enerjisi devamı destekler; retest davranışı önemlidir.",
+            "source": "https://qption.com/trading-strategy/breakout",
+            "topic": "Breakout"
+        },
+        {
+            "q": "Seviye kırıldıktan sonra yaygın breakout taktiği nedir?",
+            "options": [
+                "Kırılan seviyenin retest’inde giriş yapmak",
+                "Fiyatın tekrar range’e dönmesini beklemek",
+                "Her hareketi fade etmek",
+                "Platformu kapatmak"
+            ],
+            "correct": "Kırılan seviyenin retest’inde giriş yapmak",
+            "explain": "Retest daha iyi risk/ödül ve invalidasyon noktası sunar.",
+            "source": "https://qption.com/trading-strategy/breakout",
+            "topic": "Breakout"
+        },
+        {
+            "q": "Alligator indikatörü hangi bileşenlerden oluşur?",
+            "options": [
+                "İki EMA",
+                "Üç smoothed ortalama: çene, diş, dudak",
+                "RSI + MACD",
+                "Sadece price channel"
+            ],
+            "correct": "Üç smoothed ortalama: çene, diş, dudak",
+            "explain": "Çizgiler hizalanıp açıldığında Alligator trendi takip eder.",
+            "source": "https://qption.com/trading-strategy/alligator",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Alligator çizgileri birbirine dolandığında (uyurken) neyi gösterir?",
+            "options": [
+                "Güçlü trend devam ediyor",
+                "Konsolidasyon/range",
+                "Garantili reversal",
+                "Momentum patlaması"
+            ],
+            "correct": "Konsolidasyon/range",
+            "explain": "İç içe çizgiler yön netliği olmadığını gösterir.",
+            "source": "https://qption.com/trading-strategy/alligator",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Bollinger Band sıkışması genelde neyi ima eder?",
+            "options": [
+                "Düşük volatilite ve ardından genişleme",
+                "Anında çöküş",
+                "Temel fiyatlama hatası",
+                "Hiçbir bilgi vermez"
+            ],
+            "correct": "Düşük volatilite ve ardından genişleme",
+            "explain": "Bantlar sakin dönemlerde daralır; sıkışma sonrası breakout güçlü olabilir.",
+            "source": "https://qption.com/trading-strategy/bollinger",
+            "topic": "Bollinger"
+        },
+        {
+            "q": "Bollinger bandı dışında kapanışlar çoğunlukla neyi gösterir?",
+            "options": [
+                "Kesin dönüş",
+                "Momentum/volatilite genişlemesi — bağlam gerekir",
+                "Yalnızca gürültü",
+                "Sadece mean-reversion sinyali"
+            ],
+            "correct": "Momentum/volatilite genişlemesi — bağlam gerekir",
+            "explain": "Band dışı temaslar güçlü momentum anlamına gelebilir.",
+            "source": "https://qption.com/trading-strategy/bollinger",
+            "topic": "Bollinger"
+        },
+        {
+            "q": "EMA mi SMA mi daha hızlı tepki verir?",
+            "options": [
+                "SMA",
+                "EMA",
+                "İkisi de aynı",
+                "Hiçbiri"
+            ],
+            "correct": "EMA",
+            "explain": "EMA son fiyatlara daha fazla ağırlık vererek SMA’dan hızlı döner.",
+            "source": "https://qption.com/trading-strategy/moving-average",
+            "topic": "Moving Average"
+        },
+        {
+            "q": "Basit MA kesişim alım sinyali ne zaman oluşur?",
+            "options": [
+                "Uzun MA kısa MA’nın üzerine çıktığında",
+                "Kısa MA uzun MA’nın üzerine çıktığında",
+                "Kesişime izin verilmez",
+                "Sadece fiyat/MA temasları"
+            ],
+            "correct": "Kısa MA uzun MA’nın üzerine çıktığında",
+            "explain": "Kısa MA’nın uzun MA’yı kesmesi bullish momentum sinyalidir.",
+            "source": "https://qption.com/trading-strategy/moving-average",
+            "topic": "Moving Average"
+        },
+        {
+            "q": "Three Methods formasyonunda küçük mumlar ne yapmalı?",
+            "options": [
+                "İlk uzun mumun dışına kapanmalı",
+                "İlk uzun mumun aralığında kalmalı",
+                "Hepsi doji olmalı",
+                "İlk mumdan büyük olmalı"
+            ],
+            "correct": "İlk uzun mumun aralığında kalmalı",
+            "explain": "Karşı trend üç küçük mum ilk barın içinde kalır, ardından trend devam eder.",
+            "source": "https://qption.com/trading-strategy/threeMethods",
+            "topic": "Three Methods"
+        },
+        {
+            "q": "Three Methods hangi tür formasyondur?",
+            "options": [
+                "Reversal",
+                "Devam",
+                "Hacim göstergesi",
+                "Fib aracı"
+            ],
+            "correct": "Devam",
+            "explain": "Trend kısa süreliğine durur ve aynı yönde sürer.",
+            "source": "https://qption.com/trading-strategy/threeMethods",
+            "topic": "Three Methods"
+        },
+        {
+            "q": "Tweezer Top genellikle ne gösterir?",
+            "options": [
+                "Yükseliş sonrası benzer seviyede iki tepe",
+                "Düşüş sonrası iki dip",
+                "Sadece geniş marubozu",
+                "Gap doldurma"
+            ],
+            "correct": "Yükseliş sonrası benzer seviyede iki tepe",
+            "explain": "Benzer tepeler direnç ve olası reversal sinyalidir.",
+            "source": "https://qption.com/trading-strategy/tweezersStrategy",
+            "topic": "Tweezers"
+        },
+        {
+            "q": "Tweezer Bottom neyi işaret eder?",
+            "options": [
+                "Düşüşün devamını",
+                "Eşit diplerle bullish reversal",
+                "Sadece exhaustion gap",
+                "Anlamsız"
+            ],
+            "correct": "Eşit diplerle bullish reversal",
+            "explain": "Eşit dipler talebin yeniden geldiğine işaret eder.",
+            "source": "https://qption.com/trading-strategy/tweezersStrategy",
+            "topic": "Tweezers"
+        },
+        {
+            "q": "‘Squat’ mum neyi birleştirir?",
+            "options": [
+                "Yüksek hacim ve dar aralık",
+                "Düşük hacim ve geniş aralık",
+                "Fitilsiz mum",
+                "Sadece uzun üst fitil"
+            ],
+            "correct": "Yüksek hacim ve dar aralık",
+            "explain": "Güç mücadelesini gösterir; kırılım yada reversal gelebilir.",
+            "source": "https://qption.com/trading-strategy/squat-candle-stick",
+            "topic": "Squat"
+        },
+        {
+            "q": "Squat mumlar hangi amaçla kullanılır?",
+            "options": [
+                "Sadece sakin devam",
+                "Baskı sonrası breakout veya reversal",
+                "Sadece trend devamı",
+                "Sadece range genişlemesi"
+            ],
+            "correct": "Baskı sonrası breakout veya reversal",
+            "explain": "Dar gövdede biriken enerji bir sonraki mumda patlayabilir.",
+            "source": "https://qption.com/trading-strategy/squat-candle-stick",
+            "topic": "Squat"
+        },
+        {
+            "q": "Bullish Engulfing ne zaman oluşur?",
+            "options": [
+                "Küçük yeşil mumdan sonra yine küçük yeşil geldiğinde",
+                "Düşüş sonrası büyük yeşil gövde önceki kırmızıyı sardığında",
+                "İki eşit tepe oluştuğunda",
+                "Zirvede doji belirdiğinde"
+            ],
+            "correct": "Düşüş sonrası büyük yeşil gövde önceki kırmızıyı sardığında",
+            "explain": "Gövdenin sarılması kontrol değişimini gösterir.",
+            "source": "https://qption.com/trading-strategy/engulfing-candlestick",
+            "topic": "Engulfing"
+        },
+        {
+            "q": "Bearish Engulfing için ne aranmalı?",
+            "options": [
+                "Yükseliş sonrası büyük kırmızı gövdenin önceki yeşili sarması",
+                "İki eşit dip",
+                "Uzun alt fitil",
+                "Inside bar"
+            ],
+            "correct": "Yükseliş sonrası büyük kırmızı gövdenin önceki yeşili sarması",
+            "explain": "Satıcılara geçişi gösterir; yapı/hacimle teyit edin.",
+            "source": "https://qption.com/trading-strategy/engulfing-candlestick",
+            "topic": "Engulfing"
+        }
+    ]
+}

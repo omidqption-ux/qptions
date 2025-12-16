@@ -1,0 +1,74 @@
+{
+    "seo": {
+        "title": "Yutan (Engulfing) Mum Stratejisi – Boğa & Ayı Dönüş Formasyonları | Qption",
+        "description": "Engulfing mum stratejisini öğrenin: boğa ve ayı dönüşlerini tespit edin, destek/direnç ve hacimle doğrulayın ve hassas stop-loss ile riski yönetin. Tanımlama kuralları, doğrulamalar, artılar ve eksiler dahildir.",
+        "keywords": "engulfing mum, boğa engulfing, ayı engulfing, dönüş formasyonu, price action, destek ve direnç, hacim doğrulaması, risk yönetimi, teknik analiz, işlem stratejisi, Qption",
+        "ogAlt": "Bir işlem grafiğinde gösterilen Engulfing mum stratejisi",
+        "ld": {
+            "headline": "Engulfing Mum Stratejisi – Boğa ve Ayı Dönüş Formasyonları"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "İşlem Stratejisi"
+    },
+    "hero": {
+        "title": "Engulfing Mum Stratejisi"
+    },
+    "cta": {
+        "ready": "İşleme hazır mısınız?",
+        "startTrading": "İşleme Başla"
+    },
+    "video": {
+        "aria": "Engulfing mum stratejisi, olası trend değişimini işaret eden popüler bir dönüş formasyonudur."
+    },
+    "overview": {
+        "title": "Genel Bakış",
+        "items": {
+            "1": "Engulfing mum stratejisi, olası trend dönüşünü işaret eden popüler bir formasyondur.",
+            "2": "Daha büyük bir mumun, önceki mumun gövdesini tamamen „yutması“ ile tanımlanır.",
+            "3": "İki ana tür vardır: Boğa Engulfing (yukarı yönlü dönüş) ve Ayı Engulfing (aşağı yönlü dönüş)."
+        }
+    },
+    "bullish": {
+        "title": "1. Boğa (Bullish) Engulfing",
+        "items": {
+            "1": "Oluşum: Düşüş trendinde görülür; büyük bir boğa mumu, önceki ayı mumunun gövdesini tamamen kaplar.",
+            "2": "İlk Mum: Düşüşün sürmesini yansıtan küçük bir ayı mumu.",
+            "3": "İkinci Mum: Önceki kapanışın altında açılan ve önceki açılışın üzerinde kapanan daha büyük bir boğa mumu.",
+            "4": "Doğrulama: Engulfing sonrasında gelen ek bir boğa mumu dönüşü teyit eder."
+        }
+    },
+    "bearish": {
+        "title": "2. Ayı (Bearish) Engulfing",
+        "items": {
+            "1": "Oluşum: Yükseliş trendinde görülür; büyük bir ayı mumu, önceki boğa mumunun gövdesini tamamen kaplar.",
+            "2": "İlk Mum: Yükselişin sürmesini yansıtan küçük bir boğa mumu.",
+            "3": "İkinci Mum: Önceki kapanışın üstünde açılan ve önceki açılışın altında kapanan daha büyük bir ayı mumu.",
+            "4": "Doğrulama: Engulfing sonrasında gelen ek bir ayı mumu dönüşü teyit eder."
+        }
+    },
+    "using": {
+        "title": "Engulfing Stratejisinin Kullanımı",
+        "items": {
+            "1": "Sinyal güvenilirliğini artırmak için destek-direnç seviyeleriyle birlikte uygulayın.",
+            "2": "Engulfing mumunun yönündeki gücü doğrulamak için hacim göstergelerini kullanın.",
+            "3": "Riski yönetmek için Boğa Engulfing’de en düşük seviyenin altına, Ayı Engulfing’de en yüksek seviyenin üstüne stop-loss yerleştirin."
+        }
+    },
+    "pros": {
+        "title": "Artılar",
+        "items": {
+            "1": "Net dönüş sinyali: Olası trend değişimini açıkça gösterir.",
+            "2": "Zaman dilimi esnekliği: Kısa ve uzun vadede kullanılabilir.",
+            "3": "Basit tanıma: Temel mum bilgisiyle kolayca tespit edilir."
+        }
+    },
+    "cons": {
+        "title": "Eksiler",
+        "items": {
+            "1": "Doğrulama gerektirir: Yanlış sinyalleri azaltmak için onay şarttır.",
+            "2": "Düşük hacimde daha zayıf: Likiditenin az olduğu dönemlerde yanıltıcı sinyaller artar.",
+            "3": "Tek başına yanıltıcı olabilir: Daha güçlü doğrulama için ek göstergelerle birlikte kullanın."
+        }
+    }
+}

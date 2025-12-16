@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Índice de Fuerza Relativa (RSI) – Análisis Técnico | Qption",
+        "description": "Aprende a usar el RSI (Índice de Fuerza Relativa) en el análisis técnico: calcula el RSI, identifica niveles de sobrecompra/sobreventa, detecta divergencias y ajusta la configuración óptima para diferentes mercados.",
+        "keywords": "RSI, Índice de Fuerza Relativa, análisis técnico, oscilador de momento, sobrecompra, sobreventa, divergencia, estrategia de trading, Qption",
+        "ogTitle": "Índice de Fuerza Relativa (RSI) – Análisis Técnico | Qption",
+        "ogDescription": "Guía completa del RSI: cálculo, señales de sobrecompra y sobreventa, divergencias y estrategias prácticas de trading.",
+        "url": "https://qption.com/technical-analysis/RSIIndicator",
+        "image": "https://qption.com/videos/og/rsi-indicator/rsi-indicator.png"
+    },
+    "labels": {
+        "backToTechnical": "Volver al Análisis Técnico",
+        "videoAria": "RSI (Índice de Fuerza Relativa) es un oscilador de momento que mide la velocidad y el cambio de los movimientos del precio."
+    },
+    "promo": {
+        "text": "¿Listo para operar con RSI?",
+        "cta": "Comenzar a operar"
+    },
+    "hero": {
+        "title": "Estrategia del Indicador RSI",
+        "subtitle": "Domina el trading de momentum con nuestro análisis completo del RSI"
+    },
+    "overview": {
+        "title": "Descripción general",
+        "bullets": [
+            "RSI (Índice de Fuerza Relativa) es un oscilador de momento que mide la fuerza y velocidad de los movimientos del precio.",
+            "Oscila entre 0 y 100, con lecturas por encima de 70 que indican sobrecompra y por debajo de 30 que indican sobreventa.",
+            "RSI ayuda a los traders a identificar posibles reversiones de tendencia y condiciones de sobrecompra o sobreventa en el mercado."
+        ]
+    },
+    "how": {
+        "title": "Cómo funciona el RSI",
+        "items": [
+            {
+                "title": "Cálculo",
+                "desc": "El RSI se calcula usando la ganancia y pérdida promedio durante un período determinado (generalmente 14)."
+            },
+            {
+                "title": "Sobrecompra/Sobreventa",
+                "desc": "Lecturas por encima de 70 indican sobrecompra, mientras que lecturas por debajo de 30 indican sobreventa."
+            },
+            {
+                "title": "Divergencia",
+                "desc": "Ocurre cuando el precio marca un nuevo máximo o mínimo pero el RSI no lo confirma, señalando una posible reversión."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Estrategias clave",
+        "items": [
+            {
+                "title": "1. Trading por sobrecompra/sobreventa",
+                "points": [
+                    "Compra cuando el RSI cruza por encima de 30 (salida de sobreventa) y vende cuando cruza por debajo de 70 (salida de sobrecompra).",
+                    "Usa confirmación adicional mediante la acción del precio u otros indicadores."
+                ]
+            },
+            {
+                "title": "2. Divergencias RSI",
+                "points": [
+                    "Divergencia alcista: el precio marca mínimos más bajos mientras el RSI marca mínimos más altos.",
+                    "Divergencia bajista: el precio marca máximos más altos mientras el RSI marca máximos más bajos."
+                ]
+            },
+            {
+                "title": "3. Líneas de tendencia del RSI",
+                "points": [
+                    "Dibuja líneas de tendencia en el RSI para detectar posibles rupturas o quiebres.",
+                    "Usa estas rupturas junto con la acción del precio para identificar entradas y salidas."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitaciones",
+        "bullets": [
+            "Durante tendencias fuertes, el RSI puede permanecer en sobrecompra o sobreventa durante períodos prolongados.",
+            "En mercados laterales o con alta volatilidad, pueden producirse señales falsas."
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "seo": {
+        "title": "KI-Trading – Markt­richtung mit einem Klick | Qption",
+        "description": "Nutzen Sie die KI von Qption: Ein Klick zeigt sofort bullische oder bärische Tendenzen, Einstiegszonen und dynamische Risikoniveaus über Forex- und Krypto-Paare hinweg.",
+        "keywords": "Qption KI-Trading, algorithmischer Handel, Marktanalyse, Handelssignale, Auto-Analyse, Forex KI, Krypto KI, Smart Trading",
+        "ogTitle": "KI-Trading – Markt­richtung mit einem Klick | Qption",
+        "ogDescription": "Unsere KI analysiert Kursbewegungen und Indikatoren in Echtzeit und zeigt die wahrscheinlichste Richtung und die besten Handelsniveaus.",
+        "url": "https://qption.com/aiTrading",
+        "image": "https://qption.com/images/og/ai-trading-qption.jpg"
+    },
+    "hero": {
+        "title": "KI-Trading-Strategien",
+        "subtitle": "Wählen Sie den Handelsplan, der zu Ihrer Risikotoleranz passt"
+    },
+    "tabs": {
+        "conservative": "Konservativ",
+        "moderate": "Moderat",
+        "aggressive": "Aggressiv"
+    },
+    "labels": {
+        "description": "Beschreibung",
+        "expectedReturns": "Erwartete Rendite",
+        "riskLevel": "Risikostufe",
+        "recommendedFor": "Empfohlen für",
+        "strategiesUsed": "Verwendete Strategien",
+        "coreTitle": "Kernkomponenten des KI-Tradings",
+        "advantagesTitle": "Vorteile des KI-Tradings"
+    },
+    "plans": [
+        {
+            "title": "Konservativer KI-Trading-Plan",
+            "subtitle": "Kapitalerhalt mit moderater Rendite",
+            "description": "Dieser Plan verwendet risikoarme Strategien mit hoher Wahrscheinlichkeit und zielt auf stabile Erträge bei minimalem Drawdown ab. Dazu gehören Trendfolge in stabilen Märkten und festverzinsliche Anlagen wie Anleihe-CFDs oder niedrig volatile Forex-Paare.",
+            "returns": "5–8%",
+            "risk": "Niedrig",
+            "recommended": "Für risikoaverse Kunden, die Kapitalerhalt über aggressive Gewinne stellen.",
+            "strategies": [
+                {
+                    "title": "Mean Reversion",
+                    "description": "Erzielt kleine Gewinne durch Preisschwankungen um historische Mittelwerte."
+                },
+                {
+                    "title": "Arbitrage",
+                    "description": "Nutzen kleiner Preisunterschiede zwischen Forex- und CFD-Paaren für konstante Erträge."
+                },
+                {
+                    "title": "Stimmungsanalyse",
+                    "description": "Analysiert Marktsentiment, um kleinere Preisbewegungen vorherzusagen."
+                }
+            ]
+        },
+        {
+            "title": "Moderater KI-Trading-Plan",
+            "subtitle": "Ausgewogenes Wachstum und Einkommen",
+            "description": "Für Anleger mit mittlerer Risikobereitschaft. Die KI kombiniert Trendfolge, Sentimentanalyse und selektives Hochfrequenz-Trading über Forex, große Kryptos und Rohstoff-CFDs.",
+            "returns": "12–18%",
+            "risk": "Moderat",
+            "recommended": "Für Trader, die ein Gleichgewicht zwischen Ertrag und Risiko suchen.",
+            "strategies": [
+                {
+                    "title": "Trendfolge",
+                    "description": "Profitiert von etablierten Trends in Forex- und Krypto-Paaren."
+                },
+                {
+                    "title": "Sentimentanalyse in Forex- und Kryptomärkten",
+                    "description": "Erkennt Stimmungstrends und passt Positionen entsprechend an."
+                },
+                {
+                    "title": "Selektives Hochfrequenz-Trading (HFT)",
+                    "description": "Führt kurzfristige Trades auf liquiden Paaren für schnelle Gewinne aus."
+                }
+            ]
+        },
+        {
+            "title": "Aggressiver KI-Trading-Plan",
+            "subtitle": "Hoher Gewinn bei höherem Risiko",
+            "description": "Dieser Plan richtet sich an risikofreudige Trader. Die KI nutzt Hochfrequenzhandel (HFT) und gehebelte CFD-Strategien, um Chancen in volatilen Märkten wie Krypto und Forex zu maximieren.",
+            "returns": "25–40%",
+            "risk": "Mittel bis Hoch",
+            "recommended": "Für Anleger mit hoher Risikotoleranz, die hohe Renditen anstreben.",
+            "strategies": [
+                {
+                    "title": "Hochfrequenzhandel (HFT)",
+                    "description": "Führt viele Trades in volatilen Paaren aus, um schnelle Preisschwankungen zu nutzen."
+                },
+                {
+                    "title": "Gehebelte Trendfolge",
+                    "description": "Verwendet Hebelwirkung auf Trendmärkte, um Gewinne zu maximieren."
+                },
+                {
+                    "title": "News- und Sentiment-basiertes Trading",
+                    "description": "Reagiert sofort auf Marktstimmungen und Nachrichten in Echtzeit."
+                }
+            ]
+        }
+    ],
+    "core": [
+        {
+            "title": "Datenanalyse",
+            "description": "KI-Systeme analysieren historische und Echtzeitdaten, um Muster und Korrelationen zu erkennen."
+        },
+        {
+            "title": "Machine-Learning-Modelle",
+            "description": "Lernen aus historischen Daten zur Vorhersage zukünftiger Marktbewegungen."
+        },
+        {
+            "title": "Verarbeitung natürlicher Sprache (NLP)",
+            "description": "Analysiert Nachrichten, soziale Medien und Berichte, um Marktstimmungen zu messen."
+        },
+        {
+            "title": "Backtesting und Optimierung",
+            "description": "Prüft Modelle auf historischen Daten und optimiert sie für bessere Leistung."
+        },
+        {
+            "title": "Automatisierte Ausführung",
+            "description": "Führt Kauf- und Verkaufsaufträge automatisch gemäß erlernten Mustern aus."
+        }
+    ],
+    "advantages": [
+        {
+            "title": "Geschwindigkeit und Effizienz",
+            "description": "Verarbeitet enorme Datenmengen und handelt in Millisekunden."
+        },
+        {
+            "title": "Datenbasierte Entscheidungen",
+            "description": "Trifft fundierte Handelsentscheidungen auf Grundlage mehrerer Quellen."
+        },
+        {
+            "title": "Weniger Emotionen",
+            "description": "Eliminiert emotionale Einflüsse und bleibt bei konsistenten Strategien."
+        },
+        {
+            "title": "24/7-Handel",
+            "description": "KI-Systeme handeln rund um die Uhr auf globalen Märkten."
+        }
+    ]
+}

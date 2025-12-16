@@ -1,0 +1,21 @@
+{
+    "seo": {
+        "title": "Bize Ulaşın – Qption",
+        "description": "Qption platformu için yardıma mı ihtiyacınız var? Destek ekibimiz 7/24 sohbet, e-posta veya telefonla hizmetinizde. İletişime geçin, dakikalar içinde dönüş yapalım.",
+        "keywords": "Qption iletişim, müşteri desteği, opsiyon işlemleri yardım, Qption telefon, Qption e-posta, fintech müşteri hizmetleri",
+        "ogDescription": "Trading, iş ortaklıkları veya platform hakkında sorularınız mı var? Qption’da gerçek bir insanla konuşun — günün 24 saati.",
+        "twitterDescription": "Qption platformunda yardıma mı ihtiyacınız var? Destek ekibimiz 7/24 hazır — şimdi iletişime geçin.",
+        "url": "https://qption.com/contact",
+        "ogImage": "https://qption.com/images/og/contact-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Bize ulaşın",
+        "support": "Müşteri desteği",
+        "supportHours": "Günde 24 saat, haftada 7 gün",
+        "email": "E-posta adresi",
+        "phone": "Telefon numarası",
+        "address": "Adres",
+        "cityCountry": "Stockholm, İsveç"
+    }
+}

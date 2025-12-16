@@ -1,0 +1,576 @@
+/* src/pages/Profile/IDVerification.module.css */
+
+/* Inherit base styles and palette from IdentityInformation */
+@import url('./IdentityInformation.module.css');
+/* Or copy relevant styles */
+
+.container {
+     padding: 12px;
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     gap: 16px;
+     min-height: 100vh;
+}
+
+/* Style the Stepper */
+.stepper {
+     width: 100%;
+     max-width: 450px;
+     margin-bottom: 16px;
+}
+
+/* Override MUI StepLabel styles */
+.stepper :global(.MuiStepLabel-label) {
+     color: #94a3b8 !important;
+     /* Muted label color */
+     font-size: 0.9rem !important;
+}
+
+.stepper :global(.MuiStepLabel-label.Mui-active) {
+     color: #e2e8f0 !important;
+     /* Active label color */
+     font-weight: 500 !important;
+}
+
+.stepper :global(.MuiStepLabel-label.Mui-completed) {
+     color: #cbd5e1 !important;
+     /* Completed label color */
+     cursor: pointer;
+     /* Allow clicking completed steps */
+}
+
+/* Override MUI StepIcon styles */
+.stepper :global(.MuiStepIcon-root) {
+     color: #475569 !important;
+     /* Default icon color (inactive) */
+}
+
+.stepper :global(.MuiStepIcon-root.Mui-active) {
+     color: #60a5fa !important;
+     /* Active icon color (blue) */
+}
+
+.stepper :global(.MuiStepIcon-root.Mui-completed) {
+     color: #3b82f6 !important;
+     /* Completed icon color (darker blue) */
+     cursor: pointer;
+}
+
+/* --- Main Card for Steps --- */
+.stepCard {
+     background-image: linear-gradient(to bottom,
+               rgba(34, 197, 94, 0.10),
+               rgba(34, 197, 94, 0.05));
+     backdrop-filter: blur(10px);
+     border: 1px solid rgba(255, 255, 255, 0.1);
+     border-radius: 12px;
+     padding: 16px;
+     max-width: 450px;
+     width: 100%;
+     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+     overflow: hidden;
+}
+
+.stepHeader {
+     text-align: center;
+     font-size: 1.1rem;
+     font-weight: 600;
+     margin-bottom: 10px;
+     color: #fff;
+}
+
+.stepDescription {
+     color: rgba(255, 255, 255, 0.7);
+     text-align: center;
+     margin-bottom: 16px;
+     font-size: 0.85rem;
+     line-height: 1.4;
+}
+
+/* --- Step 0: Document Type Selection --- */
+.formContainer {
+     display: flex;
+     flex-direction: column;
+     gap: 12px;
+     width: 100%;
+     max-width: 100%;
+     overflow-x: hidden;
+}
+
+/* Tailwind refs: green-500 #22c55e, green-300 #86efac */
+.select_like_mui {
+     /* Reset native look */
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+
+     /* Box */
+     width: 100%;
+     min-height: 38px;
+     padding: 8px 42px 8px 12px;
+     /* room for arrow on the right */
+     border: none;
+     /* no border (even on focus) */
+     border-radius: 12px;
+     font: inherit;
+     color: rgba(255, 255, 255, 0.9);
+     background:
+          /* gradient bg like your Select */
+          linear-gradient(to bottom, rgba(34, 197, 94, 0.10), rgba(34, 197, 94, 0.05))
+          /* arrow (green-300) */
+          , url('data:image/svg+xml;utf8,\
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="%2386efac"><path d="M7 10l5 5 5-5z"/></svg>') no-repeat right 12px center/16px 16px;
+
+     /* Blur glass */
+     backdrop-filter: blur(64px);
+     -webkit-backdrop-filter: blur(64px);
+
+     /* Shadow to lift like MUI menu */
+     box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
+
+     /* Cursor + transitions */
+     cursor: pointer;
+     transition: background-color .2s ease, box-shadow .2s ease;
+}
+
+/* Hover tint */
+.select_like_mui:hover {
+     background-image:
+          linear-gradient(to bottom, rgba(34, 197, 94, 0.14), rgba(34, 197, 94, 0.08)),
+          url('data:image/svg+xml;utf8,\
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="%2386efac"><path d="M7 10l5 5 5-5z"/></svg>');
+}
+
+/* Focus: keep borderless, remove default outline */
+.select_like_mui:focus {
+     outline: none;
+}
+
+/* Disabled */
+.select_like_mui:disabled {
+     opacity: .6;
+     cursor: not-allowed;
+}
+
+/* Placeholder-like first option */
+.select_like_mui option[disabled][value=""] {
+     color: rgba(255, 255, 255, 0.6);
+}
+
+/* Selected option color inside the closed control */
+.select_like_mui {
+     /* The visible text color is already set above */
+     color: #22c55e;
+     /* green-500 for the chosen value like your MUI Select */
+}
+
+/* Drop-down panel styling (limited by browsers):
+   Works in many Chromium/Edge; macOS Safari/Firefox are stricter. */
+.select_like_mui option {
+     background-color: rgba(10, 26, 46, 0.95);
+     color: rgba(255, 255, 255, 0.95);
+}
+
+.select_like_mui option:checked {
+     color: #22c55e;
+     /* green-500 for the selected row */
+     background-color: rgba(34, 197, 94, 0.18);
+}
+
+/* Fallback when backdrop-filter unsupported */
+@supports not ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+     .select_like_mui {
+          background:
+               linear-gradient(to bottom, rgba(34, 197, 94, 0.12), rgba(34, 197, 94, 0.08));
+     }
+}
+
+.selectInput {
+     background: rgba(255, 255, 255, 0.05);
+     border: 1px solid rgba(255, 255, 255, 0.1);
+     border-radius: 6px;
+     padding: 8px 12px;
+     color: #fff;
+     font-size: 0.85rem;
+     width: 100%;
+     max-width: 100%;
+     box-sizing: border-box;
+     appearance: none;
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23fff' d='M6 8.825L1.175 4 2.238 2.938 6 6.7l3.763-3.763L10.825 4z'/%3E%3C/svg%3E");
+     background-repeat: no-repeat;
+     background-position: right 10px center;
+     background-size: 12px;
+     padding-right: 30px;
+     cursor: pointer;
+     transition: all 0.2s ease;
+}
+
+.selectInput:focus {
+     outline: none;
+     border-color: #00d2ff;
+     box-shadow: 0 0 0 2px rgba(0, 210, 255, 0.2);
+}
+
+.selectInput option {
+     background: #1a1a2e;
+     color: #fff;
+     padding: 8px;
+     font-size: 0.85rem;
+}
+
+.selectInput option:hover {
+     background: #00d2ff;
+}
+
+.selectInput option:checked {
+     background: #00d2ff;
+     color: #fff;
+}
+
+/* Custom select wrapper to ensure proper styling */
+.selectWrapper {
+     position: relative;
+     width: 100%;
+}
+
+.selectWrapper::after {
+     content: '';
+     position: absolute;
+     right: 12px;
+     top: 50%;
+     transform: translateY(-50%);
+     width: 12px;
+     height: 12px;
+     pointer-events: none;
+     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23fff' d='M6 8.825L1.175 4 2.238 2.938 6 6.7l3.763-3.763L10.825 4z'/%3E%3C/svg%3E");
+     background-repeat: no-repeat;
+     background-size: contain;
+}
+
+/* For Firefox */
+@-moz-document url-prefix() {
+     .selectInput {
+          padding-right: 30px;
+          text-indent: 0;
+     }
+
+     .selectInput option {
+          background-color: #1a1a2e;
+     }
+}
+
+/* For IE */
+@media screen and (-ms-high-contrast: active),
+(-ms-high-contrast: none) {
+     .selectInput {
+          padding-right: 30px;
+     }
+
+     .selectWrapper::after {
+          display: none;
+     }
+}
+
+.radioGroup {
+     display: flex;
+     flex-direction: column;
+     gap: 8px;
+     width: 100%;
+     max-width: 100%;
+}
+
+.radioLabel {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 8px 12px;
+     border: 1px solid rgba(255, 255, 255, 0.1);
+     border-radius: 6px;
+     cursor: pointer;
+     transition: all 0.2s ease;
+     color: rgba(255, 255, 255, 0.8);
+     width: 100%;
+     max-width: 100%;
+     box-sizing: border-box;
+     font-size: 0.85rem;
+     background: rgba(255, 255, 255, 0.05);
+}
+
+.radioLabelSelected:hover {
+     border-color: #00d2ff;
+     background: rgba(0, 210, 255, 0.05);
+}
+
+.radioLabel:hover {
+     border-color: #00d2ff;
+     background: rgba(0, 210, 255, 0.05);
+}
+
+.radioLabelSelected {
+     display: flex;
+     justify-content: space-between;
+     justify-items: center;
+     border-color: #00d2ff;
+     background: rgba(0, 210, 255, 0.1);
+     color: #fff;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-right: 13px;
+     padding-left: 10px;
+     border-radius: 5px;
+}
+
+.radioLabel span:first-child {
+     flex: 1;
+     text-align: left;
+     margin-right: 12px;
+}
+
+.radioCircle {
+     width: 16px;
+     height: 16px;
+     border: 2px solid rgba(255, 255, 255, 0.2);
+     border-radius: 50%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     transition: all 0.2s ease;
+     flex-shrink: 0;
+     position: relative;
+}
+
+.radioLabelSelected .radioCircle {
+     border-color: #00d2ff;
+     margin-top: 3px;
+}
+
+.radioInnerCircle {
+     width: 8px;
+     height: 8px;
+     background: #00d2ff;
+     border-radius: 50%;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+}
+
+.stepButton {
+
+     color: #fff;
+     border: none;
+     padding: 8px 16px;
+     border-radius: 6px;
+     font-size: 0.85rem;
+     font-weight: 500;
+     cursor: pointer;
+     transition: all 0.2s ease;
+     width: 100%;
+     max-width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 6px;
+     box-sizing: border-box;
+}
+
+.stepButton:hover {
+     background: #00b8e6;
+     transform: translateY(-1px);
+}
+
+.stepButton:disabled {
+     background: rgba(0, 210, 255, 0.3);
+     cursor: not-allowed;
+}
+
+/* --- Step 1: Upload Document --- */
+.uploadButtonContainer {
+     width: 100%;
+     max-width: 100%;
+     margin-bottom: 10px;
+}
+
+.uploadButton {
+     background: rgba(255, 255, 255, 0.05);
+     border: 2px dashed rgba(255, 255, 255, 0.1);
+     border-radius: 12px;
+     padding: 20px;
+     width: 100%;
+     max-width: 100%;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     gap: 12px;
+     cursor: pointer;
+     transition: all 0.3s ease;
+     box-sizing: border-box;
+}
+
+.uploadButton:hover {
+     border-color: #00d2ff;
+     background: rgba(0, 210, 255, 0.05);
+}
+
+.uploadPreview {
+     width: 100%;
+     max-width: 100%;
+     height: 180px;
+     border-radius: 8px;
+     overflow: hidden;
+     background: rgba(0, 0, 0, 0.2);
+}
+
+.uploadPreview img {
+     width: 100%;
+     height: 100%;
+     object-fit: contain;
+}
+
+.uploadIconContainer {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     gap: 8px;
+     color: rgba(255, 255, 255, 0.6);
+}
+
+.uploadTextContainer {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     gap: 4px;
+}
+
+.uploadTextPrimary {
+     color: #fff;
+     font-size: 1.1rem;
+     font-weight: 500;
+}
+
+.uploadTextSecondary {
+     color: rgba(255, 255, 255, 0.6);
+     font-size: 0.9rem;
+}
+
+/* Upload Rules List */
+.rulesList {
+     list-style: none;
+     padding: 0;
+     margin: 16px 0;
+     display: flex;
+     flex-direction: column;
+     gap: 12px;
+}
+
+.rulesList li {
+     display: flex;
+     align-items: center;
+     gap: 8px;
+     color: rgba(255, 255, 255, 0.7);
+     font-size: 0.9rem;
+}
+
+.ruleSuccess {
+     color: #4ade80;
+}
+
+.ruleError {
+     color: #ff6b6b;
+}
+
+/* --- Step 2: Take Selfie --- */
+/* Assuming TakeSelfie component is self-contained or needs minimal wrapper */
+.selfieContainer {
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     gap: 24px;
+}
+
+/* --- Step 3: Verification Pending --- */
+.pendingMessage {
+     background: rgba(255, 255, 255, 0.05);
+     border: 1px solid rgba(255, 255, 255, 0.1);
+     border-radius: 12px;
+     padding: 24px;
+     text-align: center;
+     color: rgba(255, 255, 255, 0.8);
+     font-size: 0.95rem;
+     line-height: 1.6;
+}
+
+/* --- Prerequisites Not Met Message --- */
+.prerequisitesMessage {
+     background: rgba(255, 107, 107, 0.1);
+     border: 1px solid rgba(255, 107, 107, 0.2);
+     border-radius: 12px;
+     padding: 24px;
+     text-align: center;
+     font-size: 0.95rem;
+     line-height: 1.6;
+}
+
+.prerequisitesMessage span {
+     color: #fff;
+     font-weight: 500;
+}
+
+/* --- Loading State --- */
+.loadingContainer {
+     width: 100%;
+     min-height: 200px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+     .stepCard {
+          padding: 16px;
+          max-width: 100%;
+          margin: 0 12px;
+     }
+
+     .uploadButton {
+          padding: 16px;
+     }
+
+     .uploadPreview {
+          height: 140px;
+     }
+
+     .stepButton {
+          padding: 8px 16px;
+          font-size: 0.9rem;
+     }
+
+     .stepHeader {
+          font-size: 1.2rem;
+     }
+
+     .stepDescription {
+          font-size: 0.85rem;
+     }
+
+     .radioLabel {
+          padding: 6px 10px;
+          font-size: 0.8rem;
+     }
+
+     .radioCircle {
+          width: 14px;
+          height: 14px;
+     }
+
+     .radioInnerCircle {
+          width: 6px;
+          height: 6px;
+     }
+}

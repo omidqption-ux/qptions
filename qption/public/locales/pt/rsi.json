@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Índice de Força Relativa (RSI) – Análise Técnica | Qption",
+        "description": "Aprenda a usar o RSI na análise técnica: como calcular, identificar níveis de sobrecompra/sobrevenda, interpretar divergências e ajustar as configurações ideais para diferentes mercados.",
+        "keywords": "RSI, Índice de Força Relativa, análise técnica, oscilador de momento, sobrecompra, sobrevenda, divergência, estratégia de trading, Qption",
+        "ogTitle": "Índice de Força Relativa (RSI) – Análise Técnica | Qption",
+        "ogDescription": "Guia completo do RSI: cálculo, sinais de sobrecompra/sobrevenda, divergências e estratégias práticas para traders.",
+        "url": "https://qption.com/technical-analysis/RSIIndicator",
+        "image": "https://qption.com/videos/og/rsi-indicator/rsi-indicator.png"
+    },
+    "labels": {
+        "backToTechnical": "Análise Técnica",
+        "videoAria": "RSI (Índice de Força Relativa) é um oscilador de momento que mede a velocidade e a variação dos movimentos de preço."
+    },
+    "promo": {
+        "text": "Pronto para operar com RSI?",
+        "cta": "Começar a negociar"
+    },
+    "hero": {
+        "title": "Estratégia do Indicador RSI",
+        "subtitle": "Domine o trading de momento com nossa análise completa do RSI"
+    },
+    "overview": {
+        "title": "Visão Geral",
+        "bullets": [
+            "RSI é um oscilador de momento que mede a força e a velocidade das mudanças de preço.",
+            "Oscila entre 0 e 100 — leituras acima de 70 indicam sobrecompra e abaixo de 30 indicam sobrevenda.",
+            "O RSI ajuda a identificar possíveis reversões e condições de sobrecompra/sobrevenda no mercado."
+        ]
+    },
+    "how": {
+        "title": "Como o RSI Funciona",
+        "items": [
+            {
+                "title": "Cálculo",
+                "desc": "O RSI é calculado com base na média dos ganhos e perdas de um período específico (geralmente 14 períodos)."
+            },
+            {
+                "title": "Sobrecompra/Sobrevenda",
+                "desc": "Leituras acima de 70 sugerem sobrecompra, enquanto leituras abaixo de 30 indicam sobrevenda."
+            },
+            {
+                "title": "Divergência",
+                "desc": "A divergência ocorre quando o preço faz novas máximas/mínimas e o RSI não confirma — sinalizando possível reversão."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Principais Estratégias",
+        "items": [
+            {
+                "title": "1. Trading de Sobrecompra/Sobrevenda",
+                "points": [
+                    "Compre quando o RSI cruza acima de 30 (saindo da sobrevenda) e venda quando cruza abaixo de 70 (saindo da sobrecompra).",
+                    "Use confirmação adicional da ação do preço ou de outros indicadores."
+                ]
+            },
+            {
+                "title": "2. Divergências RSI",
+                "points": [
+                    "Divergência de alta: o preço faz mínimas mais baixas enquanto o RSI faz mínimas mais altas.",
+                    "Divergência de baixa: o preço faz máximas mais altas enquanto o RSI faz máximas mais baixas."
+                ]
+            },
+            {
+                "title": "3. Linhas de Tendência no RSI",
+                "points": [
+                    "Desenhe linhas de tendência no próprio RSI para identificar possíveis quebras e reversões.",
+                    "Combine essas quebras com a estrutura do preço para melhores entradas e saídas."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitações",
+        "bullets": [
+            "Durante tendências fortes, o RSI pode permanecer em sobrecompra ou sobrevenda por longos períodos.",
+            "Em mercados laterais ou voláteis, podem ocorrer sinais falsos."
+        ]
+    }
+}

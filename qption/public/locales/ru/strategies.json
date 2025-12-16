@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "Торговые стратегии – Проверенные настройки и сигналы | Qption",
+        "description": "Изучите библиотеку торговых стратегий Qption — скальпинг, дневная и свинг-торговля, позиции, с чёткими правилами входа, управления рисками и актуальной статистикой.",
+        "keywords": "торговые стратегии, стратегии форекс, стратегии крипто, скальпинг, дейтрейдинг, свинг-трейдинг, управление рисками, сигналы Qption",
+        "ogTitle": "Торговые стратегии – Проверенные настройки и сигналы | Qption",
+        "ogDescription": "От прорывов импульса до возврата к среднему — получите точные правила, которых придерживаются наши аналитики, и примените их в своей торговле.",
+        "url": "https://qption.com/trading-strategies",
+        "image": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Торговые стратегии – Проверенные настройки и сигналы | Qption",
+        "twitterDescription": "Изучите пошаговые стратегии, которые наши ведущие трейдеры используют на рынках форекс и криптовалют.",
+        "twitterImage": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "canonical": "https://qption.com/trading-strategies"
+    },
+    "hero": {
+        "title": "Торговые стратегии",
+        "subtitle": "Освойте проверенные торговые стратегии — от быстрых скальпинговых сделок до долгосрочных свингов — с понятными правилами и чёткими настройками."
+    },
+    "cta": {
+        "learnMore": "Подробнее"
+    },
+    "quiz": {
+        "link": "/trading-strategy/quiz-trading-strategy",
+        "cta": "Пройти тест по стратегиям"
+    },
+    "cards": [
+        {
+            "title": "Стратегия V-образного разворота с объёмным всплеском",
+            "link": "/trading-strategy/v-bounce",
+            "icon": "chartBar"
+        },
+        {
+            "title": "Стратегия Мартингейла",
+            "link": "/trading-strategy/martingale",
+            "icon": "chartLine"
+        },
+        {
+            "title": "Стратегия Разворота",
+            "link": "/trading-strategy/reversal",
+            "icon": "chartPie"
+        },
+        {
+            "title": "Стратегия Пробоя",
+            "link": "/trading-strategy/breakout",
+            "icon": "chartArea"
+        },
+        {
+            "title": "Стратегия Alligator",
+            "link": "/trading-strategy/alligator",
+            "icon": "globe"
+        },
+        {
+            "title": "Стратегия Полос Боллинджера",
+            "link": "/trading-strategy/bollinger",
+            "icon": "bitcoin"
+        },
+        {
+            "title": "Стратегия Скользящих Средних",
+            "link": "/trading-strategy/moving-average",
+            "icon": "coins"
+        },
+        {
+            "title": "Стратегия Трёх Методов",
+            "link": "/trading-strategy/threeMethods",
+            "icon": "chartPie"
+        },
+        {
+            "title": "Стратегия Пинцета (Tweezers)",
+            "link": "/trading-strategy/tweezersStrategy",
+            "icon": "trophy"
+        },
+        {
+            "title": "Стратегия Свечной Модели Squat",
+            "link": "/trading-strategy/squat-candle-stick",
+            "icon": "exchange"
+        },
+        {
+            "title": "Стратегия Поглощения (Engulfing)",
+            "link": "/trading-strategy/engulfing-candlestick",
+            "icon": "dollar"
+        }
+    ]
+}

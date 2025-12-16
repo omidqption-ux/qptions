@@ -1,0 +1,293 @@
+{
+    "seo": {
+        "title": "Grafik Analiz Quiz'i – Trendler, S/R, formasyonlar ve mumlar | Qption",
+        "description": "Qption'ın Grafik Analiz Quiz'i ile grafik okuma becerini test et. Trendler, destek/direnç, Fibonacci & Elliott kavramları ile devam/tersine dönüş formasyonlarını değerlendir.",
+        "keywords": "grafik analiz quiz, teknik analiz quiz, grafik formasyonları, destek ve direnç, Fibonacci, Elliott Dalgalari, omuz baş omuz, bayrak, flama, trend devamı, reversal, Qption",
+        "ogTitle": "Grafik Analiz Quiz'i – Trendler, S/R, formasyonlar ve mumlar | Qption",
+        "ogDescription": "Trend çizgileri, destek/direnç, Fibonacci & Elliott ve devam/tersine dönüş formasyonları üzerine interaktif sorularla kendini zorla.",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Grafik Analiz Quiz'i – Qption",
+        "twitterDescription": "Qption'ın Grafik Analiz Quiz'i ile grafik becerini test et.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/graphical-analysis"
+    },
+    "page": {
+        "title": "Grafik Analiz",
+        "subtitle": "Trend çizgileri, destek/direnç, Fibonacci & Elliott kavramları ile devam/tersine dönüş formasyonlarını kapsayan interaktif Grafik Analiz Quiz'imizle grafik okuma becerini zorla ve görsel kararlarında daha özgüvenli ol."
+    },
+    "quiz": {
+        "header": "Grafik Analiz Quiz'i",
+        "progress": "Soru {{current}} / {{total}}",
+        "correct": "Doğru ✅",
+        "incorrect": "Tam değil ⚠️",
+        "selectHint": "Bir seçenek seçip cevabını gönder.",
+        "learnMore": "Daha fazlası ↗"
+    },
+    "ui": {
+        "previous": "Önceki",
+        "submit": "Gönder",
+        "finish": "Bitir",
+        "next": "Sonraki",
+        "newRandom": "Yeni rastgele 10",
+        "loading": "Quiz yükleniyor…"
+    },
+    "results": {
+        "score": "Skor: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Harika! Grafik okuma becerin çok keskin.",
+            "good": "Güzel iş! Seviye atlamak için pratik yapmaya devam et.",
+            "retry": "İyi başlangıç—dersleri gözden geçir ve tekrar dene."
+        }
+    },
+    "pool": [
+        {
+            "q": "Grafik analizde yükselen bir hareketli ortalama çoğunlukla neyi gösterir?",
+            "options": [
+                "Yatay piyasa koşulları",
+                "Düşüş eğilimi",
+                "Yükseliş eğilimi",
+                "Sinyal yok"
+            ],
+            "correct": "Yükseliş eğilimi",
+            "explain": "MA'nın eğimi ve fiyatın ortalamaya göre konumu yönsel eğilimi hızlıca tanımlamaya yardım eder.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Hareketli ortalamaları dinamik destek/direnç olarak kullanmanın yaygın yolu nedir?",
+            "options": [
+                "Fiyatın onları görmezden gelmesini beklemek",
+                "Trend sırasında MA'ya yapılan pullback'leri devam için değerlendirmek",
+                "Bağlamdan bağımsız her MA temasını tersine çevirmek",
+                "Sadece yıllık grafiklerde kullanmak"
+            ],
+            "correct": "Trend sırasında MA'ya yapılan pullback'leri devam için değerlendirmek",
+            "explain": "Trend içindeki MA pullback'leri risk konumlandırması ve devam girişleri için yapı sunabilir.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "SMA'ya kıyasla EMA genellikle:",
+            "options": [
+                "Daha yavaş tepki verir",
+                "Aynı hızdadır",
+                "Daha hızlı tepki verir",
+                "Hareketli ortalama değildir"
+            ],
+            "correct": "Daha hızlı tepki verir",
+            "explain": "EMA son veriye daha fazla ağırlık vererek SMA'dan hızlı döner; hızlı trend ipuçları için uygundur.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Temel bir bullish crossover sinyali ne zaman oluşur?",
+            "options": [
+                "Uzun MA kısa MA'nın üzerine çıktığında",
+                "Kısa MA uzun MA'nın üzerine çıktığında",
+                "Fiyat her iki MA'nın altına gap yaptığında",
+                "Her iki MA da yatay kaldığında"
+            ],
+            "correct": "Kısa MA uzun MA'nın üzerine çıktığında",
+            "explain": "Kısa-uzun kesişimleri momentum değişimini vurgulayabilir (yine de gecikir—confluence ara).",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Pullback'ler için sık takip edilen Fibonacci kümesi hangisidir?",
+            "options": [
+                "%5–%10",
+                "%23,6–%33,3",
+                "%38,2–%50–%61,8",
+                "%70–%80"
+            ],
+            "correct": "%38,2–%50–%61,8",
+            "explain": "Bu Fibonacci zonları trend içi tepkileri aramak için popülerdir.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "Fibonacci"
+        },
+        {
+            "q": "Fibonacci confluence ne anlama gelir?",
+            "options": [
+                "Tek zaman diliminden tek bir seviye",
+                "Aynı bölgede hizalanan birden fazla Fib seviyesi/yapısı",
+                "Yapıyı ve hacmi yok saymak",
+                "Sadece uzantıları kullanmak"
+            ],
+            "correct": "Aynı bölgede hizalanan birden fazla Fib seviyesi/yapısı",
+            "explain": "Örneğin 61,8% + önceki S/R + MA gibi confluence, bölgenin önemini artırır.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "Fibonacci"
+        },
+        {
+            "q": "Klasik Elliott impulse yapısında dalga sayısı genellikle:",
+            "options": [
+                "3 up, 2 down",
+                "5 dalgalı impulse ardından 3 dalgalı düzeltme",
+                "7 rastgele dalga",
+                "Sadece 2 dalga"
+            ],
+            "correct": "5 dalgalı impulse ardından 3 dalgalı düzeltme",
+            "explain": "Standart yapı trend yönünde beş dalga (1–5) + ABC düzeltmesidir.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Elliott"
+        },
+        {
+            "q": "Elliott rehberlerinden biri, impulse içinde:",
+            "options": [
+                "3. dalga çoğunlukla en kısadır",
+                "4. dalga genelde 1. dalgayla çakışır",
+                "3. dalga çoğunlukla en uzun (en kısa olmamalı)",
+                "Dalga süreleri eşit olmalıdır"
+            ],
+            "correct": "3. dalga çoğunlukla en uzun (en kısa olmamalı)",
+            "explain": "3. dalga genellikle en güçlü momentum taşır ve 1-3-5 arasında en kısa olmamalıdır.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Elliott"
+        },
+        {
+            "q": "Omuz Baş Omuz tepesinin teyit alması genellikle ne zaman olur?",
+            "options": [
+                "Sağ omuz oluştuğunda",
+                "Fiyat neckline'ı hacimli kabul ile kırdığında",
+                "Hacim sol omuzda azaldığında",
+                "Herhangi bir doji göründüğünde"
+            ],
+            "correct": "Fiyat neckline'ı hacimli kabul ile kırdığında",
+            "explain": "Neckline kırılımı (idealde hacim/ek teyit ile) dönüş yapısının geçerliliğini gösterir.",
+            "source": "https://qption.com/graphical-analysis/trend-reversal-patterns",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Çift dip formasyonu ne zaman daha güvenilirdir?",
+            "options": [
+                "Sadece güçlü yükseliş trendlerinde oluştuğunda",
+                "Bullish diverjans veya güçlü geri kazanımla desteklendiğinde",
+                "Öncesinde hiçbir düşüş olmadığında",
+                "Hacmi tamamen görmezden geldiğinde"
+            ],
+            "correct": "Bullish diverjans veya güçlü geri kazanımla desteklendiğinde",
+            "explain": "Momentum teyidi veya yapının geri kazanılması dönüş olasılığını artırır.",
+            "source": "https://qption.com/graphical-analysis/trend-reversal-patterns",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Direnç bölgesinde bearish dönüş ipucu şu olabilir:",
+            "options": [
+                "Yükselen wedge kırılımı (aşağı)",
+                "Boğa bayrağı breakout'u",
+                "Yükselen üçgen devamı",
+                "Trendde MA pullback'i"
+            ],
+            "correct": "Yükselen wedge kırılımı (aşağı)",
+            "explain": "Direnç yakınında kırılan wedge'ler derin düzeltme veya trend değişimi öncesi sinyal verebilir.",
+            "source": "https://qption.com/graphical-analysis/trend-reversal-patterns",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Bayraklar ve flamalar genellikle nasıl sınıflandırılır?",
+            "options": [
+                "Dip formasyonları",
+                "Tepe formasyonları",
+                "Devam formasyonları",
+                "Hacim göstergeleri"
+            ],
+            "correct": "Devam formasyonları",
+            "explain": "Kısa konsolidasyonlar olup genellikle önceki impuls yönünde çözülürler.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Yükselen üçgen çoğunlukla nasıl kırılır?",
+            "options": [
+                "Tanım gereği aşağı",
+                "Yatay dirence yüklenen alıcılarla yukarı",
+                "Sonsuza kadar yatay",
+                "Rastgele"
+            ],
+            "correct": "Yatay dirence yüklenen alıcılarla yukarı",
+            "explain": "Yükselen dipler + yatay direnç, yukarı yönlü kırılma baskısının biriktiğini gösterir (teyit arayın).",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Dikdörtgen konsolidasyon (range) genellikle:",
+            "options": [
+                "Sadece aşağı yönlü çözümlenir",
+                "Sadece yukarı yönlü çözümlenir",
+                "Her iki yöne de kırılabilir—breakout + retest'e dikkat et",
+                "Her seferinde dönüşe yol açar"
+            ],
+            "correct": "Her iki yöne de kırılabilir—breakout + retest'e dikkat et",
+            "explain": "Range'ler nötrdür; bağlam, hacim ve kırılma davranışı yönü belirler.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Bayrak/flama için 'measured move' hedefi sıklıkla nasıl hesaplanır?",
+            "options": [
+                "Breakout'tan itibaren önceki impuls yüksekliği projekte edilir",
+                "Rastgele pip sayısı",
+                "Sadece Fibonacci zamanı",
+                "SMA değeri"
+            ],
+            "correct": "Breakout'tan itibaren önceki impuls yüksekliği projekte edilir",
+            "explain": "Direğin yüksekliği breakout noktasından projekte edilerek pragmatik ilk hedef belirlenir.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Grafik analiz şunu vurgular:",
+            "options": [
+                "Trendler, S/R, formasyonlar ve seviyeler gibi görsel yapılar",
+                "Sadece gösterge matematiği",
+                "Yalnızca haber başlıkları",
+                "Çoklu zaman dilimi bağlamını görmezden gelmek"
+            ],
+            "correct": "Trendler, S/R, formasyonlar ve seviyeler gibi görsel yapılar",
+            "explain": "Kararlar grafik yapısı, bağlam ve fiyat davranışına dayanarak şekillendirilir.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Girişleri hizalamada en iyi uygulama nedir?",
+            "options": [
+                "Daha yüksek zaman dilimi trendi ve kilit seviyelerle",
+                "Rastgele günün herhangi bir saatiyle",
+                "Tek göstergeden alınan okumayla",
+                "Stop loss kullanmadan"
+            ],
+            "correct": "Daha yüksek zaman dilimi trendi ve kilit seviyelerle",
+            "explain": "Top-down confluence olasılıkları ve uygulama netliğini artırır.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Formasyonlarda sahte break'leri azaltmaya ne yardımcı olur?",
+            "options": [
+                "Seviyeyi ilk geçtiği anda mutlaka işleme girmek",
+                "Seviye üzerinde kapanış/kabul ve/veya retesti beklemek",
+                "Hacmi ve bağlamı yok saymak",
+                "Geçersizleşme olmadan işlem yapmak"
+            ],
+            "correct": "Seviye üzerinde kapanış/kabul ve/veya retesti beklemek",
+            "explain": "Kapanışla teyit edilen kırılımlar ve retestler, mum içi yoklamalara göre daha güçlü kanıt sunar.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Stop'lar çoğu zaman nereye konumlandırılmalıdır?",
+            "options": [
+                "Trade ettiğin yapının içine",
+                "Geçersizleşme yapısının ötesine (ör. formasyon uçlarının üstü/altı)",
+                "Sadece tam sayılara",
+                "Hiçbir yere—stop gerekmez"
+            ],
+            "correct": "Geçersizleşme yapısının ötesine (ör. formasyon uçlarının üstü/altı)",
+            "explain": "Yapıya dayalı stop'lar riski tanımlar ve fikrin nerede bozulacağını netleştirir.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Relative Strength Index (RSI) – Analisi Tecnica | Qption",
+        "description": "Scopri come usare l’RSI nell’analisi tecnica: calcolare l’indicatore, individuare zone di ipercomprato/ipervenduto, leggere le divergenze e scegliere i settaggi ottimali per diversi mercati.",
+        "keywords": "RSI, Relative Strength Index, analisi tecnica, oscillatore di momentum, ipercomprato, ipervenduto, divergenza, strategia di trading, Qption",
+        "ogTitle": "Relative Strength Index (RSI) – Analisi Tecnica | Qption",
+        "ogDescription": "Guida chiara all’RSI: come si calcola, come tradare i segnali OB/OS e le divergenze, quando funziona meglio e quando fallisce.",
+        "url": "https://qption.com/technical-analysis/RSIIndicator",
+        "image": "https://qption.com/videos/og/rsi-indicator/rsi-indicator.png"
+    },
+    "labels": {
+        "backToTechnical": "Analisi tecnica",
+        "videoAria": "L’RSI (Relative Strength Index) è un oscillatore di momentum che misura velocità e variazioni dei movimenti di prezzo."
+    },
+    "promo": {
+        "text": "Pronto a fare trading con l’RSI?",
+        "cta": "Inizia a fare trading"
+    },
+    "hero": {
+        "title": "Strategia con indicatore RSI",
+        "subtitle": "Padroneggia il momentum trading con la nostra analisi completa sull’RSI"
+    },
+    "overview": {
+        "title": "Panoramica",
+        "bullets": [
+            "L’RSI è un oscillatore di momentum che misura la velocità e il cambiamento dei movimenti di prezzo.",
+            "Oscilla tra 0 e 100 — sopra 70 è comunemente considerato ipercomprato e sotto 30 ipervenduto.",
+            "L’RSI aiuta a individuare possibili inversioni e condizioni OB/OS su diversi mercati."
+        ]
+    },
+    "how": {
+        "title": "Come funziona l’RSI",
+        "items": [
+            {
+                "title": "Calcolo",
+                "desc": "L’RSI viene calcolato sulla base della media dei guadagni e delle perdite su un periodo di osservazione (tipicamente 14)."
+            },
+            {
+                "title": "Ipercomprato/Ipervenduto",
+                "desc": "Letture sopra 70 suggeriscono ipercomprato; sotto 30 indicano condizioni di ipervenduto."
+            },
+            {
+                "title": "Divergenza",
+                "desc": "Quando il prezzo registra nuovi massimi/minimi ma l’RSI no, potrebbe avvicinarsi una possibile inversione."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Strategie chiave",
+        "items": [
+            {
+                "title": "1. Trading Ipercomprato/Ipervenduto",
+                "points": [
+                    "Compra quando l’RSI attraversa al rialzo 30 (uscendo da ipervenduto) e vendi quando scende sotto 70 (uscendo da ipercomprato).",
+                    "Usa la confluenza di price action o altri indicatori per confermare."
+                ]
+            },
+            {
+                "title": "2. Divergenza RSI",
+                "points": [
+                    "Divergenza rialzista: il prezzo fa minimi più bassi mentre l’RSI fa minimi più alti.",
+                    "Divergenza ribassista: il prezzo fa massimi più alti mentre l’RSI fa massimi più bassi."
+                ]
+            },
+            {
+                "title": "3. Trend line sull’RSI",
+                "points": [
+                    "Disegna trend line direttamente sull’RSI per individuare potenziali breakout/breakdown.",
+                    "Combina le rotture dell’RSI con la struttura di mercato per ingressi/uscite."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitazioni",
+        "bullets": [
+            "Nei trend molto forti l’RSI può restare in ipercomprato/ipervenduto per periodi prolungati.",
+            "Mercati laterali e irregolari possono generare falsi segnali."
+        ]
+    }
+}

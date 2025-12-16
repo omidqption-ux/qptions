@@ -1,0 +1,58 @@
+{
+    "seo": {
+        "title": "Processo e condizioni di prelievo | Qption",
+        "description": "Scopri come funzionano i prelievi su Qption: flusso della richiesta, invio dei fondi al metodo di deposito originale, responsabilità del cliente e regole di chiusura del conto.",
+        "keywords": "politica di prelievo, richiesta di prelievo, metodo di deposito originale, responsabilità del cliente, chiusura conto, Qption",
+        "ogTitle": "Processo e condizioni di prelievo | Qption",
+        "ogDescription": "Guida dettagliata su richieste di prelievo, tempi di elaborazione, canali di pagamento e condizioni di compliance.",
+        "url": "https://qption.com/withdrawal-policy",
+        "image": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Processo e condizioni di prelievo | Qption",
+        "twitterDescription": "Come richiedere i prelievi, tempi di elaborazione, regole di payout e altro.",
+        "twitterImage": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "canonical": "https://qption.com/withdrawal-policy"
+    },
+    "hero": {
+        "title": "Processo e condizioni di prelievo"
+    },
+    "sections": [
+        {
+            "key": "request",
+            "icon": "request",
+            "title": "1. Procedura di richiesta di prelievo",
+            "items": [
+                "Per avviare un prelievo, il Cliente deve inviare una richiesta dalla propria area personale sul Sito, scegliere il metodo desiderato e fornire i dati richiesti.",
+                "Dopo l’invio, la richiesta assume lo stato “Richiesto”. Quando l’elaborazione inizia, passa a “In elaborazione” e l’importo viene detratto dal saldo. Al completamento diventa “Elaborato” e i fondi vengono trasferiti al wallet del sistema di pagamento del Cliente.",
+                "Le richieste vengono gestite dal dipartimento finanziario in ordine cronologico. L’elaborazione può richiedere fino a cinque (5) giorni lavorativi e la Società si riserva il diritto di estendere tale termine se necessario."
+            ]
+        },
+        {
+            "key": "originalMethod",
+            "icon": "originalMethod",
+            "title": "2. Prelievo sul metodo di deposito originale",
+            "items": [
+                "I fondi possono essere inviati solo al conto di pagamento originariamente usato per il deposito. Se non è tecnicamente possibile, la Società può scegliere un metodo alternativo purché i dati personali coincidano.",
+                "Se il deposito è avvenuto tramite carta, il prelievo deve rientrare sulla stessa carta. Altri metodi sono consentiti solo se l’importo supera il deposito iniziale.",
+                "Se il Cliente richiede il prelievo senza aver effettuato operazioni dopo il deposito, l’accredito deve usare le stesse credenziali e lo stesso sistema del deposito. La Società può addebitare commissioni per il rimborso e i costi di elaborazione."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "3. Responsabilità del cliente e accuratezza delle informazioni",
+            "items": [
+                "Il Cliente è pienamente responsabile dell’esattezza di tutte le informazioni inserite nella richiesta di prelievo."
+            ]
+        },
+        {
+            "key": "closure",
+            "icon": "closure",
+            "title": "4. Chiusura del conto per violazione dei Termini",
+            "items": [
+                "Se un conto viene chiuso per violazione dei Termini e Condizioni, la Società si riserva il diritto di trattenere qualsiasi profitto maturato dal Cliente.",
+                "A propria discrezione, la Società può restituire i fondi depositati, deducendo tutte le commissioni e i costi applicabili."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+ .PhoneInput {
+     /* kill any focus ring on the whole control when input is focused */
+     @apply focus-within:outline-none focus-within:ring-0;
+ }
+
+ /* The actual text input */
+ .PhoneInputInput {
+     @apply bg-[#1c3039] text-gray-300 placeholder:text-gray-400 w-full outline-none focus:outline-none ring-0 focus:ring-0 border-0 focus:border-0;
+ }
+
+ /* Country button area (flag + caret) */
+ .PhoneInputCountry {
+     @apply bg-transparent mr-2;
+ }
+
+ .PhoneInputCountryIcon {
+     @apply bg-transparent;
+ }
+
+ /* Native select element (controls the closed-state bg and, on some browsers, the menu) */
+ .PhoneInputCountrySelect {
+     @apply outline-none focus:outline-none border-0 focus:border-0 appearance-none;
+     /* closed state bg */
+     color: #e5e7eb;
+     /* text to match your theme */
+
+     /* Optional: remove iOS inner shadow / appearance quirks + thin scrollbar (Firefox) */
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+
+     padding-left: 5px;
+     /* was '5' without a unit */
+     scrollbar-width: thin;
+     /* Firefox */
+     scrollbar-color: #6b7280 transparent;
+     /* Firefox thumb | track */
+ }
+
+ /* Attempt to style the dropdown menu items (support varies by OS/Browser) */
+ .PhoneInputCountrySelect option {
+     background-color: #1c3039;
+     color: #e5e7eb;
+ }
+
+ /* Chromium/WebKit scrollbar */
+ .PhoneInputCountrySelect::-webkit-scrollbar {
+     width: 6px;
+     height: 6px;
+ }
+
+ .PhoneInputCountrySelect::-webkit-scrollbar-thumb {
+     background: #6b7280;
+     /* gray-500-ish */
+     border-radius: 9999px;
+ }
+
+ .PhoneInputCountrySelect::-webkit-scrollbar-track {
+     background: transparent;
+ }

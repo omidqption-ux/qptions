@@ -1,0 +1,52 @@
+{
+    "seo": {
+        "title": "テクニカル分析 – チャート・インジケーター・セットアップ | Qption",
+        "description": "Qptionの詳細なテクニカル分析でマーケットを攻略：ライブのチャートアイデア、インジケーター解説、FX・暗号資産・指数向けの週間セットアップ。",
+        "keywords": "テクニカル分析, トレードチャート, プライスアクション, インジケーター, ローソク足パターン, サポートとレジスタンス, Qption教育, FX分析, クリプト分析",
+        "ogTitle": "テクニカル分析 – チャート・インジケーター・セットアップ | Qption",
+        "ogDescription": "Qptionアナリストによる実践的なチャート解説とインジケーターガイド——FXと暗号資産トレーダー向けに毎日更新。",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "hero": {
+        "title": "テクニカル分析",
+        "subtitle": "充実したツールとインジケーターで、マーケット分析の技術を習得しましょう"
+    },
+    "labels": {
+        "learnMore": "さらに詳しく →",
+        "quizCta": "テクニカル分析クイズに挑戦",
+        "videoAria": "テクニカル分析は、価格チャート・パターン・インジケーターを用いて将来の価格変動を予測するトレーディング手法です。"
+    },
+    "strategies": [
+        {
+            "title": "ボリンジャーバンド",
+            "link": "/technical-analysis/bollinger",
+            "description": "ボラティリティを基盤としたトレーディングバンドで価格推移を分析"
+        },
+        {
+            "title": "アリゲーター（Alligator）",
+            "link": "/technical-analysis/alligator",
+            "description": "平滑化移動平均を用いたトレンドフォロー型インジケーター"
+        },
+        {
+            "title": "RSI インジケーター",
+            "link": "/technical-analysis/RSIIndicator",
+            "description": "価格変動のスピードと変化量を測定するモメンタム・オシレーター"
+        },
+        {
+            "title": "テクニカル分析",
+            "link": "/technical-analysis/technical",
+            "description": "多様なテクニカルツールを用いた包括的な市場分析"
+        },
+        {
+            "title": "移動平均線（Moving Averages）",
+            "link": "/technical-analysis/moving-averages",
+            "description": "トレンド把握とサポート／レジスタンスの検出"
+        }
+    ],
+    "bullets": [
+        "テクニカル分析は、価格チャート・パターン・インジケーターを用いて将来の価格変動を予測するトレーディング手法です。",
+        "過去の価格データ、出来高、その他の市場指標に着目し、トレンドや潜在的なエントリー／イグジットポイントを特定します。",
+        "株式・FX・コモディティなど、さまざまな市場で広く利用されています。"
+    ]
+}

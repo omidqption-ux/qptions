@@ -1,0 +1,103 @@
+{
+    "seo": {
+        "title": "Temel Analiz – Makro içgörüler ve kazanç radarı | Qption",
+        "description": "Qption’ın temel analiz merkezinde öne geçin: canlı ekonomik takvim etkileri, şirket kazanç anlık görünümleri ve forex, kripto ile küresel endeksler için makro araştırmalar.",
+        "keywords": "temel analiz, ekonomik takvim, kazanç raporları, makro analiz, enflasyon verileri, faiz oranları, GSYİH açıklamaları, forex fundamentals, kripto fundamentals, Qption araştırma",
+        "ogTitle": "Temel Analiz – Makro içgörüler ve kazanç radarı | Qption",
+        "ogDescription": "Piyasaları hareket ettiren verileri takip edin—Qption araştırma masası önemli ekonomik verileri ve kazançları trade fikirlerine dönüştürüyor.",
+        "url": "https://qption.com/fundamental-analysis",
+        "image": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Temel Analiz – Makro içgörüler ve kazanç radarı | Qption",
+        "twitterDescription": "Grafiklerin ardındaki hikâyeyi yakalayın: ekonomik verileri ve kazançları gerçek zamanlı izleyin.",
+        "twitterImage": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "canonical": "https://qption.com/fundamental-analysis"
+    },
+    "page": {
+        "title": "Temel Analiz",
+        "subtitle": "Bilgiye dayalı ticaret kararları almak için ekonomik göstergeleri, piyasa trendlerini ve finansal araçları kapsayan kapsamlı analizleri keşfedin."
+    },
+    "cta": {
+        "takeQuiz": "Quizimizi çöz"
+    },
+    "cards": {
+        "economicIndicators": {
+            "title": "Ekonomik Göstergeler",
+            "description": "Önemli ekonomik metrikler ve piyasaya etkileri"
+        },
+        "centralBankPolicies": {
+            "title": "Merkez Bankası Politikaları",
+            "description": "Para politikaları ve piyasadaki yansımaları"
+        },
+        "inflation": {
+            "title": "Enflasyon Analizi",
+            "description": "Enflasyon trendlerini ve etkilerini anlamak"
+        },
+        "interestRates": {
+            "title": "Faiz Oranları",
+            "description": "Faiz hareketleri ve piyasa etkisi"
+        },
+        "geopolitics": {
+            "title": "Jeopolitik Olaylar & Piyasalar",
+            "description": "Küresel olaylar ve piyasa yansımaları"
+        },
+        "fiscalPolicy": {
+            "title": "Mali Politikalar & Kamu Harcamaları",
+            "description": "Kamu harcamaları ve vergilendirmenin etkileri"
+        },
+        "debtAndFX": {
+            "title": "Piyasa Borç Düzeyleri & Para Değeri",
+            "description": "Tahvil piyasaları ve borç enstrümanları analizi"
+        },
+        "supplyDemandCommodities": {
+            "title": "Arz & Talep (Emtialar)",
+            "description": "Emtia piyasaları ve fiyat tetikleyicileri"
+        },
+        "safeHavens": {
+            "title": "Güvenli Liman Varlıkları vs Piyasa Çalkantısı",
+            "description": "Klasik güvenli liman yatırımlarının analizi"
+        },
+        "forexCfds": {
+            "title": "Forex & CFD’ler",
+            "description": "Para piyasaları ve türev enstrümanlar"
+        },
+        "cryptoRegulation": {
+            "title": "Kripto Benimsenmesi & Regülasyon",
+            "description": "Kripto piyasası trendleri ve benimsenme"
+        },
+        "blockchainFA": {
+            "title": "Blockchain Temel Analizi",
+            "description": "Blockchain gelişmeleri ve uygulamaları"
+        }
+    },
+    "tournaments": {
+        "title": "Turnuvalar",
+        "labels": {
+            "prize": "Ödül",
+            "participants": "Katılımcı"
+        },
+        "ui": {
+            "join": "Turnuvaya Katıl",
+            "close": "Kapat"
+        },
+        "defaults": {
+            "weekly": {
+                "title": "Haftalık Trading Challenge",
+                "prize": "$5,000",
+                "participants": "1.234",
+                "startDate": "2024-04-25",
+                "endDate": "2024-05-02",
+                "status": "Yakında başlıyor"
+            },
+            "monthly": {
+                "title": "Aylık Master Turnuva",
+                "prize": "$25,000",
+                "participants": "3.456",
+                "startDate": "2024-05-01",
+                "endDate": "2024-05-31",
+                "status": "Kayıt açık"
+            }
+        },
+        "list": []
+    }
+}

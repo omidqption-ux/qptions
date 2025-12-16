@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Squat Mum Stratejisi – Yüksek hacimli tükeniş & reversal sinyalleri | Qption",
+        "description": "Squat mum stratejisini öğrenin: yüksek hacimli, küçük gövdeli ve uzun fitilli mumlarla kilit seviyelerdeki tükenişi erkenden yakalayın. Squat mumları trendlerde nasıl tespit edeceğinizi, hacimle nasıl teyit edeceğinizi ve giriş-çıkış ile risk kontrollerini nasıl ayarlayacağınızı keşfedin.",
+        "keywords": "squat candle, squat mum stratejisi, yüksek hacim dar gövde, piyasa tükenişi, reversal sinyalleri, destek ve direnç, teyit mumları, hacim analizi, fiyat ret fitilleri, risk yönetimi, trading stratejisi, Qption",
+        "ogAlt": "Yüksek hacimli tükenişi ve reversal sinyallerini gösteren squat mum formasyonu"
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading stratejisi"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "startTrading": "Ticarete Başla"
+    },
+    "hero": {
+        "title": "Squat Mum Stratejisi",
+        "subtitle": "Squat Mum Stratejisi, güçlü hacim ama sınırlı fiyat hareketi gösteren mumları tespit etmeye odaklanır — alıcılarla satıcılar arasındaki güç mücadelesine işaret eder. Bu mumlar çoğunlukla sert breakout veya reversal öncesinde görülür; trader’ların dönemeçleri öngörmesine ve zamanlama/teyidi iyileştirmesine yardımcı olur."
+    },
+    "video": {
+        "aria": "Yükseliş trendinde direnç yakınında beliren, yüksek hacimli ve küçük gövdeli mum, tükeniş ve olası reversal sinyali verebilir."
+    },
+    "overview": {
+        "title": "Genel Bakış",
+        "items": {
+            "1": "Squat mum stratejisi, potansiyel reversal veya piyasa tükeniş noktalarını belirler.",
+            "2": "Yüksek hacimli ancak sınırlı fiyat hareketi olan özel bir mumu tespit etmeye dayanır.",
+            "3": "Squat mumlar genellikle trendin sonunda veya destek/dirençlerde oluşur; kararsızlık ve olası dönüşü işaret eder."
+        }
+    },
+    "identify": {
+        "title": "1. Squat Mum Nasıl Tanınır?",
+        "items": {
+            "1": "Küçük bir gövdesi vardır; açılış ve kapanış fiyatları birbirine yakındır.",
+            "2": "Her iki tarafta uzun fitiller barındırarak güçlü fiyat reddini gösterir.",
+            "3": "Alışılagelmişin üzerinde hacim taşır; alıcı ve satıcılar arasında yoğun mücadele olduğunu yansıtır.",
+            "4": "Genellikle önemli destek/direnç seviyelerinin yakınında görülür; olası reversal veya breakout’u haber verir."
+        }
+    },
+    "uptrend": {
+        "title": "2. Yükseliş Trendinde Squat Mum",
+        "items": {
+            "1": "Formasyon: Yükselen trendde, direnç bölgesinde küçük gövdeli ve yüksek hacimli mumla görünür.",
+            "2": "Yorum: Fiyat direnci aşamayınca alıcı tükenişi sinyali verir.",
+            "3": "Teyit: Squat’tan sonraki bearish mum potansiyel reversal’ı doğrular.",
+            "4": "İşlem: Sonraki mum squat mumun altına kapanırsa short pozisyon açılabilir."
+        }
+    },
+    "downtrend": {
+        "title": "3. Düşüş Trendinde Squat Mum",
+        "items": {
+            "1": "Formasyon: Düşen trendde, destek yakınında küçük gövdeli ve yüksek hacimli mumla oluşur.",
+            "2": "Yorum: Fiyat daha aşağı itemeyince satıcı tükenişini gösterir.",
+            "3": "Teyit: Squat sonrası bullish mum, olası reversal’ı doğrular.",
+            "4": "İşlem: Sonraki mum squat mumun üzerine kapanırsa long pozisyon açılabilir."
+        }
+    },
+    "use": {
+        "title": "Squat Mum Stratejisinin Kullanımı",
+        "items": {
+            "1": "Hacim göstergeleriyle birlikte kullanarak sinyalin gücünü teyit edin.",
+            "2": "Önemli destek/direnç yakınındaki squat mumlara odaklanarak reversal doğruluğunu artırın.",
+            "3": "Stop-loss’u squat mumun üst/alt sınırının hemen ötesine koyarak riski yönetin."
+        }
+    },
+    "pros": {
+        "title": "Avantajlar",
+        "items": {
+            "1": "Trend dönmeden önce tükenişi işaret eden erken dönüş sinyali sağlayabilir.",
+            "2": "Yüksek hacim teyidi sinyal güvenilirliğini artırır.",
+            "3": "Hacim, hareketli ortalamalar ve destek/direnç gibi diğer araçlarla uyumlu çalışır."
+        }
+    },
+    "cons": {
+        "title": "Dezavantajlar",
+        "items": {
+            "1": "Teyit gerektirir — sahte sinyallerden kaçınmak için takip mumu beklenmelidir.",
+            "2": "Range piyasalarında etkinliği azalabilir; sahte reversal’lar tetikleyebilir.",
+            "3": "Hacim duyarlılığı: Fiyat hareketi olmadan gelen yüksek hacim yanıltıcı olabilir."
+        }
+    }
+}

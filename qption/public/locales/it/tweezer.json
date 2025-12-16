@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Strategia Tweezers – Pattern Tweezer Top & Bottom | Qption",
+        "description": "Padroneggia la strategia Tweezers: identifica i pattern di inversione Tweezer Top e Tweezer Bottom, conferma i segnali con RSI e supporto/resistenza e gestisci il rischio con stop-loss precisi. Scopri le regole di setup, i metodi di conferma, i pro e i contro.",
+        "keywords": "strategia Tweezers, Tweezer Top, Tweezer Bottom, pattern candlestick di inversione, reversal di trend, supporto e resistenza, inversione rialzista, inversione ribassista, conferma RSI, strategia stop-loss, price action trading, analisi tecnica, strategia di trading, Qption",
+        "ogAlt": "Pattern candlestick Tweezer Top e Bottom con segnali di conferma",
+        "ld": {
+            "headline": "Strategia Tweezers – Pattern di inversione Tweezer Top & Bottom"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Strategia di trading"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "startTrading": "Inizia a fare trading"
+    },
+    "hero": {
+        "title": "Strategia Tweezers",
+        "subtitle": "La strategia Tweezers individua potenziali top e bottom di mercato con un semplice pattern di inversione a due candele. Offre segnali visivi precoci quando il prezzo rifiuta lo stesso livello due volte, una su ciascuna candela."
+    },
+    "video": {
+        "aria": "La strategia Tweezers è un pattern candlestick di inversione usato per segnalare possibili top e bottom di mercato."
+    },
+    "overview": {
+        "title": "Panoramica",
+        "items": {
+            "1": "La strategia Tweezers è un pattern di inversione che evidenzia potenziali top e bottom nella price action.",
+            "2": "Si forma quando due candele consecutive hanno massimi o minimi quasi identici, suggerendo un forte rifiuto su un livello chiave.",
+            "3": "Esistono due varianti: Tweezer Top (inversione ribassista) e Tweezer Bottom (inversione rialzista)."
+        }
+    },
+    "top": {
+        "title": "1. Strategia Tweezer Top",
+        "items": {
+            "1": {
+                "label": "Formazione",
+                "text": "Compare al termine di un trend rialzista con due candele consecutive dai massimi quasi identici."
+            },
+            "2": {
+                "label": "Prima candela",
+                "text": "Tipicamente una candela rialzista che mostra forte momentum prima del rifiuto."
+            },
+            "3": {
+                "label": "Seconda candela",
+                "text": "Una candela ribassista con lo stesso massimo, segnalando resistenza allo stesso livello."
+            },
+            "4": {
+                "label": "Conferma",
+                "text": "L’inversione è confermata quando la candela successiva chiude sotto il minimo del pattern."
+            }
+        }
+    },
+    "bottom": {
+        "title": "2. Strategia Tweezer Bottom",
+        "items": {
+            "1": {
+                "label": "Formazione",
+                "text": "Appare al termine di un trend ribassista quando due candele hanno minimi quasi identici."
+            },
+            "2": {
+                "label": "Prima candela",
+                "text": "Di solito una candela ribassista che prosegue il trend prima dell’intervento dei compratori."
+            },
+            "3": {
+                "label": "Seconda candela",
+                "text": "Una candela rialzista con lo stesso minimo, segnalando supporto e ritorno di domanda."
+            },
+            "4": {
+                "label": "Conferma",
+                "text": "Confermata quando la candela successiva chiude sopra il massimo del pattern."
+            }
+        }
+    },
+    "use": {
+        "title": "Come usare la strategia Tweezers",
+        "items": {
+            "1": "Cerca Tweezer Top o Bottom vicino a livelli chiave di supporto/resistenza per maggiore precisione.",
+            "2": "Combina il pattern con indicatori come RSI per confermare condizioni di ipercomprato/iper venduto.",
+            "3": "Posiziona gli stop-loss appena sopra il Tweezer Top o sotto il Tweezer Bottom per gestire il rischio."
+        }
+    },
+    "pros": {
+        "title": "Vantaggi",
+        "items": {
+            "1": "Pattern semplice, facile da individuare con sole due candele consecutive.",
+            "2": "Segnale affidabile di inversione vicino a zone di supporto/resistenza importanti.",
+            "3": "Si integra bene con strumenti di conferma come RSI, MACD o trendline."
+        }
+    },
+    "cons": {
+        "title": "Svantaggi",
+        "items": {
+            "1": "Richiede conferme per evitare falsi segnali di inversione.",
+            "2": "Meno affidabile in mercati laterali o con volumi bassi.",
+            "3": "Può risultare fuorviante se usato da solo senza altre analisi."
+        }
+    }
+}

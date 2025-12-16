@@ -1,0 +1,89 @@
+{
+    "seo": {
+        "title": "Ekonomik Göstergeler ve Piyasa Tepkileri – GSYİH, TÜFE, İstihdam, ÜFE ve Daha Fazlası | Qption",
+        "description": "GSYİH, TÜFE, istihdam, perakende satışlar, ÜFE ve dış ticaret dengesi gibi temel ekonomik göstergelerin neyi ifade ettiğini ve piyasaların hisse senetleri, tahviller, döviz ve emtialar üzerindeki etkilerini anlayın.",
+        "keywords": "ekonomik göstergeler, GSYİH, TÜFE, ÜFE, istihdam verileri, perakende satışlar, dış ticaret dengesi, piyasa tepkileri, hisse senedi, tahvil, döviz, emtia, para politikası, temel analiz, Qption",
+        "ogTitle": "Ekonomik Göstergeler ve Piyasa Tepkileri – GSYİH, TÜFE, İstihdam, ÜFE ve Daha Fazlası | Qption",
+        "ogDescription": "GSYİH, TÜFE, istihdam ve ÜFE'nin hisse senetleri, tahviller, döviz ve emtialar üzerindeki etkilerini keşfedin — ve yatırımcıların bunları nasıl kullandığını öğrenin.",
+        "url": "https://qption.com/tr/fundamental-analysis/economic-indicators-market-reactions",
+        "image": "https://qption.com/images/og/economic-indicators-market-reactions.jpg"
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "page": {
+        "title": "Ekonomik Göstergeler ve Piyasa Tepkileri"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısınız?",
+        "startTrading": "Hemen Başla"
+    },
+    "sections": {
+        "overview": {
+            "title": "Genel Bakış",
+            "bullets": [
+                "Ekonomik göstergeler, bir ekonominin durumunu yansıtan istatistiksel ölçümlerdir — büyüme, enflasyon, istihdam ve genel eğilimlerin değerlendirilmesine yardımcı olur.",
+                "Bu verilerin açıklanması, hisse senedi, tahvil, döviz ve emtia piyasalarında güçlü fiyat hareketlerine neden olabilir.",
+                "Temel göstergeleri bilmek, yatırımcıların hareketleri önceden tahmin etmesine ve stratejilerini makro eğilimlerle uyumlu hale getirmesine yardımcı olur."
+            ]
+        },
+        "keyIndicators": {
+            "title": "Temel Ekonomik Göstergeler",
+            "items": {
+                "gdp": "Gayri Safi Yurtiçi Hasıla (GSYİH): Toplam ekonomik üretimi ölçer ve ekonomik sağlığın ana göstergesidir. Artış büyümeyi, azalış daralmayı gösterir.",
+                "cpi": "Tüketici Fiyat Endeksi (TÜFE): Mal ve hizmet sepetindeki fiyat değişimlerini izler — enflasyonun ana göstergesidir.",
+                "employment": "İstihdam Verileri: İşsizlik oranı ve tarım dışı istihdam gibi ölçümlerle iş gücü piyasası hakkında bilgi sağlar.",
+                "retailSales": "Perakende Satışlar: Tüketici harcamalarını yansıtır. Artış güveni, azalış zayıflığı gösterir.",
+                "ppi": "Üretici Fiyat Endeksi (ÜFE): Üretici fiyatlarındaki değişimi ölçer ve TÜFE eğilimlerini öngörebilir.",
+                "tradeBalance": "Dış Ticaret Dengesi: İhracat ve ithalat farkı, döviz kurları üzerinde etkili olur — fazla destekler, açık baskı yapar."
+            }
+        },
+        "reactions": {
+            "title": "Ekonomik Göstergelere Piyasa Tepkileri",
+            "stocks": {
+                "title": "1. Hisse Senedi Piyasaları",
+                "bullets": [
+                    "Olumlu veriler (örneğin artan GSYİH veya güçlü istihdam) risk iştahını artırır ve hisse senedi piyasalarını destekler.",
+                    "Yüksek enflasyon veya yavaş büyüme, sıkı para politikası beklentisiyle hisse senetlerini baskılayabilir."
+                ]
+            },
+            "bonds": {
+                "title": "2. Tahvil Piyasaları",
+                "bullets": [
+                    "Güçlü veriler, faiz artışı beklentileriyle getirileri yükseltir (fiyatlar düşer).",
+                    "Zayıf veriler, güvenli liman talebiyle getirileri düşürür (fiyatlar yükselir)."
+                ]
+            },
+            "fx": {
+                "title": "3. Döviz Piyasaları (Forex)",
+                "bullets": [
+                    "Güçlü göstergeler, sermaye girişlerini artırarak yerel para birimini destekler.",
+                    "Zayıf veriler, düşük faiz beklentileriyle para biriminin cazibesini azaltır."
+                ]
+            },
+            "cmd": {
+                "title": "4. Emtia Piyasaları",
+                "bullets": [
+                    "Büyümenin güçlenmesi, petrol ve metaller gibi emtialara olan talebi artırır.",
+                    "Zayıf veriler, talebi düşürerek fiyatlarda gerilemeye neden olur."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Ekonomik Göstergeleri Takip Etmenin Faydaları",
+            "bullets": [
+                "Piyasa Eğilimlerini Tahmin Etme: Makro koşulları kullanarak fiyat hareketlerini önceden görme.",
+                "Yatırım Kararlarını Destekleme: Veriye dayalı analizle portföy ayarlamalarını güçlendirir.",
+                "Ekonomik Sağlığı Ölçme: Genel ekonomik görünümü değerlendirerek risk yönetimini kolaylaştırır."
+            ]
+        },
+        "limitations": {
+            "title": "Ekonomik Göstergelere Güvenmenin Sınırlamaları",
+            "bullets": [
+                "Gecikmeli Doğa: Bazı göstergeler (örneğin GSYİH) geçmişi yansıtır, mevcut durumu tam yansıtmaz.",
+                "Volatilite Riski: Önemli veri açıklamaları keskin, öngörülemez fiyat hareketlerine neden olabilir.",
+                "Yorumlama Zorluğu: Karışık sinyaller sık görülür; deneyim ve destekleyici veriler gerekir."
+            ]
+        }
+    }
+}

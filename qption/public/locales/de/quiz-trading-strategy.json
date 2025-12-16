@@ -1,0 +1,345 @@
+{
+    "seo": {
+        "title": "Technisches Strategie‑Quiz – Teste dein Trading-Wissen | Qption",
+        "description": "Fordere dich mit 10 zufälligen Fragen zu Strategien wie V-Bounce, Breakouts, Reversals, Alligator, Bollinger Bändern, Moving Averages, Three Methods, Tweezers, Squat-Kerzen und Engulfing-Mustern heraus.",
+        "keywords": "Trading-Quiz, Technical-Analysis-Quiz, V-Bounce, Breakout, Reversal, Alligator, Bollinger Bands, Moving Average, Three Methods, Tweezers, Squat Candlestick, Engulfing, Qption",
+        "ogTitle": "Technisches Strategie-Quiz – Teste dein Trading-Wissen",
+        "ogDescription": "In jeder Runde 10 zufällige Fragen. Lerne durch Praxis und schärfe deinen Strategie-Vorsprung.",
+        "url": "https://qption.com/tools/technical-quiz",
+        "image": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Technisches Strategie-Quiz – Teste dein Trading-Wissen",
+        "twitterDescription": "Von Breakouts bis Reversals – beweise deinen Edge mit unserem interaktiven Quiz.",
+        "twitterImage": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "canonical": "https://qption.com/tools/technical-quiz"
+    },
+    "page": {
+        "title": "Technical Strategy Quiz",
+        "subtitle": "Teste dein Verständnis von Chartmustern, Indikatoren und Handelsplänen. Jede Session zieht 10 zufällige Fragen aus unserer Bibliothek und mischt die Antworten, damit du fokussiert bleibst."
+    },
+    "quiz": {
+        "header": "Quiz zu Handelsstrategien",
+        "progress": "Frage {{current}} von {{total}}",
+        "correct": "Richtig ✅",
+        "incorrect": "Nicht ganz ⚠️",
+        "selectHint": "Wähle eine Option und sende deine Antwort.",
+        "learnMore": "Mehr erfahren ↗"
+    },
+    "ui": {
+        "previous": "Zurück",
+        "submit": "Abschicken",
+        "next": "Weiter",
+        "finish": "Beenden",
+        "newRandom": "Neue zufällige 10",
+        "loading": "Quiz wird geladen …"
+    },
+    "results": {
+        "score": "Score: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Großartig! Deine Strategiekenntnis ist messerscharf.",
+            "good": "Starke Leistung! Weiter üben und Level erhöhen.",
+            "retry": "Guter Start – Lektionen prüfen und erneut versuchen."
+        }
+    },
+    "pool": [
+        {
+            "q": "In einem V-Bounce-Setup konzentrieren sich Trader auf Kursreaktionen an:",
+            "options": [
+                "zufälligen Preisniveaus",
+                "vordefinierten Unterstützungs- oder Widerstandszonen",
+                "nur Kreuzungen gleitender Durchschnitte",
+                "ausschließlich Fibonacci-Zeitprojektionen"
+            ],
+            "correct": "vordefinierten Unterstützungs- oder Widerstandszonen",
+            "explain": "V-Bounce sucht nach scharfen Rebounds an Schlüssel-S/R-Bereichen, um schnelle Einstiege zu timen.",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "Nach einem Breakout im V-Bounce-Plan wird der erste Pullback zum gebrochenen Level oft genutzt, um:",
+            "options": [
+                "die Bewegung sofort zu shorten",
+                "Stärke zu bestätigen und nach Fortsetzungs-Einstiegen zu suchen",
+                "den Markt zu ignorieren",
+                "auf langfristiges Investieren umzusteigen"
+            ],
+            "correct": "Stärke zu bestätigen und nach Fortsetzungs-Einstiegen zu suchen",
+            "explain": "Retests („Boomerangs“) bestätigen Breakouts und bieten sekundäre Einstiege.",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "Eine „Bounce-vs.-Break“-Entscheidung an einem Level hängt primär davon ab:",
+            "options": [
+                "ob das Level hält oder überzeugend verletzt wird",
+                "welcher Wochentag ist",
+                "nur von der Spreadgröße",
+                "nur vom Kontotyp"
+            ],
+            "correct": "ob das Level hält oder überzeugend verletzt wird",
+            "explain": "Preis respektiert das Level (Bounce) oder durchbricht es kraftvoll (Breakout).",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "Die Martingale-Idee im Trading bedeutet am ehesten:",
+            "options": [
+                "Positionsgröße nach Verlusten verringern",
+                "Positionsgröße nach Verlusten verdoppeln, um Verluste aufzuholen",
+                "Positionsgröße nie ändern",
+                "nur Gewinner aufstocken"
+            ],
+            "correct": "Positionsgröße nach Verlusten verdoppeln, um Verluste aufzuholen",
+            "explain": "Klassisches Martingale erhöht nach Gegenläufern die Größe, um Break-even schneller zu erreichen – hohes Risiko.",
+            "source": "https://qption.com/trading-strategy/martingale",
+            "topic": "Martingale"
+        },
+        {
+            "q": "Ein zentrales Risiko von Martingale ist:",
+            "options": [
+                "sehr langsame Drawdowns",
+                "Kapital kann bei längeren Gegenbewegungen schnell aufgebraucht sein",
+                "garantierte Gewinne nach wenigen Schritten",
+                "nicht auf kurzen Timeframes einsetzbar"
+            ],
+            "correct": "Kapital kann bei längeren Gegenbewegungen schnell aufgebraucht sein",
+            "explain": "Fortlaufendes Verdoppeln steigert das Exposure rasant – Limits und Risikokontrolle sind Pflicht.",
+            "source": "https://qption.com/trading-strategy/martingale",
+            "topic": "Martingale"
+        },
+        {
+            "q": "Ein klassisches Reversal-Signal ist:",
+            "options": [
+                "Preis markiert neue Hochs mit steigendem Momentum",
+                "bullische oder bärische Divergenzen gegenüber Indikatoren wie RSI",
+                "Preis berührt einmal einen gleitenden Durchschnitt",
+                "ein einzelner Doji irgendwo im Chart"
+            ],
+            "correct": "bullische oder bärische Divergenzen gegenüber Indikatoren wie RSI",
+            "explain": "Divergenzen deuten auf nachlassendes Momentum an neuen Extremen hin – Bestätigung einholen.",
+            "source": "https://qption.com/trading-strategy/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Reversal-Trader suchen Bestätigung oft durch:",
+            "options": [
+                "Strukturbrüche (z. B. Swing-Bruch), Volumenhinweise oder Retests",
+                "Ignorieren höherer Zeitebenen",
+                "zufällige Einstiege",
+                "fixe Pip-Distanzen"
+            ],
+            "correct": "Strukturbrüche (z. B. Swing-Bruch), Volumenhinweise oder Retests",
+            "explain": "Strukturwechsel und Filter reduzieren Fehlsignale bei Umkehrversuchen.",
+            "source": "https://qption.com/trading-strategy/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Breakouts sind am glaubwürdigsten, wenn sie begleitet werden von:",
+            "options": [
+                "fallendem Volumen",
+                "steigendem Volumen/Volatilität und klaren Closes über den Levels",
+                "unveränderter Volatilität",
+                "nur einem Docht durch das Level"
+            ],
+            "correct": "steigendem Volumen/Volatilität und klaren Closes über den Levels",
+            "explain": "Energie hinter der Bewegung stützt die Fortsetzung; Retest-Verhalten beobachten.",
+            "source": "https://qption.com/trading-strategy/breakout",
+            "topic": "Breakout"
+        },
+        {
+            "q": "Eine typische Breakout-Taktik nach dem Durchbruch eines Levels:",
+            "options": [
+                "Einstieg beim Retest des gebrochenen Levels (S/R-Flip)",
+                "Warten, bis der Preis zurück in die Range kehrt",
+                "jede Bewegung gegen den Trend handeln",
+                "die Plattform schließen"
+            ],
+            "correct": "Einstieg beim Retest des gebrochenen Levels (S/R-Flip)",
+            "explain": "Retests erlauben günstigeres Chance-Risiko-Verhältnis mit klarer Invalidation.",
+            "source": "https://qption.com/trading-strategy/breakout",
+            "topic": "Breakout"
+        },
+        {
+            "q": "Der Alligator-Indikator besteht aus:",
+            "options": [
+                "zwei EMAs",
+                "drei geglätteten Durchschnitten: Jaw, Teeth, Lips",
+                "RSI + MACD",
+                "reinen Preiskanälen"
+            ],
+            "correct": "drei geglätteten Durchschnitten: Jaw, Teeth, Lips",
+            "explain": "Fächern die Linien auf und richten sich aus, „ist der Alligator wach“ und trendet.",
+            "source": "https://qption.com/trading-strategy/alligator",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Wenn die Alligator-Linien ineinander verschlungen sind („schlafend“), deutet das auf:",
+            "options": [
+                "einen laufenden starken Trend",
+                "Konsolidierung/Range – auf das Aufwachen warten",
+                "eine garantierte Umkehr",
+                "einen Momentum-Blow-off"
+            ],
+            "correct": "Konsolidierung/Range – auf das Aufwachen warten",
+            "explain": "Verknotete Linien zeigen geringe Richtungssicherheit – auf Ausrichtung warten.",
+            "source": "https://qption.com/trading-strategy/alligator",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Ein Bollinger-Band-„Squeeze“ impliziert meist:",
+            "options": [
+                "niedrige Volatilität, die oft einer Expansion vorausgeht",
+                "einen sofortigen Crash",
+                "fundamentale Fehlbewertung",
+                "keine verwertbaren Infos"
+            ],
+            "correct": "niedrige Volatilität, die oft einer Expansion vorausgeht",
+            "explain": "Bänder ziehen sich in ruhigen Phasen zusammen; Ausbrüche nach Squeezes können laufen.",
+            "source": "https://qption.com/trading-strategy/bollinger",
+            "topic": "Bollinger"
+        },
+        {
+            "q": "Schlusskurse außerhalb eines Bollinger Bandes können anzeigen:",
+            "options": [
+                "eine garantierte Umkehr",
+                "Momentum-/Volatilitätsausweitung – Kontext nötig",
+                "nur verrauschte Daten",
+                "ausschließlich ein Mean-Reversion-Signal"
+            ],
+            "correct": "Momentum-/Volatilitätsausweitung – Kontext nötig",
+            "explain": "Außenberührungen können starkes Momentum zeigen; mit Trend/Volumen/Struktur bestätigen.",
+            "source": "https://qption.com/trading-strategy/bollinger",
+            "topic": "Bollinger"
+        },
+        {
+            "q": "EMA vs. SMA: Welcher reagiert schneller auf aktuelle Preise?",
+            "options": [
+                "SMA",
+                "EMA",
+                "Beide gleich",
+                "keiner reagiert"
+            ],
+            "correct": "EMA",
+            "explain": "EMAs gewichten jüngste Preise stärker und drehen schneller als SMAs.",
+            "source": "https://qption.com/trading-strategy/moving-average",
+            "topic": "Moving Average"
+        },
+        {
+            "q": "Ein einfaches MA-Crossover-Kaufsignal ist typischerweise:",
+            "options": [
+                "langer MA kreuzt über kurzen MA",
+                "kurzer MA kreuzt über langen MA",
+                "keine Kreuzungen erlaubt",
+                "nur Preis/MA-Berührungen"
+            ],
+            "correct": "kurzer MA kreuzt über langen MA",
+            "explain": "Kurz-über-lang gilt als bullisches Momentum-Signal (nachlaufend – filtern!).",
+            "source": "https://qption.com/trading-strategy/moving-average",
+            "topic": "Moving Average"
+        },
+        {
+            "q": "Bei den Rising/Falling Three Methods sollten die kleinen Mittlerkerzen:",
+            "options": [
+                "außerhalb der ersten großen Kerze schließen",
+                "innerhalb der Range der ersten langen Kerze bleiben",
+                "alle Dojis sein",
+                "größer als die erste Kerze sein"
+            ],
+            "correct": "innerhalb der Range der ersten langen Kerze bleiben",
+            "explain": "Drei kleine Gegentrend-Kerzen innerhalb der ersten Kerze, danach Fortsetzung.",
+            "source": "https://qption.com/trading-strategy/threeMethods",
+            "topic": "Three Methods"
+        },
+        {
+            "q": "Three Methods ist typischerweise ein:",
+            "options": [
+                "Umkehrsignal",
+                "Fortsetzungsmuster",
+                "Volumenindikator",
+                "Fibonacci-Tool"
+            ],
+            "correct": "Fortsetzungsmuster",
+            "explain": "Der Trend pausiert kurz, bevor er in dieselbe Richtung weiterläuft.",
+            "source": "https://qption.com/trading-strategy/threeMethods",
+            "topic": "Three Methods"
+        },
+        {
+            "q": "Ein Tweezer Top zeigt oft:",
+            "options": [
+                "zwei Hochs auf ähnlichem Niveau nach einer Aufwärtsbewegung",
+                "zwei Tiefs auf gleichem Niveau nach einer Abwärtsbewegung",
+                "nur einen breiten Marubozu",
+                "ein Gap-Close"
+            ],
+            "correct": "zwei Hochs auf ähnlichem Niveau nach einer Aufwärtsbewegung",
+            "explain": "Gleiche/ähnliche Hochs weisen auf Widerstand und mögliche Umkehr hin.",
+            "source": "https://qption.com/trading-strategy/tweezersStrategy",
+            "topic": "Tweezers"
+        },
+        {
+            "q": "Ein Tweezer Bottom signalisiert häufig:",
+            "options": [
+                "fortgesetzten Abverkauf",
+                "potenzielle bullische Umkehr mit gleichen/ähnlichen Tiefs",
+                "nur Exhaustion-Gaps",
+                "nichts Relevantes"
+            ],
+            "correct": "potenzielle bullische Umkehr mit gleichen/ähnlichen Tiefs",
+            "explain": "Gleiche Tiefs zeigen, dass Nachfrage im selben Bereich auftritt.",
+            "source": "https://qption.com/trading-strategy/tweezersStrategy",
+            "topic": "Tweezers"
+        },
+        {
+            "q": "Eine „Squat“-Kerze kombiniert typischerweise:",
+            "options": [
+                "hohes Volumen und enge Spanne",
+                "niedriges Volumen und große Spanne",
+                "keinen Docht",
+                "nur lange obere Dochte"
+            ],
+            "correct": "hohes Volumen und enge Spanne",
+            "explain": "Sie deutet auf Kräfteverhältnis/Aufnahme hin; Break oder Umkehr beobachten.",
+            "source": "https://qption.com/trading-strategy/squat-candle-stick",
+            "topic": "Squat"
+        },
+        {
+            "q": "Trader nutzen Squat-Kerzen, um folgendes zu antizipieren:",
+            "options": [
+                "nur ruhige Fortsetzung",
+                "potenziellen Breakout oder eine Umkehr nach aufgebautem Druck",
+                "ausschließlich Trendfortsetzung",
+                "nur Range-Erweiterung"
+            ],
+            "correct": "potenziellen Breakout oder eine Umkehr nach aufgebautem Druck",
+            "explain": "Energie, die sich in einer engen Kerze staut, kann sich anschließend gerichtet entladen.",
+            "source": "https://qption.com/trading-strategy/squat-candle-stick",
+            "topic": "Squat"
+        },
+        {
+            "q": "Ein Bullish-Engulfing-Muster entsteht, wenn:",
+            "options": [
+                "eine kleine grüne Kerze von einer noch kleineren grünen Kerze gefolgt wird",
+                "ein größerer grüner Körper den vorherigen roten Körper nach einem Rückgang komplett überdeckt",
+                "zwei gleiche Hochs entstehen",
+                "ein Doji am Top erscheint"
+            ],
+            "correct": "ein größerer grüner Körper den vorherigen roten Körper nach einem Rückgang komplett überdeckt",
+            "explain": "Der Engulfing-Körper deutet auf einen rapiden Kontrollwechsel hin – Konfluenz suchen.",
+            "source": "https://qption.com/trading-strategy/engulfing-candlestick",
+            "topic": "Engulfing"
+        },
+        {
+            "q": "Für ein Bearish Engulfing gilt:",
+            "options": [
+                "ein größerer roter Körper deckt den vorherigen grünen Körper nach einem Anstieg komplett ab",
+                "zwei gleiche Tiefs",
+                "nur ein langer unterer Docht",
+                "ausschließlich Inside-Bar"
+            ],
+            "correct": "ein größerer roter Körper deckt den vorherigen grünen Körper nach einem Anstieg komplett ab",
+            "explain": "Signalisiert mögliches Übergehen der Kontrolle zu Verkäufern – mit Struktur/Volumen bestätigen.",
+            "source": "https://qption.com/trading-strategy/engulfing-candlestick",
+            "topic": "Engulfing"
+        }
+    ]
+}

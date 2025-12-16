@@ -1,0 +1,109 @@
+{
+    "seo": {
+        "title": "Blockchain Teknolojisi ve Kripto Temel Analizi | Qption",
+        "description": "Merkeziyetsizlik, konsensüs, tokenomik ve zincir üzeri metriklerin kripto varlıkların içsel değerini nasıl belirlediğini öğrenin. Ağları, ekipleri ve benimsemeyi değerlendirmek için pratik bir rehber.",
+        "url": "https://qption.com/fundamental-analysis/blockchain-fundamental-analysis",
+        "keywords": "blockchain temel analiz, kripto temel analizi, on-chain metrikler, tokenomik, hash oranı, aktif adresler, PoW, PoS, geliştirici aktivitesi, kripto değerleme, Qption"
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "page": {
+        "title": "Blockchain Teknolojisi ve Kripto Temel Analizi"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısınız?",
+        "start": "Ticarete Başla"
+    },
+    "sections": {
+        "overview": {
+            "title": "Genel Bakış",
+            "items": [
+                "Blockchain, işlemlerin güvenli ve değiştirilemez bir şekilde kaydedilmesini sağlayan merkeziyetsiz bir defter sistemidir.",
+                "Kripto temel analizi; blockchain metrikleri, proje uygunluğu, tokenomik ve geliştirici etkinliğini inceleyerek içsel değeri tahmin eder.",
+                "Bu yaklaşım kısa vadeli fiyat hareketlerinden ziyade uzun vadeli benimseme ve sürdürülebilirliğe odaklanır."
+            ]
+        },
+        "core": {
+            "title": "Blockchain Teknolojisinin Temel Bileşenleri",
+            "items": [
+                {
+                    "label": "Merkeziyetsizlik:",
+                    "text": "Veriler birçok düğümde kopyalanarak tek hata noktasını ve sansür riskini azaltır."
+                },
+                {
+                    "label": "Değişmezlik:",
+                    "text": "Onaylanan kayıtlar neredeyse değiştirilemez, bu da güveni artırır."
+                },
+                {
+                    "label": "Şeffaflık:",
+                    "text": "Herkes işlemleri doğrulayabilir ve fon akışını takip edebilir."
+                },
+                {
+                    "label": "Konsensüs Mekanizmaları:",
+                    "text": "PoW ve PoS gibi protokoller işlemlerin doğrulanmasını ve ağın güvenliğini sağlar."
+                }
+            ]
+        },
+        "metrics": {
+            "title": "Kripto Temel Analizinin Ana Metrikleri",
+            "onchain": {
+                "title": "1. Zincir Üzeri Metrikler",
+                "items": [
+                    "İşlem Hacmi: Daha yüksek kullanım, artan talep ve faydayı gösterir.",
+                    "Aktif Adresler: Kullanıcı katılımı ve ağ etkinliğini yansıtır.",
+                    "Hash Oranı / Doğrulayıcı Sayısı: Güvenlik ve ekonomik bağlılığın göstergesidir."
+                ]
+            },
+            "tokenomics": {
+                "title": "2. Tokenomik",
+                "items": [
+                    "Arz Mekanizması: Toplam/dolaşımdaki arz, ihraç oranı, yakımlar ve kilit açılma planları.",
+                    "Token Kullanımı: Yönetişim, staking, ödemeler veya işlem ücreti indirimleri.",
+                    "Dağıtım: Ekip, yatırımcılar ve topluluk arasında dağılım."
+                ]
+            },
+            "team": {
+                "title": "3. Proje Ekibi ve Geliştirici Aktivitesi",
+                "items": [
+                    "Geliştirici Aktivitesi: Kod gönderimleri ve sürümler sürekli ilerlemeyi gösterir.",
+                    "Çekirdek Ekip ve Danışmanlar: Geçmiş deneyim ve güvenilirlik.",
+                    "Ortaklıklar: Gerçek dünya entegrasyonları benimsemeyi artırır."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Blockchain’in Temel Analize Etkisi",
+            "security": {
+                "title": "1. Ağ Güvenliği ve Güvenilirlik",
+                "items": [
+                    "Güçlü güvenlik ve merkeziyetsizlik kullanıcı güvenini artırır.",
+                    "Sağlam konsensüs mekanizmaları kesintileri ve saldırı risklerini azaltır."
+                ]
+            },
+            "adoption": {
+                "title": "2. Benimseme ve Ekosistem Büyümesi",
+                "items": [
+                    "Aktif ekosistemler ve geliştirici araçları büyümeyi hızlandırır.",
+                    "Gerçek kullanım durumları sürdürülebilir ağ etkilerini destekler."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Kripto Temel Analizinin Faydaları",
+            "items": [
+                "Uzun vadeli yatırım içgörüsü.",
+                "Değer fırsatlarını belirler.",
+                "Risk yönetimi için sağlam temel sağlar."
+            ]
+        },
+        "limits": {
+            "title": "Kripto Temel Analizinin Sınırlamaları",
+            "items": [
+                "Kısa vadeli piyasa oynaklığı.",
+                "Yeni varlıklar için sınırlı geçmiş veri.",
+                "Spekülasyon ve duygu döngüleri etkili olabilir."
+            ]
+        }
+    }
+}

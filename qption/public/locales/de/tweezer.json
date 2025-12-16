@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Tweezers-Trading-Strategie – Tweezer-Top & -Bottom Umkehrmuster | Qption",
+        "description": "Beherrsche die Tweezers-Strategie: Tweezer-Top- und -Bottom-Candlestick-Umkehrmuster erkennen, Signale mit RSI sowie Unterstützung/Widerstand bestätigen und das Risiko mit präzisen Stopps steuern. Lerne Setups, Bestätigungen, Vor- und Nachteile.",
+        "keywords": "Tweezers-Strategie, Tweezer Top, Tweezer Bottom, Candlestick-Umkehrmuster, Trendwende, Unterstützung und Widerstand, bullische Umkehr, bärische Umkehr, RSI-Bestätigung, Stop-Loss-Strategie, Price Action Trading, technische Analyse, Trading-Strategie, Qption",
+        "ogAlt": "Tweezers-Top- und -Bottom-Candlestick-Umkehrmuster mit Bestätigungssignalen",
+        "ld": {
+            "headline": "Tweezers-Trading-Strategie – Tweezer Top & Bottom"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Handelsstrategie"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln?",
+        "startTrading": "Jetzt handeln"
+    },
+    "hero": {
+        "title": "Tweezers-Strategie",
+        "subtitle": "Die Tweezers-Strategie identifiziert potenzielle Tops und Bottoms anhand eines einfachen Zwei-Kerzen-Umkehrmusters. Sie liefert frühe visuelle Hinweise auf Trendwechsel, wenn derselbe Level zweimal zurückgewiesen wird – einmal auf jeder Kerze."
+    },
+    "video": {
+        "aria": "Die Tweezers-Strategie ist ein Candlestick-Umkehrmuster, das mögliche Markt-Tops und -Bottoms signalisiert."
+    },
+    "overview": {
+        "title": "Überblick",
+        "items": {
+            "1": "Die Tweezers-Strategie ist ein Candlestick-Umkehrmuster und hebt potenzielle Tops bzw. Bottoms hervor.",
+            "2": "Sie entsteht, wenn zwei aufeinanderfolgende Kerzen fast identische Hochs oder Tiefs bilden – ein Hinweis auf starke Ablehnung eines Levels.",
+            "3": "Es gibt zwei Varianten: Tweezer Top (bärische Umkehr) und Tweezer Bottom (bullische Umkehr)."
+        }
+    },
+    "top": {
+        "title": "1. Tweezer-Top-Strategie",
+        "items": {
+            "1": {
+                "label": "Formation",
+                "text": "Entsteht am Ende eines Aufwärtstrends, wenn zwei Kerzen nahezu identische Hochs aufweisen."
+            },
+            "2": {
+                "label": "Erste Kerze",
+                "text": "Meist bullische Kerze mit starkem Momentum, bevor der Preis abgewiesen wird."
+            },
+            "3": {
+                "label": "Zweite Kerze",
+                "text": "Bärische Kerze mit gleichem Hoch, die denselben Widerstand bestätigt."
+            },
+            "4": {
+                "label": "Bestätigung",
+                "text": "Die Umkehr gilt als bestätigt, wenn die Folgkerze unter dem Tweezers-Tief schließt."
+            }
+        }
+    },
+    "bottom": {
+        "title": "2. Tweezer-Bottom-Strategie",
+        "items": {
+            "1": {
+                "label": "Formation",
+                "text": "Taucht am Ende eines Abwärtstrends auf, wenn zwei Kerzen fast identische Tiefs haben."
+            },
+            "2": {
+                "label": "Erste Kerze",
+                "text": "In der Regel eine bärische Kerze, die den Trend fortsetzt, bevor Käufer auftreten."
+            },
+            "3": {
+                "label": "Zweite Kerze",
+                "text": "Bullische Kerze mit identischem Tief – signalisiert Unterstützung und Kaufstärke."
+            },
+            "4": {
+                "label": "Bestätigung",
+                "text": "Bestätigt, wenn die nächste Kerze oberhalb des Tweezers-Hochs schließt."
+            }
+        }
+    },
+    "use": {
+        "title": "Tweezers-Strategie nutzen",
+        "items": {
+            "1": "Tweezers möglichst nahe wichtiger Unterstützungen/Widerstände handeln, um die Trefferquote zu erhöhen.",
+            "2": "Mit Indikatoren wie RSI kombinieren, um überkaufte/überverkaufte Zonen zu bestätigen.",
+            "3": "Stop-Loss knapp über dem Tweezer Top bzw. unter dem Tweezer Bottom platzieren, um das Risiko zu steuern."
+        }
+    },
+    "pros": {
+        "title": "Vorteile",
+        "items": {
+            "1": "Einfaches Muster – nur zwei unmittelbar aufeinanderfolgende Kerzen nötig.",
+            "2": "Zuverlässiges Umkehrsignal nahe bedeutender S/R-Zonen.",
+            "3": "Gut kombinierbar mit RSI, MACD oder Trendlinien."
+        }
+    },
+    "cons": {
+        "title": "Nachteile",
+        "items": {
+            "1": "Benötigt Bestätigung, um Fehlsignale zu vermeiden.",
+            "2": "In Seitwärts- oder Niedrigvolumenmärkten weniger zuverlässig.",
+            "3": "Nur mit zusätzlicher Analyse nutzen, da es allein irreführend sein kann."
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "seo": {
+        "title": "Stratégie des Trois Méthodes – Techniques de Tendance, de Range et de Renversement | Qption",
+        "description": "Découvrez la stratégie des Trois Méthodes qui combine les approches de suivi de tendance, de trading en range et de renversement. Apprenez à identifier les conditions de marché, filtrer les signaux et gérer le risque à l’aide d’outils tels que les moyennes mobiles, les bandes de Bollinger, le RSI, le MACD et les niveaux de Fibonacci.",
+        "keywords": "stratégie des trois méthodes, suivi de tendance, trading en range, retour à la moyenne, trading de renversement, ADX, MACD, RSI, bandes de Bollinger, Fibonacci, divergence, moyennes mobiles, gestion du risque, Qption",
+        "ogAlt": "Stratégie des Trois Méthodes combinant les configurations de tendance, de range et de renversement",
+        "ld": {
+            "headline": "Stratégie des Trois Méthodes – Techniques de Tendance, de Range et de Renversement"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Stratégie de trading"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "startTrading": "Commencer à trader"
+    },
+    "hero": {
+        "title": "Stratégie des Trois Méthodes",
+        "subtitle": "Maîtrisez les techniques de trading de tendance, de range et de renversement — identifiez les conditions de marché, filtrez le bruit et capturez des configurations de trading à haute probabilité avec précision et confiance."
+    },
+    "trend": {
+        "title": "1. Stratégie de Suivi de Tendance",
+        "items": {
+            "1": "Objectif : Capturer des profits en tradant dans le sens de la tendance.",
+            "2": "Outils : Moyennes mobiles, MACD, ADX.",
+            "3": "Signal d’achat : La moyenne mobile courte croise au-dessus de la moyenne longue (croisement haussier).",
+            "4": "Signal de vente : La moyenne mobile courte croise en dessous de la moyenne longue (croisement baissier).",
+            "5": "Exemple : Moyennes mobiles à 50 et 200 jours — configurations Golden Cross et Death Cross."
+        }
+    },
+    "range": {
+        "title": "2. Stratégie de Marché en Range (Retour à la Moyenne)",
+        "items": {
+            "1": "Objectif : Profiter des marchés latéraux en achetant près du support et en vendant près de la résistance.",
+            "2": "Outils : Bandes de Bollinger, RSI, niveaux de support et de résistance.",
+            "3": "Signal d’achat : Prix proche du support ou de la bande inférieure de Bollinger.",
+            "4": "Signal de vente : Prix proche de la résistance ou de la bande supérieure de Bollinger.",
+            "5": "Exemple : Placer un stop-loss juste au-delà des limites du range pour éviter les pertes dues aux cassures."
+        }
+    },
+    "reversal": {
+        "title": "3. Stratégie de Renversement",
+        "items": {
+            "1": "Objectif : Capturer des profits issus des renversements majeurs de tendance.",
+            "2": "Outils : Figures de chandeliers, indicateurs de divergence, niveaux de Fibonacci.",
+            "3": "Signal d’achat : Figure de renversement haussière (ex. marteau) avec divergence haussière.",
+            "4": "Signal de vente : Figure de renversement baissière (ex. étoile filante) avec divergence baissière.",
+            "5": "Exemple : Placer un stop-loss sous le creux de la figure haussière ou au-dessus du sommet de la figure baissière."
+        }
+    },
+    "combine": {
+        "title": "Combiner les Trois Méthodes",
+        "items": {
+            "1": "Identifier les Conditions de Marché : Utiliser l’ADX et les Bandes de Bollinger pour déterminer si le marché est en tendance ou en range.",
+            "2": "Filtrer les Signaux : Confirmer les trades à l’aide d’indicateurs secondaires pour améliorer la précision.",
+            "3": "Gestion du Risque : Ajuster les stop-loss et la taille des positions selon la volatilité et les conditions de marché."
+        }
+    },
+    "pros": {
+        "title": "Avantages",
+        "items": {
+            "1": "Polyvalente : Fonctionne dans des conditions de marché en tendance, en range ou en renversement.",
+            "2": "Précision Améliorée : L’utilisation de plusieurs méthodes réduit les faux signaux.",
+            "3": "Complète : Équilibre les approches de suivi de tendance, de range et de renversement pour un trading plus global."
+        }
+    },
+    "cons": {
+        "title": "Inconvénients",
+        "items": {
+            "1": "Complexité : Nécessite la compréhension de plusieurs techniques et indicateurs de trading.",
+            "2": "Surveillance Intensive : Exige une analyse active et des ajustements réguliers.",
+            "3": "Risque de Sur-trading : Peut mener à des opérations excessives sans discipline stricte."
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "title": "Reversal Trading Stratejisi – Sinyaller, teyit ve risk yönetimi | Qption",
+        "description": "Reversal stratejisini öğrenin: trend tükenişini yakalayın, destek/direnç ve RSI/MACD/diverjans ile mum formasyonlarını kullanın, girişleri teyit edin ve net stop/ hedeflerle riski yönetin. Adım adım akış ve örnek içerir.",
+        "url": "https://qption.com/trading-strategy/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "imageAlt": "Reversal trading stratejisi",
+        "keywords": "reversal stratejisi, trend dönüşü, trend tükenişi, destek ve direnç, diverjans, RSI, MACD, mum formasyonları, hammer, engulfing, risk yönetimi, teyit sinyalleri, giriş ve çıkış, trading stratejisi, Qption",
+        "jsonLd": {
+            "headline": "Reversal Trading Stratejisi – Sinyaller, Teyit & Risk Yönetimi",
+            "about": [
+                "Reversal Trading",
+                "Trend Tükenişi",
+                "Destek ve Direnç",
+                "Diverjans",
+                "RSI",
+                "MACD",
+                "Mum Formasyonları",
+                "Risk Yönetimi"
+            ],
+            "articleSection": [
+                "Reversal Stratejisi",
+                "Reversal Stratejisinin Temel Kavramları",
+                "Reversal Stratejisini Uygulamak",
+                "Reversal Stratejisi Örneği"
+            ]
+        }
+    },
+    "breadcrumb": "Trading stratejisi",
+    "title": "Reversal Stratejisi",
+    "cta": {
+        "prompt": "Ticarete hazır mısın?",
+        "button": "Ticarete Başla"
+    },
+    "video": {
+        "aria": "Reversal, mevcut trend zayıfladığında ve yön değiştirme ihtimali belirdiğinde oluşur. Tükeniş, diverjans ve kilit mum teyitlerini izleyin."
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Reversal Stratejisinin Temel Kavramları",
+            "items": {
+                "exhaustion": {
+                    "title": "Trend Tükenişi",
+                    "desc": "Momentum yavaşladığında ve yükselişte daha düşük tepeler (veya düşüşte daha yüksek dipler) belirdiğinde reversal oluşabilir."
+                },
+                "sr": {
+                    "title": "Destek ve Direnç Seviyeleri",
+                    "desc": "Önemli destek/dirençlerdeki fiyat tepkileri çoğu zaman dönüşleri önceden haber verir. Red fitilleri, başarısız kırılışlar veya seviyenin içine kapanışları takip edin."
+                },
+                "indicators": {
+                    "title": "Teknik Göstergeler",
+                    "desc": "RSI, MACD veya Stokastik gibi göstergeler aşırı alım/aşırı satım ve momentum değişimini göstererek reversal fikrini destekler."
+                },
+                "candles": {
+                    "title": "Mum Formasyonları",
+                    "desc": "Hammer, doji, engulfing ve pin bar gibi yapılar kilit seviyelerde dönüş sinyali verebilir—yapıyla teyit edin."
+                },
+                "divergence": {
+                    "title": "Diverjans",
+                    "desc": "Bullish diverjans (fiyat düşen dipler, gösterge yükselen dipler) veya bearish diverjans (fiyat yükselen tepeler, gösterge düşen tepeler) reversal ihtimalini güçlendirir."
+                }
+            }
+        },
+        "applying": {
+            "title": "Reversal Stratejisini Uygulamak",
+            "items": {
+                "identifyTrend": {
+                    "title": "Trendi Belirle",
+                    "desc": "Üst zaman diliminde net trendle başlayın; güçlü, uzayan hareketler sonrası dönüş sinyalleri daha güvenilirdir."
+                },
+                "watchSignals": {
+                    "title": "Dönüş Sinyallerini İzle",
+                    "desc": "Kritik bölgelerde tükeniş, gösterge ekstremi ve bağlamla uyumlu reversal mumları takip edin."
+                },
+                "confirm": {
+                    "title": "Teyit Bekle",
+                    "desc": "Destek/direnç kırılışları veya retest’leri, ardışık kapanışlar ya da onaylanmış diverjanslarla giriş yapın."
+                },
+                "entriesExits": {
+                    "title": "Giriş ve Çıkışları Belirle",
+                    "desc": "Kırılan yapı retest’lerini değerlendirin. Hedefleri yakın yapı seviyeleri veya ölçülü hareketlerle planlayın."
+                },
+                "risk": {
+                    "title": "Risk Yönetimini Uygula",
+                    "desc": "Stop’ları invalidasyon seviyesinin ötesine (short için direnç üstü, long için destek altı) yerleştirip pozisyon büyüklüğünü buna göre ayarlayın."
+                }
+            }
+        },
+        "example": {
+            "title": "Reversal Stratejisi Uygulama Örneği",
+            "p1": "Haftalarca yükselen bir piyasa, güçlü direnç bölgesine gelir. RSI aşırı alımı gösterir, MACD bearish diverjans üretir ve direncin üzerinde bearish engulfing mum oluşur.",
+            "p2": "Teyit sonrası kısa pozisyon açılır; stop direnç üzerine, hedefler önceki yapı diplerine yerleştirilir. Fiyat planlandığı gibi dönerse reversal bacağı aşağı yönlü hareketten faydalanır."
+        }
+    }
+}

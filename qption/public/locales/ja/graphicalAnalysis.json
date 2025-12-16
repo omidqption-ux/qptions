@@ -1,0 +1,51 @@
+{
+    "seo": {
+        "title": "グラフィカル分析 – インタラクティブチャート＆パターンスキャナー | Qption",
+        "description": "Qption のグラフィカル分析スイートを活用：マルチアセット対応のチャート、自動パターン検出、リアルタイム描画ツール（FX・暗号資産・指数）。",
+        "keywords": "グラフィカル分析, インタラクティブチャート, チャートパターン, 三角形, ヘッドアンドショルダー, トレンドライン, FXチャート, クリプトチャート, Qption ツール",
+        "ogTitle": "グラフィカル分析 – インタラクティブチャート＆パターンスキャナー | Qption",
+        "ogDescription": "Qption の自動パターンスキャナーと高度な描画ツールで、ウェッジやチャネル、ブレイクアウトを数秒で見つけよう。",
+        "url": "https://qption.com/ja/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "グラフィカル分析 – インタラクティブチャート＆パターンスキャナー | Qption",
+        "twitterDescription": "見たものをトレードする：ライブチャートとパターン認識AIでエントリーとイグジットを検証。",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/ja/graphical-analysis"
+    },
+    "page": {
+        "title": "グラフィカル分析",
+        "subtitle": "ダイナミックなチャート、パターン認識、視覚的トレンドで値動きを読み解く — 明確さと自信をもってトレードしよう。"
+    },
+    "ui": {
+        "learnMore": "詳しく見る"
+    },
+    "cards": {
+        "movingAverage": {
+            "title": "移動平均線インジケーター"
+        },
+        "fibonacciElliott": {
+            "title": "フィボナッチ・リトレースメントとエリオット波動"
+        },
+        "reversal": {
+            "title": "トレンド転換パターン"
+        },
+        "trendContinuation": {
+            "title": "トレンド継続パターン"
+        },
+        "graphicalAnalysis": {
+            "title": "グラフィカル分析"
+        }
+    },
+    "video": {
+        "aria": "テクニカル分析は価格チャート、パターン、インジケーターを用いて将来の値動きを見通します。"
+    },
+    "cta": {
+        "takeQuiz": "グラフィカル分析のクイズに挑戦"
+    },
+    "bullets": [
+        "グラフィカル分析は、チャートや視覚的パターン、描画ツールを通じて価格のふるまいを研究し、起こり得る市場の動きを見極めます。",
+        "トレンドライン、サポート／レジスタンス、出来高プロファイル、各種オーバーレイなどの視覚シグナルを重視し、モメンタム転換を捉えてエントリー／イグジットのタイミングを図ります。",
+        "株式・暗号資産・FX・コモディティなど幅広い資産クラスで活用され、迅速で明確な意思決定を支援します."
+    ]
+}

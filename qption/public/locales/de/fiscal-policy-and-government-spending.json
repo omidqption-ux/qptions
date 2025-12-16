@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Fiskalpolitik & Staatsausgaben – Arten, Komponenten, Auswirkungen | Qption",
+        "description": "Fiskalpolitik verstehen: expansive vs. kontraktive Maßnahmen, Steuern, Staatsausgaben und Haushaltsdefizite. Erfahre, wie staatliche Ausgaben (Infrastruktur, Sozialprogramme, Verteidigung) Wachstum, Inflation, Beschäftigung und Schulden beeinflussen – plus Vorteile und Grenzen.",
+        "keywords": "Fiskalpolitik, Staatsausgaben, expansive Fiskalpolitik, kontraktive Fiskalpolitik, Staatsverschuldung und Defizite, Infrastrukturausgaben, Sozialprogramme, Inflationskontrolle, Wirtschaftswachstum und Beschäftigung, Fundamentalanalyse, Qption",
+        "url": "https://qption.com/fundamental-analysis/fiscal-policy-and-government-spending",
+        "ld": {
+            "headline": "Fiskalpolitik & Staatsausgaben – Arten, Komponenten, Auswirkungen"
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Fundamentalanalyse"
+    },
+    "page": {
+        "title": "Fiskalpolitik und Staatsausgaben"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln?",
+        "start": "Jetzt handeln"
+    },
+    "sections": {
+        "overview": {
+            "title": "Überblick",
+            "items": [
+                "Fiskalpolitik bezeichnet staatliche Entscheidungen über Steuern, Ausgaben und Verschuldung, um Wachstum, Inflation und Beschäftigung zu beeinflussen.",
+                "Staatsausgaben als Kern der Fiskalpolitik umfassen Aufwendungen für öffentliche Güter und Dienstleistungen, Infrastruktur und Sozialprogramme und wirken auf Stabilität und Wachstum.",
+                "Durch Fiskalpolitik streben Regierungen nachhaltiges Wachstum, weniger Arbeitslosigkeit und Preisstabilität an."
+            ]
+        },
+        "types": {
+            "title": "Arten der Fiskalpolitik",
+            "items": [
+                {
+                    "label": "Expansive Fiskalpolitik:",
+                    "text": "Wird eingesetzt, um die Wirtschaft durch höhere Staatsausgaben, Steuersenkungen oder beides zu beleben – vor allem in Rezessionen zur Stimulierung der Nachfrage und Schaffung von Arbeitsplätzen."
+                },
+                {
+                    "label": "Kontraktive Fiskalpolitik:",
+                    "text": "Zielt darauf ab, eine überhitzte Wirtschaft zu bremsen, meist durch geringere Staatsausgaben oder Steuererhöhungen, um Inflation einzudämmen."
+                },
+                {
+                    "label": "Neutrale Fiskalpolitik:",
+                    "text": "Hält einen ausgeglichenen Haushalt, in dem Ausgaben und Einnahmen übereinstimmen, und erzeugt weder expansive noch kontraktive Effekte."
+                }
+            ]
+        },
+        "components": {
+            "title": "Bestandteile der Staatsausgaben",
+            "public": {
+                "title": "Öffentliche Güter und Dienstleistungen",
+                "items": [
+                    "Staatsausgaben finanzieren essenzielle Leistungen wie Bildung, Gesundheitsversorgung und öffentliche Sicherheit und fördern Wohlergehen sowie Stabilität.",
+                    "Investitionen in Infrastruktur wie Straßen, Verkehr und Versorgungsnetze steigern Effizienz und unterstützen langfristiges Wachstum."
+                ]
+            },
+            "social": {
+                "title": "Sozialprogramme",
+                "items": [
+                    "Ausgaben für Programme wie Arbeitslosenunterstützung, Sozialversicherung und Fürsorge verringern Ungleichheit und unterstützen einkommensschwache Haushalte.",
+                    "Diese Programme wirken als automatische Stabilisatoren, erhalten den Konsum in Abschwüngen und fördern die Erholung."
+                ]
+            },
+            "defense": {
+                "title": "Verteidigung und nationale Sicherheit",
+                "items": [
+                    "Ein erheblicher Teil der Staatsausgaben fließt in Verteidigung und Sicherheit, um nationalen Schutz und Stabilität zu gewährleisten.",
+                    "Diese Ausgaben finanzieren Militärpersonal, Technologie und verwandte Industrien und tragen so zur wirtschaftlichen Aktivität bei."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Auswirkungen der Fiskalpolitik auf die Wirtschaft",
+            "growth": {
+                "title": "Wirtschaftswachstum und Beschäftigung",
+                "items": [
+                    "Expansive Fiskalpolitik erhöht die Nachfrage, schafft Arbeitsplätze und steigert das BIP-Wachstum.",
+                    "Kontraktive Politik kann Wachstum bremsen und die Arbeitslosigkeit erhöhen, hilft aber, Inflation zu kontrollieren."
+                ]
+            },
+            "inflation": {
+                "title": "Inflationskontrolle",
+                "items": [
+                    "Regierungen können Ausgaben kürzen oder Steuern erhöhen, um die Nachfrage in Inflationsphasen abzukühlen.",
+                    "Ein ausgewogenes Inflationsniveau verhindert übermäßige Preissteigerungen, die die Kaufkraft mindern."
+                ]
+            },
+            "debt": {
+                "title": "Staatsverschuldung und Haushaltsdefizite",
+                "items": [
+                    "Übersteigen Ausgaben die Einnahmen, entstehen Defizite, die die Staatsverschuldung erhöhen und künftigen Spielraum begrenzen.",
+                    "Übermäßige Verschuldung treibt die Zinslast und verlangt sorgfältiges Management, um tragfähig zu bleiben."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Vorteile einer wirksamen Fiskalpolitik",
+            "items": [
+                "Fördert wirtschaftliche Stabilität: Gut gesteuerte Fiskalpolitik stabilisiert das Wachstum und senkt die Volatilität.",
+                "Verbessert Beschäftigung und Lebensstandard: Expansive Maßnahmen erhöhen Jobs und Einkommen.",
+                "Unterstützt Einkommensumverteilung: Sozialprogramme verringern Ungleichheit und stärken einkommensschwache Gruppen."
+            ]
+        },
+        "limits": {
+            "title": "Grenzen und Herausforderungen der Fiskalpolitik",
+            "items": [
+                "Politische Zwänge: Entscheidungen werden häufig durch politische Agenden verzögert oder verzerrt.",
+                "Verzögerte Wirkung: Fiskalische Maßnahmen brauchen Zeit, um zu wirken, was die kurzfristige Effektivität mindert.",
+                "Risiko steigender Staatsverschuldung: Anhaltende Defizite begrenzen den Spielraum und erhöhen die Schuldendienstkosten."
+            ]
+        }
+    }
+}

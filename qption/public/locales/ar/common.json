@@ -1,0 +1,97 @@
+{
+    "nav": {
+        "home": "الصفحة الرئيسية",
+        "trade": "التداول",
+        "education": "التعلم",
+        "pricing": "الأسعار",
+        "dashboard": "لوحة التحكم",
+        "login": "تسجيل الدخول",
+        "signup": "إنشاء حساب",
+        "logout": "تسجيل الخروج",
+        "language": "اللغة"
+    },
+    "hero": {
+        "title": "تداول بذكاء مع Qption",
+        "subtitle": "رسوم بيانية لحظية، تنفيذ سريع وتسعير شفاف.",
+        "cta": "ابدأ الآن"
+    },
+    "auth": {
+        "email": "البريد الإلكتروني",
+        "phone": "الهاتف",
+        "password": "كلمة المرور",
+        "confirmPassword": "تأكيد كلمة المرور",
+        "login": "تسجيل الدخول",
+        "signup": "إنشاء حساب",
+        "forgot": "هل نسيت كلمة المرور؟",
+        "otp": "أدخل رمز التحقق",
+        "verify": "تحقق",
+        "or": "أو"
+    },
+    "trade": {
+        "buy": "شراء",
+        "sell": "بيع",
+        "openTrade": "فتح صفقة",
+        "closeTrade": "إغلاق صفقة",
+        "amount": "المبلغ",
+        "balance": "الرصيد",
+        "profitLoss": "الربح/الخسارة",
+        "timeframe": "الإطار الزمني",
+        "marketOpen": "السوق مفتوح",
+        "marketClosed": "السوق مغلق",
+        "mode": {
+            "live": "حيّ",
+            "demo": "تجريبي",
+            "real": "حقيقي"
+        }
+    },
+    "chart": {
+        "loading": "جارٍ تحميل الرسم البياني…",
+        "indicators": "المؤشرات",
+        "movingAverage": "المتوسط المتحرك",
+        "bollingerBands": "بولينجر باند",
+        "rsi": "مؤشر القوة النسبية",
+        "alligator": "أليغيتور"
+    },
+    "wallet": {
+        "deposit": "إيداع",
+        "withdraw": "سحب",
+        "address": "العنوان",
+        "copy": "نسخ",
+        "copied": "تم النسخ!",
+        "confirmations": "التأكيدات",
+        "status": {
+            "waiting": "قيد الانتظار",
+            "confirmed": "مؤكد",
+            "rejected": "مرفوض"
+        }
+    },
+    "kyc": {
+        "title": "توثيق الحساب",
+        "uploadDoc": "رفع المستندات",
+        "pending": "قيد المراجعة",
+        "approved": "تمت الموافقة",
+        "rejected": "مرفوض"
+    },
+    "errors": {
+        "required": "هذه الخانة مطلوبة",
+        "invalidEmail": "بريد إلكتروني غير صالح",
+        "network": "خطأ في الشبكة، حاول مرة أخرى",
+        "unknown": "حدث خطأ ما"
+    },
+    "common": {
+        "save": "حفظ",
+        "cancel": "إلغاء",
+        "confirm": "تأكيد",
+        "back": "رجوع",
+        "next": "التالي",
+        "search": "بحث",
+        "loading": "جارٍ التحميل…",
+        "viewMore": "عرض المزيد"
+    },
+    "footer": {
+        "rights": "جميع الحقوق محفوظة."
+    },
+    "tryDemo": "جرّب الحساب التجريبي",
+    "registration": "التسجيل",
+    "clientCabinet": "الملف الشخصي للعميل"
+}

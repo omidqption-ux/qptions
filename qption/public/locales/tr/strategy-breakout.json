@@ -1,0 +1,132 @@
+{
+    "seo": {
+        "title": "Breakout (Kırılma) Ticaret Stratejisi – Seviyeler, Hacim Onayı ve Risk Yönetimi | Qption",
+        "description": "Breakout stratejisinde ustalaşın: kilit destek/direnç seviyelerini belirleyin, hacim ve göstergelerle (RSI, MACD, ATR, Bollinger Bantları) onaylayın, sahte kırılmalardan kaçının ve kesin giriş, çıkış ve risk kontrol noktaları belirleyin. Artıları/eksileri ve örnek uygulama dahil.",
+        "url": "https://qption.com/trading-strategy/breakout",
+        "image": "https://qption.com/videos/breakout-strategy/breakout-strategy.jpg",
+        "imageAlt": "Breakout ticaret stratejisi",
+        "keywords": "Breakout stratejisi, kırılma stratejisi, destek ve direnç, hacim onayı, sahte kırılmalar, RSI, MACD, ATR, Bollinger Bantları, momentum ticareti, risk yönetimi, giriş ve çıkış, ticaret stratejisi, Qption",
+        "jsonLd": {
+            "headline": "Breakout (Kırılma) Ticaret Stratejisi – Seviyeler, Hacim Onayı ve Risk Yönetimi",
+            "about": [
+                "Breakout Ticareti",
+                "Destek ve Direnç",
+                "Hacim Onayı",
+                "Sahte Kırılmalar",
+                "RSI",
+                "MACD",
+                "ATR",
+                "Bollinger Bantları",
+                "Momentum",
+                "Risk Yönetimi"
+            ],
+            "articleSection": [
+                "Breakout Stratejisi",
+                "Breakout Stratejisinin Temel Kavramları",
+                "Breakout Stratejisi Nasıl Kullanılır",
+                "Breakout Stratejisinin Artı ve Eksileri",
+                "Breakout Stratejisi Uygulama Örneği"
+            ]
+        }
+    },
+    "breadcrumb": "Ticaret stratejisi",
+    "title": "Breakout Stratejisi",
+    "cta": {
+        "prompt": "Ticarete hazır mısınız?",
+        "button": "Ticarete Başla"
+    },
+    "video": {
+        "aria": "Kırılmalar genellikle fiyatın kilit destek veya direnç seviyelerini aşmasıyla gerçekleşir"
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Breakout Stratejisinin Temel Kavramları",
+            "items": {
+                "levels": {
+                    "title": "Destek ve Direnç Seviyeleri:",
+                    "desc": "Kırılmalar genellikle fiyatın kilit destek veya direnç seviyelerini geçtiği noktalarda meydana gelir. Bu seviyeler psikolojik bariyerler gibi davranır ve kırıldıklarında fiyat genellikle kırılma yönünde momentum kazanır."
+                },
+                "volume": {
+                    "title": "Hacim Onayı:",
+                    "desc": "Kırılma sırasında artan işlem hacmi, kırılmanın geçerliliğini güçlendirir. Yüksek hacimli bir kırılma, yeni fiyat yönüne güçlü bir ilgi olduğunu gösterir ve trendin devam etme olasılığını artırır."
+                },
+                "types": {
+                    "title": "Kırılma Türleri:",
+                    "bull": "Boğa (Yükseliş) Kırılması: Fiyat bir direnç seviyesinin üzerine çıktığında, olası bir yükseliş trendi sinyali verir.",
+                    "bear": "Ayı (Düşüş) Kırılması: Fiyat bir destek seviyesinin altına düştüğünde, olası bir düşüş trendini işaret eder."
+                },
+                "indicators": {
+                    "title": "Teknik Göstergeler:",
+                    "desc": "Hareketli Ortalama, Bollinger Bantları ve Ortalama Gerçek Aralık (ATR) gibi göstergeler, bir kırılmanın gücünü onaylamaya yardımcı olabilir. Örneğin, Bollinger Bantları yüksek volatilite dönemlerinde genişleyerek olası bir kırılmayı işaret eder."
+                },
+                "false": {
+                    "title": "Sahte Kırılmalar:",
+                    "desc": "Bazen fiyat, destek veya direnç seviyesinin biraz ötesine geçip hızlıca geri dönebilir. Bunlara sahte kırılma denir. Trader’lar, yanlış sinyallerle pozisyon açmamak için hacim veya kapanış fiyatı gibi ek sinyallerle kırılmaları onaylamalıdır."
+                }
+            }
+        },
+        "howTo": {
+            "title": "Breakout Stratejisi Nasıl Kullanılır",
+            "items": {
+                "levels": {
+                    "title": "Kilit Seviyeleri Belirleyin:",
+                    "desc": "Grafikleri kullanarak önemli destek ve direnç seviyelerini belirleyin. Bu seviyeler genellikle geçmiş zirve ve diplerden, trend çizgilerinden veya psikolojik bariyer olarak görülen yuvarlak sayılardan oluşur."
+                },
+                "confirm": {
+                    "title": "Onay Bekleyin:",
+                    "desc": "Kırılma gerçekleşir gerçekleşmez pozisyona girmek risklidir çünkü sahte kırılmalar sık görülür. Hacim artışı, kırılma seviyesinin üzerinde/altında kapanış veya göstergelerden gelen destek gibi ek faktörlerle onay bekleyin."
+                },
+                "indicators": {
+                    "title": "Teknik Göstergeleri Kullanın:",
+                    "desc": "Kırılma sinyallerini RSI, MACD veya Hareketli Ortalama gibi göstergelerle birleştirin. Örneğin, boğa kırılmasında RSI’nin 50’nin üzerinde, ayı kırılmasında ise 50’nin altında olması sinyali güçlendirir."
+                },
+                "entriesExits": {
+                    "title": "Giriş ve Çıkış Noktalarını Belirleyin:",
+                    "desc": "Giriş: Boğa kırılmaları için direnç seviyesinin biraz üzerine, ayı kırılmaları için destek seviyesinin biraz altına emir yerleştirin.\nÇıkış: Kâr hedeflerinizi destek ve direnç seviyeleri arasındaki mesafeye (aralık) göre belirleyin veya trend ilerledikçe kârı korumak için takip eden durdurma (trailing stop) kullanın."
+                },
+                "risk": {
+                    "title": "Riski Yönetin:",
+                    "desc": "Olası kayıpları yönetmek için stop-loss emirleri kullanın. Stop seviyenizi boğa kırılmasında kırılma seviyesinin biraz altına, ayı kırılmasında ise biraz üstüne yerleştirin. Bu, ters dönüşler ve sahte kırılmalara karşı koruma sağlar."
+                }
+            }
+        },
+        "prosCons": {
+            "title": "Breakout Stratejisinin Artı ve Eksileri",
+            "pros": {
+                "title": "Artılar:",
+                "items": {
+                    "reward": {
+                        "title": "Yüksek Kâr Potansiyeli:",
+                        "desc": "Kırılmalar güçlü trendlere yol açabilir ve erken yakalandığında önemli kazanç fırsatları sunar."
+                    },
+                    "momentum": {
+                        "title": "Momentum Odaklı:",
+                        "desc": "Bu strateji, trendlerin başlangıcında momentumdan yararlanmayı kolaylaştırır."
+                    },
+                    "markets": {
+                        "title": "Tüm Piyasalarda Geçerlidir:",
+                        "desc": "Breakout stratejileri hisse senetleri, forex ve emtia piyasaları dahil birçok piyasada uygulanabilir."
+                    }
+                }
+            },
+            "cons": {
+                "title": "Eksiler:",
+                "items": {
+                    "falseBreakouts": {
+                        "title": "Sahte Kırılma Riski:",
+                        "desc": "Sahte kırılmalarda işlem açmak, fiyat yön değiştirirse hızlı kayıplara yol açabilir."
+                    },
+                    "timing": {
+                        "title": "Zamanlama Zorlukları:",
+                        "desc": "Gerçek kırılmaları tespit etmek zor olabilir; yanlış zamanlamalar kayıplara veya fırsat kaçırmalara neden olabilir."
+                    }
+                }
+            }
+        },
+        "example": {
+            "title": "Breakout Stratejisi Uygulama Örneği",
+            "p1": "Bir hissenin dar bir aralıkta işlem gördüğünü ve 100$ seviyesinde direnç, 95$ seviyesinde destek bulunduğunu hayal edin. Fiyat, birkaç başarısız denemeden sonra 100$ seviyesini yüksek hacimle aşıyor. Bu, bir boğa kırılması sinyalidir.",
+            "p2": "Trader, kırılmayı teyit etmek için 101$ seviyesinde giriş emri verebilir ve olası bir ters dönüşe karşı korunmak için 98$ seviyesinde stop-loss belirleyebilir. Fiyat yükselmeye devam ederse, trader önceki aralığa göre kâr hedefi belirleyebilir veya trendden daha fazla kazanç sağlamak için takip eden stop kullanabilir."
+        }
+    }
+}

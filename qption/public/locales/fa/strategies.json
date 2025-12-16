@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "استراتژی‌های معاملاتی – ستاپ‌ها و سیگنال‌های اثبات‌شده | Qption",
+        "description": "کتابخانه منتخب Qption را کشف کنید: استراتژی‌های اسکالپ، روزانه، سوئینگ و پوزیشن با قوانین ورود، مدیریت ریسک و داده‌های عملکرد زنده.",
+        "keywords": "استراتژی معاملاتی, فارکس, ارز دیجیتال, اسکالپ, ترید روزانه, سوئینگ, پوزیشن, مدیریت ریسک, سیگنال Qption",
+        "ogTitle": "استراتژی‌های معاملاتی – ستاپ‌ها و سیگنال‌های اثبات‌شده | Qption",
+        "ogDescription": "از بریک‌اوت‌های مومنتوم تا بازگشت به میانگین — قوانین دقیق تیم تحلیل Qption را دریافت و در حساب خود اجرا کنید.",
+        "url": "https://qption.com/trading-strategies",
+        "image": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "استراتژی‌های معاملاتی – ستاپ‌ها و سیگنال‌های اثبات‌شده | Qption",
+        "twitterDescription": "قوانین گام‌به‌گام استراتژی‌هایی را بیاموزید که تریدرهای ارشد ما در بازارهای فارکس و کریپتو استفاده می‌کنند.",
+        "twitterImage": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "canonical": "https://qption.com/trading-strategies"
+    },
+    "hero": {
+        "title": "استراتژی‌های معاملاتی",
+        "subtitle": "استراتژی‌های اثبات‌شده را از اسکالپ سریع تا سوئینگ‌های بلندمدت با ستاپ‌های روشن و مبتنی بر قانون فرا بگیرید و تحلیل را به عمل تبدیل کنید."
+    },
+    "cta": {
+        "learnMore": "بیشتر بدانید"
+    },
+    "quiz": {
+        "link": "/trading-strategy/quiz-trading-strategy",
+        "cta": "آزمون استراتژی‌های معاملاتی"
+    },
+    "cards": [
+        {
+            "title": "استراتژی بازگشت V با جهش حجم",
+            "link": "/trading-strategy/v-bounce",
+            "icon": "chartBar"
+        },
+        {
+            "title": "استراتژی مارتینگل",
+            "link": "/trading-strategy/martingale",
+            "icon": "chartLine"
+        },
+        {
+            "title": "استراتژی بازگشتی (Reversal)",
+            "link": "/trading-strategy/reversal",
+            "icon": "chartPie"
+        },
+        {
+            "title": "استراتژی شکست (Breakout)",
+            "link": "/trading-strategy/breakout",
+            "icon": "chartArea"
+        },
+        {
+            "title": "استراتژی الیگیتور (Alligator)",
+            "link": "/trading-strategy/alligator",
+            "icon": "globe"
+        },
+        {
+            "title": "استراتژی باندهای بولینگر",
+            "link": "/trading-strategy/bollinger",
+            "icon": "bitcoin"
+        },
+        {
+            "title": "استراتژی میانگین‌های متحرک",
+            "link": "/trading-strategy/moving-average",
+            "icon": "coins"
+        },
+        {
+            "title": "استراتژی سه روش (Three Methods)",
+            "link": "/trading-strategy/threeMethods",
+            "icon": "chartPie"
+        },
+        {
+            "title": "استراتژی پنس (Tweezers)",
+            "link": "/trading-strategy/tweezersStrategy",
+            "icon": "trophy"
+        },
+        {
+            "title": "استراتژی کندل اسکوات (Squat)",
+            "link": "/trading-strategy/squat-candle-stick",
+            "icon": "exchange"
+        },
+        {
+            "title": "استراتژی کندل‌های پوشا (Engulfing)",
+            "link": "/trading-strategy/engulfing-candlestick",
+            "icon": "dollar"
+        }
+    ]
+}

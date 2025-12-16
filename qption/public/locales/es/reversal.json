@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "title": "Estrategia de Reversión – Señales, Confirmación y Gestión del Riesgo | Qption",
+        "description": "Aprende la estrategia de reversión: detectar el agotamiento de la tendencia, usar soportes/resistencias, RSI/MACD/divergencias y velas, confirmar entradas y gestionar el riesgo con stops y objetivos claros. Incluye un flujo paso a paso y un ejemplo práctico.",
+        "url": "https://qption.com/trading-strategy/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "imageAlt": "Estrategia de trading de reversión",
+        "keywords": "estrategia de reversión, cambio de tendencia, agotamiento de tendencia, soportes y resistencias, divergencia, RSI, MACD, patrones de velas, martillo, envolvente, gestión del riesgo, señales de confirmación, entrada y salida, estrategia de trading, Qption",
+        "jsonLd": {
+            "headline": "Estrategia de Reversión – Señales, Confirmación y Gestión del Riesgo",
+            "about": [
+                "Trading de reversión",
+                "Agotamiento de tendencia",
+                "Soportes y resistencias",
+                "Divergencia",
+                "RSI",
+                "MACD",
+                "Patrones de velas",
+                "Gestión del riesgo"
+            ],
+            "articleSection": [
+                "Estrategia de Reversión",
+                "Conceptos clave de la estrategia de reversión",
+                "Cómo aplicar la estrategia de reversión",
+                "Ejemplo práctico de la estrategia de reversión"
+            ]
+        }
+    },
+    "breadcrumb": "Estrategia de trading",
+    "title": "Estrategia de Reversión",
+    "cta": {
+        "prompt": "¿Listo para operar?",
+        "button": "Empezar a operar"
+    },
+    "video": {
+        "aria": "Se produce una reversión cuando la tendencia actual se debilita y puede cambiar de dirección. Observa el agotamiento, la divergencia y las confirmaciones con velas."
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Conceptos clave de la estrategia de reversión",
+            "items": {
+                "exhaustion": {
+                    "title": "Agotamiento de tendencia",
+                    "desc": "La reversión puede formarse cuando el impulso se reduce y la estructura muestra máximos más bajos en una tendencia alcista o mínimos más altos en una bajista."
+                },
+                "sr": {
+                    "title": "Soportes y resistencias",
+                    "desc": "Las reacciones del precio en zonas clave suelen preceder reversiones. Busca mechas de rechazo, rupturas fallidas o cierres de vuelta dentro de la zona."
+                },
+                "indicators": {
+                    "title": "Indicadores técnicos",
+                    "desc": "Utiliza RSI, MACD o Estocástico para medir sobrecompra/sobreventa y cambios de impulso que respalden la idea de reversión."
+                },
+                "candles": {
+                    "title": "Patrones de velas",
+                    "desc": "Doji, martillo y envolvente cerca de niveles clave pueden señalar giros—confírmalo con la estructura del mercado."
+                },
+                "divergence": {
+                    "title": "Divergencia",
+                    "desc": "La divergencia alcista (mínimos más bajos en el precio y más altos en el indicador) o bajista (máximos más altos en el precio y más bajos en el indicador) puede anticipar reversiones."
+                }
+            }
+        },
+        "applying": {
+            "title": "Cómo aplicar la estrategia de reversión",
+            "items": {
+                "identifyTrend": {
+                    "title": "Identificar la tendencia",
+                    "desc": "Comienza con la tendencia dominante en marcos temporales superiores; las reversiones son más fiables tras movimientos extendidos."
+                },
+                "watchSignals": {
+                    "title": "Vigilar señales de reversión",
+                    "desc": "Observa debilidad cerca de zonas clave, extremos de indicadores y patrones de velas de reversión acordes con el contexto."
+                },
+                "confirm": {
+                    "title": "Esperar confirmación",
+                    "desc": "Antes de entrar contra la tendencia previa, usa rupturas/retests de niveles, cierres consecutivos o divergencia confirmada."
+                },
+                "entriesExits": {
+                    "title": "Definir entradas y salidas",
+                    "desc": "Planifica entradas en los retests de la estructura rota. Define objetivos con niveles cercanos o movimientos medidos."
+                },
+                "risk": {
+                    "title": "Aplicar gestión del riesgo",
+                    "desc": "Coloca el stop-loss más allá de la invalidación (sobre resistencia para cortos, bajo soporte para largos) y ajusta el tamaño de la posición."
+                }
+            }
+        },
+        "example": {
+            "title": "Ejemplo práctico de la estrategia de reversión",
+            "p1": "El mercado sube hasta una resistencia importante tras semanas de alzas. RSI entra en sobrecompra y MACD muestra divergencia bajista. Aparece una vela envolvente bajista en la resistencia.",
+            "p2": "Tras la confirmación, se abre un corto con stop por encima de la resistencia y objetivos en mínimos estructurales previos. Si persiste la debilidad, el tramo de reversión captura la caída."
+        }
+    }
+}

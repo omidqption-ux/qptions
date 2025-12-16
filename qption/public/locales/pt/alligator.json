@@ -1,0 +1,80 @@
+{
+    "seo": {
+        "title": "Estratégia Alligator – Análise Técnica | Qption",
+        "description": "Domine o seguimento de tendências e o trading de momentum com o indicador Alligator: entenda as linhas de mandíbula, dentes e lábios e aprenda a identificar sinais eficazes de entrada e saída.",
+        "keywords": "Indicador Alligator, Bill Williams, análise técnica, seguimento de tendência, momentum, médias móveis, estratégia de trading, Qption",
+        "ogTitle": "Estratégia Alligator – Análise Técnica | Qption",
+        "ogDescription": "Guia completo para negociar com o indicador Alligator — estrutura, sinais, limitações e melhores práticas.",
+        "url": "https://qption.com/technical-analysis/alligator",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Análise Técnica"
+    },
+    "promo": {
+        "text": "Pronto para negociar com o indicador Alligator?",
+        "cta": "Comece a negociar"
+    },
+    "hero": {
+        "title": "Estratégia Alligator",
+        "subtitle": "Domine o seguimento de tendências e o trading de momentum com nossa análise completa do indicador Alligator"
+    },
+    "overview": {
+        "title": "Visão geral",
+        "bullets": [
+            "O indicador Alligator, criado por Bill Williams, ajuda a identificar tendências de mercado e períodos de consolidação.",
+            "É composto por três médias móveis suavizadas que representam a mandíbula, os dentes e os lábios do 'alligator'.",
+            "Ajuda os traders a determinar se o mercado está em tendência ou em fase de consolidação."
+        ]
+    },
+    "how": {
+        "title": "Como o Alligator funciona",
+        "items": [
+            {
+                "title": "Mandíbula (Linha azul)",
+                "desc": "Média móvel suavizada de 13 períodos deslocada 8 períodos à frente, representando a tendência de longo prazo."
+            },
+            {
+                "title": "Dentes (Linha vermelha)",
+                "desc": "Média móvel suavizada de 8 períodos deslocada 5 períodos à frente, representando a tendência de médio prazo."
+            },
+            {
+                "title": "Lábios (Linha verde)",
+                "desc": "Média móvel suavizada de 5 períodos deslocada 3 períodos à frente, representando a tendência de curto prazo."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Principais estratégias",
+        "items": [
+            {
+                "title": "1. Identificação de tendência",
+                "points": [
+                    "Quando as três linhas estão alinhadas e se movem na mesma direção, indica uma tendência forte.",
+                    "Quando as linhas estão entrelaçadas, o mercado está em consolidação ou movimento lateral."
+                ]
+            },
+            {
+                "title": "2. Sinais de entrada",
+                "points": [
+                    "Compre quando os lábios cruzarem acima dos dentes e da mandíbula durante uma tendência de alta.",
+                    "Venda quando os lábios cruzarem abaixo dos dentes e da mandíbula durante uma tendência de baixa."
+                ]
+            },
+            {
+                "title": "3. Sinais de saída",
+                "points": [
+                    "Saia de posições compradas quando os lábios cruzarem abaixo dos dentes.",
+                    "Saia de posições vendidas quando os lábios cruzarem acima dos dentes."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitações",
+        "bullets": [
+            "Indicador atrasado: devido ao suavizamento, os sinais podem chegar tarde em mercados de rápida movimentação.",
+            "Funciona melhor em mercados com tendência e pode gerar sinais falsos em mercados laterais."
+        ]
+    }
+}

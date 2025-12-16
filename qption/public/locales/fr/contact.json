@@ -1,0 +1,21 @@
+{
+    "seo": {
+        "title": "Contactez-nous – Qption",
+        "description": "Besoin d’aide avec la plateforme Qption ? Notre équipe d’assistance est disponible 24h/24 et 7j/7 par chat, e-mail ou téléphone. Écrivez-nous et nous vous répondrons en quelques minutes.",
+        "keywords": "contact Qption, support client, aide trading d’options, téléphone Qption, email Qption, service client fintech",
+        "ogDescription": "Des questions sur le trading, les partenariats ou la plateforme ? Parlez à un humain chez Qption — 24h/24.",
+        "twitterDescription": "Besoin d’aide avec la plateforme Qption ? Notre support est disponible 24/7 — contactez-nous maintenant.",
+        "url": "https://qption.com/contact",
+        "ogImage": "https://qption.com/images/og/contact-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Contactez-nous",
+        "support": "Support client",
+        "supportHours": "24 heures sur 24, 7 jours sur 7",
+        "email": "Adresse e-mail",
+        "phone": "Numéro de téléphone",
+        "address": "Adresse",
+        "cityCountry": "Stockholm, Suède"
+    }
+}

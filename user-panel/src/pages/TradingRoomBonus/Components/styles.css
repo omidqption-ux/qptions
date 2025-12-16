@@ -1,0 +1,188 @@
+@keyframes rotate360 {
+     from {
+          transform: rotate(360deg);
+     }
+     to {
+          transform: rotate(0deg);
+     }
+}
+
+.rotate {
+     animation: rotate360 0.5s ease-in-out;
+}
+.draggable {
+     position: absolute;
+     cursor: grab;
+}
+
+.draggable:active {
+     cursor: grabbing;
+}
+.curve-top {
+     clip-path: path('M 0 0 H 25% Q 50% 50% 75% 0 H 100% V 100% H 0 Z');
+}
+.custom-scrollbar {
+     scrollbar-width: thin; /* For Firefox */
+     scrollbar-color: #1f2334 #e2e8f0; /* Thumb color and track color */
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+     width: 4px; /* Scrollbar width */
+     height: 4px; /* Horizontal scrollbar height */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+     background-color: #1f2334; /* Thumb color */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+     background-color: #e2e8f0; /* Track color */
+}
+.no-select {
+     user-select: none; /* Prevents selection */
+     -webkit-user-select: none; /* Chrome, Safari */
+     -moz-user-select: none; /* Firefox */
+     -ms-user-select: none; /* IE10+ */
+}
+.animate-pulse-1s {
+     animation: pulse 1.6s cubic-bezier(0.4, 0, 0.6, 1);
+}
+
+/* Trading Room Global Styles */
+.trading-room-container {
+     background: linear-gradient(135deg, var(--darkStart) 0%, var(--darkMid) 50%, var(--darkEnd) 100%);
+     backdrop-filter: blur(10px);
+}
+
+/* Chart Container Styles */
+.chart-container {
+     border-radius: 12px;
+     overflow: hidden;
+     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+     transition: all 0.3s ease;
+     background: rgba(22, 28, 42, 0.5);
+     backdrop-filter: blur(10px);
+}
+
+.chart-container:hover {
+     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+     transform: translateY(-2px);
+}
+
+/* Grid Layout Transitions */
+.grid-transition {
+     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Button Styles */
+.trading-button {
+     padding: 8px 16px;
+     border-radius: 8px;
+     font-weight: 500;
+     transition: all 0.2s ease;
+     background: rgba(255, 255, 255, 0.1);
+     backdrop-filter: blur(5px);
+}
+
+.trading-button:hover {
+     transform: translateY(-1px);
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Input Styles */
+.trading-input {
+     background: rgba(255, 255, 255, 0.05);
+     border: 1px solid rgba(255, 255, 255, 0.1);
+     border-radius: 8px;
+     padding: 8px 12px;
+     transition: all 0.2s ease;
+}
+
+.trading-input:focus {
+     background: rgba(255, 255, 255, 0.1);
+     border-color: var(--LightBlue);
+     box-shadow: 0 0 0 2px rgba(66, 153, 225, 0.2);
+}
+
+/* Scrollbar Styles */
+::-webkit-scrollbar {
+     width: 8px;
+     height: 8px;
+}
+
+::-webkit-scrollbar-track {
+     background: rgba(255, 255, 255, 0.05);
+     border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+     background: rgba(255, 255, 255, 0.1);
+     border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+     background: rgba(255, 255, 255, 0.2);
+}
+
+/* Animation Keyframes */
+@keyframes fadeIn {
+     from {
+          opacity: 0;
+          transform: translateY(10px);
+     }
+     to {
+          opacity: 1;
+          transform: translateY(0);
+     }
+}
+
+@keyframes slideIn {
+     from {
+          transform: translateX(-20px);
+          opacity: 0;
+     }
+     to {
+          transform: translateX(0);
+          opacity: 1;
+     }
+}
+
+/* Utility Classes */
+.fade-in {
+     animation: fadeIn 0.3s ease-out forwards;
+}
+
+.slide-in {
+     animation: slideIn 0.3s ease-out forwards;
+}
+
+/* Glass Effect */
+.glass-effect {
+     background: rgba(255, 255, 255, 0.05);
+     backdrop-filter: blur(10px);
+     border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Hover Effects */
+.hover-lift {
+     transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hover-lift:hover {
+     transform: translateY(-2px);
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Loading States */
+.loading-pulse {
+     animation: pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse {
+     0%, 100% {
+          opacity: 1;
+     }
+     50% {
+          opacity: 0.5;
+     }
+}

@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Şartlar ve Koşullar | Qption",
+        "description": "Qption'ın Şartlar ve Koşullarını okuyun: risk açıklaması, hesap açma ve doğrulama, para yatırma ve çekme, veri koruma, AML, mücbir sebep ve fesih.",
+        "keywords": "şartlar ve koşullar, risk açıklaması, hesap doğrulama, para yatırma, para çekme, AML, veri koruma, mücbir sebep, fesih, Qption",
+        "ogTitle": "Şartlar ve Koşullar | Qption",
+        "ogDescription": "Qption kullanımını düzenleyen temel şartlar: hesaplar, doğrulama, ödemeler, güvenlik, AML ve daha fazlası.",
+        "url": "https://qption.com/terms-and-conditions",
+        "image": "https://qption.com/images/og/terms-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Şartlar ve Koşullar | Qption",
+        "twitterDescription": "Qption'ı kullanırken geçerli olan kuralları ve korumaları anlayın.",
+        "twitterImage": "https://qption.com/images/og/terms-qption.jpg",
+        "canonical": "https://qption.com/terms-and-conditions"
+    },
+    "hero": {
+        "title": "Şartlar ve Koşullar"
+    },
+    "sections": [
+        {
+            "icon": "intro",
+            "title": "1. Giriş",
+            "items": [
+                "Qption, bu Şartlar ve Koşullarda belirtilen aracı kurum hizmetlerini sağlar.",
+                "Bu Şartlar ve Koşullar, sizinle Qption arasındaki diğer anlaşmalara ek niteliğindedir.",
+                "Müşteri, bu Şartları düzenli olarak gözden geçirmekten sorumludur; web sitesinin kullanılmaya devam edilmesi yapılan değişikliklerin kabulü anlamına gelir.",
+                "Qption'ın resmi dili İngilizcedir. Diğer dillerdeki çeviriler veya bilgiler yalnızca kolaylık sağlamak amacıyla sunulur."
+            ]
+        },
+        {
+            "icon": "risk",
+            "title": "2. Risk Açıklaması",
+            "items": [
+                "CFD'ler kaldıraçlı ürünlerdir ve yüksek düzeyde risk içerir. Yatırılan sermayenin tamamı kaybedilebilir.",
+                "Bu ürünler herkes için uygun olmayabilir. Müşteri, ilgili riskleri anladığından emin olmalıdır.",
+                "Müşteri, yatırımlarının değerinin artabileceğini veya azalabileceğini kabul eder."
+            ]
+        },
+        {
+            "icon": "definitions",
+            "title": "3. Tanımlar",
+            "items": [
+                "Hesap: Müşterinin Qption ile işlem yapabilmesi için oluşturulan hesap(lar).",
+                "Müşteri: Qption'ın hizmet sunduğu gerçek veya tüzel kişi.",
+                "Para Yatırma: Müşterinin Qption hesabına/hesaplarına yatırdığı veya aktardığı fonlar.",
+                "Para Çekme: Müşterinin Qption hesabından/hesaplarından çektiği veya aktardığı fonlar."
+            ]
+        },
+        {
+            "icon": "account",
+            "title": "4. Müşteri Hesabı",
+            "items": [
+                "Qption hizmetlerini kullanmak için Müşteri doğru bilgilerle hesap açmalıdır.",
+                "Müşteri, sağlanan bilgilerdeki herhangi bir değişikliği derhal Qption'a bildirmelidir.",
+                "Müşteri hesap bilgileri Qption'ın Gizlilik Politikasına göre saklanır."
+            ]
+        },
+        {
+            "icon": "verification",
+            "title": "5. Hesap Doğrulama",
+            "items": [
+                "Qption doğrulama için geçerli kimlik bilgileri ve belgeleri talep eder.",
+                "Şirket, kimlik ve adres teyidi belgelerini herhangi bir zamanda isteyebilir.",
+                "Müşteri, Qption ile sözleşme ilişkisine girebilmek için en az 18 yaşında olmalıdır."
+            ]
+        },
+        {
+            "icon": "payments",
+            "title": "6. Para Yatırma ve Çekme",
+            "items": [
+                "Müşteri, onaylanmış ödeme yöntemleriyle istediği zaman fon yatırabilir.",
+                "Para çekme işlemleri, para yatırmada kullanılan ödeme yöntemi doğrultusunda gerçekleştirilir.",
+                "Qption, fon kaynağını doğrulayan belgeler talep etme hakkını saklı tutar."
+            ]
+        },
+        {
+            "icon": "dataProtection",
+            "title": "7. Veri Koruma",
+            "items": [
+                "Qption, Müşterilerin kişisel bilgilerini SSL şifreleme teknolojisi ile korur.",
+                "Şirket, güvenlik duvarları, kimlik doğrulama sistemleri ve erişim kontrol mekanizmaları kullanır.",
+                "Müşteri, kişisel bilgilerindeki değişiklikleri Qption'a bildirmelidir."
+            ]
+        },
+        {
+            "icon": "aml",
+            "title": "8. Kara Para Aklamayı Önleme",
+            "items": [
+                "Qption, kara para aklama ve terörün finansmanını önlemeyi taahhüt eder.",
+                "Şirket, Kara Para Aklamayı Önleme düzenlemeleriyle uyumlu politikalar uygular.",
+                "Qption, kara para aklama ile bağlantılı işlemleri reddetme hakkını saklı tutar."
+            ]
+        },
+        {
+            "icon": "forceMajeure",
+            "title": "9. Mücbir Sebep",
+            "items": [
+                "Qption, makul kontrolü dışındaki olaylardan kaynaklanan gecikme veya başarısızlıklardan sorumlu tutulamaz.",
+                "Bu tür olaylar arasında mücbir sebepler, savaş, yangın, sel, ağ arızaları ve donanım veya yazılım arızaları gibi durumlar bulunur."
+            ]
+        },
+        {
+            "icon": "termination",
+            "title": "10. Fesih",
+            "items": [
+                "Taraflardan herhangi biri, beş (5) iş günü önceden yazılı bildirimde bulunarak bu anlaşmayı feshedebilir.",
+                "Şartların ihlali halinde Qption anlaşmayı feshedebilir.",
+                "Fesih sonrasında, Müşteri hesabındaki fonlar uygulanabilir kesintiler doğrultusunda iade edilir."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "seo": {
+        "title": "Inflation & ihre Wirkung auf Währungen und Krypto – VPI, EPI, Zinsen & Hedging | Qption",
+        "description": "Verstehe, wie Inflation FX und Krypto beeinflusst: VPI/EPI-Grundlagen, Nachfrage- vs. Kostendruck, Währungsstärke über Zinspolitik und die Bitcoin-„Inflationshedge“-Erzählung. Inklusive Indikatoren, Vorteilen und Grenzen.",
+        "keywords": "Inflation, VPI, EPI, Nachfrageinflation, Kosteninflation, Zinspolitik, Währungsstärke, FX-Märkte, Krypto-Märkte, Bitcoin Inflationshedge, Volatilität, Zentralbankberichte, Löhne, Beschäftigung, Fundamentalanalyse, Qption",
+        "ogTitle": "Inflation & ihre Wirkung auf Währungen und Krypto | Qption",
+        "ogDescription": "Von VPI/EPI bis BTC als Hedge: ein praxisnaher Leitfaden, wie Inflation FX und Krypto bewegt.",
+        "url": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+        "image": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Inflation & Märkte: FX und Krypto",
+        "twitterDescription": "Lerne, wie Inflation, Zinsen und Politik Währungen und digitale Assets steuern.",
+        "twitterImage": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Inflation und ihr Einfluss auf Währungs- & Kryptomärkte – VPI, EPI, Zinsen & Hedging",
+            "description": "Wie Inflation FX und Krypto beeinflusst – inklusive VPI/EPI, Zinspolitik und Hedge-Narrativen.",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Inflation"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Verbraucherpreisindex (VPI)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Erzeugerpreisindex (EPI)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Nachfrageinflation"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Kosteninflation"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Zinspolitik"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Devisenmärkte (Forex)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Kryptomärkte"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bitcoin"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Geldpolitik"
+                }
+            ],
+            "articleSection": [
+                "Überblick",
+                "Kernkonzepte der Inflation",
+                "Auswirkungen auf FX-Märkte",
+                "Auswirkungen auf Kryptomärkte",
+                "Zu beobachtende Indikatoren",
+                "Vorteile",
+                "Grenzen"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "VPI",
+                    "value": "Zentraler Verbraucherpreisindikator; Monatswerte formen Zinserwartungen."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "EPI",
+                    "value": "Produzentenpreise können Verbraucherpreistrends vorwegnehmen."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Inflationsarten",
+                    "value": "Nachfragesog (Übernachfrage) und Kostendruck (steigende Inputkosten)."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "FX-Effekt",
+                    "value": "Hohe Inflation schwächt Währungen, außer höhere Zinsen kompensieren; straffere Politik stützt FX."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Krypto-Narrativ",
+                    "value": "Bitcoin & Co. gelten wegen begrenzter Supply für manche als Inflationshedge."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Volatilität",
+                    "value": "Inflationsbedingte Flows verstärken spekulative Ausschläge in Krypto."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Watchlist",
+                    "value": "VPI/EPI, Zentralbank-Statements, Lohnwachstum, Beschäftigung, Inflationsprognosen."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Fundamentalanalyse"
+    },
+    "page": {
+        "title": "Inflation und ihre Wirkung auf Währungen & Krypto"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln?",
+        "startTrading": "Jetzt handeln"
+    },
+    "sections": {
+        "overview": {
+            "title": "Überblick",
+            "bullets": [
+                "Inflation misst das Tempo allgemeiner Preissteigerungen und schmälert langfristig die Kaufkraft.",
+                "Zentralbanken überwachen Inflation genau, denn anhaltende Überschreitungen gefährden Stabilität und erzwingen Eingriffe.",
+                "Für Trader ist der Einfluss der Inflation auf Zinsen, Währungsstärke und Asset-Renditen ein zentraler Makrotreiber."
+            ]
+        },
+        "keyConcepts": {
+            "title": "Kernkonzepte der Inflation",
+            "items": {
+                "cpi": {
+                    "label": "Verbraucherpreisindex (VPI)",
+                    "text": "Misst die durchschnittliche Preisänderung eines Warenkorbs an Konsumgütern/Dienstleistungen; wichtigster Inflationsindikator."
+                },
+                "ppi": {
+                    "label": "Erzeugerpreisindex (EPI)",
+                    "text": "Verfolgt Preise auf Produzentenebene; höhere Inputkosten können Verbraucherpreise vorwegnehmen."
+                },
+                "demandPull": {
+                    "label": "Nachfragesog-Inflation",
+                    "text": "Entsteht, wenn Nachfrage das Angebot übersteigt und Preise nach oben treibt."
+                },
+                "costPush": {
+                    "label": "Kosteninflation",
+                    "text": "Resultiert aus steigenden Produktionskosten (Löhne, Rohstoffe), die an Verbraucher weitergegeben werden."
+                }
+            }
+        },
+        "impactCurrency": {
+            "title": "Auswirkungen auf FX-Märkte",
+            "currencyStrength": {
+                "title": "1. Währungsstärke",
+                "bullets": [
+                    "Hohe Inflation schwächt eine Währung, da Realwerte und Vertrauen leiden.",
+                    "Aggressive Zinserhöhungen zur Inflationsbekämpfung ziehen renditesuchendes Kapital an und stützen die Währung."
+                ]
+            },
+            "ratePolicy": {
+                "title": "2. Zinspolitik",
+                "bullets": [
+                    "Steigende Inflation veranlasst Zentralbanken oft zu Zinserhöhungen – höhere Renditen machen die Währung attraktiver.",
+                    "Niedrige Inflation oder Disinflation kann zu Zinssenkungen führen, was FX belasten kann."
+                ]
+            }
+        },
+        "impactCrypto": {
+            "title": "Auswirkungen auf Kryptomärkte",
+            "hedge": {
+                "title": "1. Wahrnehmung als Inflationshedge",
+                "bullets": [
+                    "Bitcoin und manche digitale Assets gelten wegen fixer oder programmierter Supply als Absicherung.",
+                    "In Phasen Fiat-Erosion rotieren einige Anleger in Krypto, um Kaufkraft zu bewahren."
+                ]
+            },
+            "volatility": {
+                "title": "2. Volatilität und Spekulation",
+                "bullets": [
+                    "Die ohnehin hohe Volatilität in Krypto verstärkt sich durch inflationsgetriebene Flows und Narrative.",
+                    "A Akteure teilen sich zwischen langfristiger Hedge-Positionierung und kurzfristigem Trading auf."
+                ]
+            }
+        },
+        "indicators": {
+            "title": "Zu beobachtende Indikatoren",
+            "items": [
+                {
+                    "label": "VPI",
+                    "text": "Monatliche Inflationsmessung, die den Politikpfad und FX/Krypto-Reaktionen prägt."
+                },
+                {
+                    "label": "EPI",
+                    "text": "Prognostiziert Verbraucherpreisschübe über Produzentenkosten."
+                },
+                {
+                    "label": "Zentralbankberichte",
+                    "text": "Statements, Protokolle, Projektionen und PKs signalisieren Absichten."
+                },
+                {
+                    "label": "Beschäftigung & Löhne",
+                    "text": "Enge Arbeitsmärkte und steigende Löhne können Inflationsdruck verfestigen."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Vorteile des Inflationsverständnisses",
+            "bullets": [
+                "Verbessert Beurteilung von Währungswerten und Zinspfaden.",
+                "Unterstützt Portfolioaufbau über Fiat- und Krypto-Exposures hinweg.",
+                "Stärkt Makro-Bewusstsein für Politikzyklen und Cross-Asset-Effekte."
+            ]
+        },
+        "limitations": {
+            "title": "Grenzen",
+            "bullets": [
+                "Nachlaufende Messung: Headline-Indikatoren wie VPI spiegeln vergangene Bedingungen wider.",
+                "Globale Spillover: importierte Inflation und externe Schocks erschweren den Blick.",
+                "Ereignisrisiko: Inflationsdaten und Guidance verursachen abrupte Whipsaws – besonders in Krypto."
+            ]
+        }
+    }
+}

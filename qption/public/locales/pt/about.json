@@ -1,0 +1,62 @@
+{
+    "seo": {
+        "title": "Sobre nós – Qption",
+        "description": "Conheça a equipe, a missão e a tecnologia por trás da Qption — uma plataforma de trading rápida, transparente e para todos os níveis."
+    },
+    "hero": {
+        "title": "Reinventando o trading online",
+        "subtitle": "Criada por especialistas em FinTech, a Qption está redefinindo o trading na era digital. Acreditamos que o trading deve ser acessível, inovador e recompensador para todos."
+    },
+    "box": {
+        "heading": "Sobre a Qption",
+        "companyRegistration": {
+            "title": "Registro da empresa",
+            "body": "Qption LLC registrada em SVG, First Floor, First St. Vincent Bank Ltd Building, James Street, Kingstown, St. Vincent and the Grenadines, nº 1744 LLC 22."
+        },
+        "globalPresence": {
+            "title": "Presença global",
+            "body": "Atendemos traders no mundo todo com uma plataforma segura e confiável."
+        },
+        "securityFirst": {
+            "title": "Segurança em primeiro lugar",
+            "body": "Sua segurança é prioridade. Aplicamos medidas de ponta para proteger seus dados e investimentos."
+        },
+        "tradingExcellence": {
+            "title": "Excelência em trading",
+            "body": "Fornecemos ferramentas e recursos avançados para seu sucesso nos mercados."
+        }
+    },
+    "stats": {
+        "activeTraders": "Traders ativos",
+        "monthlyVolume": "Volume mensal",
+        "countries": "Países",
+        "avgIncome": "Renda média mensal"
+    },
+    "values": {
+        "heading": "Nossos valores",
+        "innovationFirst": {
+            "title": "Inovação em primeiro lugar",
+            "desc": "Superamos limites com recursos de ponta e novos padrões."
+        },
+        "customerCentric": {
+            "title": "Foco no cliente",
+            "desc": "Seu sucesso é o nosso. Compromisso com suporte e serviço excepcionais."
+        },
+        "communityDriven": {
+            "title": "Guiado pela comunidade",
+            "desc": "A plataforma prospera com interação e sucesso compartilhado."
+        },
+        "integrity": {
+            "title": "Integridade",
+            "desc": "Atuamos com transparência e conformidade em todas as operações."
+        },
+        "sustainability": {
+            "title": "Sustentabilidade",
+            "desc": "Construímos relações de longo prazo e uma base estável e confiável."
+        },
+        "sharedSuccess": {
+            "title": "Sucesso compartilhado",
+            "desc": "Tornamos o trading acessível e lucrativo para todos."
+        }
+    }
+}

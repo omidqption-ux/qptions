@@ -1,0 +1,190 @@
+{
+    "seo": {
+        "title": "Trend Continuation Patterns – Flags, Pennants, Triangles & Rectangles | Qption",
+        "description": "Understand trend continuation patterns in graphical analysis: flags, pennants, ascending/descending triangles, and rectangles. Learn formation, breakout confirmation, benefits, limitations, and how to use volume to avoid false breakouts.",
+        "keywords": "trend continuation patterns, flag pattern, pennant pattern, ascending triangle, descending triangle, rectangle pattern, breakout confirmation, volume confirmation, technical analysis, graphical analysis, trend following, Qption",
+        "url": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+        "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+        "ogAlt": "Trend continuation patterns guide",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Trend Continuation Patterns – Flags, Pennants, Triangles & Rectangles",
+            "description": "Understand trend continuation patterns in graphical analysis: flags, pennants, ascending/descending triangles, and rectangles. Learn formation, breakout confirmation, benefits, limitations, and how to use volume to avoid false breakouts.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Trend Continuation Pattern"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Flag Pattern"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Pennant Pattern"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Ascending Triangle"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Descending Triangle"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Rectangle Pattern"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Breakout"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Volume Confirmation"
+                }
+            ],
+            "articleSection": [
+                "Trend Continuation Patterns in Graphical Analysis",
+                "Overview",
+                "Common Trend Continuation Patterns",
+                "Flag Pattern",
+                "Pennant Pattern",
+                "Ascending Triangle",
+                "Descending Triangle",
+                "Rectangle Pattern",
+                "Benefits of Using Trend Continuation Patterns",
+                "Limitations of Trend Continuation Patterns"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Flag Pattern",
+                    "value": "Sharp move (flagpole) followed by a small parallel-channel consolidation; breakout in trend direction"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Pennant Pattern",
+                    "value": "Brief consolidation within converging trendlines; breakout aligns with prior trend"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Ascending Triangle",
+                    "value": "Flat resistance with rising lows; bullish continuation on resistance break"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Descending Triangle",
+                    "value": "Flat support with falling highs; bearish continuation on support break"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Rectangle Pattern",
+                    "value": "Sideways consolidation between horizontal support/resistance; breakout continues prior trend"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Confirmation & Risk",
+                    "value": "Use volume expansion on breakout; watch for false breakouts; combine with stops below/above pattern bounds"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Back to Graphical Analysis",
+        "graphicalLink": "Graphical Analysis"
+    },
+    "page": {
+        "title": "Trend Continuation Patterns in Graphical Analysis"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "start": "Start Trading"
+    },
+    "video": {
+        "aria": "Trend continuation patterns are chart formations that signal a temporary pause in the current trend, followed by a likely continuation in the same direction."
+    },
+    "sections": {
+        "overview": {
+            "h": "Overview",
+            "items": [
+                "Trend continuation patterns are graphical formations that suggest a pause in the move, then a resumption in the same direction.",
+                "They offer potential entry points to participate in trend resumption after brief consolidations.",
+                "They appear in bullish and bearish markets across multiple timeframes."
+            ]
+        },
+        "patterns": {
+            "h": "Common Trend Continuation Patterns",
+            "list": [
+                {
+                    "h": "1. Flag Pattern",
+                    "items": [
+                        "A short-term consolidation that resembles a flag on a pole, often after a sharp price move.",
+                        "Formation: A strong directional move (flagpole) followed by consolidation in a small, parallel channel (flag).",
+                        "Breakout: Breaks above (uptrend) or below (downtrend) the flag to continue the prevailing trend.",
+                        "Chart Interpretation: Suggests likely continuation in the original trend after the breakout."
+                    ]
+                },
+                {
+                    "h": "2. Pennant Pattern",
+                    "items": [
+                        "Similar to the flag but with a small, converging triangle (pennant) during consolidation.",
+                        "Formation: Price surges (or falls) and then consolidates within converging trendlines forming a pennant.",
+                        "Breakout: A breakout in the direction of the prior move signals continuation.",
+                        "Chart Interpretation: A brief pause before resumption of the trend."
+                    ]
+                },
+                {
+                    "h": "3. Ascending Triangle",
+                    "items": [
+                        "A bullish continuation pattern with flat resistance and rising lows.",
+                        "Formation: Higher lows develop against a horizontal resistance level within a triangle.",
+                        "Breakout: A break above resistance signals continuation of the uptrend.",
+                        "Chart Interpretation: Building bullish pressure, often leading to an upward breakout."
+                    ]
+                },
+                {
+                    "h": "4. Descending Triangle",
+                    "items": [
+                        "A bearish continuation pattern with flat support and falling highs.",
+                        "Formation: Lower highs form against a horizontal support level within a triangle.",
+                        "Breakout: A break below support signals continuation of the downtrend.",
+                        "Chart Interpretation: Mounting bearish pressure, often ending in a downward breakout."
+                    ]
+                },
+                {
+                    "h": "5. Rectangle Pattern",
+                    "items": [
+                        "A sideways consolidation inside horizontal support and resistance.",
+                        "Formation: Price ranges between horizontal levels forming a rectangle.",
+                        "Breakout: A move above (bullish) or below (bearish) the rectangle continues the prior trend.",
+                        "Chart Interpretation: Temporary consolidation before trend resumption in breakout direction."
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "h": "Benefits of Using Trend Continuation Patterns",
+            "items": [
+                "Provides clearer entry timing during consolidations.",
+                "Enhances trend-following by highlighting likely resumption points.",
+                "Particularly effective during strong, persistent trends."
+            ]
+        },
+        "limitations": {
+            "h": "Limitations of Trend Continuation Patterns",
+            "items": [
+                "False breakouts can occur, especially in volatile or choppy markets.",
+                "Often requires confirmation (e.g., volume expansion) to reduce false signals.",
+                "Less reliable in sideways markets and may need additional confluence."
+            ]
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "seo": {
+        "title": "Hesap Türleri – Planları Karşılaştırın | Qption",
+        "description": "Qption’un altı hesap seviyesini keşfedin — Basic, Silver, Gold, Platinum, Diamond ve Exclusive. Minimum yatırım, araçlar, destek ve VIP ayrıcalıkları açısından farkları karşılaştırın. Hedeflerinize uygun planı seçin.",
+        "keywords": "Qption hesap türleri, Basic hesap, Silver hesap, Gold hesap, Platinum hesap, Diamond hesap, Exclusive hesap, yatırım hesabı karşılaştırma, minimum yatırım, ticaret araçları, VIP hizmetleri",
+        "ogTitle": "Hesap Türleri – Planları Karşılaştırın | Qption",
+        "ogDescription": "Qption’un Basic, Silver, Gold, Platinum, Diamond ve Exclusive hesaplarının özelliklerini karşılaştırın — minimum yatırım tutarından özel desteğe kadar.",
+        "ogUrl": "https://qption.com/accounttypes",
+        "ogImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "Hesap Türleri – Planları Karşılaştırın | Qption",
+        "twitterDescription": "Basic’ten Exclusive’e kadar size en uygun hesabı bulun. Qption’un tüm hesap seviyelerini ve avantajlarını inceleyin.",
+        "twitterImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "canonical": "https://qption.com/accounttypes",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "Hesap Türünüzü Seçin",
+        "subtitle": "Ticaret hedeflerinize uygun mükemmel hesabı seçin",
+        "cta": "Başlayın",
+        "fromPrefix": "$",
+        "invitationOnly": "Sadece davetle"
+    },
+    "plans": {
+        "basic": {
+            "title": "Basic",
+            "desc": "Kolay başlangıç için ideal, istediğiniz zaman yükseltme seçeneğiyle.",
+            "from": "10",
+            "features": [
+                "Temel ticaret araçları",
+                "E-posta desteği",
+                "Piyasa analizi",
+                "7/24 destek"
+            ]
+        },
+        "silver": {
+            "title": "Silver",
+            "desc": "Basic’in ötesinde, hızlı bir başlangıç yapmak isteyenler için tasarlandı.",
+            "from": "50",
+            "features": [
+                "Tüm Basic özellikleri",
+                "Öncelikli destek",
+                "Gelişmiş grafikler",
+                "Günlük piyasa analizleri"
+            ]
+        },
+        "gold": {
+            "title": "Gold",
+            "desc": "Ücretsiz danışmanlık avantajlarıyla en popüler hesabımız Gold’a katılın.",
+            "from": "500",
+            "features": [
+                "Tüm Silver özellikleri",
+                "Ücretsiz danışmanlıklar",
+                "Kişisel hesap yöneticisi",
+                "VIP web seminerleri"
+            ]
+        },
+        "platinum": {
+            "title": "Platinum",
+            "desc": "Akıllı yatırımların başladığı yer — ayrıcalıklı özelliklerin keyfini çıkarın.",
+            "from": "5000",
+            "features": [
+                "Tüm Gold özellikleri",
+                "7/24 özel destek",
+                "Özel ticaret stratejileri",
+                "Özel etkinlikler"
+            ]
+        },
+        "diamond": {
+            "title": "Diamond",
+            "desc": "Ciddi yatırımcılar için özel yönetim ve uzmanlık sunar.",
+            "from": "10000",
+            "features": [
+                "Tüm Platinum özellikleri",
+                "Özel yatırım çözümleri",
+                "Özel ticaret seansları",
+                "Lüks ödüller"
+            ]
+        },
+        "exclusive": {
+            "title": "Exclusive",
+            "desc": "Detaylar için hesap yöneticinizle iletişime geçin.",
+            "from": "Sadece davetle",
+            "features": [
+                "Özel çözümler",
+                "Kişisel varlık yönetimi",
+                "Özel piyasa analizleri",
+                "Kişiselleştirilmiş hizmetler"
+            ]
+        }
+    },
+    "withdrawal": {
+        "title": "Para Çekme Seçenekleri",
+        "body1": "Fonlarınıza kolayca erişin ve özgürce ticaret yapın. 20’den fazla ödeme yöntemiyle, Visa, MasterCard, Maestro, UnionPay kartlarınıza veya Neteller, Skrill, Perfect Money, FasaPay gibi elektronik yöntemlerle fon transferi yapabilirsiniz.",
+        "highlight": "Gold, Platinum ve Exclusive hesapları öncelikli para çekme işlemlerinden yararlanır."
+    }
+}

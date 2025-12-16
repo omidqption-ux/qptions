@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Fundamentalanalyse-Quiz – Teste dein Marktwissen | Qption",
+        "description": "Fordere dein Verständnis von Makroökonomie, Zinsen, Inflation und Marktverhalten mit Qptions Fundamentalanalyse-Quiz heraus. Lerne und handle smarter.",
+        "keywords": "Fundamentalanalyse Quiz, Makroökonomie, Forex Quiz, Inflation, Zinsen, Zentralbanken, BIP, VPI, Carry Trade, Qption",
+        "ogTitle": "Fundamentalanalyse-Quiz – Teste dein Marktwissen | Qption",
+        "ogDesc": "Interaktives Quiz, um deinen Blick auf Wirtschaftsindikatoren, Zentralbanken, Inflation und globale Märkte zu testen.",
+        "url": "https://qption.com/fundamental-analysis/quiz",
+        "ogImage": "https://qption.com/images/og/fundamental-analysis-quiz.jpg"
+    },
+    "ui": {
+        "loadingPool": "Quizfragen werden geladen …",
+        "preparing": "Quiz wird vorbereitet …",
+        "h1": "Fundamentalanalyse",
+        "intro": "Stelle dein Makro-Wissen mit unserem interaktiven Fundamentalanalyse-Quiz auf die Probe – teste Wachstum- und Inflationsdaten, Notenbankpolitik, Zinsdifferenzen, fiskalische Effekte sowie Cross-Asset-Dynamiken, um ein informierter, überzeugungsstarker Trader zu werden.",
+        "quizTitle": "Fundamentalanalyse-Quiz",
+        "questionOf": "Frage {{current}} von {{total}}",
+        "selectPrompt": "Wähle eine Option und sende deine Antwort.",
+        "correct": "Richtig ✅",
+        "notQuite": "Nicht ganz ⚠️",
+        "learnMore": "Mehr erfahren ↗",
+        "prev": "Zurück",
+        "submit": "Abschicken",
+        "next": "Weiter",
+        "finish": "Beenden",
+        "scoreLabel": "Score: {{score}} / {{total}}",
+        "resultHigh": "Großartig! Dein Makro-Radar ist messerscharf.",
+        "resultMid": "Stark! Weiter üben, um das nächste Level zu erreichen.",
+        "resultLow": "Guter Start – Lektionen wiederholen und erneut versuchen.",
+        "newRandom": "Neue zufällige 10"
+    },
+    "pool": [
+        {
+            "q": "Welcher Indikator dient am unmittelbarsten als primäres Maß für Verbraucherpreisinflation?",
+            "options": [
+                "BIP",
+                "VPI",
+                "Handelsbilanz",
+                "Einzelhandelsumsätze"
+            ],
+            "correctIndex": 1,
+            "explain": "Der Verbraucherpreisindex misst Preisänderungen eines Warenkorbs und ist der zentrale Inflationsindikator.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Economic Indicators"
+        },
+        {
+            "q": "Ein steigender BIP-Wert signalisiert – bei sonst gleichen Bedingungen – am ehesten:",
+            "options": [
+                "Wirtschaftliche Kontraktion",
+                "Wirtschaftliche Expansion",
+                "Stagflation",
+                "Nur Währungsabwertung"
+            ],
+            "correctIndex": 1,
+            "explain": "Das BIP misst die Gesamtproduktion; ein Anstieg deutet meist auf Wachstumsmomentum hin.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Economic Indicators"
+        },
+        {
+            "q": "Welche Veröffentlichung kann wegen ihrer Bedeutung für den Arbeitsmarkt große FX-Bewegungen auslösen?",
+            "options": [
+                "Non-Farm Payrolls (Beschäftigungsdaten)",
+                "Erzeugerpreisindex",
+                "Einzelhandelslagerbestände",
+                "Budgetbericht"
+            ],
+            "correctIndex": 0,
+            "explain": "Arbeitsmarktdaten steuern Zinserwartungen und Wachstumsausblick – Währungen reagieren häufig stark.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Economic Indicators"
+        },
+        {
+            "q": "Wenn eine Zentralbank ihren Leitzins senkt, zielt sie meist darauf ab:",
+            "options": [
+                "eine überhitzte Wirtschaft abzukühlen",
+                "Kredite und Ausgaben zu stimulieren",
+                "die Geldmenge zu reduzieren",
+                "die Währung sofort zu stärken"
+            ],
+            "correctIndex": 1,
+            "explain": "Niedrigere Zinsen senken Finanzierungskosten und stützen Nachfrage sowie Investitionen.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Central Banks"
+        },
+        {
+            "q": "Anleihekurse bewegen sich typischerweise _____ zu Zinssätzen.",
+            "options": [
+                "umgekehrt",
+                "identisch",
+                "zufällig",
+                "ohne Zusammenhang"
+            ],
+            "correctIndex": 0,
+            "explain": "Steigende Renditen machen bestehende Kupons unattraktiver – Kurse fallen (und umgekehrt).",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Central Banks"
+        },
+        {
+            "q": "Forward Guidance bezeichnet:",
+            "options": [
+                "ein fixes Wechselkurssystem",
+                "Kommunikation über zukünftige geldpolitische Absichten",
+                "nur QE-Operationen",
+                "Prognosen zum Haushaltsdefizit"
+            ],
+            "correctIndex": 1,
+            "explain": "Zentralbanken steuern Erwartungen, indem sie ihren wahrscheinlichen Politikpfad signalisieren.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Central Banks"
+        },
+        {
+            "q": "Hohe Inflation tendiert dazu, eine Währung zu _____, sofern keine höheren Zinsen gegensteuern.",
+            "options": [
+                "stärken",
+                "schwächen",
+                "nicht zu beeinflussen",
+                "den Wechselkurs zu fixieren"
+            ],
+            "correctIndex": 1,
+            "explain": "Inflation schmälert Kaufkraft; Zinserhöhungen können über höhere Renditen gegenwirken.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Inflation"
+        },
+        {
+            "q": "Manche Anleger sehen Bitcoin als Inflationsschutz, weil:",
+            "options": [
+                "es unbegrenztes Angebot hat",
+                "das Angebot im Protokoll gedeckelt ist",
+                "es den VPI per Design abbildet",
+                "es an den USD gekoppelt ist"
+            ],
+            "correctIndex": 1,
+            "explain": "Die wahrgenommene Knappheit lässt einige BTC als Hedge bei hoher Inflation betrachten.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Inflation"
+        },
+        {
+            "q": "Ein klassischer Currency Carry Trade versucht:",
+            "options": [
+                "in Hochzinswährungen zu leihen und in Niedrigzinswährungen anzulegen",
+                "in Niedrigzinswährungen zu leihen und in Hochzinswährungen zu investieren",
+                "Zinsrisiko komplett zu eliminieren",
+                "nur Cash zu halten"
+            ],
+            "correctIndex": 1,
+            "explain": "Positive Zinsdifferenzen liefern Carry – bis Volatilität oder Regimewechsel das Bild ändern.",
+            "source": "https://qption.com/fundamentalanalysis/interest-rate-differentials-carry-trades",
+            "topic": "Carry"
+        },
+        {
+            "q": "In geopolitischen Stressphasen rotieren Anleger oft in:",
+            "options": [
+                "ausschließlich Small-Cap-Growth",
+                "höher-betaige Assets",
+                "Safe-Haven-Anlagen (z. B. Gold, CHF, JPY, Treasuries)",
+                "illiquide Microcaps"
+            ],
+            "correctIndex": 2,
+            "explain": "Unsicherheit erhöht die Nachfrage nach wahrgenommener Sicherheit und Liquidität.",
+            "source": "https://qption.com/fundamentalanalysis/geopolitical-events-and-markets",
+            "topic": "Geopolitics"
+        },
+        {
+            "q": "Expansive Fiskalpolitik umfasst typischerweise:",
+            "options": [
+                "Steuern erhöhen und Ausgaben kürzen",
+                "Steuern senken und/oder Ausgaben erhöhen",
+                "nur Haushaltsausgleich",
+                "Verkauf von Devisenreserven"
+            ],
+            "correctIndex": 1,
+            "explain": "Ziel ist es, Gesamtnachfrage, Wachstum und Beschäftigung in Abschwüngen zu unterstützen.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Fiscal"
+        },
+        {
+            "q": "Ein wesentliches Risiko dauerhafter Haushaltsdefizite ist:",
+            "options": [
+                "sinkende Staatsverschuldung",
+                "geringere Zinskosten",
+                "steigende Staatsverschuldung und Zinslast",
+                "automatische Währungsaufwertung"
+            ],
+            "correctIndex": 2,
+            "explain": "Hohe Schulden verringern Handlungsspielräume und können andere Prioritäten verdrängen.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Fiscal"
+        },
+        {
+            "q": "Ein hoher Schuldenstand im Verhältnis zum BIP kann darauf hinweisen:",
+            "options": [
+                "geringen Kreditbedarf",
+                "potenzielle Nachhaltigkeitsprobleme",
+                "garantiertes Wachstum",
+                "fixe Wechselkurse"
+            ],
+            "correctIndex": 1,
+            "explain": "Schwere Schuldenlasten können Wachstum und Vertrauen belasten, wenn sie nicht gemanagt werden.",
+            "source": "https://qption.com/fundamentalanalysis/global-debt-levels-and-currency-valuation",
+            "topic": "Debt/Currency"
+        },
+        {
+            "q": "Rohstoffpreise werden primär bestimmt durch:",
+            "options": [
+                "nur Geldpolitik",
+                "Angebots-/Nachfragedynamik und Schocks",
+                "reinen Zufall",
+                "ausschließlich Steuerpolitik"
+            ],
+            "correctIndex": 1,
+            "explain": "Angebotsausfälle oder Nachfrageschübe (z. B. Wachstum, Wetter) bewegen Preise deutlich.",
+            "source": "https://qption.com/fundamentalanalysis/supply-and-demand-commodities",
+            "topic": "Commodities"
+        },
+        {
+            "q": "Welche der folgenden Anlagen gilt üblicherweise als sicherer Hafen?",
+            "options": [
+                "High-Beta-Tech-Aktie",
+                "Gold",
+                "Small-Cap-Biotech",
+                "Emerging-Markets-Carry"
+            ],
+            "correctIndex": 1,
+            "explain": "In Turbulenzen fließen Gelder häufig in Gold, CHF, JPY und hochwertige Staatsanleihen.",
+            "source": "https://qption.com/fundamentalanalysis/safe-haven-assets-market-turbulence",
+            "topic": "Safe Haven"
+        },
+        {
+            "q": "Aktien- und FX/CFD-Märkte können sich gemeinsam bewegen, weil beide beeinflusst werden von:",
+            "options": [
+                "denselben Makrotreibern (Wachstum, Inflation, Zinsen, Risikoappetit)",
+                "völlig unabhängigen Kräften",
+                "nur Wetter",
+                "einem einzigen Earnings-Report"
+            ],
+            "correctIndex": 0,
+            "explain": "Makro-Regime (Risk-on/off) erzeugen oft Cross-Asset-Korrelationen.",
+            "source": "https://qption.com/fundamentalanalysis/forex-cfds",
+            "topic": "Cross-Asset"
+        },
+        {
+            "q": "Strengere Kryptoregulierung kann:",
+            "options": [
+                "nur Preise erhöhen",
+                "keinen Einfluss auf Teilnahme haben",
+                "Adoption, Liquidität und Marktstruktur beeinflussen",
+                "Volatilität vollständig eliminieren"
+            ],
+            "correctIndex": 2,
+            "explain": "Regeln bestimmen On-/Off-Ramps, institutionellen Zugang und Marktverhalten.",
+            "source": "https://qption.com/fundamentalanalysis/crypto-adoption-regulation",
+            "topic": "Crypto Regulation"
+        },
+        {
+            "q": "Wie sichern Blockchains Transaktionshistorien grob ab?",
+            "options": [
+                "nur mit zentralisierten Registern",
+                "mit verteiltem Konsens und Kryptografie",
+                "mit Papierakten",
+                "über einen einzelnen Firmenserver"
+            ],
+            "correctIndex": 1,
+            "explain": "Konsensmechanismen (z. B. PoW/PoS) und kryptografische Verkettung bewahren die Integrität.",
+            "source": "https://qption.com/fundamentalanalysis/blockchain-fundamental-analysis",
+            "topic": "Blockchain"
+        }
+    ]
+}

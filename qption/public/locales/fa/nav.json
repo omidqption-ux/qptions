@@ -1,0 +1,94 @@
+{
+    "login": "ورود",
+    "cabinet": "پنل کاربری",
+    "auth": {
+        "login": "ورود",
+        "register": "ثبت‌نام"
+    },
+    "sections": [
+        {
+            "key": "trading",
+            "title": "معامله‌گری",
+            "items": [
+                {
+                    "title": "اخبار",
+                    "link": "/news"
+                },
+                {
+                    "title": "انواع حساب‌ها",
+                    "link": "/Accounttypes"
+                },
+                {
+                    "title": "معامله‌گری اجتماعی",
+                    "link": "/socialTrading"
+                },
+                {
+                    "title": "معامله‌گری با هوش مصنوعی",
+                    "link": "/AITrading"
+                },
+                {
+                    "title": "برنامه همکاری در فروش",
+                    "link": "/Affiliate"
+                }
+            ]
+        },
+        {
+            "key": "education",
+            "title": "آموزش",
+            "items": [
+                {
+                    "title": "تحلیل تکنیکال",
+                    "link": "/technical-analysis"
+                },
+                {
+                    "title": "استراتژی‌های معاملاتی",
+                    "link": "/trading-strategy"
+                },
+                {
+                    "title": "تحلیل گرافیکی",
+                    "link": "/graphical-analysis"
+                },
+                {
+                    "title": "تحلیل فاندامنتال",
+                    "link": "/fundamentalanalysis"
+                },
+                {
+                    "title": "فرهنگ لغات",
+                    "link": "/Glossary"
+                }
+            ]
+        },
+        {
+            "key": "company",
+            "title": "شرکت",
+            "items": [
+                {
+                    "title": "سیاست پرداخت",
+                    "link": "/PaymentPolicy"
+                },
+                {
+                    "title": "سیاست بازگشت وجه",
+                    "link": "/ReturnPolicy"
+                },
+                {
+                    "title": "مبارزه با پول‌شویی و احراز هویت",
+                    "link": "/AMLAndKYC"
+                },
+                {
+                    "title": "سیاست حفظ حریم خصوصی",
+                    "link": "/PricvacyPolicy"
+                },
+                {
+                    "title": "شرایط و مقررات",
+                    "link": "/TermsAndCondition"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "title": "تماس با ما",
+        "email": "contact@qption.com",
+        "phone": "+46 766926599",
+        "location": "استکهلم، سوئد"
+    }
+}

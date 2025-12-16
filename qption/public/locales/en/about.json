@@ -1,0 +1,62 @@
+{
+    "seo": {
+        "title": "About Us – Qption",
+        "description": "Get to know the team, the mission and the technology behind Qption—an options-trading platform built for speed, transparency and every level of trader."
+    },
+    "hero": {
+        "title": "Revolutionizing Online Trading",
+        "subtitle": "Founded by a team of visionary FinTech experts, Qption is redefining what it means to trade in today's digital world. We believe trading should be accessible, innovative, and rewarding for everyone."
+    },
+    "box": {
+        "heading": "About Qption",
+        "companyRegistration": {
+            "title": "Company Registration",
+            "body": "Qption LLC is registered at SVG, First Floor, First St. Vincent Bank Ltd Building, James Street Kingstown, St. Vincent and the Grenadines with the registration number 1744 LLC 22."
+        },
+        "globalPresence": {
+            "title": "Global Presence",
+            "body": "Serving traders worldwide with a secure and reliable trading platform."
+        },
+        "securityFirst": {
+            "title": "Security First",
+            "body": "Your security is our priority. We implement industry-leading measures to protect your data and investments."
+        },
+        "tradingExcellence": {
+            "title": "Trading Excellence",
+            "body": "Providing advanced tools and resources to help you succeed in the markets."
+        }
+    },
+    "stats": {
+        "activeTraders": "Active Traders",
+        "monthlyVolume": "Monthly Volume",
+        "countries": "Countries",
+        "avgIncome": "Avg. Monthly Income"
+    },
+    "values": {
+        "heading": "Our Core Values",
+        "innovationFirst": {
+            "title": "Innovation First",
+            "desc": "We constantly push boundaries with cutting-edge features and new standards."
+        },
+        "customerCentric": {
+            "title": "Customer Centric",
+            "desc": "Your success is our success. We’re committed to exceptional service and support."
+        },
+        "communityDriven": {
+            "title": "Community Driven",
+            "desc": "Our platform thrives on trader interaction and shared success."
+        },
+        "integrity": {
+            "title": "Integrity",
+            "desc": "We operate with transparency and strong compliance in all operations."
+        },
+        "sustainability": {
+            "title": "Sustainability",
+            "desc": "We build long-term relationships and a stable, reliable platform."
+        },
+        "sharedSuccess": {
+            "title": "Shared Success",
+            "desc": "We make trading accessible and profitable for traders worldwide."
+        }
+    }
+}

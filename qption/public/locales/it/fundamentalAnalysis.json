@@ -1,0 +1,103 @@
+{
+    "seo": {
+        "title": "Analisi Fondamentale – Approfondimenti Macro e Radar degli Utili | Qption",
+        "description": "Rimani un passo avanti al mercato con il centro di analisi fondamentale di Qption: impatto del calendario economico in tempo reale, panoramiche sugli utili aziendali e ricerche macro per forex, crypto e indici globali.",
+        "keywords": "analisi fondamentale, calendario economico, rapporti sugli utili, analisi macroeconomica, dati sull'inflazione, tassi di interesse, pubblicazioni PIL, fondamentali forex, fondamentali crypto, ricerca Qption",
+        "ogTitle": "Analisi Fondamentale – Approfondimenti Macro e Radar degli Utili | Qption",
+        "ogDescription": "Segui i dati che muovono i mercati — il team di ricerca di Qption sintetizza le principali pubblicazioni economiche e gli utili in idee operative concrete.",
+        "url": "https://qption.com/fundamental-analysis",
+        "image": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Analisi Fondamentale – Approfondimenti Macro e Radar degli Utili | Qption",
+        "twitterDescription": "Scopri la storia dietro i grafici: segui in tempo reale i dati economici e gli utili con la suite di analisi fondamentale di Qption.",
+        "twitterImage": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "canonical": "https://qption.com/fundamental-analysis"
+    },
+    "page": {
+        "title": "Analisi Fondamentale",
+        "subtitle": "Esplora analisi approfondite di indicatori economici, tendenze di mercato e strumenti finanziari per prendere decisioni di trading informate."
+    },
+    "cta": {
+        "takeQuiz": "Fai il nostro quiz"
+    },
+    "cards": {
+        "economicIndicators": {
+            "title": "Indicatori Economici",
+            "description": "Principali metriche economiche e il loro impatto sui mercati"
+        },
+        "centralBankPolicies": {
+            "title": "Politiche delle Banche Centrali",
+            "description": "Politiche monetarie e loro influenza sui mercati"
+        },
+        "inflation": {
+            "title": "Analisi dell'Inflazione",
+            "description": "Comprendere le tendenze e gli effetti dell'inflazione"
+        },
+        "interestRates": {
+            "title": "Tassi di Interesse",
+            "description": "Movimenti dei tassi e impatto sui mercati"
+        },
+        "geopolitics": {
+            "title": "Eventi Geopolitici e Mercati",
+            "description": "Eventi globali e le loro implicazioni sui mercati"
+        },
+        "fiscalPolicy": {
+            "title": "Politiche Fiscali e Spesa Pubblica",
+            "description": "Effetti della spesa governativa e della tassazione"
+        },
+        "debtAndFX": {
+            "title": "Livelli di Debito e Valutazione delle Valute",
+            "description": "Analisi dei mercati obbligazionari e degli strumenti di debito"
+        },
+        "supplyDemandCommodities": {
+            "title": "Domanda e Offerta (Materie Prime)",
+            "description": "Mercati delle materie prime e fattori che ne determinano i prezzi"
+        },
+        "safeHavens": {
+            "title": "Beni Rifugio e Turbolenze di Mercato",
+            "description": "Analisi degli investimenti tradizionali considerati sicuri"
+        },
+        "forexCfds": {
+            "title": "Forex e CFD",
+            "description": "Mercati valutari e strumenti derivati"
+        },
+        "cryptoRegulation": {
+            "title": "Adozione e Regolamentazione delle Criptovalute",
+            "description": "Tendenze del mercato crypto e livello di adozione"
+        },
+        "blockchainFA": {
+            "title": "Analisi Fondamentale della Blockchain",
+            "description": "Sviluppi e applicazioni della tecnologia blockchain"
+        }
+    },
+    "tournaments": {
+        "title": "Tornei",
+        "labels": {
+            "prize": "Premio",
+            "participants": "Partecipanti"
+        },
+        "ui": {
+            "join": "Partecipa al Torneo",
+            "close": "Chiudi"
+        },
+        "defaults": {
+            "weekly": {
+                "title": "Sfida Settimanale di Trading",
+                "prize": "$5,000",
+                "participants": "1.234",
+                "startDate": "2024-04-25",
+                "endDate": "2024-05-02",
+                "status": "Inizio Imminente"
+            },
+            "monthly": {
+                "title": "Torneo Mensile Master",
+                "prize": "$25,000",
+                "participants": "3.456",
+                "startDate": "2024-05-01",
+                "endDate": "2024-05-31",
+                "status": "Iscrizioni Aperte"
+            }
+        },
+        "list": []
+    }
+}

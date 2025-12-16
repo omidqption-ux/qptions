@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "V-Bounce (Volume Spike) Trading Strategy | Qption",
+        "description": "Learn the V-Bounce trading strategy: use support & resistance, break-or-bounce decision points, breakout “strike” and first pullback “boomerang,” plus bounce entries and fractal confirmation for 60-second options.",
+        "keywords": "V-Bounce, volume spike, support and resistance, breakout strategy, pullback strategy, boomerang entry, fractal confirmation, 60-second options, trading strategy, Qption",
+        "ogAlt": "V-Bounce trading strategy with volume spike and support & resistance",
+        "ld": {
+            "headline": "V-Bounce (Volume Spike) Trading Strategy"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading strategy"
+    },
+    "cta": {
+        "ready": "Ready to trade",
+        "startTrading": "Start Trading"
+    },
+    "hero": {
+        "title": "V-Bounce Volume Spike Trading Strategy",
+        "subtitle": "To maximize profits in smaller trades, many traders focus on more liquid markets to increase trade frequency. One popular 60-second options strategy involves identifying clear price rebounds from defined support or resistance levels. This approach allows traders to capitalize on rapid, predictable price movements in a short time frame."
+    },
+    "sr": {
+        "title": "Role of support and resistance",
+        "p1": "Support and resistance (S&R) levels are essential tools for trading on Qption. These levels help traders identify potential entry and exit points by marking price zones where assets have historically reversed or paused. Recognizing these zones enables traders to make more informed decisions, anticipating price rebounds or breakouts to optimize their trading strategies.",
+        "p2": "When price approaches pre-determined support or resistance, traders can define a potential “break or bounce spot.” This clarifies whether price is more likely to rebound off the level or break through it, signaling continuation.",
+        "list": {
+            "title": "Common S&R elements",
+            "i1": {
+                "h": "Historical Highs and Lows",
+                "p": "Prior peaks and troughs often act as strong S&R zones."
+            },
+            "i2": {
+                "h": "Moving Averages",
+                "p": "Widely used MAs (e.g., 50/200) can behave as dynamic S&R."
+            },
+            "i3": {
+                "h": "Trend Lines",
+                "p": "Lines drawn along swings highlight likely continuation or reversal areas."
+            },
+            "i4": {
+                "h": "Fibonacci Retracements",
+                "p": "Levels like 38.2%, 50%, and 61.8% frequently align with S&R."
+            },
+            "i5": {
+                "h": "Round Numbers",
+                "p": "Psychological handles (e.g., 1.00 / 100) often act as barriers."
+            }
+        }
+    },
+    "bb": {
+        "title": "Break or bounce spot",
+        "p": "Once a Qption trader identifies a key S&R level, it becomes a “line in the sand.” This predefined decision point focuses attention on price behavior at that level—watching closely for a bounce or a break."
+    },
+    "why": {
+        "title": "Why is this important?",
+        "l1": "Pre-marking levels filters noise and creates objective decision points.",
+        "l2": "Without filters, every tick looks important, inviting fear/greed-driven decisions.",
+        "p1": "After mapping a break/bounce spot with your tools, wait for price to approach the zone. When price arrives, observe whether it breaks through or respects the level and reverses.",
+        "strike": {
+            "h": "Breakout (Strike)",
+            "p": "Price pushes through S&R, signaling potential continuation. These can be traded in the breakout direction."
+        },
+        "boomerang": {
+            "h": "First Pullback (Boomerang)",
+            "p": "After the break, price often retests the broken level. That first pullback can confirm strength and offer a secondary entry."
+        },
+        "p2": "On Qption we focus on spotting strikes (breakouts) and the first pullback (boomerang) for options entries."
+    },
+    "bounce": {
+        "title": "Trading bounces",
+        "p1": "A bounce can be a small retracement, a deep retracement, or a full reversal. Big tops/bottoms and Fibonacci levels are rarely broken without some “respect.”",
+        "p2": "Bounce entry styles include:",
+        "direct": {
+            "h": "Direct",
+            "p": "Place an entry order exactly at the S&R (e.g., a Fibonacci level or prior top). Advantage: earliest fill. Caveat: price can briefly overrun the zone on lower timeframes, complicating stops."
+        },
+        "confirm": {
+            "h": "Confirmation of bounce",
+            "p": "Wait for a visible reaction at S&R (stall/reject), then enter with confirmation instead of blind limits."
+        },
+        "breakAfter": {
+            "h": "Breakout after bounce",
+            "p": "Use tools like fractals to define structure and consider scaling in/out on the Qption platform."
+        }
+    },
+    "fractals": {
+        "title": "Bounce using fractals",
+        "lead": "Another way to trade the bounce is by using fractals. Process:",
+        "steps": {
+            "1": "Anticipate an important S&R.",
+            "2": "Wait for price to react there and print a fractal.",
+            "3": "Wait for price to move away from that S&R.",
+            "4": "Wait for a fractal on the opposite side.",
+            "5": "Trade the break of that opposite fractal."
+        },
+        "meanTitle": "What does this mean?",
+        "meanBody": "By letting price stop–reverse–stop–reverse, you get two lines in the sand: the expected S&R and the opposite fractal. A break of either line typically reveals the likely winner."
+    }
+}

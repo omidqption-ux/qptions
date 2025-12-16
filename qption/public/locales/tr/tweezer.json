@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Cımbız (Tweezers) Ticaret Stratejisi – Tweezer Top & Bottom Dönüş Formasyonları | Qption",
+        "description": "Cımbız stratejisinde ustalaşın: Tweezer Top ve Tweezer Bottom mum çubuğu dönüş formasyonlarını tanımlayın, sinyalleri RSI ve destek/direnç seviyeleriyle doğrulayın ve doğru stop-loss yerleşimiyle riski yönetin. Kurulum kuralları, onay yöntemleri, artılar ve eksiler dahil.",
+        "keywords": "Cımbız stratejisi, Tweezer Top, Tweezer Bottom, mum dönüş formasyonları, trend dönüşü, destek ve direnç, yükseliş dönüşü, düşüş dönüşü, RSI onayı, stop-loss stratejisi, fiyat hareketi analizi, teknik analiz, ticaret stratejisi, Qption",
+        "ogAlt": "RSI ve destek/direnç onaylarıyla Tweezer Top ve Bottom mum formasyonları",
+        "ld": {
+            "headline": "Cımbız (Tweezers) Ticaret Stratejisi – Tweezer Top & Bottom Dönüş Formasyonları"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Ticaret stratejisi"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısınız?",
+        "startTrading": "Ticarete Başla"
+    },
+    "hero": {
+        "title": "Cımbız Stratejisi",
+        "subtitle": "Cımbız stratejisi, piyasadaki potansiyel tepe ve dip noktalarını basit iki mumdan oluşan dönüş formasyonu ile belirler. Fiyatların aynı seviyeyi iki kez reddetmesiyle (her mumda bir kez) trend dönüşünü erken fark etmenizi sağlar."
+    },
+    "video": {
+        "aria": "Cımbız stratejisi, piyasadaki potansiyel tepe ve dip dönüşlerini göstermek için kullanılan bir mum formasyonudur."
+    },
+    "overview": {
+        "title": "Genel Bakış",
+        "items": {
+            "1": "Cımbız stratejisi, fiyat hareketinde potansiyel tepe ve dipleri vurgulayan bir mum dönüş formasyonudur.",
+            "2": "İki ardışık mumun neredeyse aynı zirve veya dip seviyelerine sahip olmasıyla oluşur ve önemli bir seviyede güçlü reddedilmeyi gösterir.",
+            "3": "İki tür cımbız vardır: Tweezer Top (düşüş dönüşü) ve Tweezer Bottom (yükseliş dönüşü)."
+        }
+    },
+    "top": {
+        "title": "1. Tweezer Top Stratejisi",
+        "items": {
+            "1": {
+                "label": "Oluşum",
+                "text": "Yükselen bir trendin sonunda, iki ardışık mumun neredeyse aynı zirvelere sahip olmasıyla oluşur."
+            },
+            "2": {
+                "label": "Birinci Mum",
+                "text": "Genellikle reddedilmeden önce güçlü bir yukarı momentum gösteren boğa mumudur."
+            },
+            "3": {
+                "label": "İkinci Mum",
+                "text": "Aynı zirveye sahip bir ayı mumu olup, aynı fiyat seviyesinde direnci gösterir."
+            },
+            "4": {
+                "label": "Onay",
+                "text": "Dönüş, bir sonraki mumun Tweezer formasyonunun en düşük seviyesinin altında kapanmasıyla doğrulanır."
+            }
+        }
+    },
+    "bottom": {
+        "title": "2. Tweezer Bottom Stratejisi",
+        "items": {
+            "1": {
+                "label": "Oluşum",
+                "text": "Düşen bir trendin sonunda, iki mumun neredeyse aynı dip seviyelerine sahip olmasıyla ortaya çıkar."
+            },
+            "2": {
+                "label": "Birinci Mum",
+                "text": "Genellikle satış baskısının devam ettiği bir ayı mumudur, ardından alıcılar devreye girer."
+            },
+            "3": {
+                "label": "İkinci Mum",
+                "text": "Aynı dip seviyesine sahip bir boğa mumudur ve destek ile alım gücünü gösterir."
+            },
+            "4": {
+                "label": "Onay",
+                "text": "Bir sonraki mum, Tweezer formasyonunun en yüksek seviyesinin üzerinde kapanarak dönüşü doğrular."
+            }
+        }
+    },
+    "use": {
+        "title": "Cımbız Stratejisi Nasıl Kullanılır",
+        "items": {
+            "1": "Daha yüksek doğruluk için Tweezer Top veya Bottom formasyonlarını önemli destek veya direnç seviyelerinde arayın.",
+            "2": "Aşırı alım veya aşırı satım koşullarını doğrulamak için RSI gibi göstergelerle birleştirin.",
+            "3": "Riski etkin bir şekilde yönetmek için stop-loss emirlerini Tweezer Top’un biraz üstüne veya Tweezer Bottom’un biraz altına yerleştirin."
+        }
+    },
+    "pros": {
+        "title": "Avantajlar",
+        "items": {
+            "1": "Basit bir formasyondur – yalnızca iki ardışık mumla kolayca tanımlanabilir.",
+            "2": "Önemli destek/direnç bölgelerinde güvenilir dönüş sinyalleri sağlar.",
+            "3": "RSI, MACD veya trend çizgileri gibi onay araçlarıyla birlikte iyi çalışır."
+        }
+    },
+    "cons": {
+        "title": "Dezavantajlar",
+        "items": {
+            "1": "Yanlış dönüş sinyallerinden kaçınmak için onay gerektirir.",
+            "2": "Yatay veya düşük hacimli piyasalarda daha az güvenilirdir.",
+            "3": "Diğer analiz araçları kullanılmadan tek başına yanıltıcı olabilir."
+        }
+    }
+}

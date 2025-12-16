@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Quiz di Analisi Fondamentale – Metti alla prova le tue conoscenze di mercato | Qption",
+        "description": "Metti alla prova la tua comprensione di macroeconomia, tassi d’interesse, inflazione e dinamiche di mercato con il Quiz di Analisi Fondamentale di Qption. Impara e negozia con maggiore consapevolezza.",
+        "keywords": "quiz analisi fondamentale, macroeconomia, quiz forex, inflazione, tassi di interesse, banche centrali, PIL, CPI, carry trade, Qption",
+        "ogTitle": "Quiz di Analisi Fondamentale – Metti alla prova le tue conoscenze di mercato | Qption",
+        "ogDesc": "Quiz interattivo per testare la tua padronanza di indicatori economici, banche centrali, inflazione e mercati globali.",
+        "url": "https://qption.com/fundamental-analysis/quiz",
+        "ogImage": "https://qption.com/images/og/fundamental-analysis-quiz.jpg"
+    },
+    "ui": {
+        "loadingPool": "Caricamento delle domande del quiz…",
+        "preparing": "Preparazione del quiz…",
+        "h1": "Analisi Fondamentale",
+        "intro": "Metti alla prova la tua mentalità macro con il nostro Quiz di Analisi Fondamentale — verifica la padronanza di dati su crescita e inflazione, politiche delle banche centrali, differenziali dei tassi, impatti fiscali e dinamiche cross-asset per diventare un trader più informato e deciso.",
+        "quizTitle": "Quiz di Analisi Fondamentale",
+        "questionOf": "Domanda {{current}} di {{total}}",
+        "selectPrompt": "Seleziona un'opzione e invia la risposta.",
+        "correct": "Corretto ✅",
+        "notQuite": "Non proprio ⚠️",
+        "learnMore": "Approfondisci ↗",
+        "prev": "Precedente",
+        "submit": "Invia",
+        "next": "Avanti",
+        "finish": "Fine",
+        "scoreLabel": "Punteggio: {{score}} / {{total}}",
+        "resultHigh": "Eccellente! Il tuo radar macro è affilato.",
+        "resultMid": "Bel lavoro! Continua a esercitarti per migliorare.",
+        "resultLow": "Buon inizio — rivedi le lezioni e riprova.",
+        "newRandom": "Nuove 10 casuali"
+    },
+    "pool": [
+        {
+            "q": "Quale indicatore è usato più direttamente come misura primaria dell’inflazione al consumo?",
+            "options": [
+                "PIL",
+                "CPI",
+                "Bilancia commerciale",
+                "Vendite al dettaglio"
+            ],
+            "correctIndex": 1,
+            "explain": "Il Consumer Price Index rileva le variazioni dei prezzi di un paniere di beni/servizi ed è un indicatore primario dell’inflazione.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Indicatori Economici"
+        },
+        {
+            "q": "Un dato di PIL in aumento, a parità di condizioni, suggerisce più probabilmente:",
+            "options": [
+                "Contrazione economica",
+                "Espansione economica",
+                "Stagflazione",
+                "Solo deprezzamento della valuta"
+            ],
+            "correctIndex": 1,
+            "explain": "Il PIL misura la produzione totale; un incremento riflette in genere slancio della crescita.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Indicatori Economici"
+        },
+        {
+            "q": "Quale pubblicazione può innescare forti movimenti FX per le implicazioni sul mercato del lavoro?",
+            "options": [
+                "Non-farm payrolls (occupazione USA)",
+                "PPI",
+                "Scorte al dettaglio",
+                "Bilancio di bilancio"
+            ],
+            "correctIndex": 0,
+            "explain": "I dati sull’occupazione influenzano le attese sui tassi e le prospettive di crescita, muovendo spesso le valute.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Indicatori Economici"
+        },
+        {
+            "q": "Quando una banca centrale taglia il tasso ufficiale, mira più comunemente a:",
+            "options": [
+                "Raffreddare un’economia surriscaldata",
+                "Stimolare prestiti e spesa",
+                "Ridurre l’offerta di moneta",
+                "Rafforzare immediatamente la valuta"
+            ],
+            "correctIndex": 1,
+            "explain": "Tassi più bassi riducono i costi di finanziamento, sostenendo domanda e investimenti.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Banche Centrali"
+        },
+        {
+            "q": "I prezzi delle obbligazioni si muovono tipicamente _____ rispetto ai tassi d’interesse.",
+            "options": [
+                "In modo inverso",
+                "Identico",
+                "Casuale",
+                "Non correlato"
+            ],
+            "correctIndex": 0,
+            "explain": "Quando i rendimenti salgono, le cedole fisse esistenti sono meno attraenti e i prezzi scendono (e viceversa).",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Banche Centrali"
+        },
+        {
+            "q": "Per forward guidance si intende:",
+            "options": [
+                "Un regime di cambio fisso",
+                "Comunicazioni sulle intenzioni di politica futura",
+                "Solo le operazioni di QE",
+                "Proiezioni sul deficit fiscale"
+            ],
+            "correctIndex": 1,
+            "explain": "Le banche centrali orientano le aspettative tramite indicazioni sui probabili percorsi di politica monetaria.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Banche Centrali"
+        },
+        {
+            "q": "Un’alta inflazione tende a _____ una valuta a meno che non sia compensata da tassi più alti.",
+            "options": [
+                "Rafforzare",
+                "Indebolire",
+                "Non avere effetti",
+                "Fissare il tasso di cambio"
+            ],
+            "correctIndex": 1,
+            "explain": "L’inflazione erode il potere d’acquisto; rialzi dei tassi possono controbilanciare grazie a rendimenti più elevati.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Inflazione"
+        },
+        {
+            "q": "Alcuni investitori vedono Bitcoin come potenziale copertura dall’inflazione perché:",
+            "options": [
+                "Ha un’offerta illimitata",
+                "La sua offerta è limitata dal protocollo",
+                "Replica il CPI per definizione",
+                "È ancorato al USD"
+            ],
+            "correctIndex": 1,
+            "explain": "La percezione di scarsità porta alcuni a trattare BTC come hedge in regimi di alta inflazione.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Inflazione"
+        },
+        {
+            "q": "Un classico carry trade valutario mira a:",
+            "options": [
+                "Prendere a prestito in valute ad alto tasso e prestare in valute a basso tasso",
+                "Prendere a prestito in valute a basso tasso e investire in valute ad alto tasso",
+                "Eliminare l’esposizione ai tassi",
+                "Detenere solo contanti"
+            ],
+            "correctIndex": 1,
+            "explain": "Differenziali di tasso positivi possono generare carry — finché volatilità/cambi di regime non lo erodono.",
+            "source": "https://qption.com/fundamentalanalysis/interest-rate-differentials-carry-trades",
+            "topic": "Carry"
+        },
+        {
+            "q": "Durante tensioni geopolitiche, gli investitori spesso ruotano verso:",
+            "options": [
+                "Solo small-cap growth",
+                "Asset più beta",
+                "Beni rifugio (es. oro, CHF, JPY, Treasury)",
+                "Micro-cap illiquide"
+            ],
+            "correctIndex": 2,
+            "explain": "L’incertezza alimenta la domanda di sicurezza e liquidità.",
+            "source": "https://qption.com/fundamentalanalysis/geopolitical-events-and-markets",
+            "topic": "Geopolitica"
+        },
+        {
+            "q": "La politica fiscale espansiva in genere include:",
+            "options": [
+                "Aumentare le tasse e tagliare la spesa",
+                "Tagliare le tasse e/o aumentare la spesa",
+                "Solo pareggio di bilancio",
+                "Vendere riserve in valuta estera"
+            ],
+            "correctIndex": 1,
+            "explain": "Obiettivo: sostenere domanda aggregata, crescita e occupazione nelle fasi di rallentamento.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Politica Fiscale"
+        },
+        {
+            "q": "Un rischio chiave di deficit fiscali persistenti è:",
+            "options": [
+                "Riduzione del debito pubblico",
+                "Riduzione degli oneri per interessi",
+                "Aumento del debito pubblico e degli oneri per interessi",
+                "Apprezzamento automatico della valuta"
+            ],
+            "correctIndex": 2,
+            "explain": "Debito elevato riduce la flessibilità e può spiazzare altre priorità.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Politica Fiscale"
+        },
+        {
+            "q": "Un alto rapporto debito/PIL può segnalare:",
+            "options": [
+                "Bassa dipendenza dal debito",
+                "Possibili preoccupazioni di sostenibilità",
+                "Crescita garantita",
+                "Tassi di cambio fissi"
+            ],
+            "correctIndex": 1,
+            "explain": "Carichi di debito ingenti possono compromettere crescita e fiducia nella valuta se non gestiti.",
+            "source": "https://qption.com/fundamentalanalysis/global-debt-levels-and-currency-valuation",
+            "topic": "Debito/Valuta"
+        },
+        {
+            "q": "I prezzi delle materie prime sono guidati principalmente da:",
+            "options": [
+                "Solo politica monetaria",
+                "Dinamiche di domanda/offerta e shock",
+                "Solo passeggiata aleatoria",
+                "Esclusivamente politica fiscale"
+            ],
+            "correctIndex": 1,
+            "explain": "Interruzioni dell’offerta o aumenti della domanda (es. crescita, meteo) muovono i prezzi.",
+            "source": "https://qption.com/fundamentalanalysis/supply-and-demand-commodities",
+            "topic": "Materie prime"
+        },
+        {
+            "q": "Quale dei seguenti è comunemente considerato un bene rifugio?",
+            "options": [
+                "Titolo tech ad alto beta",
+                "Oro",
+                "Small-cap biotech",
+                "Carry dei mercati emergenti"
+            ],
+            "correctIndex": 1,
+            "explain": "Nelle turbolenze, i capitali spesso ruotano verso oro, CHF, JPY e titoli di Stato di alta qualità.",
+            "source": "https://qption.com/fundamentalanalysis/safe-haven-assets-market-turbulence",
+            "topic": "Bene rifugio"
+        },
+        {
+            "q": "Azioni e FX/CFD possono muoversi insieme perché entrambi sono influenzati da:",
+            "options": [
+                "Gli stessi driver macro (crescita, inflazione, tassi, propensione al rischio)",
+                "Fattori completamente non correlati",
+                "Solo il meteo",
+                "Un singolo report sugli utili"
+            ],
+            "correctIndex": 0,
+            "explain": "I regimi macro (risk-on/off) spesso mostrano correlazioni cross-asset.",
+            "source": "https://qption.com/fundamentalanalysis/forex-cfds",
+            "topic": "Cross-asset"
+        },
+        {
+            "q": "Una regolamentazione crypto più stringente può:",
+            "options": [
+                "Solo aumentare i prezzi",
+                "Non avere alcun effetto sulla partecipazione",
+                "Influenzare adozione, liquidità e struttura di mercato",
+                "Eliminare completamente la volatilità"
+            ],
+            "correctIndex": 2,
+            "explain": "Le regole plasmano on/off-ramp, accesso istituzionale e comportamenti di mercato.",
+            "source": "https://qption.com/fundamentalanalysis/crypto-adoption-regulation",
+            "topic": "Regolamentazione Crypto"
+        },
+        {
+            "q": "A livello generale, le blockchain proteggono la cronologia delle transazioni usando:",
+            "options": [
+                "Solo registri centralizzati",
+                "Consenso distribuito e crittografia",
+                "Registri cartacei",
+                "Il server di una singola azienda"
+            ],
+            "correctIndex": 1,
+            "explain": "Consenso (es. PoW/PoS) e collegamenti crittografici preservano l’integrità dei dati.",
+            "source": "https://qption.com/fundamentalanalysis/blockchain-fundamental-analysis",
+            "topic": "Blockchain"
+        }
+    ]
+}

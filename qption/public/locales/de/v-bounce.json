@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "V-Bounce (Volumenspike) Handelsstrategie | Qption",
+        "description": "Lerne die V-Bounce-Handelsstrategie: Nutze Unterstützungs- und Widerstandszonen, Break-or-Bounce-Entscheidungspunkte, den Breakout-„Strike“ und den ersten Pullback („Boomerang“) sowie Bounce-Einstiege und Fraktal-Bestätigung für 60-Sekunden-Optionen.",
+        "keywords": "V-Bounce, Volumenspike, Unterstützung und Widerstand, Breakout-Strategie, Pullback-Strategie, Boomerang-Einstieg, Fraktalbestätigung, 60-Sekunden-Optionen, Handelsstrategie, Qption",
+        "ogAlt": "V-Bounce-Handelsstrategie mit Volumenspike und Unterstützungs- & Widerstandszonen",
+        "ld": {
+            "headline": "V-Bounce (Volumenspike) Handelsstrategie"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Handelsstrategie"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln",
+        "startTrading": "Jetzt handeln"
+    },
+    "hero": {
+        "title": "V-Bounce Volumenspike Handelsstrategie",
+        "subtitle": "Um Gewinne bei kleineren Trades zu maximieren, konzentrieren sich viele Trader auf liquide Märkte, um die Handelsfrequenz zu erhöhen. Eine beliebte 60-Sekunden-Optionsstrategie besteht darin, deutliche Kursrückpraller an klar definierten Unterstützungs- oder Widerstandszonen zu identifizieren. So lassen sich schnelle, planbare Kursbewegungen innerhalb kurzer Zeiträume ausnutzen."
+    },
+    "sr": {
+        "title": "Rolle von Unterstützung und Widerstand",
+        "p1": "Unterstützungs- und Widerstandszonen (S&R) sind essenzielle Hilfsmittel für den Handel auf Qption. Sie markieren Preisbereiche, an denen Assets in der Vergangenheit gedreht oder pausiert haben, und liefern dadurch Hinweise auf potenzielle Einstiege und Ausstiege. Wer diese Zonen erkennt, kann Preisrückpraller oder Breakouts antizipieren und seine Handelsstrategie entsprechend anpassen.",
+        "p2": "Sobald sich der Kurs einer vorab markierten Unterstützung oder einem Widerstand nähert, lässt sich ein mögliches „Break-or-Bounce“-Szenario definieren. Damit wird klar, ob ein Level eher hält und einen Rückprall auslöst oder ob ein Durchbruch wahrscheinlich ist, der eine Trendfortsetzung signalisiert.",
+        "list": {
+            "title": "Typische S&R-Elemente",
+            "i1": {
+                "h": "Historische Hochs und Tiefs",
+                "p": "Frühere Extrempunkte fungieren häufig als starke S&R-Zonen."
+            },
+            "i2": {
+                "h": "Gleitende Durchschnitte",
+                "p": "Weit verbreitete MAs (z. B. 50/200) können als dynamische Unterstützung bzw. Widerstand dienen."
+            },
+            "i3": {
+                "h": "Trendlinien",
+                "p": "Entlang von Swing-Hochs und -Tiefs gezogene Linien markieren wahrscheinliche Fortsetzungs- oder Umkehrbereiche."
+            },
+            "i4": {
+                "h": "Fibonacci-Retracements",
+                "p": "Niveaus wie 38,2 %, 50 % und 61,8 % fallen oft mit S&R-Zonen zusammen."
+            },
+            "i5": {
+                "h": "Runde Marken",
+                "p": "Psychologische Marken (z. B. 1,00 bzw. 100) wirken häufig als Barrieren."
+            }
+        }
+    },
+    "bb": {
+        "title": "Break-or-Bounce-Spot",
+        "p": "Sobald ein Qption-Trader ein zentrales S&R-Level identifiziert hat, wird es zur „Linie im Sand“. Diese vorab definierte Entscheidungszone richtet die Aufmerksamkeit auf das Kursverhalten genau an diesem Level – mit dem Fokus, ob der Preis abprallt oder durchbricht."
+    },
+    "why": {
+        "title": "Warum ist das wichtig?",
+        "l1": "Vorab markierte Levels filtern Marktrauschen und schaffen objektive Entscheidungsgrundlagen.",
+        "l2": "Ohne Filter wirkt jede Kursbewegung bedeutend und öffnet Emotionen wie Angst oder Gier Tür und Tor.",
+        "p1": "Nachdem der Break-or-Bounce-Bereich mit deinen Werkzeugen festgelegt wurde, warte, bis der Kurs die Zone erreicht. Beobachte dann, ob sie durchbrochen wird oder ob der Preis respektvoll reagiert und umkehrt.",
+        "strike": {
+            "h": "Breakout (Strike)",
+            "p": "Der Preis schiebt sich durch S&R und signalisiert potenzielle Fortsetzung. Diese Bewegungen lassen sich in Ausbruchsrichtung handeln."
+        },
+        "boomerang": {
+            "h": "Erster Pullback (Boomerang)",
+            "p": "Nach dem Durchbruch testet der Markt das gebrochene Level häufig erneut. Dieser erste Pullback bestätigt die Stärke und bietet einen sekundären Einstieg."
+        },
+        "p2": "Auf Qption konzentrieren wir uns darauf, Strikes (Breakouts) und den ersten Pullback (Boomerang) als Options-Einstiege zu nutzen."
+    },
+    "bounce": {
+        "title": "Bounces handeln",
+        "p1": "Ein Bounce kann ein kleiner Rücksetzer, eine tiefere Korrektur oder eine komplette Trendumkehr sein. Bedeutende Hochs/Tiefs und Fibonacci-Level werden nur selten ohne Reaktion durchbrochen.",
+        "p2": "Typische Bounce-Einstiegsarten:",
+        "direct": {
+            "h": "Direkt",
+            "p": "Platziere den Einstieg exakt an S&R (z. B. Fibonacci-Level oder vorheriges Hoch). Vorteil: frühzeitige Ausführung. Nachteil: Kurzfristige Über- oder Unterschreitungen können Stops erschweren."
+        },
+        "confirm": {
+            "h": "Bestätigter Bounce",
+            "p": "Warte auf eine sichtbare Reaktion an S&R (Verharren oder Zurückweisung) und steige nach der Bestätigung ein, statt blind Limit-Orders zu setzen."
+        },
+        "breakAfter": {
+            "h": "Breakout nach dem Bounce",
+            "p": "Nutze Tools wie Fraktale, um die Struktur zu definieren, und skaliere deine Positionen auf der Qption-Plattform flexibel."
+        }
+    },
+    "fractals": {
+        "title": "Bounce mithilfe von Fraktalen",
+        "lead": "Eine weitere Möglichkeit, den Bounce zu handeln, ist die Arbeit mit Fraktalen. Vorgehen:",
+        "steps": {
+            "1": "Erwarte ein wichtiges S&R-Level.",
+            "2": "Warte, bis der Preis dort reagiert und ein Fraktal bildet.",
+            "3": "Warte, bis sich der Kurs vom Level entfernt.",
+            "4": "Warte auf ein Fraktal auf der Gegenseite.",
+            "5": "Handle den Ausbruch dieses gegenüberliegenden Fraktals."
+        },
+        "meanTitle": "Was bedeutet das?",
+        "meanBody": "Wenn der Preis Stop–Umkehr–Stop–Umkehr vollzieht, entstehen zwei Linien im Sand: das erwartete S&R sowie das gegenüberliegende Fraktal. Ein Bruch einer dieser Linien zeigt meist, welche Seite sich durchsetzt."
+    }
+}

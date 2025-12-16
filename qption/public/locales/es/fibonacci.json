@@ -1,0 +1,134 @@
+{
+    "seo": {
+        "title": "Retrocesos de Fibonacci y Ondas de Elliott — Guía de Análisis Gráfico | Qption",
+        "description": "Aprende Retrocesos de Fibonacci y la Teoría de las Ondas de Elliott: niveles clave (23,6%, 38,2%, 50%, 61,8%, 78,6%), trazado, soportes/resistencias, continuación vs. reversión, ondas impulsivas/correctivas y cómo combinarlo con medias móviles y líneas de tendencia.",
+        "keywords": "retrocesos de fibonacci, ondas de elliott, análisis gráfico, análisis técnico, soporte y resistencia, ondas impulsivas, ondas correctivas, niveles de fibonacci, medias móviles, líneas de tendencia, objetivos de precio, gestión del riesgo, Qption",
+        "url": "https://qption.com/es/graphical-analysis/fibonacci-elliott-waves",
+        "image": "https://qption.com/videos/fibonacci-elliott-waves/fibonacci-elliott-waves.jpg",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Retrocesos de Fibonacci y Ondas de Elliott — Guía de Análisis Gráfico",
+            "description": "Aprende Fibonacci y Ondas de Elliott dentro del análisis gráfico.",
+            "mainEntityOfPage": "https://qption.com/es/graphical-analysis/fibonacci-elliott-waves",
+            "image": "https://qption.com/videos/fibonacci-elliott-waves/fibonacci-elliott-waves.jpg",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            }
+        }
+    },
+    "ui": {
+        "backToGraphical": "Volver al Análisis Gráfico"
+    },
+    "page": {
+        "title": "Retrocesos de Fibonacci y Ondas de Elliott en el Análisis Gráfico"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "start": "Comenzar a operar"
+    },
+    "video": {
+        "aria": "Los retrocesos de Fibonacci ayudan a identificar posibles zonas de soporte/resistencia aplicando proporciones de Fibonacci al gráfico de precios."
+    },
+    "sections": {
+        "fibOverview": {
+            "h": "Visión general de los Retrocesos de Fibonacci",
+            "i1": "Herramienta popular para marcar posibles soportes/resistencias mediante proporciones de Fibonacci.",
+            "i2": "Niveles comunes: 23,6%, 38,2%, 50%, 61,8% y 78,6%.",
+            "i3": "Ayudan a localizar entradas y salidas observando la reacción del precio en dichos niveles."
+        },
+        "fibHow": {
+            "h": "Cómo funcionan los Retrocesos de Fibonacci",
+            "s1": {
+                "h": "Trazado:",
+                "t": "En tendencia alcista, del mínimo al máximo (en bajista, del máximo al mínimo), creando líneas horizontales en niveles de Fibonacci."
+            },
+            "s2": {
+                "h": "Soporte/Resistencia:",
+                "t": "Los niveles pueden actuar como zonas de reacción donde el precio revierte o consolida."
+            },
+            "s3": {
+                "h": "Continuación:",
+                "t": "Si el precio respeta un nivel, a menudo reanuda la tendencia, ofreciendo posibles entradas."
+            },
+            "s4": {
+                "h": "Señal de reversión:",
+                "t": "Una ruptura decisiva de un nivel clave puede indicar cambio de tendencia."
+            }
+        },
+        "fibTech": {
+            "h": "Técnicas con Fibonacci",
+            "t1": {
+                "h": "1) Fibonacci con Líneas de Tendencia",
+                "i1": "La confluencia con líneas de tendencia refuerza la validez del nivel.",
+                "i2": "Busca alineaciones como zonas de alta confluencia."
+            },
+            "t2": {
+                "h": "2) Fibonacci con Medias Móviles",
+                "i1": "Cuando un nivel coincide con una media móvil, aumenta la fiabilidad.",
+                "i2": "Las MMs de 50/200 con niveles de Fib suelen marcar reacciones fuertes."
+            }
+        },
+        "fibProsCons": {
+            "h": "Ventajas y Limitaciones de los Retrocesos de Fibonacci",
+            "p1": {
+                "h": "Ventaja:",
+                "t": "Niveles claros para planificar entradas, salidas y stops."
+            },
+            "p2": {
+                "h": "Ventaja:",
+                "t": "Funciona bien con líneas de tendencia y MMs para validar señales."
+            },
+            "c1": {
+                "h": "Limitación:",
+                "t": "No es un método autónomo; depender solo de Fib puede generar señales falsas en mercados volátiles."
+            }
+        },
+        "ewOverview": {
+            "h": "Visión general de la Teoría de las Ondas de Elliott",
+            "i1": "Estudia el precio como ondas para inferir dirección mediante ciclos y patrones.",
+            "i2": "Cinco ondas impulsivas y tres correctivas (A-B-C).",
+            "i3": "Se usa para anticipar continuaciones, reversiones y retrocesos."
+        },
+        "ewHow": {
+            "h": "Cómo funcionan las Ondas de Elliott",
+            "s1": {
+                "h": "Ondas impulsivas:",
+                "t": "Cinco ondas en la dirección de la tendencia; 1,3,5 con la tendencia; 2 y 4 correctivas."
+            },
+            "s2": {
+                "h": "Ondas correctivas:",
+                "t": "Tres ondas (A-B-C) contra la tendencia principal."
+            },
+            "s3": {
+                "h": "Identificación:",
+                "t": "Identificar los patrones ayuda a temporizar la continuación o el final de la tendencia."
+            },
+            "s4": {
+                "h": "Relaciones:",
+                "t": "Las proporciones de Fibonacci suelen alinearse con las ondas (retrocesos en 2/4, extensiones en la 5)."
+            }
+        },
+        "ewTech": {
+            "h": "Técnicas con Ondas de Elliott",
+            "t1": {
+                "h": "1) Mapear tendencias con Impulso/Corrección",
+                "i1": "Las impulsivas muestran fuerza/dirección; las correctivas marcan retrocesos.",
+                "i2": "Entra a favor de las impulsivas; usa las correctivas para anticipar retrocesos."
+            },
+            "t2": {
+                "h": "2) Combinar Elliott con Fibonacci",
+                "i1": "Las proporciones de Fib aparecen dentro de las ondas (2/4 retroceden; 5 se extiende).",
+                "i2": "Combina retrocesos de Fib con el conteo de ondas para proyectar objetivos y giros."
+            }
+        },
+        "ewProsCons": {
+            "h": "Ventajas y Limitaciones de las Ondas de Elliott",
+            "p1": "Ventaja: Enfoque estructurado para ciclos y reversiones del mercado.",
+            "p2": "Ventaja: Se complementa bien con Fibonacci para fijar objetivos y stops.",
+            "c1": "Limitación: Puede ser compleja y subjetiva; los conteos varían.",
+            "c2": "Limitación: Un conteo erróneo conduce a predicciones deficientes."
+        }
+    }
+}

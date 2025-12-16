@@ -1,0 +1,210 @@
+{
+    "hero": {
+        "slides": [
+            {
+                "title": "Plataforma de trading <strong>Qption</strong>",
+                "subtitle": "Trading profesional hecho simple",
+                "bullets": [
+                    {
+                        "title": "Ejecución rápida",
+                        "desc": "Latencia ultrabaja"
+                    },
+                    {
+                        "title": "Plataforma segura",
+                        "desc": "Seguridad a nivel bancario"
+                    },
+                    {
+                        "title": "Bajas comisiones",
+                        "desc": "Costes competitivos"
+                    }
+                ]
+            },
+            {
+                "title": "Trading impulsado por <strong>IA</strong>",
+                "subtitle": "Operar con tecnología de IA avanzada",
+                "bullets": [
+                    {
+                        "title": "Análisis con IA",
+                        "desc": "Ideas inteligentes del mercado"
+                    },
+                    {
+                        "title": "Datos en tiempo real",
+                        "desc": "Actualizaciones en vivo"
+                    },
+                    {
+                        "title": "Gestión de riesgos",
+                        "desc": "Protección inteligente"
+                    }
+                ]
+            },
+            {
+                "title": "Acceso <strong>global</strong> a mercados",
+                "subtitle": "Opera en cualquier lugar y momento",
+                "bullets": [
+                    {
+                        "title": "Mercados globales",
+                        "desc": "Acceso mundial"
+                    },
+                    {
+                        "title": "Trading 24/7",
+                        "desc": "Siempre disponible"
+                    },
+                    {
+                        "title": "Múltiples activos",
+                        "desc": "Opciones diversas"
+                    }
+                ]
+            }
+        ],
+        "images": {
+            "hero1Alt": "Plataforma de trading",
+            "hero2Alt": "Plataforma — ángulo",
+            "hero3Alt": "Plataforma — panel"
+        }
+    },
+    "benefits": {
+        "heading": "<accent>Beneficios</accent> del trading",
+        "sub": "Opera de forma más inteligente y rápida — prueba nuestra plataforma.",
+        "cards": [
+            {
+                "title": "Cuenta demo de $50,000",
+                "desc": "Prueba tus estrategias con una cuenta demo gratuita.",
+                "features": [
+                    "Datos del mercado en tiempo real",
+                    "Herramientas avanzadas",
+                    "Práctica sin riesgo",
+                    "Acceso completo a la plataforma"
+                ],
+                "alt": "Cuenta demo"
+            },
+            {
+                "title": "Bono del 200%",
+                "desc": "Recibe un 200% de bono en tu primer depósito.",
+                "features": [
+                    "Bono en el primer depósito",
+                    "Activación instantánea",
+                    "Opera con fondos del bono",
+                    "Múltiples métodos de pago"
+                ],
+                "alt": "Bono"
+            },
+            {
+                "title": "Soporte 24/7",
+                "desc": "Equipo profesional disponible todo el día.",
+                "features": [
+                    "Chat en vivo",
+                    "Soporte por correo",
+                    "Teléfono",
+                    "Equipo multilingüe"
+                ],
+                "alt": "Soporte 24/7"
+            }
+        ]
+    },
+    "simpleStart": {
+        "title": "Empezar es <accent>muy fácil</accent>",
+        "sub": "Comienza tu camino en pocos pasos",
+        "steps": [
+            {
+                "title": "Regístrate",
+                "desc": "Crea tu cuenta en un minuto",
+                "alt": "Registro"
+            },
+            {
+                "title": "Explora la plataforma",
+                "desc": "Descubre nuestras herramientas",
+                "alt": "Plataforma"
+            },
+            {
+                "title": "Empieza a operar",
+                "desc": "Inicia tu viaje de trading",
+                "alt": "Trading"
+            },
+            {
+                "title": "Retira fondos",
+                "desc": "Acceso inmediato a tu dinero",
+                "alt": "Retiro"
+            }
+        ]
+    },
+    "foundation": {
+        "title": "Deja que la <accent>IA</accent> trabaje por ti",
+        "sub": "Mejora con trading social impulsado por IA. Elige el plan según tus objetivos y riesgo.",
+        "plans": [
+            {
+                "title": "Plan conservador de IA",
+                "subtitle": "Ganancias estables — bajo riesgo",
+                "minDepositLabel": "Depósito mínimo:",
+                "returnsLabel": "Rendimiento esperado:",
+                "strategiesLabel": "Estrategias:",
+                "minDeposit": "500$",
+                "returns": "5–6%",
+                "strategies": "Reversión a la media, patrones, tamaño de posición",
+                "features": [
+                    "Riesgo bajo",
+                    "Rendimientos estables",
+                    "Análisis de mercado",
+                    "Gestión de riesgos"
+                ],
+                "cta": "Comenzar con IA"
+            },
+            {
+                "title": "Plan moderado de IA",
+                "subtitle": "Equilibrio entre crecimiento e ingreso",
+                "minDepositLabel": "Depósito mínimo:",
+                "returnsLabel": "Rendimiento esperado:",
+                "strategiesLabel": "Estrategias:",
+                "minDeposit": "3,000$",
+                "returns": "12–18%",
+                "strategies": "Seguimiento de tendencia, sentimiento en cripto/FX, HFT selectivo",
+                "features": [
+                    "Enfoque equilibrado",
+                    "Estrategias diversificadas",
+                    "Adaptación al mercado",
+                    "Seguimiento de desempeño"
+                ],
+                "cta": "Comenzar con IA"
+            },
+            {
+                "title": "Plan agresivo de IA",
+                "subtitle": "Alto riesgo — alto retorno",
+                "minDepositLabel": "Depósito mínimo:",
+                "returnsLabel": "Rendimiento esperado:",
+                "strategiesLabel": "Estrategias:",
+                "minDeposit": "10,000$",
+                "returns": "25–40%",
+                "strategies": "HFT, tendencias apalancadas, noticias y sentimiento",
+                "features": [
+                    "Estrategias avanzadas",
+                    "Alta frecuencia",
+                    "Enfoque en oportunidades",
+                    "Optimización de riesgos"
+                ],
+                "cta": "Comenzar con IA"
+            }
+        ]
+    },
+    "investment": {
+        "title": "¿Por qué <accent>Qption</accent> es la elección inteligente?",
+        "sub": "Descubre por qué los traders nos eligen",
+        "features": [
+            {
+                "title": "Plataforma líder",
+                "desc": "Premiada y reconocida por expertos"
+            },
+            {
+                "title": "Interfaz personalizable",
+                "desc": "Desde tipos de gráficos hasta temas"
+            },
+            {
+                "title": "Retiros sencillos",
+                "desc": "Acceso rápido con métodos seguros"
+            },
+            {
+                "title": "Soporte 24/7",
+                "desc": "Ayuda cuando la necesites"
+            }
+        ],
+        "cta": "Saber más"
+    }
+}

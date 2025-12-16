@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Technical Analysis – Charts, Indicators & Set-ups | Qption",
+        "description": "Master the markets with Qption’s in-depth technical analysis: live chart ideas, indicator guides and weekly trade set-ups for forex, crypto and indices.",
+        "keywords": "technical analysis, trading charts, price action, indicators, candlestick patterns, support and resistance, Qption education, forex analysis, crypto analysis",
+        "ogTitle": "Technical Analysis – Charts, Indicators & Set-ups | Qption",
+        "ogDescription": "Get actionable chart breakdowns and indicator walkthroughs from Qption’s analysts—updated daily for forex and crypto traders.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Technical Analysis – Charts, Indicators & Set-ups | Qption",
+        "twitterDescription": "Live chart ideas and weekly trade set-ups across forex, crypto and indices—powered by Qption.",
+        "twitterImage": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "canonical": "https://qption.com/technical-analysis"
+    },
+    "page": {
+        "title": "Technical Analysis",
+        "subtitle": "Challenge your trading knowledge and sharpen your skills with our interactive Technical Analysis Quiz — test your understanding of chart patterns, indicators, and market psychology to become a more confident and informed trader."
+    },
+    "quiz": {
+        "header": "Quiz",
+        "progress": "Question {{current}} of {{total}}",
+        "correct": "Correct ✅",
+        "incorrect": "Not quite ⚠️",
+        "selectHint": "Select an option and submit your answer."
+    },
+    "ui": {
+        "previous": "Previous",
+        "submit": "Submit",
+        "finish": "Finish",
+        "next": "Next",
+        "newRandom": "New Random 10",
+        "loading": "Loading quiz…"
+    },
+    "results": {
+        "score": "Score: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Excellent! Your TA knowledge is sharp.",
+            "good": "Nice work! Keep practicing to level up.",
+            "retry": "Good start—review the lessons and try again."
+        }
+    },
+    "pool": [
+        {
+            "q": "What does a Simple Moving Average (SMA) primarily help traders identify?",
+            "options": [
+                "The highest possible entry price",
+                "The average price over a set period, smoothing out noise",
+                "The exact turning point of the market",
+                "A momentum breakout level"
+            ],
+            "correct": "The average price over a set period, smoothing out noise",
+            "explain": "An SMA smooths price data by averaging a set number of periods, helping reveal the underlying trend.",
+            "topic": "MA"
+        },
+        {
+            "q": "Which type of moving average reacts fastest to recent price changes?",
+            "options": [
+                "SMA",
+                "WMA",
+                "EMA",
+                "All react the same"
+            ],
+            "correct": "EMA",
+            "explain": "EMA assigns more weight to recent prices, reacting faster than SMA and typically faster than WMA.",
+            "topic": "MA"
+        },
+        {
+            "q": "A typical moving-average crossover 'buy' signal occurs when…",
+            "options": [
+                "A shorter MA crosses above a longer MA",
+                "A longer MA crosses above a shorter MA",
+                "Price crosses below both MAs",
+                "Both MAs stay flat"
+            ],
+            "correct": "A shorter MA crosses above a longer MA",
+            "explain": "Short-over-long crossovers often signal bullish momentum; the reverse can suggest bearishness.",
+            "topic": "MA"
+        },
+        {
+            "q": "A drawback of using moving averages is that they…",
+            "options": [
+                "Lead price action and predict exact tops/bottoms",
+                "Lag price action and can whipsaw in ranges",
+                "Require no parameter tuning",
+                "Work only on daily timeframes"
+            ],
+            "correct": "Lag price action and can whipsaw in ranges",
+            "explain": "MAs are lagging tools and can generate false signals in choppy, non-trending markets.",
+            "topic": "MA"
+        },
+        {
+            "q": "What is the primary purpose of Bollinger Bands?",
+            "options": [
+                "Measure long-term fundamental value",
+                "Show volatility and relative high/low levels around a moving average",
+                "Replace moving averages entirely",
+                "Draw automatic trend lines"
+            ],
+            "correct": "Show volatility and relative high/low levels around a moving average",
+            "explain": "Bands expand/contract with volatility and indicate relative price extremes around an MA.",
+            "topic": "BB"
+        },
+        {
+            "q": "When price touches or closes outside the upper Bollinger Band, it often signals…",
+            "options": [
+                "Guaranteed reversal",
+                "Momentum/volatility expansion (not always overbought)",
+                "No informational value",
+                "Imminent crash"
+            ],
+            "correct": "Momentum/volatility expansion (not always overbought)",
+            "explain": "Touches outside bands can indicate strong momentum; context and confirmation are essential.",
+            "topic": "BB"
+        },
+        {
+            "q": "A common parameter for Bollinger Bands is:",
+            "options": [
+                "20-period MA with ±2 standard deviations",
+                "50-period MA with ±1 standard deviation",
+                "14-period MA with ±3 standard deviations",
+                "9-period MA with ±1.5 standard deviations"
+            ],
+            "correct": "20-period MA with ±2 standard deviations",
+            "explain": "The classic setting is 20 SMA and bands at ±2σ; tweak for your market/timeframe.",
+            "topic": "BB"
+        },
+        {
+            "q": "The Williams Alligator indicator is composed of:",
+            "options": [
+                "Two lines: jaw and teeth",
+                "Three lines: jaw, teeth, and lips",
+                "Four lines including the tongue",
+                "Only a single smoothed average"
+            ],
+            "correct": "Three lines: jaw, teeth, and lips",
+            "explain": "It uses three smoothed averages with shifts: jaw (slow), teeth (medium), lips (fast).",
+            "topic": "Alligator"
+        },
+        {
+            "q": "When the Alligator’s lines are intertwined (sleeping), it suggests:",
+            "options": [
+                "A strong trend is in progress",
+                "A ranging or low-volatility phase",
+                "A guaranteed breakout upward",
+                "A guaranteed breakdown downward"
+            ],
+            "correct": "A ranging or low-volatility phase",
+            "explain": "Intertwined lines indicate consolidation; traders often wait for lines to fan out.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "The Alligator is considered to be 'eating' (trending) when:",
+            "options": [
+                "The three lines spread and align with price movement",
+                "The three lines overlap each other tightly",
+                "Only price moves while lines stay flat",
+                "Volume drops to zero"
+            ],
+            "correct": "The three lines spread and align with price movement",
+            "explain": "Lines fanning out with directional price implies trend development.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "RSI readings above ~70 commonly indicate:",
+            "options": [
+                "Oversold conditions",
+                "Overbought conditions (possible pullback risk)",
+                "No signal",
+                "Guaranteed trend continuation"
+            ],
+            "correct": "Overbought conditions (possible pullback risk)",
+            "explain": "Overbought can persist in strong trends; always seek structure/confirmation.",
+            "topic": "RSI"
+        },
+        {
+            "q": "An RSI value near 30 often suggests:",
+            "options": [
+                "Overbought conditions",
+                "Oversold conditions (possible bounce risk)",
+                "No informational value",
+                "A breakout above resistance"
+            ],
+            "correct": "Oversold conditions (possible bounce risk)",
+            "explain": "Like overbought, oversold can persist; use with price action for entries.",
+            "topic": "RSI"
+        },
+        {
+            "q": "A bullish RSI divergence occurs when:",
+            "options": [
+                "Price makes higher highs while RSI makes lower highs",
+                "Price makes lower lows while RSI makes higher lows",
+                "RSI crosses above 70",
+                "RSI crosses below 30"
+            ],
+            "correct": "Price makes lower lows while RSI makes higher lows",
+            "explain": "Momentum loss into new price lows can hint at a potential reversal upward.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Support is best described as:",
+            "options": [
+                "A price level where buying interest may emerge",
+                "A price level where selling must occur",
+                "A moving average",
+                "A fixed line that never breaks"
+            ],
+            "correct": "A price level where buying interest may emerge",
+            "explain": "Support is an area where demand historically stepped in; it can break.",
+            "topic": "TA"
+        },
+        {
+            "q": "Resistance is best described as:",
+            "options": [
+                "A price level where selling interest may emerge",
+                "A level that guarantees reversals",
+                "A volume-only concept",
+                "A Fibonacci ratio"
+            ],
+            "correct": "A price level where selling interest may emerge",
+            "explain": "Resistance is the opposite of support—supply historically steps in.",
+            "topic": "TA"
+        },
+        {
+            "q": "Which combination improves signal reliability the most?",
+            "options": [
+                "Using one indicator on one timeframe",
+                "Multiple uncorrelated signals and confluence (e.g., trend + momentum + structure)",
+                "Adding many indicators of the same type",
+                "Ignoring risk management"
+            ],
+            "correct": "Multiple uncorrelated signals and confluence (e.g., trend + momentum + structure)",
+            "explain": "Confluence reduces false positives; diversify signal types and confirm across timeframes.",
+            "topic": "TA"
+        },
+        {
+            "q": "In a sideways (range-bound) market, which tends to be more effective?",
+            "options": [
+                "Trend-following MAs exclusively",
+                "Oscillators like RSI/Stochastics",
+                "Breakout systems only",
+                "Ignoring the market"
+            ],
+            "correct": "Oscillators like RSI/Stochastics",
+            "explain": "Oscillators can time reversals at range extremes; MAs may whipsaw.",
+            "topic": "TA"
+        },
+        {
+            "q": "Which statement about indicators is most accurate?",
+            "options": [
+                "They guarantee profits if tuned correctly",
+                "They are tools to inform decisions, not guarantees",
+                "They work only on crypto charts",
+                "They replace risk management needs"
+            ],
+            "correct": "They are tools to inform decisions, not guarantees",
+            "explain": "No indicator ensures profits; combine with risk management and discipline.",
+            "topic": "TA"
+        },
+        {
+            "q": "Why use multiple timeframes (MTF) in analysis?",
+            "options": [
+                "To make charts look complex",
+                "To align higher-timeframe trend with lower-timeframe entries",
+                "To avoid setting stop losses",
+                "To remove volatility"
+            ],
+            "correct": "To align higher-timeframe trend with lower-timeframe entries",
+            "explain": "Top-down analysis improves context and entry timing.",
+            "topic": "TA"
+        },
+        {
+            "q": "What is a common mistake when backtesting indicators?",
+            "options": [
+                "Accounting for slippage and spreads",
+                "Using out-of-sample data",
+                "Overfitting parameters to past data",
+                "Including transaction costs"
+            ],
+            "correct": "Overfitting parameters to past data",
+            "explain": "Overfitting rarely generalizes; always validate on unseen data and include costs.",
+            "topic": "TA"
+        }
+    ]
+}

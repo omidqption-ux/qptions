@@ -1,0 +1,131 @@
+{
+    "seo": {
+        "title": "トレーディング用語集 – 主要な用語と基本概念 | Qption",
+        "description": "取引で頻繁に使用される主要な用語の明確で簡潔な定義：売値と買値、ブル・ベア市場、ボラティリティ、流動性、サポート、レジスタンス、トレンドライン、相関など。",
+        "keywords": "トレーディング用語集, トレード用語, 売値, 買値, ブルマーケット, ベアマーケット, ボラティリティ, 流動性, サポート, レジスタンス, 相関, トレンドライン, Qption",
+        "ogTitle": "トレーディング用語集 – 主要な用語と基本概念 | Qption",
+        "ogDescription": "Qption の用語集で市場の言語を学ぼう。取引の主要概念を分かりやすく説明します。",
+        "url": "https://qption.com/glossary",
+        "image": "https://qption.com/images/og/glossary-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "トレーディング用語集 – 主要な用語と基本概念 | Qption",
+        "twitterDescription": "取引の基本用語をわかりやすく解説。より速く学び、より良い意思決定をサポートします。",
+        "twitterImage": "https://qption.com/images/og/glossary-qption.jpg",
+        "canonical": "https://qption.com/glossary"
+    },
+    "hero": {
+        "title": "主要なトレーディング用語と概念"
+    },
+    "terms": [
+        {
+            "key": "ask",
+            "title": "買値（Ask）",
+            "desc": "現在の市場で資産を購入できる価格。"
+        },
+        {
+            "key": "bull",
+            "title": "ブル（強気）",
+            "desc": "価格が上昇すると予想し、将来より高い価格で売ることを目的に資産を購入するトレーダーまたは投資家。"
+        },
+        {
+            "key": "bullMarket",
+            "title": "ブルマーケット（上昇相場）",
+            "desc": "価格が全体的に上昇し、市場心理が強気である状態。チャート上では上向きの動きとして表されます。"
+        },
+        {
+            "key": "return",
+            "title": "リターン（Return）",
+            "desc": "取引から得られる利益または割合。Qption のようなプラットフォームでは、損失トレードでも投資額の最大 45% を受け取れる場合があります。リターン率は購入時に設定されます。"
+        },
+        {
+            "key": "volatility",
+            "title": "ボラティリティ（Volatility）",
+            "desc": "一定期間における資産価格の変動幅。ボラティリティが高いほど、価格の変動が大きく速くなります。"
+        },
+        {
+            "key": "deposit",
+            "title": "入金（Deposit）",
+            "desc": "取引アカウント内で利用可能な資金。取引の開始や管理に使用されます。"
+        },
+        {
+            "key": "diversification",
+            "title": "分散投資（Diversification）",
+            "desc": "リスク管理の手法であり、資金を複数の資産や市場に分散させることで、1つの資産への依存リスクを軽減します。"
+        },
+        {
+            "key": "indicator",
+            "title": "インジケーター（Indicator）",
+            "desc": "価格や出来高データに基づいたテクニカル分析ツール。トレンド、モメンタム、ボラティリティなどを把握し、取引判断を支援します。"
+        },
+        {
+            "key": "bid",
+            "title": "売値（Bid）",
+            "desc": "現在の市場で資産を売却できる価格。"
+        },
+        {
+            "key": "priceCorridor",
+            "title": "価格レンジ（Price Corridor）",
+            "desc": "チャート上で資産価格がサポート（下限）とレジスタンス（上限）の間で推移する範囲。"
+        },
+        {
+            "key": "correction",
+            "title": "調整（Correction）",
+            "desc": "強いトレンドの後に発生する一時的な価格の逆方向の動き。"
+        },
+        {
+            "key": "correlation",
+            "title": "相関（Correlation）",
+            "desc": "2つの資産がどのように連動するかを示す指標で、−1（逆相関）から +1（正相関）の範囲で表されます。例：EUR/USD と GBP/USD はしばしば同じ方向に動きます。"
+        },
+        {
+            "key": "liquidity",
+            "title": "流動性（Liquidity）",
+            "desc": "資産を市場価格に大きな影響を与えずに売買できる容易さ。取引量が多いほど流動性は高くなります。"
+        },
+        {
+            "key": "supportLine",
+            "title": "サポートライン（Support Line）",
+            "desc": "買い圧力が発生し、価格の下落を抑える傾向がある価格水準。"
+        },
+        {
+            "key": "resistanceLine",
+            "title": "レジスタンスライン（Resistance Line）",
+            "desc": "売り圧力が発生し、価格の上昇を抑える傾向がある価格水準。"
+        },
+        {
+            "key": "trendLine",
+            "title": "トレンドライン（Trend Line）",
+            "desc": "上昇トレンドでは安値同士を、下降トレンドでは高値同士を結んで市場の方向を示す線。"
+        },
+        {
+            "key": "bear",
+            "title": "ベア（弱気）",
+            "desc": "価格の下落を予想し、その下落から利益を得ようとするトレーダーまたは投資家。"
+        },
+        {
+            "key": "bearMarket",
+            "title": "ベアマーケット（下落相場）",
+            "desc": "価格が長期的に下落し、市場心理が弱気な状態。チャート上では継続的な下降トレンドとして表されます。"
+        },
+        {
+            "key": "bearRaid",
+            "title": "ベアレイド（Bear Raid）",
+            "desc": "トレーダーが協調して大量売りを行い、資産価格を意図的に押し下げようとする行為。"
+        },
+        {
+            "key": "traderSentiment",
+            "title": "トレーダーセンチメント（Trader Sentiment）",
+            "desc": "市場参加者の全体的な傾向を示す指標。多くのトレーダーが買っているのか、売っているのかを表します。"
+        },
+        {
+            "key": "bar",
+            "title": "バー（Bar）",
+            "desc": "特定の時間枠における価格の動きを示すチャート要素で、始値・高値・安値・終値（OHLC）を表示します。"
+        },
+        {
+            "key": "bonus",
+            "title": "ボーナス（Bonus）",
+            "desc": "プラットフォームからトレーダーの口座に追加される資金。通常、キャンペーンや入金ボーナスとして提供されます。"
+        }
+    ]
+}

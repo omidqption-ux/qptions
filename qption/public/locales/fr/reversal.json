@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "title": "Stratégie de Retournement – Signaux, Confirmation et Gestion des Risques | Qption",
+        "description": "Apprenez la stratégie de retournement : repérez l’essoufflement des tendances, utilisez le support/résistance, les indicateurs RSI/MACD/divergence et les figures en chandeliers, confirmez vos entrées et gérez le risque avec des stops et objectifs clairs. Comprend un guide étape par étape et un exemple concret.",
+        "url": "https://qption.com/trading-strategy/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "imageAlt": "Stratégie de trading de retournement",
+        "keywords": "stratégie de retournement, inversion de tendance, essoufflement de tendance, support et résistance, divergence, RSI, MACD, figures en chandeliers, marteau, engloutissante, gestion du risque, signaux de confirmation, points d’entrée et de sortie, stratégie de trading, Qption",
+        "jsonLd": {
+            "headline": "Stratégie de Retournement – Signaux, Confirmation et Gestion des Risques",
+            "about": [
+                "Trading de retournement",
+                "Essoufflement de tendance",
+                "Support et résistance",
+                "Divergence",
+                "RSI",
+                "MACD",
+                "Figures en chandeliers",
+                "Gestion du risque"
+            ],
+            "articleSection": [
+                "Stratégie de retournement",
+                "Concepts clés de la stratégie de retournement",
+                "Application de la stratégie de retournement",
+                "Exemple de stratégie de retournement en action"
+            ]
+        }
+    },
+    "breadcrumb": "Stratégie de trading",
+    "title": "Stratégie de Retournement",
+    "cta": {
+        "prompt": "Prêt à trader ?",
+        "button": "Commencer à trader"
+    },
+    "video": {
+        "aria": "Un retournement se produit lorsque la tendance actuelle s’affaiblit et peut changer de direction. Surveillez les signes d’essoufflement, de divergence et les confirmations par chandeliers clés."
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Concepts Clés de la Stratégie de Retournement",
+            "items": {
+                "exhaustion": {
+                    "title": "Essoufflement de Tendance",
+                    "desc": "Un retournement peut se former lorsque le momentum ralentit et que la structure montre des sommets plus bas dans une tendance haussière ou des creux plus hauts dans une tendance baissière."
+                },
+                "sr": {
+                    "title": "Niveaux de Support et de Résistance",
+                    "desc": "Les réactions de prix sur des supports ou résistances majeurs précèdent souvent les retournements. Cherchez des mèches de rejet, des cassures échouées ou des clôtures à l’intérieur du niveau."
+                },
+                "indicators": {
+                    "title": "Indicateurs Techniques",
+                    "desc": "Utilisez le RSI, le MACD ou les Stochastiques pour détecter les zones de surachat/survente et les changements de momentum soutenant une idée de retournement."
+                },
+                "candles": {
+                    "title": "Figures en Chandeliers",
+                    "desc": "Les marteaux, dojis, figures engloutissantes et pin bars près de niveaux clés peuvent signaler des points de retournement — confirmez avec la structure du marché."
+                },
+                "divergence": {
+                    "title": "Divergence",
+                    "desc": "Une divergence haussière (prix avec creux plus bas, indicateur avec creux plus hauts) ou baissière (prix avec sommets plus hauts, indicateur avec sommets plus bas) peut annoncer un retournement."
+                }
+            }
+        },
+        "applying": {
+            "title": "Application de la Stratégie de Retournement",
+            "items": {
+                "identifyTrend": {
+                    "title": "Identifier la Tendance",
+                    "desc": "Commencez par une tendance claire sur les unités de temps supérieures ; les retournements sont plus fiables après des mouvements prolongés."
+                },
+                "watchSignals": {
+                    "title": "Surveiller les Signaux de Retournement",
+                    "desc": "Surveillez les signes d’essoufflement près des zones clés, les extrêmes d’indicateurs et les chandeliers de retournement qui s’alignent avec le contexte du marché."
+                },
+                "confirm": {
+                    "title": "Attendre la Confirmation",
+                    "desc": "Utilisez les cassures/retests de niveaux, les clôtures consécutives ou les divergences confirmées avant d’entrer à contre-tendance."
+                },
+                "entriesExits": {
+                    "title": "Définir les Points d’Entrée et de Sortie",
+                    "desc": "Planifiez vos entrées autour des retests de structure cassée. Définissez les objectifs de profit à proximité des structures ou selon les projections de mouvement."
+                },
+                "risk": {
+                    "title": "Mettre en Place une Gestion du Risque",
+                    "desc": "Placez les stops au-delà de l’invalidation (au-dessus de la résistance pour les ventes, en dessous du support pour les achats) et ajustez la taille des positions en conséquence."
+                }
+            }
+        },
+        "example": {
+            "title": "Exemple de Stratégie de Retournement en Action",
+            "p1": "Un marché monte vers une résistance majeure après plusieurs semaines de hausse. Le RSI affiche un surachat et le MACD montre une divergence baissière. Une bougie engloutissante baissière se forme à la résistance.",
+            "p2": "Une position courte est prise après confirmation, avec un stop juste au-dessus de la résistance et des objectifs aux creux de structure précédents. Si le prix poursuit, la jambe de retournement capte le mouvement de baisse."
+        }
+    }
+}

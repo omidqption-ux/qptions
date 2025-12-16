@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "技术策略测验 – 测试你的交易知识 | Qption",
+        "description": "通过10道随机问题挑战自己，内容涵盖V-Bounce、突破、反转、Alligator、布林带、移动平均线、三法、镊子形态、挤压K线和吞没形态。",
+        "keywords": "交易测验, 技术分析测验, V-Bounce, 突破, 反转, Alligator, 布林带, 移动平均线, 三法, 镊子形态, 挤压K线, 吞没形态, Qption",
+        "ogTitle": "技术策略测验 – 测试你的交易知识",
+        "ogDescription": "每次随机10题，通过实践学习，强化你的策略优势。",
+        "url": "https://qption.com/zh/tools/technical-quiz",
+        "image": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "技术策略测验 – 测试你的交易知识",
+        "twitterDescription": "从突破到反转——用互动测验展示你的交易功力。",
+        "twitterImage": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "canonical": "https://qption.com/zh/tools/technical-quiz"
+    },
+    "page": {
+        "title": "技术策略测验",
+        "subtitle": "测试你对图表形态、指标和交易计划的理解。每轮包含10道随机题目，并打乱答案顺序以增强挑战。"
+    },
+    "quiz": {
+        "header": "交易策略测验",
+        "progress": "第 {{current}} / {{total}} 题",
+        "correct": "正确 ✅",
+        "incorrect": "不完全正确 ⚠️",
+        "selectHint": "请选择一个答案并提交。",
+        "learnMore": "了解更多 ↗"
+    },
+    "ui": {
+        "previous": "上一题",
+        "submit": "提交",
+        "next": "下一题",
+        "finish": "完成",
+        "newRandom": "新的10道随机题",
+        "loading": "正在加载测验…"
+    },
+    "results": {
+        "score": "得分：{{score}} / {{total}}",
+        "tier": {
+            "excellent": "非常棒！你的策略知识非常扎实。",
+            "good": "不错！继续练习以进一步提高。",
+            "retry": "开端不错 — 复习内容后再试一次。"
+        }
+    },
+    "pool": [
+        {
+            "q": "在V-Bounce设置中，交易者主要关注价格在何处的反应？",
+            "options": [
+                "随机价格点",
+                "预先设定的支撑或阻力区域",
+                "仅移动平均线交叉点",
+                "仅斐波那契时间扩展"
+            ],
+            "correct": "预先设定的支撑或阻力区域",
+            "explain": "V-Bounce关注价格在关键支撑/阻力区的迅速反弹，以便快速入场。",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "在V-Bounce策略中，突破后的第一次回踩通常用于：",
+            "options": [
+                "立即反向操作",
+                "确认强度并寻找趋势延续的入场机会",
+                "忽略市场",
+                "转向长期投资"
+            ],
+            "correct": "确认强度并寻找趋势延续的入场机会",
+            "explain": "回踩（boomerang）可以确认突破的有效性，并提供二次入场机会。",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "“反弹还是突破”的判断主要取决于：",
+            "options": [
+                "关键水平是否被守住或被有力突破",
+                "星期几",
+                "仅点差大小",
+                "账户类型"
+            ],
+            "correct": "关键水平是否被守住或被有力突破",
+            "explain": "价格要么尊重水平（反弹），要么强势突破（突破）。",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "seo": {
+        "title": "Jeopolitik Olaylar & Piyasalar – Seçimler, ticaret savaşları, çatışmalar, güvenli limanlar | Qption",
+        "description": "Seçimler, ticaret savaşları, yaptırımlar, çatışmalar ve regülasyon değişikleri piyasaları nasıl etkiler? Hisseler, FX, emtia ve tahvillerde tipik tepkileri; jeopolitik analizin fayda, risk ve sınırlamalarını keşfedin.",
+        "keywords": "jeopolitik risk, seçimler ve piyasalar, ticaret savaşları tarifeler yaptırımlar, askeri çatışmalar piyasalar, güvenli liman varlıklar, altın petrol tahvil, USD JPY CHF güvenli liman, piyasa volatilitesi, temel analiz, Qption",
+        "ogTitle": "Jeopolitik Olaylar & Piyasalar | Qption",
+        "ogDescription": "Jeopolitik gelişmelerin çapraz varlık hareketlerini nasıl tetiklediğini anlayın ve hazırlıklı olun.",
+        "url": "https://qption.com/fundamental-analysis/geopolitical-events-and-markets",
+        "image": "https://qption.com/images/og/geopolitical-events-and-markets.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Jeopolitik Olaylar & Piyasalar | Qption",
+        "twitterDescription": "Seçimlerden çatışmalara: jeopolitik unsurlar hisseleri, FX’i, emtiaları ve tahvilleri nasıl etkiler?",
+        "twitterImage": "https://qption.com/images/og/geopolitical-events-and-markets.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/geopolitical-events-and-markets",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Jeopolitik Olaylar & Piyasalar – Seçimler, Ticaret Savaşları, Çatışmalar, Güvenli Limanlar",
+            "description": "Jeopolitik gelişmeler küresel piyasaları nasıl etkiliyor ve trader’lar nasıl tepki verebilir?",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/geopolitical-events-and-markets",
+            "publisher": { "@type": "Organization", "name": "Qption" },
+            "about": [
+                { "@type": "Thing", "name": "Jeopolitik" },
+                { "@type": "Thing", "name": "Siyasi Seçimler" },
+                { "@type": "Thing", "name": "Ticaret Savaşları & Yaptırımlar" },
+                { "@type": "Thing", "name": "Askeri Çatışmalar" },
+                { "@type": "Thing", "name": "Regülasyon Değişimleri" },
+                { "@type": "Thing", "name": "Güvenli Liman Varlıklar" },
+                { "@type": "Thing", "name": "Döviz Piyasaları" },
+                { "@type": "Thing", "name": "Emtia Piyasaları" },
+                { "@type": "Thing", "name": "Tahvil Piyasaları" },
+                { "@type": "Thing", "name": "Piyasa Volatilitesi" }
+            ],
+            "articleSection": [
+                "Genel Bakış",
+                "Jeopolitik Olay Türleri",
+                "Piyasa Tepkileri",
+                "Faydalar",
+                "Sınırlamalar"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Güvenli Liman Akışları",
+                    "value": "Risk şokları USD, JPY, CHF, altın ve devlet tahvillerini yukarı taşırken riskli varlıklar satılma eğilimi gösterir."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Enerji Hassasiyeti",
+                    "value": "Jeopolitik gerilimlerde petrol, üretici bölgelerden gelen arz risklerine karşı çok hassastır."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Portföy Taktikleri",
+                    "value": "Güvenli limanlarla hedge etmek, varlık çeşitlendirmek, manşetler ve yaptırım riskini izlemek önemlidir."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "page": {
+        "title": "Jeopolitik Olayların Piyasalar Üzerindeki Etkisi"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "startTrading": "Ticarete Başla"
+    },
+    "sections": {
+        "overview": {
+            "title": "Genel Bakış",
+            "bullets": [
+                "Jeopolitik olaylar, ulusal ve küresel düzeyde siyasi, ekonomik ve sosyal gelişmeleri kapsar; risk algısını ve sermaye akışlarını şekillendirir.",
+                "Seçimler, ticaret savaşları, çatışmalar ve politika değişimleri, katılımcıların riskleri yeniden fiyatlamasıyla volatiliteyi tetikleyebilir.",
+                "Ana riskleri haritalandırmak, trader’ların olası senaryolara hazırlanmasını ve stratejilerini değişen makro koşullarla uyumlu hale getirmesini sağlar."
+            ]
+        },
+        "types": {
+            "title": "Piyasaları Etkileyen Jeopolitik Olay Türleri",
+            "items": [
+                {
+                    "label": "Siyasi Seçimler",
+                    "text": "Liderlik ve politika değişimleri, mali duruşu, uluslararası ilişkileri ve sektör regülasyonlarını değiştirebilir; risk primleri ve pozisyonlanma kayar."
+                },
+                {
+                    "label": "Ticaret Savaşları",
+                    "text": "Tarifeler, yaptırımlar ve ihracat kontrolleri tedarik zincirlerini bozar, dışa bağımlı sektörleri baskılar ve para birimlerini etkiler."
+                },
+                {
+                    "label": "Askeri Çatışmalar",
+                    "text": "Tırmanan çatışmalar belirsizliği artırır; altın, USD/JPY/CHF ve devlet tahvilleri gibi güvenli limanlara talep artar, risk varlıkları baskı görür."
+                },
+                {
+                    "label": "Regülasyon Değişimleri",
+                    "text": "Finans, enerji ve teknolojideki yeni kurallar, kazanç görünümünü ve yatırımcı güvenini değiştirebilir."
+                },
+                {
+                    "label": "Doğal Afetler ve Pandemiler",
+                    "text": "Şoklar üretim ve tüketimi bozar; tedarik zincirleri, talep kalıpları ve kamu harcamaları yeniden şekillenir."
+                }
+            ]
+        },
+        "reactions": {
+            "title": "Jeopolitik Olaylara Piyasa Tepkileri",
+            "stocks": {
+                "title": "1. Hisse Senedi Piyasaları",
+                "bullets": [
+                    "Belirsizlik volatiliteyi artırır, risk iştahını daraltır; defansif sektörler syklicklere göre avantaj sağlar.",
+                    "Gerginliğin azalması veya netlik, güvenin artmasıyla rahatlama rallilerini tetikleyebilir."
+                ]
+            },
+            "fx": {
+                "title": "2. Döviz Piyasaları (Forex)",
+                "bullets": [
+                    "Güvenli liman para birimleri (USD, CHF, JPY) stres dönemlerinde likidite ve güvenliğe kaçıştan faydalanır.",
+                    "Doğrudan etkilenen bölge para birimleri, sermaye çıkışları ve artan risk primleri nedeniyle zayıflayabilir."
+                ]
+            },
+            "commodities": {
+                "title": "3. Emtia Piyasaları",
+                "bullets": [
+                    "Altın ve değerli metaller, değer saklama talebi arttıkça güçlenir.",
+                    "Ham petrol, üretici bölgelerden kaynaklanan arz risklerine karşı son derece hassastır; kesintiler ve yaptırımlar fiyatları yükseltebilir."
+                ]
+            },
+            "bonds": {
+                "title": "4. Tahvil Piyasaları",
+                "bullets": [
+                    "Yüksek kaliteli devlet tahvillerine (örn. ABD Hazine) kaçış, fiyatları yukarı taşıyıp getirileri düşürür.",
+                    "Süre ve kalite primleri, yatırımcılar güvenlik ve likiditeyi önceliklendirdikçe genişler."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Jeopolitik Olayları İzlemenin Faydaları",
+            "bullets": [
+                "Volatiliteyi Öngör: Risk takvimini bilmek pozisyon boyutu, hedge ve zamanlamayı iyileştirir.",
+                "Güvenli Liman Fırsatları Bul: Stres yükselirken altın, CHF/JPY/USD ve yüksek kaliteli tahvillere rotasyon yap.",
+                "Stratejik Planlamayı Güçlendir: Ani rejim değişimlerine dayanıklı portföyler ve senaryo planları oluştur."
+            ]
+        },
+        "limitations": {
+            "title": "Jeopolitik Analize Dayanmanın Sınırlamaları",
+            "items": [
+                {
+                    "label": "Öngörülemezlik",
+                    "text": "Olaylar aniden ortaya çıkabilir ve lineer olmayan biçimde evrilebilir; kesin zamanlama zordur."
+                },
+                {
+                    "label": "Karmaşık Bağımlılıklar",
+                    "text": "Küresel bağlar, ikinci tur etkilerin varlıklar ve bölgeler arasında beklenmedik şekilde yayılmasına yol açabilir."
+                },
+                {
+                    "label": "Kısa Vadeli Bozulma",
+                    "text": "Manşet riski geçici olarak temelleri bastırabilir; sinyal ayrıştırmak ve trendleri okumak zorlaşır."
+                }
+            ]
+        }
+    }
+}

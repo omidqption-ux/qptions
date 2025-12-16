@@ -1,0 +1,132 @@
+{
+    "seo": {
+        "title": "Strategia Breakout – Livelli, conferma di volume e gestione del rischio | Qption",
+        "description": "Padroneggia la strategia Breakout: individua supporti/resistenze chiave, conferma con volume e indicatori (RSI, MACD, ATR, Bande di Bollinger), evita i falsi breakout e definisci ingressi, uscite e controlli di rischio precisi. Include pro/contro ed esempio pratico.",
+        "url": "https://qption.com/trading-strategy/breakout",
+        "image": "https://qption.com/videos/breakout-strategy/breakout-strategy.jpg",
+        "imageAlt": "Strategia di trading Breakout",
+        "keywords": "strategia breakout, breakout, supporto e resistenza, conferma di volume, falsi breakout, RSI, MACD, ATR, Bande di Bollinger, trading momentum, gestione del rischio, ingressi e uscite, strategia di trading, Qption",
+        "jsonLd": {
+            "headline": "Strategia Breakout – Livelli, conferma di volume e gestione del rischio",
+            "about": [
+                "Breakout trading",
+                "Supporto e resistenza",
+                "Conferma di volume",
+                "Falsi breakout",
+                "RSI",
+                "MACD",
+                "ATR",
+                "Bande di Bollinger",
+                "Momentum",
+                "Gestione del rischio"
+            ],
+            "articleSection": [
+                "Strategia Breakout",
+                "Concetti chiave della strategia Breakout",
+                "Come usare la strategia Breakout",
+                "Pro e contro della strategia Breakout",
+                "Esempio operativo della strategia Breakout"
+            ]
+        }
+    },
+    "breadcrumb": "Strategia di trading",
+    "title": "Strategia Breakout",
+    "cta": {
+        "prompt": "Pronto a fare trading?",
+        "button": "Inizia a fare trading"
+    },
+    "video": {
+        "aria": "I breakout spesso si verificano quando il prezzo supera supporti o resistenze chiave"
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Concetti chiave della strategia Breakout",
+            "items": {
+                "levels": {
+                    "title": "Livelli di supporto e resistenza:",
+                    "desc": "I breakout avvengono quando il prezzo supera livelli chiave di supporto o resistenza, spesso considerati barriere psicologiche. Una volta rotti, il prezzo tende a prendere momentum nella direzione della rottura."
+                },
+                "volume": {
+                    "title": "Conferma di volume:",
+                    "desc": "Un aumento del volume durante il breakout ne rafforza la validità. Volume elevato indica forte interesse per la nuova direzione e aumenta la probabilità che il trend continui."
+                },
+                "types": {
+                    "title": "Tipologie di breakout:",
+                    "bull": "Breakout rialzista: il prezzo rompe una resistenza e indica un potenziale trend verso l’alto.",
+                    "bear": "Breakout ribassista: il prezzo scende sotto un supporto e suggerisce un possibile trend ribassista."
+                },
+                "indicators": {
+                    "title": "Indicatori tecnici:",
+                    "desc": "Indicatori come Medie Mobili, Bande di Bollinger e Average True Range (ATR) aiutano a confermare la forza del breakout. Per esempio le Bande di Bollinger si espandono con alta volatilità, segnalando una possibile rottura."
+                },
+                "false": {
+                    "title": "Falsi breakout:",
+                    "desc": "Talvolta il prezzo supera momentaneamente un livello e torna subito nel range precedente. Per evitare ingressi su falsi segnali, attendi conferme aggiuntive (volume, chiusura oltre il livello, indicatori)."
+                }
+            }
+        },
+        "howTo": {
+            "title": "Come utilizzare la strategia Breakout",
+            "items": {
+                "levels": {
+                    "title": "Individua i livelli chiave:",
+                    "desc": "Usa i grafici per segnare supporti e resistenze significativi: massimi/minimi storici, trendline o numeri tondi considerati barriere psicologiche."
+                },
+                "confirm": {
+                    "title": "Attendi la conferma:",
+                    "desc": "Entrare subito può essere rischioso perché i falsi breakout sono frequenti. Aspetta fattori di conferma come aumento dei volumi, chiusura oltre il livello o supporto degli indicatori."
+                },
+                "indicators": {
+                    "title": "Usa indicatori tecnici:",
+                    "desc": "Combina i segnali di breakout con RSI, MACD o Medie Mobili per confermare la rottura. Un RSI sopra 50 in un breakout rialzista (o sotto 50 in uno ribassista) rafforza il segnale."
+                },
+                "entriesExits": {
+                    "title": "Definisci ingressi e uscite:",
+                    "desc": "Ingresso: posiziona un ordine leggermente sopra la resistenza (breakout long) o sotto il supporto (breakout short).\nUscita: fissa obiettivi usando l’ampiezza del range (distanza tra supporto e resistenza) o utilizza trailing stop per seguire il trend."
+                },
+                "risk": {
+                    "title": "Gestisci il rischio:",
+                    "desc": "Imposta stop-loss per proteggerti dai reversal. In un breakout rialzista, lo stop va poco sotto il livello rotto; in uno ribassista poco sopra. Così limiti le perdite in caso di falso breakout."
+                }
+            }
+        },
+        "prosCons": {
+            "title": "Pro e contro della strategia Breakout",
+            "pros": {
+                "title": "Pro:",
+                "items": {
+                    "reward": {
+                        "title": "Alto potenziale di profitto:",
+                        "desc": "I breakout possono generare trend forti, offrendo opportunità significative se colti in anticipo."
+                    },
+                    "momentum": {
+                        "title": "Basata sul momentum:",
+                        "desc": "La strategia sfrutta il momentum, facilitando l’ingresso quando il trend parte."
+                    },
+                    "markets": {
+                        "title": "Funziona su più mercati:",
+                        "desc": "Applicabile a azioni, forex, commodity e crypto."
+                    }
+                }
+            },
+            "cons": {
+                "title": "Contro:",
+                "items": {
+                    "falseBreakouts": {
+                        "title": "Rischio di falsi breakout:",
+                        "desc": "Entrare su segnali falsi può causare perdite rapide se il prezzo torna nel range."
+                    },
+                    "timing": {
+                        "title": "Tempismo complesso:",
+                        "desc": "Identificare i breakout autentici non è semplice; ingressi tardivi o anticipati possono ridurre l’efficacia."
+                    }
+                }
+            }
+        },
+        "example": {
+            "title": "Esempio operativo della strategia Breakout",
+            "p1": "Immagina un titolo che scambia in un range stretto con resistenza a 100 $ e supporto a 95 $. Dopo vari tentativi, rompe finalmente i 100 $ con volume elevato: segnale di breakout rialzista.",
+            "p2": "Un trader può piazzare l’ingresso a 101 $ per confermare la rottura e lo stop a 98 $ per proteggersi da eventuali reversal. Se il prezzo continua a salire, imposta un target basato sul range precedente o usa un trailing stop per catturare ulteriori guadagni."
+        }
+    }
+}

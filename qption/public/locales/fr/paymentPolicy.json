@@ -1,0 +1,77 @@
+{
+    "seo": {
+        "title": "Politique de paiement | Qption",
+        "description": "La politique de paiement de Qption couvre l’affichage du solde du compte, les procédures de dépôt et de retrait, la vérification client (KYC), les obligations fiscales et d’autres conditions essentielles.",
+        "keywords": "politique de paiement, dépôt, retrait, solde du compte, KYC, vérification, fiscalité, Qption",
+        "ogTitle": "Politique de paiement | Qption",
+        "ogDescription": "Découvrez les politiques de Qption concernant les dépôts, retraits, visibilité du solde, KYC et fiscalité.",
+        "url": "https://qption.com/payment-policy",
+        "image": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Politique de paiement | Qption",
+        "twitterDescription": "Procédures de dépôt/retrait, responsabilité du solde, KYC, fiscalité et plus encore.",
+        "twitterImage": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "canonical": "https://qption.com/payment-policy"
+    },
+    "hero": {
+        "title": "Politique de paiement"
+    },
+    "sections": [
+        {
+            "key": "account",
+            "icon": "account",
+            "title": "1. Responsabilité du solde du compte",
+            "items": [
+                "L’Entreprise est responsable de l’affichage du solde du compte du Client à tout moment.",
+                "La responsabilité de l’Entreprise commence dès l’enregistrement d’un dépôt et s’étend jusqu’à ce qu’une demande complète de retrait soit traitée par le Client.",
+                "Le Client a le droit de demander les fonds disponibles sur son compte au moment de la demande."
+            ]
+        },
+        {
+            "key": "payments",
+            "icon": "payments",
+            "title": "2. Procédures de dépôt et de retrait",
+            "items": [
+                "Les dépôts et retraits sont effectués par les méthodes officielles répertoriées sur le site web de l’Entreprise.",
+                "Les Clients assument tous les risques associés à l’utilisation de méthodes de paiement, ces prestataires n’étant pas affiliés à l’Entreprise.",
+                "L’Entreprise est responsable des fonds uniquement une fois qu’ils ont été reçus sur le compte bancaire ou de paiement de l’Entreprise."
+            ]
+        },
+        {
+            "key": "registration",
+            "icon": "registration",
+            "title": "3. Enregistrement du client",
+            "items": [
+                "L’enregistrement nécessite la fourniture d’informations exactes sur l’identité et les coordonnées du client.",
+                "Le processus de vérification requiert une pièce d’identité délivrée par le gouvernement.",
+                "Le processus d’identification doit être complété dans un délai de 10 jours ouvrables."
+            ]
+        },
+        {
+            "key": "deposit",
+            "icon": "deposit",
+            "title": "4. Processus de dépôt",
+            "items": [
+                "Les dépôts sont initiés depuis le compte personnel du Client sur le site web.",
+                "Les paiements électroniques peuvent être traités en quelques secondes ou prendre plusieurs jours selon le prestataire."
+            ]
+        },
+        {
+            "key": "tax",
+            "icon": "tax",
+            "title": "5. Obligations fiscales",
+            "items": [
+                "L’Entreprise n’agit pas en tant qu’agent fiscal pour le Client ; toutes les déclarations et paiements d’impôts relèvent de la responsabilité du Client."
+            ]
+        },
+        {
+            "key": "misc",
+            "icon": "misc",
+            "title": "6. Dispositions diverses",
+            "items": [
+                "En acceptant le Contrat, le Client confirme qu’il est majeur selon la législation applicable.",
+                "Le Client est responsable du respect de toutes les lois et réglementations locales en vigueur."
+            ]
+        }
+    ]
+}

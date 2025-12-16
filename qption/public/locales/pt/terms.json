@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Termos e Condições | Qption",
+        "description": "Termos de uso da Qption: divulgação de riscos, criação e verificação de contas, depósitos e saques, proteção de dados, combate à lavagem de dinheiro, força maior e encerramento.",
+        "keywords": "termos e condições, divulgação de risco, verificação, depósito, saque, AML, proteção de dados, força maior, encerramento, Qption",
+        "ogTitle": "Termos e Condições | Qption",
+        "ogDescription": "Principais termos de uso da Qption: contas, verificação, pagamentos, segurança, AML e muito mais.",
+        "url": "https://qption.com/terms-and-conditions",
+        "image": "https://qption.com/images/og/terms-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Termos e Condições | Qption",
+        "twitterDescription": "Conheça as regras e obrigações ao utilizar os serviços da Qption.",
+        "twitterImage": "https://qption.com/images/og/terms-qption.jpg",
+        "canonical": "https://qption.com/terms-and-conditions"
+    },
+    "hero": {
+        "title": "Termos e Condições"
+    },
+    "sections": [
+        {
+            "icon": "intro",
+            "title": "1. Introdução",
+            "items": [
+                "A Qption fornece serviços de corretagem conforme especificado nestes Termos e Condições.",
+                "Estes Termos e Condições se aplicam além de qualquer outro acordo entre você e a Qption.",
+                "O cliente é responsável por revisar regularmente os Termos; o uso contínuo do site implica aceitação das alterações.",
+                "O idioma oficial da Qption é o inglês. As traduções são apenas para fins informativos."
+            ]
+        },
+        {
+            "icon": "risk",
+            "title": "2. Divulgação de Risco",
+            "items": [
+                "Os CFDs são produtos alavancados e envolvem alto risco; é possível perder todo o capital investido.",
+                "Esses produtos podem não ser adequados para todos. O cliente deve compreender os riscos envolvidos.",
+                "O cliente reconhece que o valor de qualquer investimento pode aumentar ou diminuir."
+            ]
+        },
+        {
+            "icon": "definitions",
+            "title": "3. Definições",
+            "items": [
+                "Conta: qualquer conta criada para o cliente negociar com a Qption.",
+                "Cliente: qualquer pessoa física ou jurídica a quem a Qption presta serviços.",
+                "Depósito: fundos depositados pelo cliente em sua(s) conta(s) Qption.",
+                "Saque: fundos retirados pelo cliente de sua(s) conta(s) Qption."
+            ]
+        },
+        {
+            "icon": "account",
+            "title": "4. Conta do Cliente",
+            "items": [
+                "Para usar os serviços da Qption, o cliente deve abrir uma conta com informações precisas.",
+                "O cliente deve notificar a Qption imediatamente sobre qualquer alteração em suas informações.",
+                "As informações da conta do cliente são mantidas de acordo com a Política de Privacidade da Qption."
+            ]
+        },
+        {
+            "icon": "verification",
+            "title": "5. Verificação de Conta",
+            "items": [
+                "A Qption exige informações e documentos de identificação válidos para verificação.",
+                "A empresa pode solicitar prova de identidade e de endereço a qualquer momento.",
+                "O cliente deve ter mais de 18 anos para celebrar um contrato com a Qption."
+            ]
+        },
+        {
+            "icon": "payments",
+            "title": "6. Depósitos e Saques",
+            "items": [
+                "O cliente pode depositar fundos a qualquer momento através dos métodos de pagamento aprovados.",
+                "Os saques são processados de acordo com o método usado para o depósito.",
+                "A Qption reserva-se o direito de solicitar documentos que comprovem a origem dos fundos."
+            ]
+        },
+        {
+            "icon": "dataProtection",
+            "title": "7. Proteção de Dados",
+            "items": [
+                "A Qption garante a segurança total das informações pessoais dos clientes com tecnologia de criptografia SSL.",
+                "A empresa usa firewalls, sistemas de autenticação e mecanismos de controle de acesso.",
+                "O cliente deve informar à Qption sobre quaisquer alterações em suas informações pessoais."
+            ]
+        },
+        {
+            "icon": "aml",
+            "title": "8. Prevenção à Lavagem de Dinheiro (AML)",
+            "items": [
+                "A Qption está comprometida em prevenir lavagem de dinheiro e financiamento ao terrorismo.",
+                "A empresa segue políticas baseadas em regulamentos de combate à lavagem de dinheiro.",
+                "A Qption reserva-se o direito de recusar transações associadas à lavagem de dinheiro."
+            ]
+        },
+        {
+            "icon": "forceMajeure",
+            "title": "9. Força Maior",
+            "items": [
+                "A Qption não será responsável por eventos fora de seu controle razoável.",
+                "Isso inclui desastres naturais, guerra, incêndio, enchente, falhas de rede ou de hardware/software."
+            ]
+        },
+        {
+            "icon": "termination",
+            "title": "10. Encerramento",
+            "items": [
+                "Qualquer parte pode encerrar este acordo com aviso prévio por escrito de cinco (5) dias úteis.",
+                "A Qption reserva-se o direito de encerrar o contrato em caso de violação dos termos.",
+                "Após o encerramento, quaisquer fundos remanescentes serão reembolsados com as deduções aplicáveis."
+            ]
+        }
+    ]
+}

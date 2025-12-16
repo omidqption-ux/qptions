@@ -1,0 +1,62 @@
+{
+    "seo": {
+        "title": "Hakkımızda – Qption",
+        "description": "Ekibimizi, misyonumuzu ve Qption’un arkasındaki teknolojiyi tanıyın — hız, şeffaflık ve her seviyeden yatırımcı için oluşturulmuş bir opsiyon ticaret platformu."
+    },
+    "hero": {
+        "title": "Online Ticareti Yeniden Tanımlıyoruz",
+        "subtitle": "Vizyoner FinTech uzmanlarından oluşan bir ekip tarafından kurulan Qption, günümüz dijital dünyasında ticaretin anlamını yeniden tanımlıyor. Ticaretin herkes için erişilebilir, yenilikçi ve ödüllendirici olması gerektiğine inanıyoruz."
+    },
+    "box": {
+        "heading": "Qption Hakkında",
+        "companyRegistration": {
+            "title": "Şirket Kaydı",
+            "body": "Qption LLC, SVG’de First Floor, First St. Vincent Bank Ltd Building, James Street Kingstown, St. Vincent ve Grenadinler adresinde 1744 LLC 22 numarasıyla kayıtlıdır."
+        },
+        "globalPresence": {
+            "title": "Küresel Varlık",
+            "body": "Dünya çapında yatırımcılara güvenli ve güvenilir bir ticaret platformu sunuyoruz."
+        },
+        "securityFirst": {
+            "title": "Önce Güvenlik",
+            "body": "Güvenliğiniz önceliğimizdir. Verilerinizi ve yatırımlarınızı korumak için endüstri lideri önlemler uyguluyoruz."
+        },
+        "tradingExcellence": {
+            "title": "Ticarette Mükemmellik",
+            "body": "Piyasada başarılı olmanız için gelişmiş araçlar ve kaynaklar sunuyoruz."
+        }
+    },
+    "stats": {
+        "activeTraders": "Aktif Traderlar",
+        "monthlyVolume": "Aylık Hacim",
+        "countries": "Ülkeler",
+        "avgIncome": "Ortalama Aylık Gelir"
+    },
+    "values": {
+        "heading": "Temel Değerlerimiz",
+        "innovationFirst": {
+            "title": "Önce Yenilik",
+            "desc": "Yenilikçi özellikler ve yeni standartlarla sürekli sınırları zorluyoruz."
+        },
+        "customerCentric": {
+            "title": "Müşteri Odaklı",
+            "desc": "Sizin başarınız bizim başarımızdır. Olağanüstü hizmet ve destek sağlamaya kararlıyız."
+        },
+        "communityDriven": {
+            "title": "Topluluk Odaklı",
+            "desc": "Platformumuz, trader’ların etkileşimi ve ortak başarısı ile gelişmektedir."
+        },
+        "integrity": {
+            "title": "Dürüstlük",
+            "desc": "Tüm operasyonlarımızda şeffaflık ve güçlü uyum içinde hareket ediyoruz."
+        },
+        "sustainability": {
+            "title": "Sürdürülebilirlik",
+            "desc": "Uzun vadeli ilişkiler ve istikrarlı, güvenilir bir platform inşa ediyoruz."
+        },
+        "sharedSuccess": {
+            "title": "Paylaşılan Başarı",
+            "desc": "Ticareti dünya çapındaki yatırımcılar için erişilebilir ve kârlı hale getiriyoruz."
+        }
+    }
+}

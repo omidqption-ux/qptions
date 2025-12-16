@@ -1,0 +1,89 @@
+{
+    "seo": {
+        "title": "Indicateurs économiques et réactions du marché – PIB, IPC, emploi, PPI et plus | Qption",
+        "description": "Comprenez les principaux indicateurs économiques (PIB, IPC, emploi, ventes au détail, PPI, balance commerciale) et comment les marchés réagissent sur les actions, les obligations, le forex et les matières premières. Découvrez ce que chaque indicateur révèle, les réactions typiques, ainsi que leurs avantages et limites pour les traders.",
+        "keywords": "indicateurs économiques, PIB, IPC, PPI, emploi, nonfarm payrolls, ventes au détail, balance commerciale, réactions du marché, actions, obligations, forex, matières premières, politique monétaire, analyse fondamentale, Qption",
+        "ogTitle": "Indicateurs économiques et réactions du marché – PIB, IPC, emploi, PPI et plus | Qption",
+        "ogDescription": "Découvrez comment le PIB, l’IPC, l’emploi et le PPI influencent les actions, obligations, devises et matières premières — et comment les traders les utilisent.",
+        "url": "https://qption.com/fr/fundamental-analysis/economic-indicators-market-reactions",
+        "image": "https://qption.com/images/og/economic-indicators-market-reactions.jpg"
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analyse fondamentale"
+    },
+    "page": {
+        "title": "Indicateurs économiques et réactions du marché"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "startTrading": "Commencer à trader"
+    },
+    "sections": {
+        "overview": {
+            "title": "Aperçu",
+            "bullets": [
+                "Les indicateurs économiques sont des mesures statistiques qui révèlent l’état d’une économie — ils aident les traders à évaluer la croissance, l’inflation, l’emploi et la situation générale.",
+                "Les réactions du marché à ces publications peuvent être importantes, influençant les prix des actions, obligations, devises et matières premières.",
+                "Connaître les principaux indicateurs permet aux traders d’anticiper les mouvements et d’ajuster leurs stratégies selon les tendances macroéconomiques."
+            ]
+        },
+        "keyIndicators": {
+            "title": "Principaux indicateurs économiques",
+            "items": {
+                "gdp": "Produit intérieur brut (PIB) : Mesure la production totale et constitue l’indicateur principal de la santé économique. Une hausse du PIB indique une expansion ; une baisse signale une contraction.",
+                "cpi": "Indice des prix à la consommation (IPC) : Suit l’évolution des prix d’un panier de biens et services — principale mesure de l’inflation. Un IPC élevé pousse souvent à un resserrement monétaire.",
+                "employment": "Données sur l’emploi : Incluent le taux de chômage et les créations d’emplois (NFP), fournissant un aperçu du marché du travail. Un emploi solide soutient la croissance ; des données faibles signalent un ralentissement.",
+                "retailSales": "Ventes au détail : Indicateur clé de la consommation, moteur essentiel de la croissance. Des ventes élevées reflètent la confiance, des ventes faibles signalent une faiblesse.",
+                "ppi": "Indice des prix à la production (PPI) : Mesure l’évolution des prix au niveau des producteurs et peut anticiper les tendances de l’inflation à la consommation.",
+                "tradeBalance": "Balance commerciale : Différence entre exportations et importations influençant la force d’une devise — les excédents la soutiennent, les déficits peuvent la peser."
+            }
+        },
+        "reactions": {
+            "title": "Réactions du marché aux indicateurs économiques",
+            "stocks": {
+                "title": "1. Marchés actions",
+                "bullets": [
+                    "Des données positives (ex. hausse du PIB ou fort emploi) renforcent l’appétit pour le risque et soutiennent les marchés actions.",
+                    "Une forte inflation ou un ralentissement de la croissance peuvent peser sur les actions en raison d’attentes de resserrement monétaire."
+                ]
+            },
+            "bonds": {
+                "title": "2. Marchés obligataires",
+                "bullets": [
+                    "Des données solides font monter les rendements (et baisser les prix) car les marchés anticipent des hausses de taux.",
+                    "Des données faibles font baisser les rendements (et monter les prix) car les investisseurs recherchent la sécurité et les banques centrales deviennent accommodantes."
+                ]
+            },
+            "fx": {
+                "title": "3. Marchés des changes (Forex)",
+                "bullets": [
+                    "Des indicateurs solides (PIB ou emploi) soutiennent la devise grâce à des taux attendus plus élevés et des flux de capitaux entrants.",
+                    "Des données faibles pèsent sur la devise en réduisant son attractivité relative."
+                ]
+            },
+            "cmd": {
+                "title": "4. Marchés des matières premières",
+                "bullets": [
+                    "Une croissance plus forte stimule la demande de matières premières (pétrole, métaux) et soutient les prix.",
+                    "Des données plus faibles réduisent la demande et exercent une pression à la baisse sur les prix."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Avantages du suivi des indicateurs économiques",
+            "bullets": [
+                "Anticiper les tendances du marché : Les données macro aident à prévoir et contextualiser les mouvements de prix.",
+                "Prendre des décisions éclairées : Soutient l’allocation d’actifs et les ajustements de portefeuille.",
+                "Évaluer la santé économique : Une meilleure vision macro aide à calibrer le risque et le timing."
+            ]
+        },
+        "limitations": {
+            "title": "Limites de l’utilisation des indicateurs économiques",
+            "bullets": [
+                "Caractère retardé : Certains indicateurs (comme le PIB) reflètent le passé et ne captent pas toujours la situation actuelle.",
+                "Risque de volatilité : Les publications majeures peuvent provoquer des mouvements brusques et imprévisibles, notamment sur le forex et les actions.",
+                "Complexité d’interprétation : Les signaux mixtes sont fréquents ; l’expérience et d’autres données sont nécessaires."
+            ]
+        }
+    }
+}

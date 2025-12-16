@@ -1,0 +1,160 @@
+{
+    "seo": {
+        "title": "Enflasyonun Para Birimleri ve Kriptoya Etkisi – TÜFE, ÜFE, faizler ve hedge anlatıları | Qption",
+        "description": "Enflasyonun FX ve kriptoyu nasıl şekillendirdiğini keşfedin: TÜFE/ÜFE temelleri, talep-çekişli ve maliyet-itişli dinamikler, faiz politikasıyla para birimi gücü ve Bitcoin “enflasyon koruması” anlatısı. Ana göstergeleri, faydaları ve sınırlamaları içerir.",
+        "keywords": "enflasyon, TÜFE, ÜFE, talep-çekişli enflasyon, maliyet-itişli enflasyon, faiz politikası, para birimi gücü, FX piyasaları, kripto piyasaları, Bitcoin enflasyon koruması, volatilite, merkez bankası raporları, ücretler, istihdam, temel analiz, Qption",
+        "ogTitle": "Enflasyon ve Para/Kripto Piyasalarına Etkisi | Qption",
+        "ogDescription": "TÜFE/ÜFE'den BTC'nin hedge söylemine: Enflasyonun FX ve kriptoyu nasıl hareket ettirdiğine dair pratik rehber.",
+        "url": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+        "image": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Enflasyon & Piyasalar: FX ve Kripto",
+        "twitterDescription": "Enflasyon, faizler ve politikaların para birimleri ile dijital varlıkları nasıl yönlendirdiğini öğrenin.",
+        "twitterImage": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Enflasyon ve Para & Kripto Piyasalarına Etkisi – TÜFE, ÜFE, Faizler ve Hedge",
+            "description": "Enflasyonun FX ve kriptoya etkileri; TÜFE/ÜFE, politika faizleri ve hedge anlatıları.",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+            "publisher": { "@type": "Organization", "name": "Qption" },
+            "about": [
+                { "@type": "Thing", "name": "Enflasyon" },
+                { "@type": "Thing", "name": "Tüketici Fiyat Endeksi (TÜFE)" },
+                { "@type": "Thing", "name": "Üretici Fiyat Endeksi (ÜFE)" },
+                { "@type": "Thing", "name": "Talep-Çekişli Enflasyon" },
+                { "@type": "Thing", "name": "Maliyet-İtişli Enflasyon" },
+                { "@type": "Thing", "name": "Faiz Politikası" },
+                { "@type": "Thing", "name": "Döviz Piyasaları" },
+                { "@type": "Thing", "name": "Kripto Para Piyasaları" },
+                { "@type": "Thing", "name": "Bitcoin" },
+                { "@type": "Thing", "name": "Para Politikası" }
+            ],
+            "articleSection": [
+                "Genel Bakış",
+                "Enflasyonun Temel Kavramları",
+                "Para Birimi Piyasalarına Etkisi",
+                "Kripto Piyasalarına Etkisi",
+                "Takip Edilecek Göstergeler",
+                "Faydalar",
+                "Sınırlamalar"
+            ],
+            "additionalProperty": [
+                { "@type": "PropertyValue", "name": "TÜFE", "value": "Birincil tüketici enflasyonu göstergesi; aylık yayınlar politika beklentilerini şekillendirir." },
+                { "@type": "PropertyValue", "name": "ÜFE", "value": "Üretici fiyatları tüketici enflasyon eğilimlerini önceden işaret edebilir." },
+                { "@type": "PropertyValue", "name": "Enflasyon Türleri", "value": "Talep-çekişli (aşırı talep) ve maliyet-itişli (artacak girdiler)." },
+                { "@type": "PropertyValue", "name": "FX Etkisi", "value": "Yüksek enflasyon faiz artırımıyla telafi edilmezse para birimini zayıflatır; sıkı politika FX’i destekleyebilir." },
+                { "@type": "PropertyValue", "name": "Kripto Anlatısı", "value": "Bitcoin ve bazı kriptolar, sınırlı arz nedeniyle potansiyel enflasyon koruması olarak görülür." }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "page": {
+        "title": "Enflasyonun Para Birimi ve Kripto Piyasalarına Etkisi"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "start": "Ticarete Başla"
+    },
+    "sections": {
+        "overview": {
+            "title": "Genel Bakış",
+            "items": [
+                "Enflasyon; mal ve hizmet sepetinin genel fiyat düzeyi artışını ölçer, satın alma gücünü ve para politikası kararlarını etkiler.",
+                "Yükselen enflasyon, merkez bankalarını faiz artırmaya zorlayarak para birimi değerini, tahvil getirilerini ve risk iştahını değiştirir.",
+                "Enflasyon baskıları aynı zamanda kripto gibi alternatif varlıklara yönelik anlatıları tetikleyebilir; trader’lar bu dinamikleri takip ederek risklerini yönetir."
+            ]
+        },
+        "concepts": {
+            "title": "Enflasyonun Temel Kavramları",
+            "items": [
+                {
+                    "label": "TÜFE",
+                    "text": "Tüketicilerin ödediği fiyatları izler; manşet ve çekirdek (enerji/gıda hariç) sürümleri politika için kritik."
+                },
+                {
+                    "label": "ÜFE",
+                    "text": "Üretici seviyesindeki fiyatları takip eder; tüketici enflasyonunun öncü göstergesi olabilir."
+                },
+                {
+                    "label": "Talep-çekişli enflasyon",
+                    "text": "Aşırı talep kapasiteyi zorlayınca fiyatlar yükselir; büyüme ve istihdamdaki güçlenmeyle ilişkilidir."
+                },
+                {
+                    "label": "Maliyet-itişli enflasyon",
+                    "text": "Enerji, ücret veya tedarik şoklarından kaynaklanan artan girdiler fiyatları yükseltir."
+                },
+                {
+                    "label": "Faiz politikası",
+                    "text": "Merkez bankaları faiz artırıp/indirerek enflasyon beklentilerini yönetir ve para birimi gücünü etkiler."
+                }
+            ]
+        },
+        "fxImpact": {
+            "title": "Enflasyonun Para Birimi Piyasalarına Etkisi",
+            "items": [
+                "Yüksek enflasyon para biriminin değer kaybetmesine yol açabilir; yatırımcılar daha yüksek reel getiri arar.",
+                "Merkez bankası faiz artırırsa, daha yüksek faiz farkı paraya destek olabilir.",
+                "ABD Doları gibi rezerv para birimleri, küresel sıkılaşma dönemlerinde güvenli liman talebiyle güçlenebilir.",
+                "EM para birimleri, enflasyon hızla yükselirken politika kredibilitesi sorgulandığında baskı görebilir."
+            ]
+        },
+        "cryptoImpact": {
+            "title": "Enflasyonun Kripto Piyasalarına Etkisi",
+            "items": [
+                "Bitcoin gibi arzı sınırlı varlıklar, yatırımcılar fiat para birimlerinin değer kaybından endişe ettiğinde “dijital altın” anlatısıyla ilgi görebilir.",
+                "Ancak sıkı politika ve artan getiriler riskli varlıklardan çıkışı tetikleyerek kripto fiyatlarını baskılayabilir.",
+                "Stablecoin’ler ve DeFi getirileri, yüksek enflasyon ortamında alternatif getiri kaynakları olarak benimsenebilir."
+            ]
+        },
+        "indicators": {
+            "title": "Takip Edilecek Göstergeler",
+            "items": [
+                {
+                    "label": "TÜFE/TÜFE detayı",
+                    "text": "Manşet vs çekirdek, barınma ve hizmet enflasyonu, enflasyonun yapısını gösterir."
+                },
+                {
+                    "label": "ÜFE ve ithalat fiyatları",
+                    "text": "Üretici maliyetleri ve kur geçişkenliği hakkında ipuçları sağlar."
+                },
+                {
+                    "label": "Ücretler ve istihdam",
+                    "text": "Güçlü ücret artışı ve sıkı iş gücü piyasası, talep-çekişli baskıları destekler."
+                },
+                {
+                    "label": "Merkez bankası raporları",
+                    "text": "Enflasyon raporları ve toplantı tutanakları politika yoluna dair sinyal verir."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Enflasyon Analizinin Faydaları",
+            "items": [
+                "Para birimi ve tahvil piyasalarında politika beklentilerine göre pozisyon almayı kolaylaştırır.",
+                "Makro riskleri anlamak için kripto anlatılarıyla birlikte kullanılabilir.",
+                "Varlık dağılımı ve hedge stratejilerine bilgi sağlar."
+            ]
+        },
+        "limitations": {
+            "title": "Enflasyon Analizinin Sınırlamaları",
+            "items": [
+                {
+                    "label": "Gecikmeli veri",
+                    "text": "TÜFE gibi raporlar geriden gelir; piyasa çoğu zaman beklentileri önceden fiyatlar."
+                },
+                {
+                    "label": "Çoklu faktörler",
+                    "text": "Döviz ve kripto fiyatlarını yalnızca enflasyon değil, risk iştahı, regülasyon ve likidite de yönlendirir."
+                },
+                {
+                    "label": "Hedge anlatılarının kırılganlığı",
+                    "text": "Bitcoin'in enflasyon hedge olarak algısı, volatilite ve politika baskıları nedeniyle dönemsel olarak değişebilir."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "استراتيجيات التداول – إعدادات وإشارات موثوقة | Qption",
+        "description": "استكشف مكتبة Qption المنسّقة لاستراتيجيات التداول—من السكالبينج والتداول اليومي إلى السوينج والصفقات طويلة الأجل—مع قواعد دخول واضحة، وإدارة مخاطر، وبيانات أداء مباشرة.",
+        "keywords": "استراتيجيات التداول, فوركس, عملات رقمية, سكالبينج, تداول يومي, تداول سوينج, إدارة المخاطر, إشارات Qption",
+        "ogTitle": "استراتيجيات التداول – إعدادات وإشارات موثوقة | Qption",
+        "ogDescription": "من اختراقات الزخم إلى صفقات عودة المتوسط—احصل على القواعد التي يتبعها محللونا وطبّقها في حسابك.",
+        "url": "https://qption.com/trading-strategies",
+        "image": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "استراتيجيات التداول – إعدادات وإشارات موثوقة | Qption",
+        "twitterDescription": "تعلّم القواعد خطوة بخطوة التي يستخدمها متداولو Qption عبر أسواق الفوركس والعملات الرقمية.",
+        "twitterImage": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "canonical": "https://qption.com/trading-strategies"
+    },
+    "hero": {
+        "title": "استراتيجيات التداول",
+        "subtitle": "أتقِن استراتيجيات مثبتة—من صفقات السكالب السريعة إلى السوينج طويل الأجل—بقواعد منهجية واضحة تحوّل الرؤية إلى قرار حاسم."
+    },
+    "cta": {
+        "learnMore": "اعرف المزيد"
+    },
+    "quiz": {
+        "link": "/trading-strategy/quiz-trading-strategy",
+        "cta": "اختبر استراتيجيات التداول"
+    },
+    "cards": [
+        {
+            "title": "استراتيجية الارتداد V مع طفرات الحجم",
+            "link": "/trading-strategy/v-bounce",
+            "icon": "chartBar"
+        },
+        {
+            "title": "استراتيجية مارتينجال",
+            "link": "/trading-strategy/martingale",
+            "icon": "chartLine"
+        },
+        {
+            "title": "استراتيجية الانعكاس",
+            "link": "/trading-strategy/reversal",
+            "icon": "chartPie"
+        },
+        {
+            "title": "استراتيجية الاختراق",
+            "link": "/trading-strategy/breakout",
+            "icon": "chartArea"
+        },
+        {
+            "title": "استراتيجية التمساح (Alligator)",
+            "link": "/trading-strategy/alligator",
+            "icon": "globe"
+        },
+        {
+            "title": "استراتيجية بولينجر باند",
+            "link": "/trading-strategy/bollinger",
+            "icon": "bitcoin"
+        },
+        {
+            "title": "استراتيجية المتوسطات المتحركة",
+            "link": "/trading-strategy/moving-average",
+            "icon": "coins"
+        },
+        {
+            "title": "استراتيجية الثلاث طرق (Three Methods)",
+            "link": "/trading-strategy/threeMethods",
+            "icon": "chartPie"
+        },
+        {
+            "title": "استراتيجية الملقاط (Tweezers)",
+            "link": "/trading-strategy/tweezersStrategy",
+            "icon": "trophy"
+        },
+        {
+            "title": "استراتيجية شمعة السكوات (Squat)",
+            "link": "/trading-strategy/squat-candle-stick",
+            "icon": "exchange"
+        },
+        {
+            "title": "استراتيجية الشموع البالعة (Engulfing)",
+            "link": "/trading-strategy/engulfing-candlestick",
+            "icon": "dollar"
+        }
+    ]
+}

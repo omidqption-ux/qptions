@@ -1,0 +1,108 @@
+{
+    "seo": {
+        "title": "FAQ – Qption",
+        "description": "Finden Sie schnelle Antworten auf die häufigsten Fragen zur Qption-Plattform für Optionshandel, Preise, Sicherheit und Support.",
+        "keywords": "Qption FAQ, Optionshandel Hilfe, Gebühren, Kontosicherheit, Einzahlungen, Auszahlungen, Fehlerbehebung",
+        "ogDescription": "Alles, was Sie über Qption wissen müssen – kompakt auf einer praktischen FAQ-Seite.",
+        "twitterDescription": "Fragen? Finden Sie schnelle Antworten in den FAQs von Qption.",
+        "url": "https://qption.com/faq",
+        "ogImage": "https://qption.com/images/og/faq-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Häufig gestellte Fragen",
+        "subtitle": "Finden Sie Antworten auf häufige Fragen zu unserer Plattform und unseren Dienstleistungen"
+    },
+    "faqs": [
+        {
+            "icon": "chartLine",
+            "q": "Was ist Optionshandel?",
+            "a": "Beim Optionshandel werden Optionskontrakte gekauft und verkauft, die Ihnen das Recht (aber nicht die Pflicht) geben, einen Vermögenswert zu einem festgelegten Preis innerhalb eines bestimmten Zeitraums zu kaufen oder zu verkaufen. So können Händler von Preisbewegungen profitieren, ohne den Vermögenswert zu besitzen."
+        },
+        {
+            "icon": "idCard",
+            "q": "Wie verifiziere ich mein Konto und welche Dokumente werden benötigt?",
+            "a": "Um Ihr Konto zu verifizieren, müssen Sie zunächst eine Einzahlung vornehmen und ein Farbfoto eines gültigen Ausweises (Reisepass oder Personalausweis) bereitstellen. Bei Karteneinzahlungen können wir zusätzliche Nachweise anfordern. Stellen Sie sicher, dass Ihre Dokumente klar lesbar sind."
+        },
+        {
+            "icon": "moneyBill",
+            "q": "Wie hoch ist der Mindesteinzahlungs- und Auszahlungsbetrag?",
+            "a": "Mindestbetrag für Ein- und Auszahlungen: 10 USD (oder der entsprechende Betrag in Ihrer Währung)."
+        },
+        {
+            "icon": "wallet",
+            "q": "Wie kann ich eine Auszahlung vornehmen und welche Methoden gibt es?",
+            "a": "Gehen Sie zu FINANZEN und erstellen Sie eine Auszahlungsanfrage. Eingezahlte Gelder gehen an die ursprüngliche Quelle zurück (Karte/E-Wallet). Gewinne werden auf ein verifiziertes E-Wallet gesendet. Drittkonten sind nicht erlaubt."
+        },
+        {
+            "icon": "handshake",
+            "q": "Kann ich Geschäftspartner werden?",
+            "a": "Ja, über unser Empfehlungsprogramm. Teilen Sie Ihren Code, laden Sie neue Nutzer ein und verdienen Sie echtes Geld. Weitere Details unter 'Partner werden'."
+        },
+        {
+            "icon": "coins",
+            "q": "Wie viel kann ich auf der Plattform verdienen?",
+            "a": "Ihr Gewinn hängt von Strategie, Marktbedingungen und Risikomanagement ab. Handel beinhaltet Risiko; Gewinne sind nicht garantiert."
+        },
+        {
+            "icon": "exchange",
+            "q": "Wie starte ich mit dem Handel auf Qption?",
+            "a": "Konto erstellen, verifizieren und erste Einzahlung tätigen. Danach können Sie sofort handeln."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Welche Arten von Optionen sind verfügbar?",
+            "a": "Wir bieten Binäre, Digitale und FX-Optionen an – jede mit eigenen Eigenschaften und Risiken."
+        },
+        {
+            "icon": "chartLine",
+            "q": "Welche Handelswerte sind verfügbar?",
+            "a": "Forex, Aktien, Rohstoffe und Indizes – für Diversifikation über Anlageklassen hinweg."
+        },
+        {
+            "icon": "coins",
+            "q": "Wie viel Gewinn kann ich pro Trade erzielen?",
+            "a": "Das hängt von Optionstyp, Positionsgröße und Marktbedingungen ab. Verluste sind ebenfalls möglich."
+        },
+        {
+            "icon": "warning",
+            "q": "Ist Optionshandel riskant?",
+            "a": "Ja. Märkte sind unvorhersehbar. Nutzen Sie Risikomanagement und handeln Sie verantwortungsvoll."
+        },
+        {
+            "icon": "tools",
+            "q": "Welche Handelswerkzeuge bietet Qption?",
+            "a": "Gleitende Durchschnitte, Bollinger-Bänder, RSI, MACD und mehr für Marktanalysen."
+        },
+        {
+            "icon": "clock",
+            "q": "Wie lange dauern Auszahlungen?",
+            "a": "In der Regel 1–24 Stunden, je nach Methode. Wir verarbeiten so schnell wie möglich."
+        },
+        {
+            "icon": "creditCard",
+            "q": "Fallen Handelsgebühren an?",
+            "a": "Wir erheben keine Kommissionen auf die meisten Trades, einige Optionen können jedoch Gebühren oder Spreads enthalten."
+        },
+        {
+            "icon": "lock",
+            "q": "Ist meine persönliche und finanzielle Information sicher?",
+            "a": "Ja. Wir verwenden moderne Verschlüsselung und Sicherheitsstandards zum Schutz Ihrer Daten."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Was ist der Unterschied zwischen binären und digitalen Optionen?",
+            "a": "Binäre Optionen haben feste Auszahlungen, während digitale Optionen variable Auszahlungen basierend auf der Entfernung vom Ausübungspreis bieten."
+        },
+        {
+            "icon": "headset",
+            "q": "Wann ist der Kundendienst erreichbar?",
+            "a": "24/7 per Live-Chat, E-Mail oder Telefon."
+        },
+        {
+            "icon": "wallet",
+            "q": "Wie kann ich Geld einzahlen?",
+            "a": "Kredit-/Debitkarten, Banküberweisungen und E-Wallets (verfügbare Methoden je nach Region)."
+        }
+    ]
+}

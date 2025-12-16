@@ -1,0 +1,52 @@
+{
+    "seo": {
+        "title": "Technical Analysis – Charts, Indicators & Set-ups | Qption",
+        "description": "Master the markets with Qption’s in-depth technical analysis: live chart ideas, indicator guides and weekly trade set-ups for forex, crypto and indices.",
+        "keywords": "technical analysis, trading charts, price action, indicators, candlestick patterns, support and resistance, Qption education, forex analysis, crypto analysis",
+        "ogTitle": "Technical Analysis – Charts, Indicators & Set-ups | Qption",
+        "ogDescription": "Get actionable chart breakdowns and indicator walkthroughs from Qption’s analysts—updated daily for forex and crypto traders.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "hero": {
+        "title": "Technical Analysis",
+        "subtitle": "Master the art of market analysis with our comprehensive technical analysis tools and indicators"
+    },
+    "labels": {
+        "learnMore": "Learn More →",
+        "quizCta": "Take technical analysis quiz",
+        "videoAria": "Technical analysis is a trading discipline that uses price charts, patterns, and indicators to predict future price movements."
+    },
+    "strategies": [
+        {
+            "title": "Bollinger Bands",
+            "link": "/technical-analysis/bollinger",
+            "description": "Volatility-based trading bands for price action analysis"
+        },
+        {
+            "title": "Alligator Indicator",
+            "link": "/technical-analysis/alligator",
+            "description": "Trend-following indicator using smoothed moving averages"
+        },
+        {
+            "title": "RSI Indicator",
+            "link": "/technical-analysis/RSIIndicator",
+            "description": "Momentum oscillator measuring speed and change of price movements"
+        },
+        {
+            "title": "Technical Analysis",
+            "link": "/technical-analysis/technical",
+            "description": "Comprehensive market analysis using various technical tools"
+        },
+        {
+            "title": "Moving Averages",
+            "link": "/technical-analysis/moving-averages",
+            "description": "Trend identification and support/resistance levels"
+        }
+    ],
+    "bullets": [
+        "Technical analysis is a trading discipline that uses price charts, patterns, and indicators to predict future price movements.",
+        "It focuses on historical price data, trading volumes, and other market metrics to identify trends and potential entry and exit points.",
+        "Technical analysis is widely used across different markets, including stocks, forex, and commodities."
+    ]
+}

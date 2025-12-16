@@ -1,0 +1,55 @@
+{
+    "seo": {
+        "title": "التداول الاجتماعي – تابع أفضل متداولينا | Qption",
+        "description": "اكتشف مركز التداول الاجتماعي في Qption: اشترك في أفكار التداول المباشرة من قادة المتداولين، ونسّخ استراتيجياتهم، ولا تفوّت أي حركة في السوق. تابعنا على X، تيليجرام، يوتيوب وإنستغرام للحصول على إشارات وتعليم لحظي.",
+        "keywords": "التداول الاجتماعي Qption، النسخ الآلي للتداول، متابعة المتداولين المحترفين، إشارات تداول، إشارات فوركس، إشارات عملات رقمية، مجموعة تيليجرام للتداول، قناة يوتيوب للتداول، تعليم التداول",
+        "ogType": "website",
+        "ogTitle": "التداول الاجتماعي – تابع أفضل متداولينا | Qption",
+        "ogDescription": "انضم إلى مجتمع التداول الاجتماعي في Qption: تواصل عبر X، تيليجرام، يوتيوب وإنستغرام، وانسخ استراتيجيات المحترفين وتداول بثقة.",
+        "ogUrl": "https://qption.com/socialTrading",
+        "ogImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "التداول الاجتماعي – تابع أفضل متداولينا | Qption",
+        "twitterDescription": "تابع المتداولين القادة في Qption للحصول على إشارات فورية للفوركس والعملات الرقمية وتعليقات السوق والبثوث التعليمية.",
+        "twitterImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "canonical": "https://qption.com/socialTrading",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "التداول الاجتماعي",
+        "introBullets": [
+            "شاهد المتداولين الآخرين وتداول في الوقت الفعلي.",
+            "تداول مع مستثمرين آخرين وأصدقائك.",
+            "اختبر ثقة متداولي VIP ودَع نتائجهم تُلهم نموك."
+        ],
+        "video": {
+            "src": "/videos/socialTrading3.mp4",
+            "poster": "/videos/socialTrading.jpg",
+            "aria": "تتيح لك Qption محاكاة استراتيجيات المتداولين الرائدين، حيث تُطابق صفقاتهم تلقائيًا مع حسابك مع إبقائك متحكمًا في نسبة الاستثمار وتحديد أهداف ربح مخصّصة لمحفظتك. هكذا تستفيد من خبرات المحترفين دون جهد يدوي مستمر. لا تتردد — افتح حسابك الآن واحصل على مكافأة 200% لتعزيز أولى صفقاتك مع خبراء السوق!"
+        },
+        "followUs": "تابعنا على",
+        "social": {
+            "facebook": {
+                "label": "Facebook",
+                "handle": "facebook/qption",
+                "aria": "Qption على فيسبوك"
+            },
+            "twitter": {
+                "label": "Twitter",
+                "handle": "twitter/qption",
+                "aria": "Qption على تويتر/X"
+            },
+            "instagram": {
+                "label": "Instagram",
+                "handle": "instagram/qption",
+                "aria": "Qption على إنستغرام"
+            },
+            "youtube": {
+                "label": "YouTube",
+                "handle": "youtube/qption",
+                "aria": "Qption على يوتيوب"
+            }
+        }
+    }
+}

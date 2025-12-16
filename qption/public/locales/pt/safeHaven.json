@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Ativos de Refúgio em Tempos de Turbulência: Ouro, Títulos do Tesouro, Franco Suíço e Iene | Qption",
+        "description": "Entenda como ativos de refúgio como ouro, títulos do Tesouro dos EUA, franco suíço, iene japonês e ações defensivas se comportam durante períodos de volatilidade. Veja por que investidores os utilizam para preservação de capital, diversificação e hedge — além das principais limitações.",
+        "url": "https://qption.com/fundamental-analysis/safe-haven-assets-market-turbulence",
+        "keywords": "ativos de refúgio, ouro, títulos do tesouro dos EUA, franco suíço CHF, iene japonês JPY, ações defensivas, diversificação de portfólio, preservação de capital, volatilidade de mercado, hedge contra inflação, gestão de risco, Qption",
+        "ld": {
+            "headline": "O Papel dos Ativos de Refúgio em Tempos de Turbulência de Mercado",
+            "about": {
+                "safeHavens": "Ativos de Refúgio",
+                "gold": "Ouro",
+                "treasuries": "Títulos do Tesouro dos EUA",
+                "chf": "Franco Suíço (CHF)",
+                "jpy": "Iene Japonês (JPY)",
+                "defensive": "Ações Defensivas",
+                "volatility": "Volatilidade de Mercado",
+                "f2q": "Fuga para a Qualidade",
+                "inflationHedge": "Proteção Contra Inflação"
+            },
+            "props": {
+                "correlation": {
+                    "name": "Perfil de Correlação",
+                    "value": "Os ativos de refúgio geralmente exibem correlação baixa ou negativa com as ações, ajudando a reduzir a volatilidade do portfólio durante quedas de mercado."
+                },
+                "crisis": {
+                    "name": "Comportamento em Crises",
+                    "value": "Durante períodos de aversão ao risco, os fluxos de capital migram para ouro, títulos soberanos de alta qualidade e moedas como CHF e JPY."
+                },
+                "tradeoffs": {
+                    "name": "Compromissos",
+                    "value": "O aumento da demanda em tempos de crise pode levar a retornos mais baixos e avaliações infladas, seguidas de possíveis correções."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análise Fundamental"
+    },
+    "cta": {
+        "ready": "Pronto para começar a negociar?",
+        "start": "Começar a Negociar"
+    },
+    "page": {
+        "title": "O Papel dos Ativos de Refúgio em Tempos de Turbulência de Mercado"
+    },
+    "sections": {
+        "_list": [
+            "O Papel dos Ativos de Refúgio em Tempos de Turbulência de Mercado",
+            "Visão Geral",
+            "Ativos de Refúgio Comuns",
+            "Ouro",
+            "Títulos do Tesouro dos EUA",
+            "Franco Suíço (CHF)",
+            "Iene Japonês (JPY)",
+            "Ações Defensivas",
+            "Por Que os Investidores Buscam Ativos de Refúgio",
+            "Preservação de Capital",
+            "Diversificação de Portfólio",
+            "Proteção Contra Inflação e Riscos Cambiais",
+            "Reações do Mercado em Períodos de Turbulência",
+            "Maior Demanda por Ativos de Refúgio",
+            "Fuga para a Qualidade nos Mercados de Títulos",
+            "Benefícios de Incluir Ativos de Refúgio em um Portfólio",
+            "Limitações dos Ativos de Refúgio"
+        ],
+        "overview": {
+            "title": "Visão Geral",
+            "items": [
+                "Os ativos de refúgio são instrumentos financeiros que mantêm ou aumentam seu valor durante períodos de turbulência de mercado, oferecendo estabilidade em tempos de incerteza econômica.",
+                "Os investidores recorrem a esses ativos para preservar o capital, reduzir o risco do portfólio e proteger-se contra a volatilidade quando ações e outros ativos de risco caem.",
+                "Eles desempenham um papel essencial na diversificação e na gestão de risco, especialmente durante crises financeiras, eventos geopolíticos ou recessões econômicas."
+            ]
+        },
+        "common": {
+            "title": "Ativos de Refúgio Comuns",
+            "items": [
+                {
+                    "label": "Ouro:",
+                    "text": "Historicamente visto como reserva de valor, o ouro tende a se valorizar em tempos de instabilidade econômica."
+                },
+                {
+                    "label": "Títulos do Tesouro dos EUA:",
+                    "text": "Considerados de baixo risco, são garantidos pelo governo dos EUA e se tornam mais atraentes durante quedas de mercado."
+                },
+                {
+                    "label": "Franco Suíço (CHF):",
+                    "text": "Reconhecido como uma moeda segura devido à estabilidade econômica e baixa inflação da Suíça."
+                },
+                {
+                    "label": "Iene Japonês (JPY):",
+                    "text": "Outra moeda de refúgio, apoiada pela forte posição internacional do Japão e estabilidade de seu mercado financeiro."
+                },
+                {
+                    "label": "Ações Defensivas:",
+                    "text": "Empresas de setores como utilidades, saúde e bens de consumo tendem a ser menos sensíveis a ciclos econômicos e oferecem estabilidade."
+                }
+            ]
+        },
+        "why": {
+            "title": "Por Que os Investidores Buscam Ativos de Refúgio",
+            "capital": {
+                "title": "Preservação de Capital",
+                "items": [
+                    "Esses ativos ajudam a proteger o capital ao manter estabilidade quando ativos de maior risco perdem valor.",
+                    "Investidores aumentam a exposição a ativos de refúgio durante períodos de alta volatilidade para evitar grandes perdas."
+                ]
+            },
+            "diversification": {
+                "title": "Diversificação de Portfólio",
+                "items": [
+                    "Ativos de refúgio têm correlação baixa ou negativa com ações, ajudando a reduzir a volatilidade total do portfólio.",
+                    "Ao equilibrar ativos de risco com ativos seguros, o investidor obtém um desempenho mais estável em crises."
+                ]
+            },
+            "hedge": {
+                "title": "Proteção Contra Inflação e Riscos Cambiais",
+                "items": [
+                    "O ouro é tradicionalmente usado como proteção contra a inflação, mantendo valor quando o poder de compra das moedas diminui.",
+                    "Moedas de refúgio como o franco suíço ajudam a mitigar riscos cambiais em períodos de instabilidade."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Reações do Mercado em Períodos de Turbulência",
+            "demand": {
+                "title": "Maior Demanda por Ativos de Refúgio",
+                "items": [
+                    "A turbulência nos mercados aumenta a demanda por ouro, títulos do Tesouro e moedas de refúgio, elevando seus preços.",
+                    "Investidores geralmente transferem capital de ações e ativos arriscados para esses mercados mais seguros."
+                ]
+            },
+            "bonds": {
+                "title": "Fuga para a Qualidade nos Mercados de Títulos",
+                "items": [
+                    "Durante incertezas econômicas, títulos soberanos, especialmente os dos EUA, veem aumento da demanda, fazendo os preços subirem e os rendimentos caírem.",
+                    "Essa tendência reforça o papel dos títulos públicos como principal ativo de refúgio durante crises."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefícios de Incluir Ativos de Refúgio em um Portfólio",
+            "items": [
+                "Reduz a volatilidade geral do portfólio, equilibrando perdas em ativos de risco.",
+                "Fornece segurança e liquidez durante crises, preservando o capital do investidor.",
+                "Contribui para a estabilidade de longo prazo e ajuda o portfólio a se recuperar mais rapidamente após crises econômicas."
+            ]
+        },
+        "limits": {
+            "title": "Limitações dos Ativos de Refúgio",
+            "items": [
+                "Apresentam retornos mais baixos em comparação com ações e investimentos voltados para crescimento.",
+                "A alta demanda em períodos de crise pode causar sobrevalorização temporária.",
+                "Mesmo ativos seguros, como o ouro, podem sofrer volatilidade dependendo do sentimento de mercado e das condições econômicas."
+            ]
+        }
+    }
+}

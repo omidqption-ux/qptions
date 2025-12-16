@@ -1,0 +1,250 @@
+{
+    "seo": {
+        "title": "Quiz d’analyse fondamentale – Testez vos connaissances du marché | Qption",
+        "description": "Mettez à l’épreuve votre compréhension de la macroéconomie, des taux d’intérêt, de l’inflation et du comportement des marchés avec le Quiz d’analyse fondamentale de Qption. Apprenez et tradez plus intelligemment.",
+        "keywords": "quiz analyse fondamentale, macroéconomie, quiz forex, inflation, taux d’intérêt, banques centrales, PIB, IPC, carry trade, Qption",
+        "ogTitle": "Quiz d’analyse fondamentale – Testez vos connaissances du marché | Qption",
+        "ogDesc": "Quiz interactif pour tester votre compréhension des indicateurs économiques, des banques centrales, de l’inflation et des marchés mondiaux.",
+        "url": "https://qption.com/fundamental-analysis/quiz",
+        "ogImage": "https://qption.com/images/og/fundamental-analysis-quiz.jpg"
+    },
+    "ui": {
+        "loadingPool": "Chargement des questions du quiz…",
+        "preparing": "Préparation du quiz…",
+        "h1": "Analyse fondamentale",
+        "intro": "Mettez votre esprit macro à l’épreuve avec notre quiz interactif d’analyse fondamentale — testez votre maîtrise des données de croissance et d’inflation, des politiques des banques centrales, des différentiels de taux d’intérêt, des impacts budgétaires et des dynamiques inter-actifs pour devenir un trader plus informé et plus confiant.",
+        "quizTitle": "Quiz d’analyse fondamentale",
+        "questionOf": "Question {{current}} sur {{total}}",
+        "selectPrompt": "Sélectionnez une option et validez votre réponse.",
+        "correct": "Correct ✅",
+        "notQuite": "Pas tout à fait ⚠️",
+        "learnMore": "En savoir plus ↗",
+        "prev": "Précédent",
+        "submit": "Valider",
+        "next": "Suivant",
+        "finish": "Terminer",
+        "scoreLabel": "Score : {{score}} / {{total}}",
+        "resultHigh": "Excellent ! Votre radar macro est affûté.",
+        "resultMid": "Bon travail ! Continuez à pratiquer pour progresser.",
+        "resultLow": "Bon début — révisez les leçons et réessayez.",
+        "newRandom": "Nouveau tirage de 10 questions"
+    },
+    "pool": [
+        {
+            "q": "Quel indicateur est le plus directement utilisé comme mesure principale de l’inflation des consommateurs ?",
+            "options": [
+                "PIB",
+                "IPC",
+                "Balance commerciale",
+                "Ventes au détail"
+            ],
+            "correctIndex": 1,
+            "explain": "L’Indice des prix à la consommation (IPC) suit les variations des prix d’un panier de biens et services et constitue une mesure clé de l’inflation.",
+            "topic": "Indicateurs économiques"
+        },
+        {
+            "q": "Une hausse du PIB, toutes choses égales par ailleurs, suggère le plus souvent :",
+            "options": [
+                "Une contraction économique",
+                "Une expansion économique",
+                "La stagflation",
+                "Une simple dépréciation de la devise"
+            ],
+            "correctIndex": 1,
+            "explain": "Le PIB mesure la production totale ; une augmentation reflète généralement une dynamique de croissance.",
+            "topic": "Indicateurs économiques"
+        },
+        {
+            "q": "Quelle publication peut provoquer d’importants mouvements sur le marché des changes en raison de son impact sur l’emploi ?",
+            "options": [
+                "Rapport sur les emplois non agricoles (NFP)",
+                "IPP",
+                "Stocks de détail",
+                "Déclaration budgétaire"
+            ],
+            "correctIndex": 0,
+            "explain": "Les données sur l’emploi influencent les anticipations de taux et les perspectives de croissance, ce qui affecte les devises.",
+            "topic": "Indicateurs économiques"
+        },
+        {
+            "q": "Lorsqu’une banque centrale baisse son taux directeur, elle cherche généralement à :",
+            "options": [
+                "Refroidir une économie en surchauffe",
+                "Stimuler l’emprunt et la consommation",
+                "Réduire la masse monétaire",
+                "Renforcer immédiatement la devise"
+            ],
+            "correctIndex": 1,
+            "explain": "Des taux plus bas réduisent les coûts de financement, soutenant la demande et l’investissement.",
+            "topic": "Banques centrales"
+        },
+        {
+            "q": "Les prix des obligations évoluent généralement _____ par rapport aux taux d’intérêt.",
+            "options": [
+                "Inversement",
+                "Identiquement",
+                "Aléatoirement",
+                "Sans lien"
+            ],
+            "correctIndex": 0,
+            "explain": "Lorsque les rendements montent, les coupons fixes deviennent moins attractifs, ce qui fait baisser les prix (et inversement).",
+            "topic": "Banques centrales"
+        },
+        {
+            "q": "Le terme « orientation prospective » (forward guidance) désigne :",
+            "options": [
+                "Un régime de taux de change fixe",
+                "La communication sur les intentions futures de politique monétaire",
+                "Uniquement les opérations d’assouplissement quantitatif",
+                "Les prévisions de déficit budgétaire"
+            ],
+            "correctIndex": 1,
+            "explain": "Les banques centrales influencent les anticipations via des indications sur leurs orientations futures.",
+            "topic": "Banques centrales"
+        },
+        {
+            "q": "Une inflation élevée tend à _____ une devise, sauf si elle est compensée par des taux plus élevés.",
+            "options": [
+                "Renforcer",
+                "Affaiblir",
+                "Ne pas affecter",
+                "Fixer le taux de change"
+            ],
+            "correctIndex": 1,
+            "explain": "L’inflation érode le pouvoir d’achat ; les hausses de taux peuvent contrebalancer cet effet.",
+            "topic": "Inflation"
+        },
+        {
+            "q": "Certains investisseurs considèrent le Bitcoin comme une couverture contre l’inflation car :",
+            "options": [
+                "Son offre est illimitée",
+                "Son offre est plafonnée par le protocole",
+                "Il suit l’IPC par conception",
+                "Il est indexé sur le dollar américain"
+            ],
+            "correctIndex": 1,
+            "explain": "La rareté perçue conduit certains à le considérer comme une protection en période d’inflation élevée.",
+            "topic": "Inflation"
+        },
+        {
+            "q": "Un carry trade classique consiste à :",
+            "options": [
+                "Emprunter dans des devises à taux élevés et prêter dans des devises à taux bas",
+                "Emprunter dans des devises à taux faibles et investir dans des devises à taux élevés",
+                "Éliminer l’exposition aux taux d’intérêt",
+                "Détenir uniquement du cash"
+            ],
+            "correctIndex": 1,
+            "explain": "Les différentiels de taux positifs génèrent du rendement (« carry ») — jusqu’à ce que la volatilité ou les changements de régime interviennent.",
+            "topic": "Carry trade"
+        },
+        {
+            "q": "En période de tensions géopolitiques, les investisseurs se tournent souvent vers :",
+            "options": [
+                "Les petites valeurs de croissance uniquement",
+                "Les actifs à haut bêta",
+                "Les actifs refuges (or, CHF, JPY, bons du Trésor)",
+                "Les microcaps illiquides"
+            ],
+            "correctIndex": 2,
+            "explain": "L’incertitude accroît la demande pour la sécurité et la liquidité.",
+            "topic": "Géopolitique"
+        },
+        {
+            "q": "Une politique budgétaire expansionniste comprend généralement :",
+            "options": [
+                "Augmenter les impôts et réduire les dépenses",
+                "Réduire les impôts et/ou augmenter les dépenses",
+                "Uniquement équilibrer le budget",
+                "Vendre des réserves de change"
+            ],
+            "correctIndex": 1,
+            "explain": "Objectif : stimuler la demande globale, la croissance et l’emploi pendant les ralentissements.",
+            "topic": "Politique budgétaire"
+        },
+        {
+            "q": "Un risque clé des déficits budgétaires persistants est :",
+            "options": [
+                "La baisse de la dette publique",
+                "La réduction des coûts d’intérêt",
+                "La hausse de la dette publique et des charges d’intérêts",
+                "L’appréciation automatique de la devise"
+            ],
+            "correctIndex": 2,
+            "explain": "Une dette élevée réduit la flexibilité et peut évincer d’autres priorités économiques.",
+            "topic": "Politique budgétaire"
+        },
+        {
+            "q": "Un ratio dette/PIB élevé peut signaler :",
+            "options": [
+                "Une faible dépendance à l’endettement",
+                "Des préoccupations de soutenabilité",
+                "Une croissance garantie",
+                "Des taux de change fixes"
+            ],
+            "correctIndex": 1,
+            "explain": "Un endettement important peut nuire à la croissance et à la confiance dans la devise.",
+            "topic": "Dette/Devise"
+        },
+        {
+            "q": "Les prix des matières premières sont principalement déterminés par :",
+            "options": [
+                "Uniquement la politique monétaire",
+                "La dynamique de l’offre et de la demande et les chocs",
+                "Un simple hasard",
+                "La politique fiscale exclusivement"
+            ],
+            "correctIndex": 1,
+            "explain": "Les perturbations de l’offre ou les pics de demande (croissance, météo) font bouger les prix.",
+            "topic": "Matières premières"
+        },
+        {
+            "q": "Lequel des actifs suivants est généralement considéré comme une valeur refuge ?",
+            "options": [
+                "Une action technologique à haut bêta",
+                "L’or",
+                "Une petite biotech",
+                "Une position de carry sur marché émergent"
+            ],
+            "correctIndex": 1,
+            "explain": "En période de turbulence, les capitaux se déplacent souvent vers l’or, le CHF, le JPY et les obligations d’État de qualité.",
+            "topic": "Actifs refuges"
+        },
+        {
+            "q": "Les actions et les devises/CFD peuvent évoluer ensemble car elles sont influencées par :",
+            "options": [
+                "Les mêmes moteurs macroéconomiques (croissance, inflation, taux, appétit pour le risque)",
+                "Des forces totalement indépendantes",
+                "Uniquement la météo",
+                "Un seul rapport sur les bénéfices"
+            ],
+            "correctIndex": 0,
+            "explain": "Les régimes macro (risk-on/risk-off) créent souvent des corrélations entre classes d’actifs.",
+            "topic": "Inter-actifs"
+        },
+        {
+            "q": "Un durcissement de la réglementation crypto peut :",
+            "options": [
+                "Uniquement augmenter les prix",
+                "N’avoir aucun effet sur la participation",
+                "Affecter l’adoption, la liquidité et la structure du marché",
+                "Éliminer complètement la volatilité"
+            ],
+            "correctIndex": 2,
+            "explain": "Les règles encadrent les passerelles d’entrée/sortie, l’accès institutionnel et le comportement du marché.",
+            "topic": "Régulation crypto"
+        },
+        {
+            "q": "À un niveau général, les blockchains sécurisent l’historique des transactions grâce à :",
+            "options": [
+                "Des registres centralisés uniquement",
+                "Un consensus distribué et la cryptographie",
+                "Des registres papier",
+                "Un serveur d’entreprise unique"
+            ],
+            "correctIndex": 1,
+            "explain": "Le consensus (ex. PoW/PoS) et les liens cryptographiques assurent l’intégrité du registre.",
+            "topic": "Blockchain"
+        }
+    ]
+}

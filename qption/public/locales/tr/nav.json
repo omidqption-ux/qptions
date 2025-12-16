@@ -1,0 +1,94 @@
+{
+    "login": "Giriş",
+    "cabinet": "Panel",
+    "auth": {
+        "login": "Giriş",
+        "register": "Kayıt ol"
+    },
+    "sections": [
+        {
+            "key": "trading",
+            "title": "Trading",
+            "items": [
+                {
+                    "title": "Haberler",
+                    "link": "/news"
+                },
+                {
+                    "title": "Hesap türleri",
+                    "link": "/Accounttypes"
+                },
+                {
+                    "title": "Sosyal Trading",
+                    "link": "/socialTrading"
+                },
+                {
+                    "title": "AI Trading",
+                    "link": "/AITrading"
+                },
+                {
+                    "title": "Ortaklık Programı",
+                    "link": "/Affiliate"
+                }
+            ]
+        },
+        {
+            "key": "education",
+            "title": "Eğitim",
+            "items": [
+                {
+                    "title": "Teknik analiz",
+                    "link": "/technical-analysis"
+                },
+                {
+                    "title": "Trading stratejileri",
+                    "link": "/trading-strategy"
+                },
+                {
+                    "title": "Grafik analiz",
+                    "link": "/graphical-analysis"
+                },
+                {
+                    "title": "Temel analiz",
+                    "link": "/fundamentalanalysis"
+                },
+                {
+                    "title": "Sözlük",
+                    "link": "/Glossary"
+                }
+            ]
+        },
+        {
+            "key": "company",
+            "title": "Şirket",
+            "items": [
+                {
+                    "title": "Ödeme politikası",
+                    "link": "/PaymentPolicy"
+                },
+                {
+                    "title": "İade politikası",
+                    "link": "/ReturnPolicy"
+                },
+                {
+                    "title": "AML & KYC",
+                    "link": "/AMLAndKYC"
+                },
+                {
+                    "title": "Gizlilik Politikası",
+                    "link": "/PricvacyPolicy"
+                },
+                {
+                    "title": "Şartlar ve Koşullar",
+                    "link": "/TermsAndCondition"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "title": "Bize ulaşın",
+        "email": "contact@qption.com",
+        "phone": "+46 766926599",
+        "location": "Stockholm, İsveç"
+    }
+}

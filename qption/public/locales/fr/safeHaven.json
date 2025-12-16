@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Actifs Refuges en Période de Turbulence : Or, Bons du Trésor, CHF & JPY | Qption",
+        "description": "Découvrez comment les actifs refuges tels que l’or, les bons du Trésor américain, le franc suisse, le yen japonais et les actions défensives se comportent pendant la volatilité. Comprenez pourquoi les investisseurs les utilisent pour préserver le capital, diversifier et se couvrir — ainsi que leurs principaux compromis.",
+        "url": "https://qption.com/fundamental-analysis/safe-haven-assets-market-turbulence",
+        "keywords": "actifs refuges, or, bons du Trésor américains, franc suisse CHF, yen japonais JPY, actions défensives, diversification de portefeuille, fuite vers la qualité, volatilité des marchés, couverture contre l’inflation, gestion des risques, Qption",
+        "ld": {
+            "headline": "Le Rôle des Actifs Refuges en Période de Turbulence des Marchés",
+            "about": {
+                "safeHavens": "Actifs refuges",
+                "gold": "Or",
+                "treasuries": "Bons du Trésor américains",
+                "chf": "Franc suisse (CHF)",
+                "jpy": "Yen japonais (JPY)",
+                "defensive": "Actions défensives",
+                "volatility": "Volatilité des marchés",
+                "f2q": "Fuite vers la qualité",
+                "inflationHedge": "Couverture contre l’inflation"
+            },
+            "props": {
+                "correlation": {
+                    "name": "Profil de Corrélation",
+                    "value": "Les actifs refuges présentent souvent une corrélation faible ou négative avec les actions, réduisant la volatilité du portefeuille en période de baisse."
+                },
+                "crisis": {
+                    "name": "Comportement en Crise",
+                    "value": "Lors des épisodes de panique, les flux se déplacent vers l’or, les obligations souveraines de premier ordre et certaines devises (CHF/JPY)."
+                },
+                "tradeoffs": {
+                    "name": "Compromis",
+                    "value": "Des rendements attendus plus faibles et un risque de surévaluation dû à l’afflux de capitaux pendant les crises peuvent entraîner des corrections ultérieures."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analyse Fondamentale"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "start": "Commencer à trader"
+    },
+    "page": {
+        "title": "Le Rôle des Actifs Refuges en Période de Turbulence des Marchés"
+    },
+    "sections": {
+        "_list": [
+            "Le Rôle des Actifs Refuges en Période de Turbulence des Marchés",
+            "Vue d’ensemble",
+            "Actifs Refuges Courants",
+            "Or",
+            "Obligations du Trésor Américain",
+            "Franc Suisse (CHF)",
+            "Yen Japonais (JPY)",
+            "Actions Défensives",
+            "Pourquoi les Investisseurs se Tournent vers les Actifs Refuges",
+            "Préservation du Capital",
+            "Diversification du Portefeuille",
+            "Couverture contre l’Inflation et les Risques de Change",
+            "Réactions du Marché en Période de Turbulence",
+            "Demande Accrue d’Actifs Refuges",
+            "Fuite vers la Qualité sur les Marchés Obligataires",
+            "Avantages de l’Intégration d’Actifs Refuges dans un Portefeuille",
+            "Limites des Actifs Refuges"
+        ],
+        "overview": {
+            "title": "Vue d’ensemble",
+            "items": [
+                "Les actifs refuges sont des instruments qui tendent à conserver ou à augmenter leur valeur en période de turbulences et d’incertitudes sur les marchés.",
+                "Les investisseurs se tournent vers ces actifs pour préserver leur capital, réduire les risques du portefeuille et atténuer la volatilité lorsque les actifs risqués chutent.",
+                "Ils jouent un rôle essentiel dans la diversification et la gestion des risques en période de crise financière, d’événements géopolitiques ou de récession."
+            ]
+        },
+        "common": {
+            "title": "Actifs Refuges Courants",
+            "items": [
+                {
+                    "label": "Or :",
+                    "text": "Une réserve de valeur historique qui a tendance à s’apprécier lors des périodes d’instabilité économique."
+                },
+                {
+                    "label": "Obligations du Trésor Américain :",
+                    "text": "Considérées comme peu risquées et garanties par le gouvernement américain ; leurs prix montent et les rendements baissent en période de repli du risque."
+                },
+                {
+                    "label": "Franc Suisse (CHF) :",
+                    "text": "Bénéficie de la stabilité économique et de la faible inflation de la Suisse, attirant les capitaux lors des périodes de tension."
+                },
+                {
+                    "label": "Yen Japonais (JPY) :",
+                    "text": "Une devise refuge classique soutenue par l’excédent extérieur et la profondeur des marchés financiers du Japon."
+                },
+                {
+                    "label": "Actions Défensives :",
+                    "text": "Les secteurs tels que les services publics, la santé et les biens de consommation de base sont moins cycliques et offrent une stabilité relative."
+                }
+            ]
+        },
+        "why": {
+            "title": "Pourquoi les Investisseurs se Tournent vers les Actifs Refuges",
+            "capital": {
+                "title": "Préservation du Capital",
+                "items": [
+                    "Les allocations en actifs refuges peuvent limiter les pertes lors de fortes baisses des actions.",
+                    "Elles aident à protéger le pouvoir d’achat et la valeur du portefeuille dans les marchés turbulents."
+                ]
+            },
+            "diversification": {
+                "title": "Diversification du Portefeuille",
+                "items": [
+                    "Des corrélations faibles ou négatives réduisent la volatilité globale du portefeuille.",
+                    "L’équilibrage entre actifs risqués et refuges permet de lisser les rendements sur les cycles économiques."
+                ]
+            },
+            "hedge": {
+                "title": "Couverture contre l’Inflation et les Risques de Change",
+                "items": [
+                    "L’or est couramment utilisé pour se protéger contre l’inflation et la dépréciation monétaire.",
+                    "Les devises refuges (comme le CHF) peuvent réduire le risque de change dans les portefeuilles mondiaux."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Réactions du Marché en Période de Turbulence",
+            "demand": {
+                "title": "Demande Accrue d’Actifs Refuges",
+                "items": [
+                    "Les pics de volatilité entraînent souvent des flux vers l’or, les bons du Trésor et les devises refuges.",
+                    "Les investisseurs délaissent les secteurs cycliques et les actifs risqués au profit de valeurs sûres."
+                ]
+            },
+            "bonds": {
+                "title": "Fuite vers la Qualité sur les Marchés Obligataires",
+                "items": [
+                    "Les prix des obligations d’État augmentent généralement à mesure que les rendements se contractent en période de repli du risque.",
+                    "Cette « fuite vers la qualité » souligne le rôle stabilisateur de la dette souveraine."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Avantages de l’Intégration d’Actifs Refuges dans un Portefeuille",
+            "items": [
+                "Réduit la volatilité du portefeuille et limite les pertes importantes.",
+                "Apporte liquidité et stabilité pendant les périodes de stress sur les marchés.",
+                "Renforce la résilience à long terme sur les cycles économiques."
+            ]
+        },
+        "limits": {
+            "title": "Limites des Actifs Refuges",
+            "items": [
+                "Potentiel de rendement inférieur à long terme par rapport aux actifs de croissance.",
+                "Risque de surévaluation dû à l’afflux de capitaux en période de crise.",
+                "Pas totalement immunisés contre les fluctuations de prix liées au sentiment du marché."
+            ]
+        }
+    }
+}

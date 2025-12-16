@@ -1,0 +1,103 @@
+{
+    "seo": {
+        "title": "Fundamental Analysis – Macro Insights & Earnings Radar | Qption",
+        "description": "Stay ahead of the market with Qption’s fundamental-analysis hub: live economic-calendar impact, company earnings snapshots and macro research for forex, crypto and global indices.",
+        "keywords": "fundamental analysis, economic calendar, earnings reports, macro analysis, inflation data, interest rates, GDP releases, forex fundamentals, crypto fundamentals, Qption research",
+        "ogTitle": "Fundamental Analysis – Macro Insights & Earnings Radar | Qption",
+        "ogDescription": "Follow the data that moves markets—Qption’s research desk distils key economic releases and earnings into actionable trade ideas.",
+        "url": "https://qption.com/fundamental-analysis",
+        "image": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Fundamental Analysis – Macro Insights & Earnings Radar | Qption",
+        "twitterDescription": "Get the story behind the charts: track economic releases and earnings in real time with Qption's fundamental-analysis suite.",
+        "twitterImage": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "canonical": "https://qption.com/fundamental-analysis"
+    },
+    "page": {
+        "title": "Fundamental Analysis",
+        "subtitle": "Explore comprehensive analysis of economic indicators, market trends, and financial instruments to make informed trading decisions."
+    },
+    "cta": {
+        "takeQuiz": "Take our quiz"
+    },
+    "cards": {
+        "economicIndicators": {
+            "title": "Economic Indicators",
+            "description": "Key economic metrics and their impact on markets"
+        },
+        "centralBankPolicies": {
+            "title": "Central Bank Policies",
+            "description": "Monetary policies and their market influence"
+        },
+        "inflation": {
+            "title": "Inflation Analysis",
+            "description": "Understanding inflation trends and effects"
+        },
+        "interestRates": {
+            "title": "Interest Rates",
+            "description": "Interest rate movements and market impact"
+        },
+        "geopolitics": {
+            "title": "Geopolitical Events & Markets",
+            "description": "Global events and their market implications"
+        },
+        "fiscalPolicy": {
+            "title": "Fiscal Policies & Government Spending",
+            "description": "Government spending and taxation effects"
+        },
+        "debtAndFX": {
+            "title": "Market Debt Levels & Currency Valuation",
+            "description": "Bond markets and debt instruments analysis"
+        },
+        "supplyDemandCommodities": {
+            "title": "Supply & Demand (Commodities)",
+            "description": "Commodity markets and price drivers"
+        },
+        "safeHavens": {
+            "title": "Safe-Haven Assets vs Market Turbulence",
+            "description": "Analysis of traditional safe-haven investments"
+        },
+        "forexCfds": {
+            "title": "Forex & CFDs",
+            "description": "Currency markets and derivative instruments"
+        },
+        "cryptoRegulation": {
+            "title": "Crypto Adoption & Regulation",
+            "description": "Cryptocurrency market trends and adoption"
+        },
+        "blockchainFA": {
+            "title": "Blockchain Fundamental Analysis",
+            "description": "Blockchain developments and applications"
+        }
+    },
+    "tournaments": {
+        "title": "Tournaments",
+        "labels": {
+            "prize": "Prize",
+            "participants": "Participants"
+        },
+        "ui": {
+            "join": "Join Tournament",
+            "close": "Close"
+        },
+        "defaults": {
+            "weekly": {
+                "title": "Weekly Trading Challenge",
+                "prize": "$5,000",
+                "participants": "1,234",
+                "startDate": "2024-04-25",
+                "endDate": "2024-05-02",
+                "status": "Starting Soon"
+            },
+            "monthly": {
+                "title": "Monthly Master Tournament",
+                "prize": "$25,000",
+                "participants": "3,456",
+                "startDate": "2024-05-01",
+                "endDate": "2024-05-31",
+                "status": "Registration Open"
+            }
+        },
+        "list": []
+    }
+}

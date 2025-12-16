@@ -1,0 +1,182 @@
+{
+    "seo": {
+        "title": "Privacy Policy & Data Collection | Qption",
+        "description": "How Qption collects, uses, stores, and protects your data: purposes, identification, marketing, disclosures, security, retention, deletion requests, and cookies.",
+        "keywords": "privacy policy, data collection, data protection, cookies, KYC, security, retention, deletion, Qption",
+        "ogTitle": "Privacy Policy & Data Collection | Qption",
+        "ogDescription": "Learn what we collect, why we collect it, and how we protect your information at Qption.",
+        "url": "https://qption.com/privacy-policy",
+        "image": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Privacy Policy & Data Collection | Qption",
+        "twitterDescription": "Our practices on data collection, use, storage, protection, and cookies.",
+        "twitterImage": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "canonical": "https://qption.com/privacy-policy"
+    },
+    "hero": {
+        "title": "Privacy Policy and Data Collection"
+    },
+    "sections": [
+        {
+            "key": "consent",
+            "icon": "consent",
+            "title": "1. Consent to Data Collection",
+            "items": [
+                "By accessing https://qption.com/ and using services provided by Itransition Co, the Client agrees to the collection and processing of their personal data by Itransition Co."
+            ]
+        },
+        {
+            "key": "info",
+            "icon": "info",
+            "title": "2. Information Collected",
+            "items": [
+                "During registration or service use, Itransition Co may collect name, date of birth, email, address, phone number, transaction details, IP address, browser type, visit duration, page views, and other related data."
+            ]
+        },
+        {
+            "key": "use",
+            "icon": "use",
+            "title": "3. Use of Personal Data",
+            "items": [
+                "Provided data may be used to operate the website, manage client databases, process transactions, and conduct marketing. By providing contact details, the Client consents to being contacted via those channels."
+            ]
+        },
+        {
+            "key": "purpose",
+            "icon": "purpose",
+            "title": "4. Purpose of Data Collection",
+            "items": [
+                "Data is collected for legal obligations, site operation, service improvement, account setup, security, backups, communication, record-keeping, and statistical or marketing purposes."
+            ]
+        },
+        {
+            "key": "identification",
+            "icon": "identification",
+            "title": "5. Identification Requirements",
+            "items": [
+                "Clients must provide certain identification details for registration, including information required for anti-money laundering compliance."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "6. Accuracy of Information",
+            "items": [
+                "Clients must provide true, accurate, and up-to-date information about their identity. Any changes must be reported to the Company within 30 days."
+            ]
+        },
+        {
+            "key": "marketing",
+            "icon": "marketing",
+            "title": "7. Use of Client Details for Marketing",
+            "items": [
+                "Details provided during registration or usage may be used by the Company to send marketing materials."
+            ]
+        },
+        {
+            "key": "disclosure",
+            "icon": "disclosure",
+            "title": "8. Disclosure of Information",
+            "items": [
+                "Client information may be disclosed to official authorities only when required by law and only to the minimum extent necessary."
+            ]
+        },
+        {
+            "key": "nonPersonal",
+            "icon": "nonPersonal",
+            "title": "9. Use of Non-Personal Data",
+            "items": [
+                "Non-personal data about Clients may be used by the Company for advertising and analytics purposes."
+            ]
+        },
+        {
+            "key": "verification",
+            "icon": "verification",
+            "title": "10. Verification and Document Requests",
+            "items": [
+                "For certain operations, Clients may be required to provide identification documents. Failure to comply may result in suspension or closure of the account at the Company’s discretion."
+            ]
+        },
+        {
+            "key": "confidentiality",
+            "icon": "confidentiality",
+            "title": "11. Data Confidentiality",
+            "items": [
+                "The Company will not disclose Client data without consent, except as required by law for identity verification. Client information is stored securely and accessed only by authorized personnel."
+            ]
+        },
+        {
+            "key": "storage",
+            "icon": "storage",
+            "title": "12. Storage of Account Information",
+            "items": [
+                "Client account and operation details are stored by the Company and may be used in case of disputes between the Client and the Company."
+            ]
+        },
+        {
+            "key": "review",
+            "icon": "review",
+            "title": "13. Review of Client Information",
+            "items": [
+                "The Company has the right, but not the obligation, to review and inspect any information provided by the Client."
+            ]
+        },
+        {
+            "key": "protection",
+            "icon": "protection",
+            "title": "14. Data Protection",
+            "items": [
+                "The Company implements advanced data protection procedures to safeguard Client information and updates them periodically to enhance security."
+            ]
+        },
+        {
+            "key": "credentials",
+            "icon": "credentials",
+            "title": "15. Login Credentials and Privacy",
+            "items": [
+                "Clients must choose a secure username and password for site access. Sharing these credentials is prohibited, and the Company is not responsible for losses due to improper use."
+            ]
+        },
+        {
+            "key": "unauthorized",
+            "icon": "unauthorized",
+            "title": "16. Unauthorized Account Access",
+            "items": [
+                "Clients are responsible for notifying Company support if they suspect any unauthorized use of their account."
+            ]
+        },
+        {
+            "key": "cardSecurity",
+            "icon": "cardSecurity",
+            "title": "17. Security of Bank Card Data",
+            "items": [
+                "The Company does not store bank card data. Card information is protected with TLS 1.2 transport encryption and AES-256 encryption to meet Payment Card Industry standards."
+            ]
+        },
+        {
+            "key": "deletion",
+            "icon": "deletion",
+            "title": "18. Data Deletion Requests",
+            "items": [
+                "Clients may request data deletion by contacting help@Itransition.Co. The Company may retain certain data as legally required, including for service provision, fraud prevention, and compliance with legal obligations."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "19. Data Retention and Policy Updates",
+            "items": [
+                "Data is retained as long as necessary to provide services or as legally required. The Company may update this Privacy Policy; continued site use after changes constitutes acceptance of the updated policy."
+            ]
+        },
+        {
+            "key": "cookies",
+            "icon": "cookies",
+            "title": "20. Cookies Policy",
+            "items": [
+                "Cookies are small data files stored on the Client’s device to track site usage. Clients may block cookies in their browser settings.",
+                "The Company’s cookies help improve user experience by tracking pages viewed and preferences; personal data such as names and emails are not stored in cookies."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "seo": {
+        "title": "Para Çekme Süreci ve Koşulları | Qption",
+        "description": "Qption’da para çekmenin nasıl işlediğini öğrenin: talep akışı, fonların orijinal yönteme gönderimi, müşteri sorumlulukları ve hesap kapatma kuralları.",
+        "keywords": "para çekme politikası, para çekme talebi, orijinal yatırma yöntemi, müşteri sorumluluğu, hesap kapatma, Qption",
+        "ogTitle": "Para Çekme Süreci ve Koşulları | Qption",
+        "ogDescription": "Para çekme talebi, işlem süreleri, ödeme kanalları ve uyum şartlarına dair detaylı rehber.",
+        "url": "https://qption.com/withdrawal-policy",
+        "image": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Para Çekme Süreci ve Koşulları | Qption",
+        "twitterDescription": "Para çekme talebi nasıl oluşturulur, süreç ne kadar sürer, kurallar nelerdir?",
+        "twitterImage": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "canonical": "https://qption.com/withdrawal-policy"
+    },
+    "hero": {
+        "title": "Para Çekme Süreci ve Koşulları"
+    },
+    "sections": [
+        {
+            "key": "request",
+            "icon": "request",
+            "title": "1. Para Çekme Talebi Prosedürü",
+            "items": [
+                "Para çekme başlatmak için müşteri, site üzerindeki kişisel alanından talep oluşturmalı, yöntemi seçmeli ve gerekli bilgileri girmelidir.",
+                "Talep gönderildikten sonra “Requested” statüsüne geçer. İşlem başladığında “In process” olur ve tutar bakiyeden düşülür. Tamamlandığında “Processed” statüsüyle müşteri cüzdanına aktarılır.",
+                "Talepler finans departmanı tarafından sırayla işlenir; işlem süresi 5 iş gününe kadar sürebilir. Gerekirse şirket bu süreyi uzatma hakkını saklı tutar."
+            ]
+        },
+        {
+            "key": "originalMethod",
+            "icon": "originalMethod",
+            "title": "2. Orijinal Yatırım Yöntemine Çekim",
+            "items": [
+                "Fonlar yalnızca ilk yatırımı yapan ödeme hesabına çekilebilir. Teknik olarak mümkün değilse, müşteri bilgileri ödeme bilgileriyle eşleşmek kaydıyla alternatif yöntem seçilebilir.",
+                "Yatırım banka kartıyla yapıldıysa çekim aynı karta yapılmalıdır. Başka yöntemler yalnızca çekim tutarı ilk yatırımı aştığında kullanılabilir.",
+                "Yatırım sonrası işlem yapılmadan çekim talebi verilirse, aynı ödeme bilgileri ve sistemi kullanılmalıdır. Şirket, fon iadesi ve işleme maliyetleri için ücret talep etme hakkını saklı tutar."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "3. Müşteri Sorumluluğu ve Bilgi Doğruluğu",
+            "items": [
+                "Müşteri, para çekme talebinde verdiği tüm bilgilerin doğruluğundan tamamen sorumludur."
+            ]
+        },
+        {
+            "key": "closure",
+            "icon": "closure",
+            "title": "4. Şart İhlalinde Hesap Kapatma",
+            "items": [
+                "Müşteri hesabı Şartlar ve Koşullar ihlali nedeniyle kapatılırsa, şirket elde edilen kârları tutma hakkını saklı tutar.",
+                "Şirket, yatırılan fonları iade edebilir; ancak tüm ilgili ücret ve masrafları düşme hakkına sahiptir."
+            ]
+        }
+    ]
+}

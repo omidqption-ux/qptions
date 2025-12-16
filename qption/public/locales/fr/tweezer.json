@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Stratégie de Trading Tweezers – Figures de Renversement Tweezer Top & Bottom | Qption",
+        "description": "Maîtrisez la stratégie Tweezers : identifiez les figures de renversement en chandeliers Tweezer Top et Tweezer Bottom, confirmez les signaux avec le RSI et les niveaux de support/résistance, et gérez le risque grâce à un placement précis du stop-loss. Découvrez les règles de configuration, les méthodes de confirmation, les avantages et les inconvénients.",
+        "keywords": "stratégie tweezers, tweezer top, tweezer bottom, figures de renversement en chandeliers, renversement de tendance, support et résistance, renversement haussier, renversement baissier, confirmation RSI, stratégie stop-loss, trading price action, analyse technique, stratégie de trading, Qption",
+        "ogAlt": "Figures de chandeliers Tweezer Top et Bottom avec signaux de confirmation",
+        "ld": {
+            "headline": "Stratégie de Trading Tweezers – Figures de Renversement Tweezer Top & Bottom"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Stratégie de trading"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "startTrading": "Commencer à trader"
+    },
+    "hero": {
+        "title": "Stratégie Tweezers",
+        "subtitle": "La stratégie Tweezers identifie les sommets et les creux potentiels du marché à l’aide d’un simple modèle de renversement à deux bougies. Elle fournit des indices visuels précoces d’un changement de tendance lorsque les prix rejettent le même niveau deux fois — une fois sur chaque bougie."
+    },
+    "video": {
+        "aria": "La stratégie Tweezers est une figure de renversement en chandeliers utilisée pour signaler des sommets et des creux potentiels sur le marché."
+    },
+    "overview": {
+        "title": "Aperçu",
+        "items": {
+            "1": "La stratégie Tweezers est un modèle de renversement en chandeliers qui met en évidence les sommets et les creux potentiels dans l’action du prix.",
+            "2": "Elle se forme lorsque deux bougies consécutives présentent des sommets ou des creux presque identiques, suggérant un fort rejet à un niveau clé.",
+            "3": "Il existe deux types de Tweezers : le Tweezer Top (renversement baissier) et le Tweezer Bottom (renversement haussier)."
+        }
+    },
+    "top": {
+        "title": "1. Stratégie Tweezer Top",
+        "items": {
+            "1": {
+                "label": "Formation",
+                "text": "Se produit à la fin d’une tendance haussière lorsque deux bougies consécutives ont des sommets presque identiques."
+            },
+            "2": {
+                "label": "Première bougie",
+                "text": "Généralement une bougie haussière montrant une forte impulsion avant le rejet."
+            },
+            "3": {
+                "label": "Deuxième bougie",
+                "text": "Une bougie baissière avec un sommet similaire, indiquant une résistance au même niveau de prix."
+            },
+            "4": {
+                "label": "Confirmation",
+                "text": "Le renversement est confirmé lorsque la bougie suivante clôture en dessous du plus bas du modèle Tweezer."
+            }
+        }
+    },
+    "bottom": {
+        "title": "2. Stratégie Tweezer Bottom",
+        "items": {
+            "1": {
+                "label": "Formation",
+                "text": "Apparaît à la fin d’une tendance baissière lorsque deux bougies ont des creux presque identiques."
+            },
+            "2": {
+                "label": "Première bougie",
+                "text": "Souvent une bougie baissière poursuivant la tendance avant l’intervention des acheteurs."
+            },
+            "3": {
+                "label": "Deuxième bougie",
+                "text": "Une bougie haussière avec le même creux, signalant un support et une force acheteuse."
+            },
+            "4": {
+                "label": "Confirmation",
+                "text": "Confirmée lorsque la bougie suivante clôture au-dessus du plus haut du modèle Tweezer."
+            }
+        }
+    },
+    "use": {
+        "title": "Utilisation de la Stratégie Tweezers",
+        "items": {
+            "1": "Recherchez les Tweezers Tops ou Bottoms près des niveaux clés de support ou de résistance pour une meilleure précision.",
+            "2": "Combinez-les avec des indicateurs comme le RSI pour confirmer les conditions de surachat ou de survente.",
+            "3": "Placez les stop-loss juste au-dessus du Tweezer Top ou en dessous du Tweezer Bottom pour gérer efficacement le risque."
+        }
+    },
+    "pros": {
+        "title": "Avantages",
+        "items": {
+            "1": "Modèle simple — facile à identifier avec seulement deux bougies consécutives.",
+            "2": "Signal de renversement fiable près des zones majeures de support/résistance.",
+            "3": "Fonctionne bien avec des outils de confirmation tels que le RSI, le MACD ou les lignes de tendance."
+        }
+    },
+    "cons": {
+        "title": "Inconvénients",
+        "items": {
+            "1": "Nécessite une confirmation pour éviter les faux signaux de renversement.",
+            "2": "Moins fiable dans les marchés en range ou à faible volume.",
+            "3": "Peut induire en erreur s’il est utilisé seul sans autres outils d’analyse."
+        }
+    }
+}

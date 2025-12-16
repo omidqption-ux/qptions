@@ -1,0 +1,174 @@
+{
+    "seo": {
+        "title": "Analyse graphique dans le trading technique – Tendances, S/R, Figures et Chandeliers | Qption",
+        "description": "Un guide pratique de l’analyse graphique : identifier les tendances, tracer les supports/résistances, lire les figures et chandeliers, et utiliser des outils comme les moyennes mobiles, les bandes de Bollinger, le RSI et les retracements de Fibonacci. Couvre les avantages, limites et applications pour des décisions basées sur les données.",
+        "keywords": "analyse graphique, analyse technique, tendances de prix, support et résistance, figures chartistes, analyse des chandeliers, moyennes mobiles, bandes de Bollinger, RSI, retracement de Fibonacci, lignes de tendance, stratégie de trading, Qption",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "ogAlt": "Analyse graphique avec lignes de tendance, figures et indicateurs sur un graphique de trading",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Analyse graphique dans le trading technique – Tendances, S/R, Figures et Chandeliers",
+            "description": "Un guide pratique de l’analyse graphique : identifier les tendances, tracer les supports/résistances, lire les figures et chandeliers, et utiliser des outils comme les moyennes mobiles, les bandes de Bollinger, le RSI et les retracements de Fibonacci.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Analyse graphique"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Tendances de prix"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Support et résistance"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Figures chartistes"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Analyse des chandeliers"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Moyennes mobiles"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bandes de Bollinger"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "RSI"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Retracement de Fibonacci"
+                }
+            ],
+            "articleSection": [
+                "Analyse graphique dans le trading technique",
+                "Aperçu",
+                "Concepts clés de l’analyse graphique",
+                "Techniques courantes",
+                "Analyse des lignes de tendance",
+                "Niveaux de support et de résistance",
+                "Analyse des figures chartistes",
+                "Analyse des chandeliers",
+                "Outils utilisés en analyse graphique",
+                "Avantages de l’analyse graphique",
+                "Limites de l’analyse graphique"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Outils principaux",
+                    "value": "Lignes de tendance, Support/Résistance, Figures et Chandeliers"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Indicateurs",
+                    "value": "Moyennes mobiles, Bandes de Bollinger, RSI, Retracements de Fibonacci"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Cas d’utilisation",
+                    "value": "Identification de tendance, cassures, renversements, définition d’objectifs, gestion du risque"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Retour à l’analyse graphique"
+    },
+    "page": {
+        "title": "Analyse graphique dans le trading technique"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "start": "Commencer à trader"
+    },
+    "sections": {
+        "overview": {
+            "h": "Aperçu",
+            "items": [
+                "L’analyse graphique consiste à interpréter les graphiques de prix et les figures pour prévoir les mouvements futurs à partir des données historiques.",
+                "Elle repose sur des outils visuels tels que les figures chartistes, les lignes de tendance, les niveaux de support et de résistance, ainsi que divers indicateurs techniques.",
+                "L’analyse graphique est utilisée sur tous les marchés (actions, forex, crypto, matières premières) pour prendre des décisions basées sur les données."
+            ]
+        },
+        "key": {
+            "h": "Concepts clés de l’analyse graphique",
+            "items": {
+                "trends": "Tendances de prix : les marchés évoluent souvent en tendances haussières, baissières ou latérales, identifiables et exploitables.",
+                "sr": "Support et Résistance : zones où le prix s’arrête ou se renverse fréquemment ; le support agit comme un plancher, la résistance comme un plafond.",
+                "patterns": "Figures chartistes : formations (tête et épaules, triangles, drapeaux) suggérant la poursuite ou le retournement d’une tendance.",
+                "volume": "Analyse du volume : une augmentation du volume peut confirmer une tendance ou une cassure ; un faible volume peut indiquer une faiblesse du mouvement."
+            }
+        },
+        "tech": {
+            "h": "Techniques courantes de l’analyse graphique",
+            "trend": {
+                "h": "1. Analyse des lignes de tendance",
+                "items": [
+                    "Relier les creux dans une tendance haussière ou les sommets dans une tendance baissière pour visualiser la direction.",
+                    "Utiliser les lignes de tendance comme support/résistance dynamique pour déterminer les points d’entrée et de sortie."
+                ]
+            },
+            "sr": {
+                "h": "2. Niveaux de support et de résistance",
+                "items": [
+                    "Tracer des lignes horizontales sur les sommets et creux clés où le prix a déjà réagi.",
+                    "Utiliser ces zones pour les entrées/sorties et pour placer les ordres stop-loss."
+                ]
+            },
+            "patterns": {
+                "h": "3. Analyse des figures chartistes",
+                "items": [
+                    "Des figures comme les triangles, drapeaux, doubles sommets/creux et têtes-épaules donnent des indices visuels.",
+                    "Les techniques de mesure de mouvement peuvent projeter des objectifs basés sur la hauteur ou l’amplitude de la figure."
+                ]
+            },
+            "candles": {
+                "h": "4. Analyse des chandeliers japonais",
+                "items": [
+                    "Les chandeliers affichent les prix d’ouverture, de clôture, les plus hauts et les plus bas, pour lire rapidement le sentiment et le momentum.",
+                    "Des configurations comme le doji, le marteau ou l’avalement peuvent signaler des renversements ou des continuations."
+                ]
+            }
+        },
+        "tools": {
+            "h": "Outils utilisés en analyse graphique",
+            "items": {
+                "ma": "Moyennes mobiles (SMA/EMA) : lissent les prix pour révéler la tendance et des supports/résistances dynamiques.",
+                "bb": "Bandes de Bollinger : mesurent la volatilité ; les resserrements peuvent précéder des expansions ou cassures.",
+                "rsi": "RSI : oscillateur de momentum indiquant les zones de surachat/survente et les divergences.",
+                "fib": "Retracements de Fibonacci : niveaux de support/résistance potentiels à 23,6 %, 38,2 %, 50 %, 61,8 % et 78,6 %."
+            }
+        },
+        "benefits": {
+            "h": "Avantages de l’analyse graphique",
+            "items": [
+                "Aide à identifier les tendances et figures pour des idées de trading plus claires.",
+                "Flexible sur toutes les unités de temps — du scalping au swing trading et au trading de position.",
+                "Visualisation intuitive réduisant la dépendance à des calculs complexes."
+            ]
+        },
+        "limitations": {
+            "h": "Limites de l’analyse graphique",
+            "items": [
+                "Interprétation subjective : les traders peuvent tracer des niveaux ou figures différemment.",
+                "Les mouvements passés ne garantissent pas les performances futures.",
+                "Nécessite souvent une confirmation par indicateurs ou volumes pour éviter les faux signaux."
+            ]
+        }
+    }
+}

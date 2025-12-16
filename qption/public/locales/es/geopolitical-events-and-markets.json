@@ -1,0 +1,194 @@
+{
+    "seo": {
+        "title": "Eventos geopolíticos y los mercados – Elecciones, guerras comerciales, conflictos y refugios seguros | Qption",
+        "description": "Cómo las elecciones, guerras comerciales, sanciones, conflictos y cambios regulatorios afectan a los mercados. Conoce las reacciones típicas en acciones, divisas, materias primas y bonos, así como los beneficios, riesgos y límites del análisis geopolítico.",
+        "keywords": "riesgo geopolítico, elecciones y mercados, guerras comerciales, aranceles, sanciones, conflictos militares, refugios seguros, oro, petróleo, bonos, USD, JPY, CHF, volatilidad del mercado, análisis fundamental, Qption",
+        "ogTitle": "Eventos geopolíticos y los mercados | Qption",
+        "ogDescription": "Entiende cómo los factores geopolíticos influyen en los movimientos de los mercados globales y cómo prepararte.",
+        "url": "https://qption.com/fundamental-analysis/geopolitical-events-and-markets",
+        "image": "https://qption.com/images/og/geopolitical-events-and-markets.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Eventos geopolíticos y los mercados | Qption",
+        "twitterDescription": "Desde elecciones hasta conflictos: cómo la geopolítica afecta a las acciones, divisas, materias primas y bonos.",
+        "twitterImage": "https://qption.com/images/og/geopolitical-events-and-markets.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/geopolitical-events-and-markets",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Eventos geopolíticos y los mercados – Elecciones, guerras comerciales, conflictos y refugios seguros",
+            "description": "Cómo los desarrollos geopolíticos afectan a los mercados globales y cómo los traders pueden adaptarse.",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/geopolitical-events-and-markets",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Geopolítica"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Elecciones políticas"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Guerras comerciales y sanciones"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Conflictos militares"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Cambios regulatorios"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Activos refugio"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercado de divisas (Forex)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercado de materias primas"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercado de bonos"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Volatilidad del mercado"
+                }
+            ],
+            "articleSection": [
+                "Resumen general",
+                "Tipos de eventos geopolíticos",
+                "Reacciones del mercado",
+                "Beneficios",
+                "Limitaciones"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Flujos hacia refugios seguros",
+                    "value": "Los shocks de riesgo suelen impulsar el USD, JPY, CHF, el oro y los bonos gubernamentales; los activos de riesgo tienden a caer."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Sensibilidad energética",
+                    "value": "El petróleo reacciona de forma aguda a los riesgos de suministro en regiones productoras durante tensiones geopolíticas."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Estrategias de cartera",
+                    "value": "Cobertura con activos refugio, diversificación y seguimiento de titulares sobre políticas y sanciones."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análisis fundamental"
+    },
+    "page": {
+        "title": "Eventos geopolíticos y su influencia en los mercados"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "startTrading": "Comienza a operar"
+    },
+    "sections": {
+        "overview": {
+            "title": "Resumen general",
+            "bullets": [
+                "Los eventos geopolíticos abarcan desarrollos políticos, económicos y sociales a nivel nacional y global, influyendo en la confianza de los inversores y en los flujos de capital.",
+                "Elecciones, guerras comerciales, conflictos y cambios regulatorios pueden provocar volatilidad al modificar la percepción del riesgo y las posiciones de los inversores.",
+                "Comprender los riesgos geopolíticos permite anticipar reacciones del mercado y ajustar las estrategias de inversión de forma proactiva."
+            ]
+        },
+        "types": {
+            "title": "Tipos de eventos geopolíticos que afectan a los mercados",
+            "items": [
+                {
+                    "label": "Elecciones políticas",
+                    "text": "Los cambios en el liderazgo y las políticas pueden alterar la política fiscal, las relaciones internacionales y las regulaciones sectoriales, afectando la confianza del mercado."
+                },
+                {
+                    "label": "Guerras comerciales",
+                    "text": "Los aranceles, sanciones y restricciones comerciales interrumpen las cadenas de suministro y afectan a sectores dependientes del comercio global y al valor de las divisas."
+                },
+                {
+                    "label": "Conflictos militares",
+                    "text": "Los conflictos aumentan la incertidumbre, impulsando la demanda de activos refugio como el oro y los bonos, mientras que los activos de riesgo tienden a caer."
+                },
+                {
+                    "label": "Cambios regulatorios",
+                    "text": "Las nuevas políticas en sectores como finanzas, energía y tecnología pueden alterar las ganancias corporativas y la confianza de los inversores."
+                },
+                {
+                    "label": "Desastres naturales y pandemias",
+                    "text": "Eventos como terremotos, huracanes o pandemias interrumpen la actividad económica, el consumo y el gasto público."
+                }
+            ]
+        },
+        "reactions": {
+            "title": "Reacciones del mercado ante eventos geopolíticos",
+            "stocks": {
+                "title": "1. Mercados bursátiles",
+                "bullets": [
+                    "La incertidumbre geopolítica suele aumentar la volatilidad y reducir el apetito por el riesgo, favoreciendo sectores defensivos.",
+                    "La resolución de tensiones o acuerdos políticos puede generar repuntes bursátiles por la mejora de la confianza."
+                ]
+            },
+            "fx": {
+                "title": "2. Mercados de divisas (Forex)",
+                "bullets": [
+                    "Las divisas refugio como el USD, CHF y JPY se fortalecen durante períodos de tensión global.",
+                    "Las monedas de países afectados directamente por conflictos o sanciones tienden a debilitarse debido a salidas de capital."
+                ]
+            },
+            "commodities": {
+                "title": "3. Mercados de materias primas",
+                "bullets": [
+                    "El oro y los metales preciosos actúan como refugios seguros, aumentando su valor en tiempos de incertidumbre.",
+                    "El petróleo es altamente sensible a los conflictos en regiones productoras, donde las interrupciones pueden elevar los precios."
+                ]
+            },
+            "bonds": {
+                "title": "4. Mercados de bonos",
+                "bullets": [
+                    "Los bonos gubernamentales suelen beneficiarse de entradas de capital durante crisis geopolíticas, lo que eleva sus precios y reduce los rendimientos.",
+                    "Los bonos del Tesoro de EE. UU. y otros mercados desarrollados tienden a atraer a los inversores como activos de bajo riesgo."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Beneficios de monitorear los eventos geopolíticos",
+            "bullets": [
+                "Anticipar la volatilidad: seguir la agenda geopolítica ayuda a los inversores a gestionar el riesgo de manera más efectiva.",
+                "Identificar oportunidades en refugios seguros: permite rotar hacia activos como el oro, bonos o divisas fuertes durante la incertidumbre.",
+                "Mejorar la planificación estratégica: comprender los impactos geopolíticos ayuda a construir carteras más resilientes y adaptables."
+            ]
+        },
+        "limitations": {
+            "title": "Limitaciones del análisis geopolítico",
+            "items": [
+                {
+                    "label": "Imprevisibilidad",
+                    "text": "Los eventos geopolíticos pueden ocurrir repentinamente y evolucionar de manera inesperada, lo que dificulta su anticipación precisa."
+                },
+                {
+                    "label": "Interdependencias complejas",
+                    "text": "Los mercados globales están conectados, y los efectos indirectos de un evento pueden propagarse de formas difíciles de modelar."
+                },
+                {
+                    "label": "Distorsión temporal del mercado",
+                    "text": "Las noticias políticas pueden provocar movimientos temporales en los precios, dificultando distinguir entre reacciones cortas y tendencias sostenidas."
+                }
+            ]
+        }
+    }
+}

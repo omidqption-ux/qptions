@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Estratégia Alligator – Mandíbula, Dentes e Lábios, Fases do Mercado e Risco | Qption",
+        "description": "Entenda a estratégia Alligator de Bill Williams: ajustes de Mandíbula/Dentes/Lábios, fases do mercado (dormindo, acordando, alimentando-se, saciado), passo a passo de aplicação, como combinar com Fractais/RSI/MACD/volume, além de prós/contra e um exemplo.",
+        "keywords": "estratégia alligator, bill williams, mandíbula dentes lábios, médias móveis suavizadas, identificação de tendência, fases do mercado, alligator dormindo, acordando, alimentando-se, fractais, RSI, MACD, análise de volume, gestão de risco, estratégia de trading, Qption",
+        "url": "https://qption.com/trading-strategy/alligator",
+        "image": "https://qption.com/videos/alligator-strategy/alligator-strategy.png",
+        "imageAlt": "Gráfico da estratégia Alligator",
+        "jsonLd": {
+            "headline": "Estratégia Alligator – Mandíbula, Dentes e Lábios, Fases do Mercado e Risco",
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Alligator de Bill Williams"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Médias móveis suavizadas"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Identificação de tendência"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Fases do mercado"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Fractais"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "RSI"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "MACD"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Análise de volume"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Gestão de risco"
+                }
+            ],
+            "articleSection": [
+                "Estratégia Alligator",
+                "Conceitos-chave do indicador Alligator",
+                "Comportamento do Alligator no mercado",
+                "Aplicação da estratégia Alligator",
+                "Combinação com outros indicadores",
+                "Exemplo prático",
+                "Prós e contras",
+                "Exemplo de gráfico"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Mandíbula (Azul)",
+                    "value": "SMA de 13 períodos suavizada por 8"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Dentes (Vermelho)",
+                    "value": "SMA de 8 períodos suavizada por 5"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Lábios (Verde)",
+                    "value": "SMA de 5 períodos suavizada por 3"
+                }
+            ]
+        }
+    },
+    "breadcrumb": "Estratégias de trading",
+    "title": "Estratégia Alligator",
+    "cta": {
+        "prompt": "Pronto para operar?",
+        "button": "Começar a operar"
+    },
+    "video": {
+        "aria": "Mandíbula, dentes e lábios do Alligator; fases de comportamento e estado 'dormindo'"
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Conceitos-chave do indicador Alligator",
+            "items": {
+                "jaw": {
+                    "title": "Mandíbula do Alligator (linha azul):",
+                    "desc": "Média móvel de 13 períodos suavizada por 8; reflete a direção de longo prazo."
+                },
+                "teeth": {
+                    "title": "Dentes do Alligator (linha vermelha):",
+                    "desc": "Média móvel de 8 períodos suavizada por 5; alinhada à tendência de médio prazo."
+                },
+                "lips": {
+                    "title": "Lábios do Alligator (linha verde):",
+                    "desc": "Média móvel de 5 períodos suavizada por 3; reage mais rápido e representa o movimento de curto prazo."
+                }
+            }
+        },
+        "behavior": {
+            "title": "Comportamento do Alligator no mercado",
+            "intro": "O Alligator ajuda a visualizar a condição do mercado e o timing de entradas/saídas:",
+            "items": {
+                "sleeping": {
+                    "title": "Dormindo:",
+                    "desc": "Linhas entrelaçadas; mercado lateral/em faixa. Muitos aguardam direção mais clara."
+                },
+                "waking": {
+                    "title": "Acordando:",
+                    "desc": "As linhas começam a se separar; possível início de tendência. Buscam-se entradas na direção do rompimento."
+                },
+                "feeding": {
+                    "title": "Alimentando-se:",
+                    "desc": "A separação aumenta; tendência estabelecida. Comum manter posições nessa fase."
+                },
+                "sated": {
+                    "title": "Saciado:",
+                    "desc": "As linhas voltam a convergir; momentum enfraquece. Considere realizar lucro ou preparar-se para reversão/consolidação."
+                }
+            }
+        },
+        "apply": {
+            "title": "Aplicação da estratégia Alligator",
+            "items": {
+                "identify": {
+                    "title": "Identificar a tendência:",
+                    "desc": "Linhas alinhadas e bem separadas sugerem tendência forte; linhas entrelaçadas indicam consolidação."
+                },
+                "enter": {
+                    "title": "Entrar quando 'acorda':",
+                    "desc": "Use a separação inicial como sinal de entrada na direção da tendência nascente."
+                },
+                "hold": {
+                    "title": "Manter na fase de 'alimentação':",
+                    "desc": "Com a separação aumentando, muitos mantêm posições para capturar o movimento tendencial."
+                },
+                "exit": {
+                    "title": "Sair quando 'volta a dormir':",
+                    "desc": "A convergência sinaliza perda de impulso; avalie sair ou apertar o gerenciamento de risco."
+                }
+            }
+        },
+        "combine": {
+            "title": "Combinação com outros indicadores",
+            "items": {
+                "fractals": {
+                    "title": "Fractais:",
+                    "desc": "Marcam potenciais pontos de reversão e confirmam entradas/saídas em conjunto com o Alligator."
+                },
+                "momentum": {
+                    "title": "Indicadores de momentum:",
+                    "desc": "RSI ou MACD podem confirmar a força da tendência juntamente com o alinhamento do Alligator."
+                },
+                "volume": {
+                    "title": "Análise de volume:",
+                    "desc": "Maior volume no rompimento reforça a fase de 'acordando' e a validade da tendência."
+                }
+            }
+        },
+        "example": {
+            "title": "Exemplo prático",
+            "p1": "Após uma consolidação com mandíbula, dentes e lábios entrelaçados, os lábios cruzam acima dos dentes e da mandíbula e as linhas começam a se separar, sinalizando tendência de alta potencial.",
+            "p2": "Com o alargamento da separação (fase de alimentação), mantém-se a posição comprada. Ao convergir novamente, considere encerrar para garantir lucro antes de possível reversão."
+        },
+        "prosCons": {
+            "title": "Prós e contras",
+            "pros": {
+                "title": "Prós:",
+                "items": {
+                    "clarity": {
+                        "title": "Sinais de tendência claros:",
+                        "desc": "Visualização simples das fases para entradas e saídas."
+                    },
+                    "timeframes": {
+                        "title": "Funciona em múltiplos prazos:",
+                        "desc": "Útil em forex, ações e commodities em vários horizontes."
+                    },
+                    "compatible": {
+                        "title": "Compatível com outras ferramentas:",
+                        "desc": "Integra-se bem a Fractais e indicadores de momentum."
+                    }
+                }
+            },
+            "cons": {
+                "title": "Contras:",
+                "items": {
+                    "lag": {
+                        "title": "Atraso em mercados rápidos:",
+                        "desc": "Por ser suavizado, pode atrasar sinais em alta volatilidade."
+                    },
+                    "false": {
+                        "title": "Sinais falsos em laterais:",
+                        "desc": "‘Whipsaws’ são mais comuns em mercados de baixa volatilidade e faixa estreita."
+                    }
+                }
+            }
+        },
+        "chart": {
+            "title": "Exemplo de gráfico",
+            "p1": "O setup ideal mostra as três linhas juntas (consolidação) e, em seguida, se separando com o início da tendência.",
+            "p2": "Nas fases de 'acordando/alimentando-se', favorecem-se entradas e manutenção; a convergência posterior sugere realização de lucros ou cautela."
+        }
+    }
+}

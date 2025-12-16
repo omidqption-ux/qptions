@@ -1,0 +1,182 @@
+{
+    "seo": {
+        "title": "Datenschutzerklärung & Datenerfassung | Qption",
+        "description": "Wie Qption Ihre Daten sammelt, verwendet, speichert und schützt: Zwecke, Identifizierung, Marketing, Offenlegungen, Sicherheit, Aufbewahrung, Löschanfragen und Cookies.",
+        "keywords": "Datenschutzerklärung, Datenerfassung, Datenschutz, Cookies, KYC, Sicherheit, Aufbewahrung, Löschung, Qption",
+        "ogTitle": "Datenschutzerklärung & Datenerfassung | Qption",
+        "ogDescription": "Erfahren Sie, was wir sammeln, warum wir es sammeln und wie wir Ihre Informationen bei Qption schützen.",
+        "url": "https://qption.com/privacy-policy",
+        "image": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Datenschutzerklärung & Datenerfassung | Qption",
+        "twitterDescription": "Unsere Praktiken zur Datenerfassung, -nutzung, -speicherung, -sicherung und zu Cookies.",
+        "twitterImage": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "canonical": "https://qption.com/privacy-policy"
+    },
+    "hero": {
+        "title": "Datenschutzerklärung und Datenerfassung"
+    },
+    "sections": [
+        {
+            "key": "consent",
+            "icon": "consent",
+            "title": "1. Zustimmung zur Datenerfassung",
+            "items": [
+                "Durch den Zugriff auf https://qption.com/ und die Nutzung der von Itransition Co bereitgestellten Dienste erklärt sich der Kunde mit der Erhebung und Verarbeitung seiner personenbezogenen Daten durch Itransition Co einverstanden."
+            ]
+        },
+        {
+            "key": "info",
+            "icon": "info",
+            "title": "2. Erhobene Informationen",
+            "items": [
+                "Während der Registrierung oder Nutzung der Dienste kann Itransition Co Namen, Geburtsdatum, E-Mail, Adresse, Telefonnummer, Transaktionsdetails, IP-Adresse, Browsertyp, Besuchsdauer, Seitenaufrufe und andere relevante Daten erfassen."
+            ]
+        },
+        {
+            "key": "use",
+            "icon": "use",
+            "title": "3. Verwendung personenbezogener Daten",
+            "items": [
+                "Die bereitgestellten Daten können verwendet werden, um die Website zu betreiben, Kundendatenbanken zu verwalten, Transaktionen zu verarbeiten und Marketingaktivitäten durchzuführen. Durch Angabe von Kontaktdaten stimmt der Kunde zu, über diese Kanäle kontaktiert zu werden."
+            ]
+        },
+        {
+            "key": "purpose",
+            "icon": "purpose",
+            "title": "4. Zweck der Datenerhebung",
+            "items": [
+                "Daten werden zur Erfüllung gesetzlicher Verpflichtungen, zum Betrieb der Website, zur Verbesserung der Dienste, zur Kontoerstellung, zur Sicherheit, zu Backups, zur Kommunikation, zur Buchführung sowie zu statistischen oder Marketingzwecken erhoben."
+            ]
+        },
+        {
+            "key": "identification",
+            "icon": "identification",
+            "title": "5. Identifikationsanforderungen",
+            "items": [
+                "Kunden müssen bestimmte Identifikationsdaten zur Registrierung angeben, einschließlich Informationen, die für die Einhaltung von Geldwäschevorschriften erforderlich sind."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "6. Richtigkeit der Informationen",
+            "items": [
+                "Kunden müssen wahre, genaue und aktuelle Informationen über ihre Identität bereitstellen. Änderungen müssen dem Unternehmen innerhalb von 30 Tagen mitgeteilt werden."
+            ]
+        },
+        {
+            "key": "marketing",
+            "icon": "marketing",
+            "title": "7. Verwendung von Kundendaten zu Marketingzwecken",
+            "items": [
+                "Während der Registrierung oder Nutzung bereitgestellte Daten können vom Unternehmen verwendet werden, um Marketingmaterialien zu versenden."
+            ]
+        },
+        {
+            "key": "disclosure",
+            "icon": "disclosure",
+            "title": "8. Offenlegung von Informationen",
+            "items": [
+                "Kundendaten dürfen nur dann an Behörden weitergegeben werden, wenn dies gesetzlich vorgeschrieben ist, und nur im unbedingt erforderlichen Umfang."
+            ]
+        },
+        {
+            "key": "nonPersonal",
+            "icon": "nonPersonal",
+            "title": "9. Verwendung nicht-personenbezogener Daten",
+            "items": [
+                "Nicht-personenbezogene Daten über Kunden können vom Unternehmen zu Werbe- und Analysezwecken verwendet werden."
+            ]
+        },
+        {
+            "key": "verification",
+            "icon": "verification",
+            "title": "10. Verifizierung und Dokumentanforderungen",
+            "items": [
+                "Für bestimmte Vorgänge können Kunden verpflichtet sein, Identifikationsdokumente bereitzustellen. Eine Nichteinhaltung kann zur Sperrung oder Schließung des Kontos nach Ermessen des Unternehmens führen."
+            ]
+        },
+        {
+            "key": "confidentiality",
+            "icon": "confidentiality",
+            "title": "11. Datenvertraulichkeit",
+            "items": [
+                "Das Unternehmen gibt Kundendaten ohne Zustimmung nicht weiter, es sei denn, dies ist gesetzlich vorgeschrieben. Kundendaten werden sicher gespeichert und nur von autorisiertem Personal eingesehen."
+            ]
+        },
+        {
+            "key": "storage",
+            "icon": "storage",
+            "title": "12. Speicherung von Kontoinformationen",
+            "items": [
+                "Konto- und Transaktionsdaten der Kunden werden vom Unternehmen gespeichert und können bei Streitigkeiten zwischen Kunde und Unternehmen verwendet werden."
+            ]
+        },
+        {
+            "key": "review",
+            "icon": "review",
+            "title": "13. Überprüfung von Kundendaten",
+            "items": [
+                "Das Unternehmen hat das Recht, jedoch nicht die Pflicht, die vom Kunden bereitgestellten Informationen zu überprüfen und zu inspizieren."
+            ]
+        },
+        {
+            "key": "protection",
+            "icon": "protection",
+            "title": "14. Datenschutz",
+            "items": [
+                "Das Unternehmen implementiert fortschrittliche Datenschutzverfahren, um Kundendaten zu schützen, und aktualisiert diese regelmäßig, um die Sicherheit zu erhöhen."
+            ]
+        },
+        {
+            "key": "credentials",
+            "icon": "credentials",
+            "title": "15. Anmeldedaten und Privatsphäre",
+            "items": [
+                "Kunden müssen einen sicheren Benutzernamen und ein Passwort für den Websitezugang wählen. Das Teilen dieser Zugangsdaten ist verboten, und das Unternehmen übernimmt keine Haftung für Verluste aufgrund unsachgemäßer Nutzung."
+            ]
+        },
+        {
+            "key": "unauthorized",
+            "icon": "unauthorized",
+            "title": "16. Unbefugter Kontozugriff",
+            "items": [
+                "Kunden sind verpflichtet, den Support des Unternehmens zu benachrichtigen, wenn sie einen unbefugten Zugriff auf ihr Konto vermuten."
+            ]
+        },
+        {
+            "key": "cardSecurity",
+            "icon": "cardSecurity",
+            "title": "17. Sicherheit von Bankkartendaten",
+            "items": [
+                "Das Unternehmen speichert keine Bankkartendaten. Kartendaten werden mit TLS 1.2-Transportverschlüsselung und AES-256-Verschlüsselung geschützt, um den Standards der Payment Card Industry zu entsprechen."
+            ]
+        },
+        {
+            "key": "deletion",
+            "icon": "deletion",
+            "title": "18. Anträge auf Datenlöschung",
+            "items": [
+                "Kunden können die Löschung ihrer Daten beantragen, indem sie help@Itransition.Co kontaktieren. Das Unternehmen kann bestimmte Daten speichern, wenn dies gesetzlich erforderlich ist, z. B. zur Betrugsprävention oder zur Erfüllung rechtlicher Verpflichtungen."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "19. Datenaufbewahrung und Richtlinienaktualisierungen",
+            "items": [
+                "Daten werden so lange gespeichert, wie dies zur Bereitstellung von Diensten oder zur Erfüllung gesetzlicher Anforderungen erforderlich ist. Das Unternehmen kann diese Datenschutzerklärung aktualisieren; die fortgesetzte Nutzung der Website nach Änderungen gilt als Zustimmung zur aktualisierten Richtlinie."
+            ]
+        },
+        {
+            "key": "cookies",
+            "icon": "cookies",
+            "title": "20. Cookie-Richtlinie",
+            "items": [
+                "Cookies sind kleine Datendateien, die auf dem Gerät des Kunden gespeichert werden, um die Nutzung der Website zu verfolgen. Kunden können Cookies in den Browsereinstellungen blockieren.",
+                "Die Cookies des Unternehmens helfen, die Benutzererfahrung zu verbessern, indem sie Seitenaufrufe und Präferenzen verfolgen; personenbezogene Daten wie Namen und E-Mails werden nicht in Cookies gespeichert."
+            ]
+        }
+    ]
+}

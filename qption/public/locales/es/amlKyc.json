@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Política contra el lavado de dinero (AML) y financiamiento del terrorismo (CTF) | Qption",
+        "description": "Política AML y CTF de Qption: definiciones, etapas, responsabilidades, verificaciones KYC, manejo de transacciones sospechosas y responsabilidades legales.",
+        "keywords": "AML, CTF, KYC, política Qption, lavado de dinero, cumplimiento",
+        "url": "https://qption.com/aml-kyc"
+    },
+    "hero": {
+        "title": "Política AML y CTF"
+    },
+    "sections": [
+        {
+            "title": "1. Política general",
+            "items": [
+                "La empresa prohíbe y previene activamente el lavado de dinero y la financiación del terrorismo. Todos los empleados y socios deben cumplir con estas normas."
+            ]
+        },
+        {
+            "title": "2. Definición de lavado de dinero",
+            "items": [
+                "El lavado de dinero implica acciones destinadas a ocultar el origen de fondos obtenidos ilegalmente, haciéndolos parecer legítimos."
+            ]
+        },
+        {
+            "title": "3. Etapas del lavado de dinero",
+            "items": [
+                "Colocación: el dinero ilícito ingresa al sistema financiero.",
+                "Estratificación: los fondos se mueven entre cuentas para ocultar su origen.",
+                "Integración: los fondos se reintegran en la economía mediante compras legales o inversiones."
+            ]
+        },
+        {
+            "title": "4. Responsabilidades de los empleados",
+            "items": [
+                "Los empleados deben conocer y cumplir las leyes relacionadas con la prevención del lavado de dinero."
+            ]
+        },
+        {
+            "title": "5. Programa de cumplimiento AML",
+            "items": [
+                "La empresa mantiene un programa continuo para garantizar el cumplimiento normativo y reducir los riesgos de lavado de dinero."
+            ]
+        },
+        {
+            "title": "6. Cumplimiento de afiliados",
+            "items": [
+                "Cada afiliado debe cumplir con las políticas AML y KYC."
+            ]
+        },
+        {
+            "title": "7. Retención de documentos",
+            "items": [
+                "Los documentos y registros de los clientes se conservan durante el período mínimo exigido por la ley."
+            ]
+        },
+        {
+            "title": "8. Capacitación de empleados",
+            "items": [
+                "Los nuevos empleados reciben formación AML durante su incorporación. La capacitación anual AML/KYC es obligatoria."
+            ]
+        },
+        {
+            "title": "9. Obligaciones del cliente",
+            "items": [
+                "Los clientes deben cumplir las leyes contra el lavado de dinero y garantizar que los fondos provengan de fuentes legítimas."
+            ]
+        },
+        {
+            "title": "10. Verificaciones KYC y AML",
+            "items": [
+                "La empresa puede realizar verificaciones AML/KYC para cumplir con las regulaciones y prevenir delitos financieros."
+            ]
+        },
+        {
+            "title": "11. Manejo de transacciones sospechosas",
+            "items": [
+                "Si se detectan operaciones sospechosas, la empresa puede suspender cuentas y cancelar transacciones en investigación."
+            ]
+        },
+        {
+            "title": "12. Solicitud de documentación durante investigaciones",
+            "items": [
+                "La empresa puede solicitar documentos de identidad y prueba de origen de fondos durante una investigación."
+            ]
+        },
+        {
+            "title": "13. Prohibición de actividades ilegales",
+            "items": [
+                "Está estrictamente prohibido usar los servicios de la empresa para actividades ilegales o fraudulentas."
+            ]
+        },
+        {
+            "title": "14. Responsabilidad de la empresa",
+            "items": [
+                "La negativa de la empresa a procesar transacciones sospechosas no genera responsabilidad hacia clientes o terceros."
+            ]
+        }
+    ]
+}

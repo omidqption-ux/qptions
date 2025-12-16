@@ -1,0 +1,98 @@
+{
+    "seo": {
+        "title": "账户类型 – 计划对比 | Qption",
+        "description": "了解 Qption 的六种账户类型 — Basic、Silver、Gold、Platinum、Diamond 和 Exclusive — 并比较它们在最低存款、交易工具、支持和 VIP 特权方面的差异。选择最符合您交易目标的方案。",
+        "keywords": "Qption 账户类型, Basic 账户, Silver 账户, Gold 账户, Platinum 账户, Diamond 账户, Exclusive 账户, 交易账户对比, 最低存款, 交易工具, VIP 交易服务",
+        "ogTitle": "账户类型 – 计划对比 | Qption",
+        "ogDescription": "比较 Qption 的 Basic、Silver、Gold、Platinum、Diamond 和 Exclusive 账户的功能 — 从最低资金要求到专属支持。",
+        "ogUrl": "https://qption.com/accounttypes",
+        "ogImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "账户类型 – 计划对比 | Qption",
+        "twitterDescription": "找到最适合您的账户 — 从 Basic 到 Exclusive。了解 Qption 的完整账户等级与专属优势。",
+        "twitterImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "canonical": "https://qption.com/accounttypes",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "选择您的账户类型",
+        "subtitle": "选择最符合您交易目标的理想账户",
+        "cta": "立即开始",
+        "fromPrefix": "$",
+        "invitationOnly": "仅限邀请"
+    },
+    "plans": {
+        "basic": {
+            "title": "Basic",
+            "desc": "理想的入门选择，您可以随时升级账户等级。",
+            "from": "10",
+            "features": [
+                "基础交易工具",
+                "电子邮件支持",
+                "市场分析",
+                "全天候 24/7 专属支持"
+            ]
+        },
+        "silver": {
+            "title": "Silver",
+            "desc": "比 Basic 账户更进一步，为想要快速起步的交易者设计。",
+            "from": "50",
+            "features": [
+                "包含所有 Basic 功能",
+                "优先客户支持",
+                "高级图表",
+                "每日市场更新"
+            ]
+        },
+        "gold": {
+            "title": "Gold",
+            "desc": "选择 Gold 账户，与大多数客户一样享受免费咨询服务。",
+            "from": "500",
+            "features": [
+                "包含所有 Silver 功能",
+                "免费咨询",
+                "专属客户经理",
+                "VIP 网络研讨会"
+            ]
+        },
+        "platinum": {
+            "title": "Platinum",
+            "desc": "Platinum 账户是智慧投资的开始 — 享受尊贵功能与更高价值。",
+            "from": "5000",
+            "features": [
+                "包含所有 Gold 功能",
+                "全天候 24/7 专属支持",
+                "定制交易策略",
+                "专属活动"
+            ]
+        },
+        "diamond": {
+            "title": "Diamond",
+            "desc": "为严肃的投资者提供最专业与专属的管理服务。",
+            "from": "10000",
+            "features": [
+                "包含所有 Platinum 功能",
+                "定制化投资解决方案",
+                "私人交易课程",
+                "奢华奖励计划"
+            ]
+        },
+        "exclusive": {
+            "title": "Exclusive",
+            "desc": "请向您的账户经理咨询更多详情。",
+            "from": "仅限邀请",
+            "features": [
+                "定制化解决方案",
+                "私人财富管理",
+                "独家市场洞察",
+                "个性化服务"
+            ]
+        }
+    },
+    "withdrawal": {
+        "title": "提款选项",
+        "body1": "自由交易，轻松取款。我们提供超过 20 种支付方式，可将资金直接转入您的借记卡或信用卡（Visa、MasterCard、Maestro、UnionPay），也可选择电子支付方式，如 Neteller、Skrill、Perfect Money、FasaPay 等。",
+        "highlight": "Gold、Platinum 和 Exclusive 账户享有提款优先处理权。"
+    }
+}

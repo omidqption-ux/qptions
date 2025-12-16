@@ -1,0 +1,170 @@
+{
+    "seo": {
+        "title": "Stratégie Alligator – Mâchoire, Dents, Lèvres, phases & risques | Qption",
+        "description": "Comprends l’Alligator de Bill Williams : réglages Jaw/Teeth/Lips, phases (sommeil, réveil, alimentation, satiété), mise en œuvre pas-à-pas, combinaison avec fractales/RSI/MACD/volume, avantages, limites et exemple.",
+        "keywords": "stratégie Alligator, Bill Williams, mâchoire dents lèvres, moyennes lissées, identification de tendance, phases de marché, alligator endormi, fractales, RSI, MACD, analyse de volume, gestion du risque, Qption",
+        "url": "https://qption.com/trading-strategy/alligator",
+        "image": "https://qption.com/videos/alligator-strategy/alligator-strategy.png",
+        "imageAlt": "Graphique illustrant l’Alligator de trading",
+        "jsonLd": {
+            "headline": "Stratégie Alligator – Mâchoire, Dents, Lèvres, phases & risques",
+            "about": [
+                "Bill Williams Alligator",
+                "Moyennes mobiles lissées",
+                "Identification de tendance",
+                "Phases de marché",
+                "Fractales",
+                "RSI",
+                "MACD",
+                "Analyse de volume",
+                "Gestion du risque"
+            ],
+            "articleSection": [
+                "Stratégie Alligator",
+                "Concepts clés",
+                "Comportement sur le marché",
+                "Application de la stratégie",
+                "Combinaisons avec d’autres indicateurs",
+                "Exemple concret",
+                "Avantages et limites",
+                "Exemple graphique"
+            ],
+            "additionalProperty": [
+                { "name": "Mâchoire (bleu)", "value": "SMA 13 périodes lissée 8 fois" },
+                { "name": "Dents (rouge)", "value": "SMA 8 périodes lissée 5 fois" },
+                { "name": "Lèvres (vert)", "value": "SMA 5 périodes lissée 3 fois" }
+            ]
+        }
+    },
+    "breadcrumb": "Stratégie de trading",
+    "title": "Stratégie Alligator",
+    "cta": {
+        "prompt": "Prêt à trader ?",
+        "button": "Commencer à trader"
+    },
+    "video": {
+        "aria": "Mâchoire, Dents, Lèvres, phases de l’alligator et état de sommeil"
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Concepts clés",
+            "items": {
+                "jaw": {
+                    "title": "Mâchoire (ligne bleue)",
+                    "desc": "Moyenne mobile 13 périodes lissée sur 8 – reflète la direction long terme."
+                },
+                "teeth": {
+                    "title": "Dents (ligne rouge)",
+                    "desc": "Moyenne mobile 8 périodes lissée sur 5 – suit le trend moyen terme."
+                },
+                "lips": {
+                    "title": "Lèvres (ligne verte)",
+                    "desc": "Moyenne mobile 5 périodes lissée sur 3 – réagit rapidement, représente le court terme."
+                }
+            }
+        },
+        "behavior": {
+            "title": "Comportement de l’alligator",
+            "intro": "L’alligator visualise l’état du marché et le bon timing pour entrer/sortir :",
+            "items": {
+                "sleeping": {
+                    "title": "Alligator endormi",
+                    "desc": "Les lignes sont entremêlées : marché en range. On attend des signaux plus clairs."
+                },
+                "waking": {
+                    "title": "Alligator qui se réveille",
+                    "desc": "Les lignes commencent à se séparer : un nouveau trend peut démarrer, opportunité d’entrer."
+                },
+                "feeding": {
+                    "title": "Alligator qui se nourrit",
+                    "desc": "L’écartement s’accentue : trend établi, on conserve les positions."
+                },
+                "sated": {
+                    "title": "Alligator rassasié",
+                    "desc": "Les lignes convergent : momentum qui faiblit, penser à encaisser ou se préparer à une consolidation."
+                }
+            }
+        },
+        "apply": {
+            "title": "Appliquer la stratégie",
+            "items": {
+                "identify": {
+                    "title": "Identifier la tendance",
+                    "desc": "Des lignes larges et alignées = trend fort ; intriquées = consolidation."
+                },
+                "enter": {
+                    "title": "Entrer lors du réveil",
+                    "desc": "La séparation initiale sert de signal dans le sens du trend naissant."
+                },
+                "hold": {
+                    "title": "Conserver pendant la phase d’alimentation",
+                    "desc": "Quand les lignes s’écartent, on maintient la position pour capter le mouvement."
+                },
+                "exit": {
+                    "title": "Sortir quand il se rendort",
+                    "desc": "La convergence signale un momentum en baisse ; envisager de réduire ou sortir."
+                }
+            }
+        },
+        "combine": {
+            "title": "Combinaison avec d’autres indicateurs",
+            "items": {
+                "fractals": {
+                    "title": "Fractales",
+                    "desc": "Utilise les fractales de Williams pour marquer les points de retournement et confirmer les entrées/sorties."
+                },
+                "momentum": {
+                    "title": "Indicateurs de momentum",
+                    "desc": "RSI ou MACD confirment la force du trend aligné sur l’alligator."
+                },
+                "volume": {
+                    "title": "Analyse de volume",
+                    "desc": "Un volume plus élevé lors des breakouts soutient la phase d’éveil et valide le mouvement."
+                }
+            }
+        },
+        "example": {
+            "title": "Exemple concret",
+            "p1": "Après une consolidation où Mâchoire, Dents et Lèvres sont serrées, les Lèvres croisent au-dessus des Dents et de la Mâchoire : début d’un trend haussier potentiel.",
+            "p2": "Quand les lignes s’écartent (phase d’alimentation), on conserve la position. Lorsqu’elles se rapprochent à nouveau, on pense à prendre les bénéfices avant un retournement."
+        },
+        "prosCons": {
+            "title": "Avantages & limites",
+            "pros": {
+                "title": "Avantages",
+                "items": {
+                    "clarity": {
+                        "title": "Signaux de trend clairs",
+                        "desc": "Visualisation simple des phases d’entrée et de sortie."
+                    },
+                    "timeframes": {
+                        "title": "Multi-timeframes",
+                        "desc": "Fonctionne sur forex, actions, matières premières, etc."
+                    },
+                    "compatible": {
+                        "title": "Synergie",
+                        "desc": "Se marie bien avec fractales, RSI, MACD."
+                    }
+                }
+            },
+            "cons": {
+                "title": "Limites",
+                "items": {
+                    "lag": {
+                        "title": "Retard en marché rapide",
+                        "desc": "Les moyennes lissées peuvent signaler tardivement en forte volatilité."
+                    },
+                    "false": {
+                        "title": "Faux signaux en range",
+                        "desc": "Les whipsaws sont fréquents en marché plat."
+                    }
+                }
+            }
+        },
+        "chart": {
+            "title": "Exemple graphique",
+            "p1": "Un setup idéal : lignes serrées (consolidation), puis éventail lors du début de tendance.",
+            "p2": "Pendant les phases d’éveil/alimentation, on privilégie les entrées/maintiens ; la convergence incite à sécuriser les gains."
+        }
+    }
+}

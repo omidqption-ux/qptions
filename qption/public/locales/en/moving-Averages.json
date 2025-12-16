@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Moving Averages Strategy (SMA & EMA) – Technical Analysis | Qption",
+        "description": "Master trend following with Moving Averages: SMA vs EMA, crossovers (Golden/Death Cross), dynamic support/resistance, MA ribbons, and key limitations—complete guide for traders.",
+        "keywords": "moving averages, SMA, EMA, moving average crossover, golden cross, death cross, moving average ribbon, dynamic support and resistance, trend following, momentum, technical analysis, Qption",
+        "ogAlt": "Moving Averages strategy explained with SMA, EMA, crossovers, and MA ribbons",
+        "ld": {
+            "headline": "Moving Averages Strategy (SMA & EMA) – Technical Analysis"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading Strategy"
+    },
+    "cta": {
+        "ready": "Ready to trade with Moving Averages?",
+        "startTrading": "Start Trading"
+    },
+    "hero": {
+        "title": "Moving Averages Strategy",
+        "subtitle": "Master trend following and momentum trading with our comprehensive Moving Averages analysis."
+    },
+    "video": {
+        "aria": "Moving averages (MAs) smooth price data to help identify trends and reversals."
+    },
+    "overview": {
+        "title": "Overview",
+        "items": {
+            "1": "Moving averages (MAs) are popular technical tools that smooth price data, making trends and reversals easier to spot.",
+            "2": "The two most common types are Simple Moving Average (SMA) and Exponential Moving Average (EMA), which differ in how they weight recent prices.",
+            "3": "MAs help traders identify trend direction, generate signals, and highlight dynamic support and resistance."
+        }
+    },
+    "how": {
+        "title": "How Moving Averages Work",
+        "blocks": {
+            "1": {
+                "title": "Simple Moving Average (SMA)",
+                "desc": "Calculated as the arithmetic mean of a chosen number of recent prices. Useful for general trend analysis."
+            },
+            "2": {
+                "title": "Exponential Moving Average (EMA)",
+                "desc": "Applies greater weight to recent prices, reacting faster to market changes—often preferred in fast-moving markets."
+            },
+            "3": {
+                "title": "Trend Identification",
+                "desc": "Price above the MA suggests a bullish trend; price below it suggests a bearish trend."
+            }
+        }
+    },
+    "strategies": {
+        "title": "Key Strategies",
+        "crossover": {
+            "title": "1. Moving Average Crossover",
+            "items": {
+                "1": "Golden Cross: A short-term MA (e.g., 50-day) crosses above a long-term MA (e.g., 200-day) — bullish signal.",
+                "2": "Death Cross: A short-term MA crosses below a long-term MA — bearish signal."
+            }
+        },
+        "dynamicSR": {
+            "title": "2. Dynamic Support and Resistance",
+            "items": {
+                "1": "Support in Uptrend: The MA can act as dynamic support where price often bounces during bullish phases.",
+                "2": "Resistance in Downtrend: The MA may act as resistance, guiding price lower in bearish phases."
+            }
+        },
+        "ribbon": {
+            "title": "3. Moving Average Ribbon",
+            "items": {
+                "1": "Setup: Use multiple MAs of different lengths (e.g., 10, 20, 50, 100, 200) to form a ribbon.",
+                "2": "Trend Signal: Alignment of all MAs in one direction indicates a strong, sustained trend."
+            }
+        }
+    },
+    "limits": {
+        "title": "Limitations",
+        "items": {
+            "1": "Lagging nature: MAs can react slowly to sudden market moves and reversals.",
+            "2": "Whipsaws: Choppy or ranging markets can generate false signals."
+        }
+    }
+}

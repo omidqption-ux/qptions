@@ -1,0 +1,150 @@
+{
+    "seo": {
+        "title": "Equity–Forex/CFD Correlation: Drivers, Patterns & Risk Regimes | Qption",
+        "description": "See how equities and forex/CFD markets move together (or apart). Learn the macro drivers—rates, growth data, risk sentiment, and capital flows—plus common positive/negative pairs and how to use correlations for diversification and hedging.",
+        "url": "https://qption.com/fundamental-analysis/forex-cfds",
+        "keywords": "equity and forex correlation, CFD correlation, risk-on risk-off, interest rates and FX, capital flows, safe-haven currencies JPY CHF, USD and stocks, AUD commodities correlation, portfolio hedging, Qption",
+        "ld": {
+            "headline": "Correlation Between Equity Markets and Forex/CFDs",
+            "about": {
+                "equities": "Equity Markets",
+                "forex": "Foreign Exchange (Forex)",
+                "cfds": "Contracts for Difference (CFDs)",
+                "riskSentiment": "Global Risk Sentiment",
+                "safeHavens": "Safe-Haven Currencies",
+                "rates": "Interest Rates",
+                "flows": "Capital Flows"
+            },
+            "props": {
+                "regimes": {
+                    "name": "Correlation Regimes",
+                    "value": "Relationships shift under risk-on/risk-off; safe-haven FX (JPY, CHF) often strengthen when global equities fall."
+                },
+                "commodity": {
+                    "name": "Commodity Linkages",
+                    "value": "AUD and resource-heavy equity sectors can co-move due to terms-of-trade and commodity cycles."
+                },
+                "practice": {
+                    "name": "Practical Use",
+                    "value": "Traders apply correlation awareness for diversification, hedging, and avoiding unintended concentrated bets."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Fundamental Analysis"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "start": "Start Trading"
+    },
+    "page": {
+        "title": "Correlation Between Equity Markets and Forex/CFDs"
+    },
+    "sections": {
+        "_list": [
+            "Overview",
+            "Key Drivers of Correlation",
+            "Interest Rates",
+            "Economic Data",
+            "Global Risk Sentiment",
+            "Capital Flows",
+            "Common Correlations Between Equities and Forex/CFD Markets",
+            "Positive Correlations",
+            "Negative Correlations",
+            "How Equity Markets Impact Forex/CFD Markets",
+            "Stock Market Rallies and Currency Strength",
+            "Equity Market Declines and Safe-Haven Currencies",
+            "Benefits of Understanding Equity and Forex/CFD Correlations",
+            "Limitations of Relying on Correlations"
+        ],
+        "overview": {
+            "title": "Overview",
+            "items": [
+                "Equity markets and forex/CFD markets often move in relation to one another, with shifts in one influencing the other.",
+                "This correlation arises from macroeconomic drivers such as growth expectations, interest rates, risk appetite, and global capital flows.",
+                "Understanding these linkages helps traders build better strategies for diversification and hedging across asset classes."
+            ]
+        },
+        "drivers": {
+            "title": "Key Drivers of Correlation",
+            "items": [
+                {
+                    "label": "Interest Rates:",
+                    "text": "Central bank policies affect both currencies and equities—rising rates can strengthen currencies but pressure stock valuations."
+                },
+                {
+                    "label": "Economic Data:",
+                    "text": "Strong GDP, employment, and inflation figures influence investor sentiment in both markets, aligning their direction."
+                },
+                {
+                    "label": "Global Risk Sentiment:",
+                    "text": "During risk-off conditions, investors exit equities and move into safe-haven FX like JPY and CHF; risk-on phases reverse this."
+                },
+                {
+                    "label": "Capital Flows:",
+                    "text": "Cross-border investments into equity markets boost local currency demand, while outflows can weaken it."
+                }
+            ]
+        },
+        "common": {
+            "title": "Common Correlations Between Equities and Forex/CFDs",
+            "positive": {
+                "title": "Positive Correlations",
+                "items": [
+                    "USD and US Equities: A robust economy can lift both the dollar and stock markets as investors expect strong growth.",
+                    "AUD and Commodity Stocks: Australia’s resource-linked currency tends to move with mining and energy equities."
+                ]
+            },
+            "negative": {
+                "title": "Negative Correlations",
+                "items": [
+                    "JPY and Japanese Equities: The yen often strengthens when Japanese equities fall as capital returns home during risk aversion.",
+                    "CHF and Global Equities: The Swiss franc typically gains when global stocks drop, reflecting flight-to-safety behavior."
+                ]
+            }
+        },
+        "impact": {
+            "title": "How Equity Markets Impact Forex/CFD Markets",
+            "rallies": {
+                "title": "Stock Market Rallies and Currency Strength",
+                "items": [
+                    "When equity markets rise, capital inflows can drive up the local currency as investors seek exposure to growth.",
+                    "Positive equity performance boosts confidence, attracting foreign investment and supporting currency appreciation."
+                ]
+            },
+            "declines": {
+                "title": "Equity Market Declines and Safe-Haven Currencies",
+                "items": [
+                    "Market downturns trigger moves into safe-haven currencies such as USD, JPY, and CHF, pushing them higher.",
+                    "During crises, investors reduce risk exposure and shift funds from equities to stable currencies to preserve capital."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefits of Understanding Equity and Forex/CFD Correlations",
+            "items": [
+                "Improves diversification by managing risk across asset classes.",
+                "Supports better timing by understanding how one market influences another.",
+                "Helps identify hedging opportunities to offset potential losses."
+            ]
+        },
+        "limits": {
+            "title": "Limitations of Relying on Correlations",
+            "items": [
+                {
+                    "label": "Unpredictable Changes:",
+                    "text": "Correlations can shift rapidly in response to policy shifts or global shocks, reducing their reliability."
+                },
+                {
+                    "label": "Market-Specific Factors:",
+                    "text": "Local events such as earnings reports or political risks can distort typical patterns between markets."
+                },
+                {
+                    "label": "Complex Interdependencies:",
+                    "text": "Multiple macro and micro forces interact, making correlations dynamic and time-dependent."
+                }
+            ]
+        }
+    }
+}

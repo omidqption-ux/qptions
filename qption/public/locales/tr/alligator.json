@@ -1,0 +1,80 @@
+{
+    "seo": {
+        "title": "Alligator Stratejisi – Teknik Analiz | Qption",
+        "description": "Alligator göstergesi ile trend takibi ve momentum trading’i öğrenin: Çene, Diş ve Dudak çizgilerini anlayın, giriş/çıkış noktalarını belirleyin ve yatay piyasalarda hatalı sinyalleri azaltın.",
+        "keywords": "Alligator, Bill Williams, teknik analiz, trend takibi, momentum, hareketli ortalama, işlem stratejisi, Qption",
+        "ogTitle": "Alligator Stratejisi – Teknik Analiz | Qption",
+        "ogDescription": "Alligator göstergesi ile işlem yapmaya dair pratik bir rehber — yapısı, sinyalleri, kısıtlamaları ve en iyi uygulamalarıyla.",
+        "url": "https://qption.com/technical-analysis/alligator",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Teknik Analiz"
+    },
+    "promo": {
+        "text": "Alligator ile işlem yapmaya hazır mısınız?",
+        "cta": "İşleme Başla"
+    },
+    "hero": {
+        "title": "Alligator Stratejisi",
+        "subtitle": "Trend takibi ve momentum trading’ini kapsamlı Alligator analizimizle öğrenin"
+    },
+    "overview": {
+        "title": "Genel Bakış",
+        "bullets": [
+            "Bill Williams tarafından geliştirilen Alligator göstergesi, piyasa trendlerini ve konsolidasyon dönemlerini belirlemeye yardımcı olur.",
+            "Üç adet yumuşatılmış hareketli ortalamadan oluşur: Çene, Diş ve Dudak çizgileri.",
+            "Trader’ların piyasanın trend mi yoksa yatay mı olduğunu anlamasına yardımcı olur."
+        ]
+    },
+    "how": {
+        "title": "Alligator Nasıl Çalışır",
+        "items": [
+            {
+                "title": "Çene (Mavi Çizgi)",
+                "desc": "13 periyotluk yumuşatılmış hareketli ortalama, 8 periyot ileri kaydırılır ve uzun vadeli trendi gösterir."
+            },
+            {
+                "title": "Diş (Kırmızı Çizgi)",
+                "desc": "8 periyotluk yumuşatılmış hareketli ortalama, 5 periyot ileri kaydırılır ve orta vadeli trendi gösterir."
+            },
+            {
+                "title": "Dudak (Yeşil Çizgi)",
+                "desc": "5 periyotluk yumuşatılmış hareketli ortalama, 3 periyot ileri kaydırılır ve kısa vadeli trendi gösterir."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Temel Stratejiler",
+        "items": [
+            {
+                "title": "1. Trend Belirleme",
+                "points": [
+                    "Üç çizgi aynı yönde hareket ediyorsa güçlü bir trendi gösterir.",
+                    "Çizgiler birbirine dolanıyorsa piyasanın yatay veya konsolidasyon sürecinde olduğunu gösterir."
+                ]
+            },
+            {
+                "title": "2. Giriş Sinyalleri",
+                "points": [
+                    "Yükseliş trendinde Dudak çizgisi Diş ve Çene’nin üzerine çıktığında alım yapılır.",
+                    "Düşüş trendinde Dudak çizgisi Diş ve Çene’nin altına indiğinde satış yapılır."
+                ]
+            },
+            {
+                "title": "3. Çıkış Sinyalleri",
+                "points": [
+                    "Dudak çizgisi Diş’in altına indiğinde uzun pozisyon kapatılır.",
+                    "Dudak çizgisi Diş’in üzerine çıktığında kısa pozisyon kapatılır."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Sınırlamalar",
+        "bullets": [
+            "Gecikme: Yumuşatma nedeniyle hızlı piyasalarda sinyaller gecikebilir.",
+            "Trend piyasalarında en etkili: Yatay piyasalarda hatalı sinyaller üretme riski vardır."
+        ]
+    }
+}

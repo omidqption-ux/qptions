@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Angebot & Nachfrage bei Rohstoffen und Krypto – Treiber, Schocks, Signale | Qption",
+        "description": "Verstehe, wie Produktion, Geopolitik, Wetter, Halvings, Adoption sowie Mining-/Staking-Flüsse Angebot & Nachfrage bei Rohstoffen und Kryptowährungen formen. Erfahre typische Marktreaktionen, Vorteile des Monitorings und zentrale Grenzen.",
+        "url": "https://qption.com/fundamental-analysis/supply-and-demand-commodities",
+        "keywords": "Angebot und Nachfrage, Rohstoffe, Krypto, Bitcoin-Halving, Produktionsniveaus, geopolitisches Risiko, Wetterschocks, Adoption, Mining Rewards, Staking Rewards, Marktsentiment, Preiselastizität, Qption",
+        "ld": {
+            "headline": "Angebot & Nachfrage bei Rohstoffen und Krypto – Treiber, Schocks, Signale",
+            "about": {
+                "supplyDemand": "Angebot und Nachfrage",
+                "commodities": "Rohstoffe",
+                "crypto": "Kryptowährungen",
+                "halving": "Bitcoin-Halving",
+                "mining": "Mining Rewards",
+                "staking": "Staking",
+                "geopolitics": "Geopolitik",
+                "weather": "Wetterrisiko",
+                "sentiment": "Marktsentiment"
+            },
+            "props": {
+                "scarcity": {
+                    "name": "Knappheitsdynamik",
+                    "value": "Begrenzte Supplies (z. B. BTC) und sinkende Emissionen verstärken nachfragegetriebene Preisbewegungen."
+                },
+                "shock": {
+                    "name": "Schocksensitivität",
+                    "value": "Rohstoffe reagieren stark auf externe Schocks (Wetter, Konflikte), die das Angebot einschränken."
+                },
+                "flowstock": {
+                    "name": "Flow vs. Stock",
+                    "value": "Im Krypto-Sektor bestimmen Neuemissionen (Flow) vs. Umlaufmenge (Stock) und das Verhalten der Holder die Liquidität."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Fundamentalanalyse"
+    },
+    "page": {
+        "title": "Angebot und Nachfrage in Rohstoff- und Kryptomärkten"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln?",
+        "start": "Jetzt handeln"
+    },
+    "sections": {
+        "_list": [
+            "Angebot und Nachfrage in Rohstoff- und Kryptomärkten",
+            "Überblick",
+            "Faktoren für Angebot und Nachfrage in Rohstoffmärkten",
+            "Produktionsniveaus",
+            "Geopolitische Ereignisse",
+            "Wetterbedingungen",
+            "Globales Wirtschaftswachstum",
+            "Alternative Energien und Technologien",
+            "Faktoren für Angebot und Nachfrage in Kryptomärkten",
+            "Begrenztes Angebot und Halvings",
+            "Marktsentiment und Adoption",
+            "Mining- und Staking-Rewards",
+            "Marktreaktionen auf Angebots-/Nachfrageschocks",
+            "Rohstoffmärkte",
+            "Kryptomärkte",
+            "Vorteile des Verständnisses von Angebot und Nachfrage im Trading",
+            "Grenzen der Angebots-/Nachfrageanalyse"
+        ],
+        "overview": {
+            "title": "Überblick",
+            "items": [
+                "Angebot und Nachfrage sind zentrale Kräfte, die Preise und Mengen über Assetklassen hinweg bestimmen – auch bei Rohstoffen und Kryptowährungen.",
+                "Rohstoffangebot hängt von Produktion, Wetter und Geopolitik ab, während die Nachfrage der globalen Aktivität und branchenspezifischen Bedürfnissen folgt.",
+                "Krypto-Angebote sind oft begrenzt oder programmgesteuert; die Nachfrage folgt Adoption, Regulierung und Investorenstimmung."
+            ]
+        },
+        "commodityFactors": {
+            "title": "Faktoren in Rohstoffmärkten",
+            "items": [
+                {
+                    "label": "Produktionsniveaus:",
+                    "text": "Höhere Produktion erhöht das verfügbare Angebot und kann Preise drücken, wenn die Nachfrage unverändert bleibt."
+                },
+                {
+                    "label": "Geopolitische Ereignisse:",
+                    "text": "Konflikte, Sanktionen und Handelspolitik unterbrechen Lieferketten – besonders bei Energie und Metallen."
+                },
+                {
+                    "label": "Wetterbedingungen:",
+                    "text": "Dürren, Frost oder Stürme beeinträchtigen Ernten und Logistik, verknappen das Angebot und treiben Preise."
+                },
+                {
+                    "label": "Globales Wirtschaftswachstum:",
+                    "text": "Aufschwünge erhöhen die Nachfrage von Industrie und Konsumenten; Abschwünge dämpfen sie typischerweise."
+                },
+                {
+                    "label": "Alternative Energien & Technologien:",
+                    "text": "Erneuerbare Energien und technologische Umbrüche reduzieren den Bedarf an klassischen Brennstoffen und verändern langfristige Preisdynamiken."
+                }
+            ]
+        },
+        "cryptoFactors": {
+            "title": "Faktoren in Kryptomärkten",
+            "fixed": {
+                "title": "1. Begrenztes Angebot und Halvings",
+                "items": [
+                    "Viele Netzwerke (z. B. Bitcoin) haben ein gedeckeltes Angebot, wodurch die Knappheit mit der Zeit steigt.",
+                    "Halvings reduzieren die Neuemission, verknappen den Flow und stützen Preise, sofern die Nachfrage anhält."
+                ]
+            },
+            "sentiment": {
+                "title": "2. Marktsentiment und Adoption",
+                "items": [
+                    "News, Regulierung und Meinungsführer können die Stimmung schnell drehen und die Nachfrage verschieben.",
+                    "Adoption durch Unternehmen und Institutionen erhöht die reale Nutzung und die langfristige Nachfrage."
+                ]
+            },
+            "rewards": {
+                "title": "3. Mining- und Staking-Rewards",
+                "items": [
+                    "Block-Rewards und Staking-Yields bringen neues Angebot an den Markt, das Preise belasten kann, wenn die Nachfrage nicht Schritt hält.",
+                    "Änderungen bei Difficulty oder Renditen beeinflussen Emissionsgeschwindigkeit und verfügbare Umlaufmenge."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Marktreaktionen auf Angebots- und Nachfrageschübe",
+            "commodity": {
+                "title": "1. Rohstoffmärkte",
+                "items": [
+                    "Angebotsunterbrechungen lassen Lagerbestände schrumpfen und treiben die Preise.",
+                    "Nachfrageschübe in Aufschwüngen verteuern industrielle Vorprodukte breitflächig."
+                ]
+            },
+            "crypto": {
+                "title": "2. Kryptomärkte",
+                "items": [
+                    "Geringe Umlaufmenge plus steigende Nachfrage führen zu abrupten Aufwärtsbewegungen.",
+                    "Sinkende Emissionen (z. B. Halvings) wirken preisstabilisierend, sofern die Adoption anhält."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Vorteile des S&D-Verständnisses im Trading",
+            "items": [
+                "Besseres Timing durch das Vorwegnehmen von Ungleichgewichten und Lagerzyklen.",
+                "Gezieltere Allokation in Assets, die empfindlich auf S&D-Regime reagieren.",
+                "Klarerer langfristiger Rahmen, wenn das Angebot strukturell begrenzt ist."
+            ]
+        },
+        "limits": {
+            "title": "Grenzen der Angebots-/Nachfrageanalyse",
+            "items": [
+                "Hohe Volatilität kann Fundamentals kurzfristig überlagern.",
+                "Spekulation und Hebel verzerren beobachtete S&D-Signale.",
+                "Exogene Schocks (Politik, Technologie, Geopolitik) verändern das Bild abrupt."
+            ]
+        }
+    }
+}

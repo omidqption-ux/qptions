@@ -1,0 +1,206 @@
+{
+    "seo": {
+        "title": "Políticas de Bancos Centrales y Tasas de Interés – Impacto en Acciones, Divisas, Bonos y Materias Primas | Qption",
+        "description": "Comprende cómo las políticas de los bancos centrales — tasas, QE/QT y orientación futura — influyen en los mercados. Aprende los conceptos clave, las reacciones típicas en acciones, divisas, bonos y materias primas, los indicadores a seguir, y los beneficios y limitaciones para traders e inversionistas.",
+        "keywords": "política del banco central, tasas de interés, política monetaria, expansión cuantitativa, contracción cuantitativa, orientación futura, control de inflación, rendimiento de bonos, fortaleza de divisas, impacto del mercado de acciones, precios de materias primas, PIB, empleo, IPC, análisis fundamental, Qption",
+        "ogTitle": "Políticas de Bancos Centrales y Tasas de Interés – Impacto en Acciones, Divisas, Bonos y Materias Primas | Qption",
+        "ogDescription": "Las tasas, el QE/QT y la orientación del banco central mueven los mercados. Descubre la guía intermercados y los indicadores más importantes.",
+        "url": "https://qption.com/es/fundamental-analysis/central-bank-policies-interest-rates",
+        "image": "https://qption.com/images/og/central-bank-policies-interest-rates.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Políticas de Bancos Centrales y Tasas de Interés | Qption",
+        "twitterDescription": "Cómo las tasas, el QE/QT y la orientación futura impulsan acciones, divisas, bonos y materias primas — con claves prácticas para traders.",
+        "twitterImage": "https://qption.com/images/og/central-bank-policies-interest-rates.jpg",
+        "canonical": "https://qption.com/es/fundamental-analysis/central-bank-policies-interest-rates",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Políticas de Bancos Centrales y Tasas de Interés – Impacto en Acciones, Divisas, Bonos y Materias Primas",
+            "description": "Guía práctica sobre cómo la política monetaria se refleja en los principales activos, con indicadores clave y reacciones típicas del mercado.",
+            "mainEntityOfPage": "https://qption.com/es/fundamental-analysis/central-bank-policies-interest-rates",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Política Monetaria"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Tasas de Interés"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Expansión Cuantitativa (QE)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Contracción Cuantitativa (QT)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Orientación Futura"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Inflación"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Acciones"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bonos"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Divisas (Forex)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Materias Primas"
+                }
+            ],
+            "articleSection": [
+                "Impacto de las Políticas de Bancos Centrales y Tasas de Interés en el Análisis Fundamental",
+                "Resumen",
+                "Conceptos Clave",
+                "Impacto en los Diferentes Mercados",
+                "Mercado de Acciones",
+                "Mercado Forex",
+                "Mercado de Bonos",
+                "Mercado de Materias Primas",
+                "Indicadores para Monitorear",
+                "Beneficios de Comprender las Políticas de Bancos Centrales",
+                "Limitaciones de Confiar en las Políticas de Bancos Centrales"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Cambios de Tasas",
+                    "value": "Tasas más bajas → crédito más barato, apetito por riesgo; Tasas más altas → condiciones más estrictas, aversión al riesgo."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "QE / QT",
+                    "value": "El QE añade liquidez y reduce rendimientos; el QT retira liquidez y puede aumentar rendimientos."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Orientación Futura",
+                    "value": "Comunicación del banco central que guía las expectativas del mercado sobre la política futura."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Reacciones Típicas entre Activos",
+                    "value": "Política expansiva: acciones↑, rendimientos↓ (bonos↑), divisa doméstica↓, materias primas ligadas al crecimiento↑. Política restrictiva: acciones↓, rendimientos↑ (bonos↓), divisa doméstica↑, materias primas mixtas."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Publicaciones Clave",
+                    "value": "Decisiones de tasas, inflación (IPC/PCE), empleo/NFP, PIB, actas y conferencias de prensa."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análisis Fundamental"
+    },
+    "page": {
+        "title": "Políticas de Bancos Centrales y Tasas de Interés"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "startTrading": "Comenzar a Operar"
+    },
+    "sections": {
+        "overview": {
+            "title": "Resumen",
+            "bullets": [
+                "Las políticas de los bancos centrales, especialmente los cambios en las tasas, son herramientas clave para controlar la inflación, estabilizar las divisas y fomentar el crecimiento económico.",
+                "Las tasas afectan los costos de financiamiento, el consumo, las inversiones y, finalmente, los precios de los activos en los diferentes mercados.",
+                "En el análisis fundamental, seguir las decisiones de los bancos centrales ayuda a anticipar cambios macroeconómicos y movimientos de mercado."
+            ]
+        },
+        "keyConcepts": {
+            "title": "Conceptos Clave",
+            "items": {
+                "monetaryPolicy": "Política Monetaria: Gestión económica a través del dinero y las tasas de interés. Incluye políticas expansivas (baja de tasas) y contractivas (subida de tasas).",
+                "interestRates": "Tasas de Interés: Niveles fijados por los bancos centrales. Tasas bajas impulsan el gasto; tasas altas moderan la economía.",
+                "qe": "Expansión Cuantitativa (QE): Compra de activos a gran escala para aumentar la liquidez y reducir los rendimientos, usualmente durante recesiones.",
+                "guidance": "Orientación Futura: Comunicación sobre el rumbo esperado de la política monetaria, que ayuda a fijar expectativas del mercado."
+            }
+        },
+        "impact": {
+            "title": "Impacto en los Diferentes Mercados",
+            "stocks": {
+                "title": "1. Mercado de Acciones",
+                "bullets": [
+                    "Las tasas bajas generalmente impulsan las acciones al reducir los costos de financiación y fomentar la expansión.",
+                    "Las tasas altas pueden afectar negativamente las valoraciones y los beneficios al encarecer el crédito y enfriar el consumo."
+                ]
+            },
+            "fx": {
+                "title": "2. Mercado Forex",
+                "bullets": [
+                    "Tasas más altas tienden a atraer inversiones extranjeras y fortalecer la moneda local.",
+                    "Tasas más bajas suelen debilitar la moneda al empujar capitales hacia mayores rendimientos en el exterior."
+                ]
+            },
+            "bonds": {
+                "title": "3. Mercado de Bonos",
+                "bullets": [
+                    "Los precios de los bonos se mueven inversamente a los rendimientos; cuando suben las tasas, caen los precios y viceversa.",
+                    "Las políticas del banco central determinan los rendimientos de bonos gubernamentales y corporativos, afectando a los inversores de renta fija."
+                ]
+            },
+            "commodities": {
+                "title": "4. Mercado de Materias Primas",
+                "bullets": [
+                    "Las tasas bajas pueden estimular el crecimiento y aumentar la demanda de petróleo, metales y otras materias primas cíclicas.",
+                    "Las tasas altas suelen asociarse con una menor actividad económica, reduciendo la demanda y los precios."
+                ]
+            }
+        },
+        "indicators": {
+            "title": "Indicadores para Monitorear",
+            "items": [
+                {
+                    "label": "Decisiones de Tasas de Interés",
+                    "text": "Anuncios regulares de cambios en la tasa de política o de referencia."
+                },
+                {
+                    "label": "Informes de Inflación",
+                    "text": "Los bancos centrales ajustan su política según los objetivos de inflación; una inflación alta puede provocar subidas de tasas."
+                },
+                {
+                    "label": "Datos de Empleo",
+                    "text": "Un mercado laboral fuerte puede llevar a aumentos de tasas; datos débiles pueden impulsar recortes o QE."
+                },
+                {
+                    "label": "Crecimiento del PIB",
+                    "text": "Un crecimiento rápido puede generar subidas de tasas para evitar sobrecalentamiento; un crecimiento lento favorece políticas expansivas."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Beneficios de Comprender las Políticas de Bancos Centrales",
+            "bullets": [
+                "Ayuda a anticipar movimientos del mercado alineándose con los ciclos de política monetaria.",
+                "Aplica a múltiples activos — relevante para acciones, divisas, bonos y materias primas.",
+                "Facilita decisiones de inversión a largo plazo al entender mejor los ciclos económicos."
+            ]
+        },
+        "limitations": {
+            "title": "Limitaciones de Confiar en las Políticas de Bancos Centrales",
+            "bullets": [
+                "Incertidumbre: La política puede cambiar abruptamente en tiempos de crisis o volatilidad.",
+                "Efectos Retardados: Las modificaciones de tasas tardan en reflejarse en la economía real.",
+                "Interdependencia Global: Las políticas de otros países pueden reforzar o contrarrestar los efectos locales."
+            ]
+        }
+    }
+}

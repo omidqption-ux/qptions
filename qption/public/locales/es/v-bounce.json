@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Estrategia V-Bounce (Pico de Volumen) | Qption",
+        "description": "Aprende la estrategia V-Bounce: usa soportes y resistencias, puntos de decisión romper o rebotar, el “strike” de ruptura y el primer retroceso “boomerang”, además de entradas por rebote y confirmación con fractales para opciones de 60 segundos.",
+        "keywords": "V-Bounce, pico de volumen, soporte y resistencia, estrategia de ruptura, estrategia de retroceso, entrada boomerang, confirmación fractal, opciones de 60 segundos, estrategia de trading, Qption",
+        "ogAlt": "Estrategia V-Bounce con pico de volumen y soporte/resistencia",
+        "ld": {
+            "headline": "Estrategia V-Bounce (Pico de Volumen)"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estrategia de trading"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "startTrading": "Comenzar a operar"
+    },
+    "hero": {
+        "title": "Estrategia V-Bounce (Pico de Volumen)",
+        "subtitle": "Para maximizar los beneficios en operaciones pequeñas, muchos operadores se centran en los mercados más líquidos para aumentar la frecuencia de operaciones. Una estrategia popular de opciones de 60 segundos consiste en identificar rebotes claros desde niveles definidos de soporte o resistencia, aprovechando movimientos rápidos y predecibles en un corto período de tiempo."
+    },
+    "sr": {
+        "title": "Rol del soporte y la resistencia",
+        "p1": "Los niveles de soporte y resistencia (S/R) son herramientas esenciales en Qption. Ayudan a los operadores a identificar posibles puntos de entrada y salida marcando zonas donde el precio ha reaccionado o se ha detenido históricamente.",
+        "p2": "Cuando el precio se acerca a un nivel predefinido, los operadores pueden identificar una posible “zona de ruptura o rebote” para anticipar si el precio respetará el nivel o lo superará.",
+        "list": {
+            "title": "Elementos comunes del S/R",
+            "i1": {
+                "h": "Máximos y mínimos históricos",
+                "p": "Los picos y valles previos suelen ser zonas S/R fuertes."
+            },
+            "i2": {
+                "h": "Medias móviles",
+                "p": "Las medias de 50 o 200 días pueden actuar como soporte o resistencia dinámica."
+            },
+            "i3": {
+                "h": "Líneas de tendencia",
+                "p": "Las líneas trazadas en los movimientos de precio muestran posibles áreas de continuación o reversión."
+            },
+            "i4": {
+                "h": "Retrocesos de Fibonacci",
+                "p": "Los niveles 38.2%, 50% y 61.8% son usados comúnmente para prever soportes y resistencias."
+            },
+            "i5": {
+                "h": "Números redondos",
+                "p": "Niveles psicológicos como 1.00 o 100 sirven como barreras naturales de S/R."
+            }
+        }
+    },
+    "bb": {
+        "title": "Punto de ruptura o rebote",
+        "p": "Una vez que el operador de Qption identifica un nivel clave de soporte o resistencia, este se convierte en una “línea en la arena”. A partir de ahí se observa si el precio rebota o rompe dicho nivel."
+    },
+    "why": {
+        "title": "¿Por qué es importante?",
+        "l1": "Marcar los niveles de antemano filtra el ruido y crea puntos de decisión objetivos.",
+        "l2": "Sin filtros, cada movimiento del precio parece relevante, lo que lleva a decisiones emocionales impulsadas por miedo o codicia.",
+        "p1": "Después de definir una zona de ruptura o rebote, espera a que el precio se acerque. Observa si rompe o respeta el nivel para tomar decisiones informadas.",
+        "strike": {
+            "h": "Ruptura (Strike)",
+            "p": "Ocurre cuando el precio supera un nivel de S/R, señalando una posible continuación. Es una oportunidad para entrar en la dirección de la ruptura."
+        },
+        "boomerang": {
+            "h": "Primer retroceso (Boomerang)",
+            "p": "Después de la ruptura, el precio suele retroceder para probar el nivel roto. Este primer retroceso confirma la fuerza de la ruptura y ofrece una entrada secundaria."
+        },
+        "p2": "En Qption nos centramos en identificar rupturas (Strike) y el primer retroceso (Boomerang) en las operaciones de opciones."
+    },
+    "bounce": {
+        "title": "Operando los rebotes",
+        "p1": "Un rebote puede ser un retroceso pequeño, profundo o una reversión completa. Los grandes techos y suelos, así como los niveles de Fibonacci, rara vez se rompen sin cierta “reacción”.",
+        "p2": "Formas de entrar en un rebote:",
+        "direct": {
+            "h": "Entrada directa",
+            "p": "Coloca una orden directamente en el nivel esperado de S/R. Ventaja: entrada temprana. Desventaja: pequeñas rupturas pueden complicar el stop loss."
+        },
+        "confirm": {
+            "h": "Confirmación del rebote",
+            "p": "Espera una reacción visible (rechazo o pausa) antes de entrar, en lugar de anticipar sin confirmación."
+        },
+        "breakAfter": {
+            "h": "Ruptura después del rebote",
+            "p": "Usa fractales para definir la estructura y considera escalar posiciones dentro o fuera en la plataforma Qption."
+        }
+    },
+    "fractals": {
+        "title": "Rebote con fractales",
+        "lead": "Otra forma de operar los rebotes es usando fractales. Proceso:",
+        "steps": {
+            "1": "Anticipa un nivel de S/R importante.",
+            "2": "Espera a que el precio reaccione y forme un fractal.",
+            "3": "Espera a que el precio se aleje del nivel.",
+            "4": "Espera un fractal en el lado opuesto.",
+            "5": "Opera la ruptura del fractal opuesto."
+        },
+        "meanTitle": "¿Qué significa?",
+        "meanBody": "Al permitir que el precio se detenga, revierta y lo haga nuevamente, el operador obtiene dos líneas en la arena: el nivel S/R esperado y el fractal opuesto. La ruptura de una de ellas suele indicar la dirección ganadora."
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Technical Analysis Overview | Qption",
+        "description": "Master the art of market analysis with our comprehensive guide to technical analysis—core concepts, popular indicators, and common limitations.",
+        "keywords": "technical analysis, price action, indicators, trends, support resistance, RSI, moving averages, Bollinger Bands, trading education, Qption",
+        "ogTitle": "Technical Analysis Overview | Qption",
+        "ogDescription": "A concise, practical guide to technical analysis: what it is, how it works, and which tools traders rely on.",
+        "url": "https://qption.com/technical-analysis/technical",
+        "image": "https://qption.com/images/og/technical-overview-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Technical Analysis"
+    },
+    "promo": {
+        "text": "Ready to master Technical Analysis?",
+        "cta": "Start Learning"
+    },
+    "hero": {
+        "title": "Technical Analysis Overview",
+        "subtitle": "Master the art of market analysis with our comprehensive guide to technical analysis"
+    },
+    "overview": {
+        "title": "Overview",
+        "bullets": [
+            "Technical analysis is a trading discipline that uses price charts, patterns, and indicators to anticipate future price movements.",
+            "It focuses on historical price data, volumes, and market metrics to identify trends and potential entry/exit points.",
+            "It is widely used across markets, including stocks, forex, crypto, and commodities."
+        ]
+    },
+    "core": {
+        "title": "Core Concepts",
+        "items": [
+            {
+                "title": "Price Trends",
+                "desc": "Prices tend to move in trends—up, down, or sideways—which often persist until a reversal occurs."
+            },
+            {
+                "title": "Support and Resistance",
+                "desc": "Key levels where price may pause or reverse. Support is a floor where buying interest appears; resistance is a ceiling where selling interest emerges."
+            },
+            {
+                "title": "Market Cycles",
+                "desc": "Prices often move in cycles influenced by psychology, macro conditions, and sentiment."
+            }
+        ]
+    },
+    "indicators": {
+        "title": "Popular Indicators",
+        "items": [
+            {
+                "title": "Moving Averages",
+                "points": [
+                    "Moving averages smooth price to reveal trend direction and potential reversal zones.",
+                    "Common types include Simple Moving Average (SMA) and Exponential Moving Average (EMA)."
+                ]
+            },
+            {
+                "title": "Relative Strength Index (RSI)",
+                "points": [
+                    "RSI is a momentum oscillator that measures the speed and magnitude of price changes.",
+                    "Readings above 70 often indicate overbought conditions; below 30 suggest oversold."
+                ]
+            },
+            {
+                "title": "Bollinger Bands",
+                "points": [
+                    "A moving average with upper/lower bands to gauge volatility.",
+                    "Bands widen when volatility is high and contract when volatility is low."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitations",
+        "bullets": [
+            "Relies on historical data, which may not predict future movements accurately.",
+            "Prone to false signals in choppy or ranging markets.",
+            "Requires skill to interpret—different indicators can conflict, so confluence matters."
+        ]
+    }
+}

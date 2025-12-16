@@ -1,0 +1,40 @@
+{
+    "sections": {
+        "home": "首页",
+        "trading": "交易",
+        "education": "学习",
+        "company": "公司"
+    },
+    "links": {
+        "home": "首页",
+        "register": "注册",
+        "about": "关于我们",
+        "contact": "联系我们",
+        "faq": "常见问题",
+        "news": "新闻",
+        "accountTypes": "账户类型",
+        "socialTrading": "社交交易",
+        "aiTrading": "AI 交易",
+        "affiliate": "联盟计划",
+        "technicalAnalysis": "技术分析",
+        "tradingStrategies": "交易策略",
+        "graphicalAnalysis": "图形分析",
+        "fundamentalAnalysis": "基本面分析",
+        "glossary": "术语表",
+        "paymentPolicy": "支付政策",
+        "returnPolicy": "退款政策",
+        "amlKyc": "反洗钱与 KYC",
+        "privacyPolicy": "隐私政策",
+        "terms": "条款与条件"
+    },
+    "followUs": "关注我们：",
+    "riskWarning": "风险提示：差价合约（CFD）为复杂产品，因杠杆作用存在快速亏损的高风险。72% 的零售投资者账户在本提供商处交易 CFD 时产生亏损。请充分了解其工作原理并评估自身风险承受能力。",
+    "recaptcha": {
+        "prefix": "本网站受 reCAPTCHA 及 Google 的",
+        "privacy": "隐私政策",
+        "and": "与",
+        "terms": "服务条款",
+        "apply": "保护并适用。"
+    },
+    "payments": "支付"
+}

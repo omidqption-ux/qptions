@@ -1,0 +1,58 @@
+{
+    "seo": {
+        "title": "Processus et Conditions de Retrait | Qption",
+        "description": "Découvrez le fonctionnement des retraits sur Qption : procédure de demande, renvoi des fonds vers la méthode de dépôt d’origine, responsabilités du client et règles de clôture de compte.",
+        "keywords": "politique de retrait, demande de retrait, méthode de dépôt d’origine, responsabilité du client, clôture de compte, Qption",
+        "ogTitle": "Processus et Conditions de Retrait | Qption",
+        "ogDescription": "Guide détaillé sur les demandes de retrait, les délais de traitement, les voies de paiement et les conditions de conformité.",
+        "url": "https://qption.com/withdrawal-policy",
+        "image": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Processus et Conditions de Retrait | Qption",
+        "twitterDescription": "Comment demander un retrait, les délais de traitement, les règles de paiement, et plus encore.",
+        "twitterImage": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "canonical": "https://qption.com/withdrawal-policy"
+    },
+    "hero": {
+        "title": "Processus et Conditions de Retrait"
+    },
+    "sections": [
+        {
+            "key": "request",
+            "icon": "request",
+            "title": "1. Procédure de Demande de Retrait",
+            "items": [
+                "Pour initier un retrait, le Client doit soumettre une demande depuis son espace personnel sur le Site, choisir une méthode de retrait et fournir les informations requises.",
+                "Après l’envoi, la demande reçoit le statut « Demandé ». Lorsque le traitement commence, elle passe à « En cours », moment auquel les fonds sont débités du solde du compte. À l’achèvement, le statut devient « Traité » et les fonds sont transférés vers le portefeuille du système de paiement du Client.",
+                "Les demandes de retrait sont traitées par le service financier de la Société selon l’ordre de réception. Le traitement peut prendre jusqu’à cinq (5) jours ouvrables. La Société se réserve le droit de prolonger ce délai si nécessaire."
+            ]
+        },
+        {
+            "key": "originalMethod",
+            "icon": "originalMethod",
+            "title": "2. Retrait vers la Méthode de Dépôt d’Origine",
+            "items": [
+                "Les fonds ne peuvent être retirés que vers le compte de paiement utilisé initialement pour le dépôt. Si cela n’est pas techniquement possible, la Société peut choisir une méthode de retrait alternative, en veillant à ce que les données personnelles du Client correspondent aux informations de paiement.",
+                "Si une carte bancaire a été utilisée pour le dépôt, les retraits doivent être envoyés sur cette même carte. D’autres méthodes ne peuvent être utilisées que si le montant du retrait dépasse le dépôt initial.",
+                "Si le Client soumet une demande de retrait sans avoir effectué d’opérations de trading après un dépôt, le retrait doit utiliser les mêmes identifiants et le même système de paiement que le dépôt. La Société se réserve le droit de facturer des frais pour le renvoi des fonds et la couverture des coûts de traitement."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "3. Responsabilité du Client et Exactitude des Informations",
+            "items": [
+                "Le Client est entièrement responsable de l’exactitude de toutes les informations fournies dans la demande de retrait."
+            ]
+        },
+        {
+            "key": "closure",
+            "icon": "closure",
+            "title": "4. Clôture de Compte en cas de Violation des Conditions",
+            "items": [
+                "Si le compte d’un Client est clôturé en raison d’une violation des Conditions Générales, la Société se réserve le droit de retenir et de conserver tout profit réalisé par le Client.",
+                "À la discrétion de la Société, les fonds déposés peuvent être restitués au Client, après déduction de tous les frais et charges applicables."
+            ]
+        }
+    ]
+}

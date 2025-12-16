@@ -1,0 +1,227 @@
+{
+    "seo": {
+        "title": "Inflazione e Impatto su Valute e Crypto – CPI, PPI, Tassi e Coperture | Qption",
+        "description": "Comprendi come l’inflazione modella FX e crypto: basi di CPI/PPI, dinamiche da domanda (demand-pull) vs costi (cost-push), forza valutaria tramite politica dei tassi e la narrativa di Bitcoin come ‘copertura contro l’inflazione’. Include indicatori chiave, vantaggi e limiti.",
+        "keywords": "inflazione, CPI, PPI, inflazione da domanda, inflazione da costi, politica dei tassi d’interesse, forza della valuta, mercati FX, mercati crypto, copertura inflazionistica Bitcoin, volatilità, report delle banche centrali, salari, occupazione, analisi fondamentale, Qption",
+        "ogTitle": "Inflazione e il suo Effetto su Valute e Crypto | Qption",
+        "ogDescription": "Da CPI/PPI al BTC come copertura: guida pratica a come l’inflazione muove FX e crypto.",
+        "url": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+        "image": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Inflazione e Mercati: FX e Crypto",
+        "twitterDescription": "Scopri come inflazione, tassi e politica orientano valute e asset digitali.",
+        "twitterImage": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Inflazione e suo Effetto su Valute & Crypto – CPI, PPI, Tassi & Coperture",
+            "description": "Come l’inflazione influenza FX e crypto, con CPI/PPI, tassi di policy e narrative di copertura.",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Inflazione"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Indice dei Prezzi al Consumo (CPI)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Indice dei Prezzi alla Produzione (PPI)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Inflazione da Domanda (Demand-Pull)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Inflazione da Costi (Cost-Push)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Politica dei Tassi d’Interesse"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercati Valutari (Forex)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercati delle Criptovalute"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bitcoin"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Politica Monetaria"
+                }
+            ],
+            "articleSection": [
+                "Panoramica",
+                "Concetti Chiave dell’Inflazione",
+                "Impatto sui Mercati Valutari",
+                "Impatto sui Mercati Crypto",
+                "Indicatori da Monitorare",
+                "Vantaggi",
+                "Limitazioni"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "CPI",
+                    "value": "Indicatore primario dell’inflazione al consumo; gli aggiornamenti mensili orientano le attese di politica monetaria."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "PPI",
+                    "value": "Prezzi a livello di produzione che possono anticipare i trend dell’inflazione al consumo."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Tipi di Inflazione",
+                    "value": "Demand-pull (eccesso di domanda) e cost-push (aumento dei costi dei fattori produttivi)."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Impatto FX",
+                    "value": "Inflazione elevata indebolisce la valuta salvo compensazione via rialzi dei tassi; una politica più restrittiva può sostenerla."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Narrativa Crypto",
+                    "value": "Bitcoin e alcune crypto sono viste come potenziali coperture contro l’inflazione grazie all’offerta limitata."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Volatilità",
+                    "value": "I flussi guidati dall’inflazione possono amplificare le oscillazioni speculative nei prezzi crypto."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Watchlist",
+                    "value": "CPI/PPI, comunicazioni delle banche centrali, crescita dei salari, occupazione, previsioni d’inflazione."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analisi fondamentale"
+    },
+    "page": {
+        "title": "Inflazione e suo Effetto su Valute & Crypto"
+    },
+    "cta": {
+        "ready": "Pronto per fare trading?",
+        "startTrading": "Inizia a fare trading"
+    },
+    "sections": {
+        "overview": {
+            "title": "Panoramica",
+            "bullets": [
+                "L’inflazione è il ritmo a cui il livello generale dei prezzi aumenta, erodendo nel tempo il potere d’acquisto.",
+                "Le banche centrali monitorano attentamente l’inflazione perché superamenti persistenti possono destabilizzare e forzare cambi di policy.",
+                "Per trader e investitori, l’impatto dell’inflazione su tassi d’interesse, forza valutaria e rendimenti degli asset è un driver macro fondamentale."
+            ]
+        },
+        "keyConcepts": {
+            "title": "Concetti chiave dell’Inflazione",
+            "items": {
+                "cpi": {
+                    "label": "Indice dei Prezzi al Consumo (CPI)",
+                    "text": "Misura la variazione media dei prezzi di un paniere di beni e servizi al consumo; è l’indicatore d’inflazione più seguito."
+                },
+                "ppi": {
+                    "label": "Indice dei Prezzi alla Produzione (PPI)",
+                    "text": "Traccia i prezzi a livello dei produttori; l’aumento dei costi di input può anticipare l’inflazione al consumo."
+                },
+                "demandPull": {
+                    "label": "Inflazione da Domanda (Demand-Pull)",
+                    "text": "Si verifica quando la domanda supera l’offerta, spingendo i prezzi verso l’alto."
+                },
+                "costPush": {
+                    "label": "Inflazione da Costi (Cost-Push)",
+                    "text": "Deriva dall’aumento dei costi di produzione (salari, materiali) trasferiti ai consumatori."
+                }
+            }
+        },
+        "impactCurrency": {
+            "title": "Impatto sui Mercati Valutari (FX)",
+            "currencyStrength": {
+                "title": "1. Forza della Valuta",
+                "bullets": [
+                    "Inflazione elevata può indebolire una valuta erodendo il valore reale e la fiducia degli investitori.",
+                    "Rialzi aggressivi dei tassi per contrastare l’inflazione possono attrarre capitali in cerca di rendimento e sostenere la valuta."
+                ]
+            },
+            "ratePolicy": {
+                "title": "2. Politica dei Tassi d’Interesse",
+                "bullets": [
+                    "Quando l’inflazione sale, le banche centrali spesso alzano i tassi di policy, incrementando l’appeal della valuta tramite rendimenti più alti.",
+                    "Inflazione bassa (o disinflazione) può spingere a tagliare i tassi per stimolare la domanda, con possibile pressione sulla valuta."
+                ]
+            }
+        },
+        "impactCrypto": {
+            "title": "Impatto sui Mercati Crypto",
+            "hedge": {
+                "title": "1. Percezione di ‘Copertura contro l’Inflazione’",
+                "bullets": [
+                    "Bitcoin e alcuni asset digitali sono percepiti come coperture grazie all’offerta fissa o programmata.",
+                    "Durante fasi di erosione del potere d’acquisto delle valute fiat, alcuni investitori si spostano verso crypto per preservare valore."
+                ]
+            },
+            "volatility": {
+                "title": "2. Volatilità e Speculazione",
+                "bullets": [
+                    "L’innata volatilità delle crypto può essere amplificata da flussi legati all’inflazione e cambi di narrativa.",
+                    "I partecipanti possono dividersi tra posizionamento di lungo periodo come copertura e trading speculativo di breve periodo."
+                ]
+            }
+        },
+        "indicators": {
+            "title": "Indicatori da Monitorare",
+            "items": [
+                {
+                    "label": "CPI",
+                    "text": "Termometro mensile dell’inflazione che orienta il percorso di policy e le reazioni di FX/crypto."
+                },
+                {
+                    "label": "PPI",
+                    "text": "Trend dei costi di produzione che possono precedere i movimenti dei prezzi al consumo."
+                },
+                {
+                    "label": "Comunicazioni delle Banche Centrali",
+                    "text": "Dichiarazioni, verbali, proiezioni e conferenze stampa che segnalano le intenzioni di policy."
+                },
+                {
+                    "label": "Occupazione & Salari",
+                    "text": "Mercati del lavoro tesi e salari in accelerazione possono consolidare le pressioni inflazionistiche."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Vantaggi nel Comprendere l’Inflazione",
+            "bullets": [
+                "Migliora la valutazione valutaria e le attese sul percorso dei tassi.",
+                "Supporta la costruzione di portafogli tra esposizioni fiat e crypto.",
+                "Approfondisce la consapevolezza macro di cicli di policy e impatti cross-asset."
+            ]
+        },
+        "limitations": {
+            "title": "Limitazioni",
+            "bullets": [
+                "Natura ritardata: indicatori headline come il CPI riflettono condizioni passate.",
+                "Ricadute globali: inflazione importata e shock esterni complicano le letture.",
+                "Rischio evento: uscite sull’inflazione e guidance possono innescare movimenti bruschi e “whipsaw” — soprattutto nelle crypto."
+            ]
+        }
+    }
+}

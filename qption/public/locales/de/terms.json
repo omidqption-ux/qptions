@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Allgemeine Geschäftsbedingungen | Qption",
+        "description": "Lesen Sie die Allgemeinen Geschäftsbedingungen von Qption: Risikohinweis, Kontoerstellung & Verifizierung, Einzahlungen & Auszahlungen, Datenschutz, Geldwäscheprävention, höhere Gewalt und Kündigung.",
+        "keywords": "Allgemeine Geschäftsbedingungen, Risikohinweis, Kontoverifizierung, Einzahlungen, Auszahlungen, Geldwäscheprävention, Datenschutz, höhere Gewalt, Kündigung, Qption",
+        "ogTitle": "Allgemeine Geschäftsbedingungen | Qption",
+        "ogDescription": "Wichtige Bedingungen für die Nutzung von Qption: Konten, Verifizierung, Zahlungen, Sicherheit, Geldwäscheprävention und mehr.",
+        "url": "https://qption.com/terms-and-conditions",
+        "image": "https://qption.com/images/og/terms-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Allgemeine Geschäftsbedingungen | Qption",
+        "twitterDescription": "Verstehen Sie die Regeln und Schutzmaßnahmen, die bei der Nutzung von Qption gelten.",
+        "twitterImage": "https://qption.com/images/og/terms-qption.jpg",
+        "canonical": "https://qption.com/terms-and-conditions"
+    },
+    "hero": {
+        "title": "Allgemeine Geschäftsbedingungen"
+    },
+    "sections": [
+        {
+            "icon": "intro",
+            "title": "1. Einführung",
+            "items": [
+                "Qption bietet die in diesen Allgemeinen Geschäftsbedingungen festgelegten Brokerage-Dienstleistungen an.",
+                "Diese Bedingungen gelten zusätzlich zu allen anderen Vereinbarungen zwischen Ihnen und Qption.",
+                "Der Kunde ist dafür verantwortlich, diese Bedingungen regelmäßig zu überprüfen; die fortgesetzte Nutzung der Website gilt als Zustimmung zu etwaigen Änderungen.",
+                "Die offizielle Sprache von Qption ist Englisch. Übersetzungen oder Informationen in anderen Sprachen dienen nur zur Bequemlichkeit."
+            ]
+        },
+        {
+            "icon": "risk",
+            "title": "2. Risikohinweis",
+            "items": [
+                "CFDs sind Hebelprodukte und beinhalten ein hohes Risiko. Es ist möglich, das gesamte investierte Kapital zu verlieren.",
+                "Diese Produkte sind möglicherweise nicht für jeden geeignet. Der Kunde sollte sicherstellen, dass er die damit verbundenen Risiken versteht.",
+                "Der Kunde erkennt an, dass der Wert von Investitionen steigen oder fallen kann."
+            ]
+        },
+        {
+            "icon": "definitions",
+            "title": "3. Definitionen",
+            "items": [
+                "Konto: Jedes vom Kunden erstellte Konto, um mit Qption zu handeln.",
+                "Kunde: Jede natürliche oder juristische Person, der Qption Dienstleistungen anbietet.",
+                "Einzahlung: Gelder, die der Kunde auf sein Qption-Konto einzahlt oder überweist.",
+                "Auszahlung: Gelder, die der Kunde von seinem Qption-Konto abhebt oder überweist."
+            ]
+        },
+        {
+            "icon": "account",
+            "title": "4. Kundenkonto",
+            "items": [
+                "Um die Dienste von Qption zu nutzen, muss der Kunde ein Konto mit korrekten Informationen eröffnen.",
+                "Der Kunde muss Qption unverzüglich über Änderungen der bereitgestellten Informationen informieren.",
+                "Kundendaten werden gemäß der Datenschutzrichtlinie von Qption gespeichert."
+            ]
+        },
+        {
+            "icon": "verification",
+            "title": "5. Kontoverifizierung",
+            "items": [
+                "Qption verlangt gültige Identifikationsinformationen und Dokumente zur Verifizierung.",
+                "Das Unternehmen kann jederzeit einen Identitäts- und Adressnachweis anfordern.",
+                "Der Kunde muss mindestens 18 Jahre alt sein, um eine vertragliche Beziehung mit Qption einzugehen."
+            ]
+        },
+        {
+            "icon": "payments",
+            "title": "6. Einzahlungen und Auszahlungen",
+            "items": [
+                "Der Kunde kann jederzeit über die zugelassenen Zahlungsmethoden Geld einzahlen.",
+                "Auszahlungen werden gemäß der für die Einzahlung verwendeten Zahlungsmethode bearbeitet.",
+                "Qption behält sich das Recht vor, Unterlagen zum Nachweis der Geldquelle anzufordern."
+            ]
+        },
+        {
+            "icon": "dataProtection",
+            "title": "7. Datenschutz",
+            "items": [
+                "Qption schützt die persönlichen Daten der Kunden mithilfe von SSL-Verschlüsselungstechnologie.",
+                "Das Unternehmen verwendet Firewalls, Authentifizierungssysteme und Zugriffskontrollmechanismen.",
+                "Der Kunde muss Qption über Änderungen seiner persönlichen Informationen informieren."
+            ]
+        },
+        {
+            "icon": "aml",
+            "title": "8. Geldwäscheprävention",
+            "items": [
+                "Qption verpflichtet sich, Geldwäsche und Terrorismusfinanzierung zu verhindern.",
+                "Das Unternehmen unterhält Richtlinien, die den Vorschriften zur Geldwäscheprävention entsprechen.",
+                "Qption behält sich das Recht vor, Transaktionen abzulehnen, die mit Geldwäsche in Verbindung stehen."
+            ]
+        },
+        {
+            "icon": "forceMajeure",
+            "title": "9. Höhere Gewalt",
+            "items": [
+                "Qption haftet nicht für Verzögerungen oder Ausfälle, die durch Ereignisse außerhalb der angemessenen Kontrolle verursacht werden.",
+                "Zu solchen Ereignissen zählen unter anderem Naturkatastrophen, Krieg, Feuer, Überschwemmungen, Netzwerkausfälle sowie Hard- oder Softwarefehler."
+            ]
+        },
+        {
+            "icon": "termination",
+            "title": "10. Kündigung",
+            "items": [
+                "Beide Parteien können diese Vereinbarung mit einer schriftlichen Kündigungsfrist von fünf (5) Geschäftstagen beenden.",
+                "Qption kann die Vereinbarung bei einem Verstoß gegen die Bedingungen kündigen.",
+                "Nach Beendigung werden die im Kundenkonto vorhandenen Gelder abzüglich etwaiger anwendbarer Abzüge zurückerstattet."
+            ]
+        }
+    ]
+}

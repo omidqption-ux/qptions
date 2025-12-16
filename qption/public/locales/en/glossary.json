@@ -1,0 +1,131 @@
+{
+    "seo": {
+        "title": "Trading Glossary – Key Terms & Core Concepts | Qption",
+        "description": "Clear, concise definitions of essential trading terms: bid/ask, bull & bear markets, volatility, liquidity, support/resistance, trend lines, correlation and more.",
+        "keywords": "trading glossary, trading terms, bid, ask, bull market, bear market, volatility, liquidity, support, resistance, correlation, trend line, Qption",
+        "ogTitle": "Trading Glossary – Key Terms & Core Concepts | Qption",
+        "ogDescription": "Learn the language of the markets with Qption’s glossary: straightforward definitions and examples for key trading concepts.",
+        "url": "https://qption.com/glossary",
+        "image": "https://qption.com/images/og/glossary-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Trading Glossary – Key Terms & Core Concepts | Qption",
+        "twitterDescription": "Essential trading definitions, explained simply for faster learning and better decisions.",
+        "twitterImage": "https://qption.com/images/og/glossary-qption.jpg",
+        "canonical": "https://qption.com/glossary"
+    },
+    "hero": {
+        "title": "Key Trading Terms and Concepts"
+    },
+    "terms": [
+        {
+            "key": "ask",
+            "title": "Ask",
+            "desc": "The current market price at which you can buy an asset."
+        },
+        {
+            "key": "bull",
+            "title": "Bull",
+            "desc": "A trader or investor who expects prices to rise and buys with the aim of selling later at a higher price."
+        },
+        {
+            "key": "bullMarket",
+            "title": "Bull Market",
+            "desc": "A market environment characterized by broadly rising prices and positive sentiment—often visualized as an upward move on charts."
+        },
+        {
+            "key": "return",
+            "title": "Return",
+            "desc": "The payout or percentage you receive from a position. On platforms like Qption, traders may receive up to 45% of the investment amount even on a losing trade (as configured per asset). The return rate is set at purchase."
+        },
+        {
+            "key": "volatility",
+            "title": "Volatility",
+            "desc": "The degree of price fluctuation over a given period. Higher volatility means larger, faster price swings."
+        },
+        {
+            "key": "deposit",
+            "title": "Deposit",
+            "desc": "Funds available in a trading account that can be used to open and manage positions."
+        },
+        {
+            "key": "diversification",
+            "title": "Diversification",
+            "desc": "A risk-management approach of spreading capital across different assets or markets to reduce exposure to any single position."
+        },
+        {
+            "key": "indicator",
+            "title": "Indicator",
+            "desc": "A technical analysis tool derived from price/volume data, used to assess trend, momentum or volatility and inform trading decisions."
+        },
+        {
+            "key": "bid",
+            "title": "Bid",
+            "desc": "The current market price at which you can sell an asset."
+        },
+        {
+            "key": "priceCorridor",
+            "title": "Price Corridor",
+            "desc": "A price range on the chart bounded by support (lower boundary) and resistance (upper boundary) within which the asset trades."
+        },
+        {
+            "key": "correction",
+            "title": "Correction",
+            "desc": "A temporary counter-trend move that retraces part of a strong advance or decline before the prior trend potentially resumes."
+        },
+        {
+            "key": "correlation",
+            "title": "Correlation",
+            "desc": "A measure of how two assets move relative to each other, from −1 (inverse) to +1 (direct). Example: EUR/USD and GBP/USD often move in similar directions."
+        },
+        {
+            "key": "liquidity",
+            "title": "Liquidity",
+            "desc": "How easily an asset can be bought or sold without materially moving its price. Higher trading volume typically implies greater liquidity."
+        },
+        {
+            "key": "supportLine",
+            "title": "Support Line",
+            "desc": "A price area where buying interest historically emerges and helps prevent further declines."
+        },
+        {
+            "key": "resistanceLine",
+            "title": "Resistance Line",
+            "desc": "A price area where selling interest historically emerges and helps limit further advances."
+        },
+        {
+            "key": "trendLine",
+            "title": "Trend Line",
+            "desc": "A line connecting successive higher lows in an uptrend (support) or lower highs in a downtrend (resistance) to illustrate trend direction."
+        },
+        {
+            "key": "bear",
+            "title": "Bear",
+            "desc": "A trader or investor who expects prices to fall and looks to profit from declines."
+        },
+        {
+            "key": "bearMarket",
+            "title": "Bear Market",
+            "desc": "A prolonged period of broadly falling prices and negative sentiment—often depicted as persistent downtrends on charts."
+        },
+        {
+            "key": "bearRaid",
+            "title": "Bear Raid",
+            "desc": "A coordinated effort by traders to push an asset’s price lower, typically via concentrated selling."
+        },
+        {
+            "key": "traderSentiment",
+            "title": "Trader Sentiment",
+            "desc": "An indicator reflecting the overall bias of market participants (e.g., the proportion of long vs. short positions)."
+        },
+        {
+            "key": "bar",
+            "title": "Bar",
+            "desc": "A chart element that displays open, high, low and close (OHLC) for a specific time period; used in bar charts."
+        },
+        {
+            "key": "bonus",
+            "title": "Bonus",
+            "desc": "Extra funds credited by the platform (e.g., as a promotion or deposit incentive) that can be used for trading under specific terms."
+        }
+    ]
+}

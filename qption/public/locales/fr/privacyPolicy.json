@@ -1,0 +1,182 @@
+{
+    "seo": {
+        "title": "Politique de confidentialité et collecte des données | Qption",
+        "description": "Comment Qption collecte, utilise, stocke et protège vos données : objectifs, identification, marketing, divulgation, sécurité, conservation, suppression et cookies.",
+        "keywords": "politique de confidentialité, collecte de données, protection des données, cookies, KYC, sécurité, conservation, suppression, Qption",
+        "ogTitle": "Politique de confidentialité et collecte des données | Qption",
+        "ogDescription": "Découvrez ce que nous collectons, pourquoi nous le collectons et comment nous protégeons vos informations chez Qption.",
+        "url": "https://qption.com/privacy-policy",
+        "image": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Politique de confidentialité et collecte des données | Qption",
+        "twitterDescription": "Nos pratiques en matière de collecte, d’utilisation, de stockage et de protection des données, ainsi que sur les cookies.",
+        "twitterImage": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "canonical": "https://qption.com/privacy-policy"
+    },
+    "hero": {
+        "title": "Politique de confidentialité et collecte des données"
+    },
+    "sections": [
+        {
+            "key": "consent",
+            "icon": "consent",
+            "title": "1. Consentement à la collecte de données",
+            "items": [
+                "En accédant à https://qption.com/ et en utilisant les services fournis par Itransition Co, le Client accepte la collecte et le traitement de ses données personnelles par Itransition Co."
+            ]
+        },
+        {
+            "key": "info",
+            "icon": "info",
+            "title": "2. Informations collectées",
+            "items": [
+                "Lors de l’enregistrement ou de l’utilisation des services, Itransition Co peut collecter le nom, la date de naissance, l’adresse e-mail, l’adresse postale, le numéro de téléphone, les détails de transaction, l’adresse IP, le type de navigateur, la durée de visite, les pages consultées et d’autres données connexes."
+            ]
+        },
+        {
+            "key": "use",
+            "icon": "use",
+            "title": "3. Utilisation des données personnelles",
+            "items": [
+                "Les données fournies peuvent être utilisées pour exploiter le site web, gérer les bases de données clients, traiter les transactions et effectuer des activités marketing. En fournissant ses coordonnées, le Client consent à être contacté par ces canaux."
+            ]
+        },
+        {
+            "key": "purpose",
+            "icon": "purpose",
+            "title": "4. Objectif de la collecte des données",
+            "items": [
+                "Les données sont collectées pour remplir des obligations légales, assurer le fonctionnement du site, améliorer les services, créer des comptes, garantir la sécurité, effectuer des sauvegardes, communiquer, conserver des enregistrements et à des fins statistiques ou marketing."
+            ]
+        },
+        {
+            "key": "identification",
+            "icon": "identification",
+            "title": "5. Exigences d’identification",
+            "items": [
+                "Les Clients doivent fournir certaines informations d’identification lors de l’enregistrement, notamment celles requises pour la conformité à la lutte contre le blanchiment d’argent."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "6. Exactitude des informations",
+            "items": [
+                "Les Clients doivent fournir des informations vraies, exactes et à jour sur leur identité. Toute modification doit être signalée à l’Entreprise dans un délai de 30 jours."
+            ]
+        },
+        {
+            "key": "marketing",
+            "icon": "marketing",
+            "title": "7. Utilisation des informations client à des fins marketing",
+            "items": [
+                "Les informations fournies lors de l’inscription ou de l’utilisation peuvent être utilisées par l’Entreprise pour envoyer du matériel promotionnel."
+            ]
+        },
+        {
+            "key": "disclosure",
+            "icon": "disclosure",
+            "title": "8. Divulgation des informations",
+            "items": [
+                "Les informations des Clients peuvent être divulguées aux autorités officielles uniquement lorsque la loi l’exige et dans la mesure minimale nécessaire."
+            ]
+        },
+        {
+            "key": "nonPersonal",
+            "icon": "nonPersonal",
+            "title": "9. Utilisation des données non personnelles",
+            "items": [
+                "Les données non personnelles concernant les Clients peuvent être utilisées par l’Entreprise à des fins publicitaires et d’analyse."
+            ]
+        },
+        {
+            "key": "verification",
+            "icon": "verification",
+            "title": "10. Vérification et demandes de documents",
+            "items": [
+                "Pour certaines opérations, les Clients peuvent être tenus de fournir des documents d’identification. Le non-respect peut entraîner la suspension ou la fermeture du compte à la discrétion de l’Entreprise."
+            ]
+        },
+        {
+            "key": "confidentiality",
+            "icon": "confidentiality",
+            "title": "11. Confidentialité des données",
+            "items": [
+                "L’Entreprise ne divulguera pas les données du Client sans son consentement, sauf si la loi l’exige pour la vérification de l’identité. Les informations des Clients sont stockées de manière sécurisée et accessibles uniquement au personnel autorisé."
+            ]
+        },
+        {
+            "key": "storage",
+            "icon": "storage",
+            "title": "12. Stockage des informations du compte",
+            "items": [
+                "Les détails du compte et des opérations du Client sont conservés par l’Entreprise et peuvent être utilisés en cas de litige entre le Client et l’Entreprise."
+            ]
+        },
+        {
+            "key": "review",
+            "icon": "review",
+            "title": "13. Révision des informations du client",
+            "items": [
+                "L’Entreprise a le droit, mais non l’obligation, de vérifier et d’examiner toute information fournie par le Client."
+            ]
+        },
+        {
+            "key": "protection",
+            "icon": "protection",
+            "title": "14. Protection des données",
+            "items": [
+                "L’Entreprise met en œuvre des procédures avancées de protection des données pour garantir la sécurité des informations des Clients et les met à jour régulièrement."
+            ]
+        },
+        {
+            "key": "credentials",
+            "icon": "credentials",
+            "title": "15. Identifiants de connexion et confidentialité",
+            "items": [
+                "Les Clients doivent choisir un nom d’utilisateur et un mot de passe sécurisés pour accéder au site. Le partage de ces identifiants est interdit, et l’Entreprise n’est pas responsable des pertes résultant d’une mauvaise utilisation."
+            ]
+        },
+        {
+            "key": "unauthorized",
+            "icon": "unauthorized",
+            "title": "16. Accès non autorisé au compte",
+            "items": [
+                "Les Clients sont tenus d’informer le service d’assistance de l’Entreprise s’ils soupçonnent une utilisation non autorisée de leur compte."
+            ]
+        },
+        {
+            "key": "cardSecurity",
+            "icon": "cardSecurity",
+            "title": "17. Sécurité des données de carte bancaire",
+            "items": [
+                "L’Entreprise ne stocke pas les données des cartes bancaires. Les informations des cartes sont protégées par un chiffrement TLS 1.2 et AES-256, conforme aux normes de l’industrie des cartes de paiement (PCI)."
+            ]
+        },
+        {
+            "key": "deletion",
+            "icon": "deletion",
+            "title": "18. Demandes de suppression des données",
+            "items": [
+                "Les Clients peuvent demander la suppression de leurs données en contactant help@Itransition.Co. L’Entreprise peut conserver certaines données si la loi l’exige, notamment pour la prestation de services, la prévention de la fraude et le respect des obligations légales."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "19. Conservation des données et mises à jour de la politique",
+            "items": [
+                "Les données sont conservées aussi longtemps que nécessaire pour fournir les services ou conformément aux exigences légales. L’Entreprise peut mettre à jour cette politique de confidentialité ; la poursuite de l’utilisation du site après les modifications vaut acceptation de la politique mise à jour."
+            ]
+        },
+        {
+            "key": "cookies",
+            "icon": "cookies",
+            "title": "20. Politique relative aux cookies",
+            "items": [
+                "Les cookies sont de petits fichiers de données stockés sur le dispositif du Client pour suivre l’utilisation du site. Les Clients peuvent bloquer les cookies dans les paramètres de leur navigateur.",
+                "Les cookies de l’Entreprise permettent d’améliorer l’expérience utilisateur en suivant les pages consultées et les préférences ; aucune donnée personnelle telle que les noms ou adresses e-mail n’est stockée dans les cookies."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "seo": {
+        "title": "Umschließende (Engulfing) Kerzen-Strategie – Bullische & bärische Umkehrmuster | Qption",
+        "description": "Lernen Sie die Engulfing-Kerzenstrategie: bullische und bärische Umkehrungen erkennen, mit Unterstützung/Widerstand und Volumen bestätigen und das Risiko mit präzisen Stop-Losses steuern. Enthält Erkennungsregeln, Bestätigungen, Vor- und Nachteile.",
+        "keywords": "Engulfing-Kerze, bullisches Engulfing, bärisches Engulfing, Umkehrmuster, Price Action, Unterstützung und Widerstand, Volumenbestätigung, Risikomanagement, Technische Analyse, Trading-Strategie, Qption",
+        "ogAlt": "Engulfing-Kerzenstrategie auf einem Trading-Chart dargestellt",
+        "ld": {
+            "headline": "Umschließende (Engulfing) Kerzen-Strategie – Bullische & bärische Umkehrmuster"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading-Strategie"
+    },
+    "hero": {
+        "title": "Engulfing-Kerzenstrategie"
+    },
+    "cta": {
+        "ready": "Bereit zu traden?",
+        "startTrading": "Jetzt traden"
+    },
+    "video": {
+        "aria": "Die Engulfing-Kerzenstrategie ist ein beliebtes Umkehrmuster, das auf eine potenzielle Trendwende hinweist."
+    },
+    "overview": {
+        "title": "Überblick",
+        "items": {
+            "1": "Die Engulfing-Kerzenstrategie ist ein populäres Umkehrmuster und signalisiert eine mögliche Trendwende.",
+            "2": "Dabei wird ein Engulfing-Muster identifiziert, bei dem eine größere Kerze den Körper der vorherigen Kerze vollständig „verschlingt“.",
+            "3": "Es gibt zwei Haupttypen: Bullish Engulfing (Hinweis auf Aufwärtstrendumkehr) und Bearish Engulfing (Hinweis auf Abwärtstrendumkehr)."
+        }
+    },
+    "bullish": {
+        "title": "1. Bullish-Engulfing-Muster",
+        "items": {
+            "1": "Formation: Tritt in einem Abwärtstrend auf; eine große bullische Kerze bedeckt den Körper der vorherigen bärischen Kerze vollständig.",
+            "2": "Erste Kerze: Eine kleinere bärische Kerze, die die Fortsetzung des Abwärtstrends widerspiegelt.",
+            "3": "Zweite Kerze: Eine größere bullische Kerze, die unter dem vorherigen Schluss eröffnet und über dem vorherigen Eröffnungsniveau schließt.",
+            "4": "Bestätigung: Eine nachfolgende bullische Kerze nach dem Engulfing-Muster bestätigt die Umkehr."
+        }
+    },
+    "bearish": {
+        "title": "2. Bearish-Engulfing-Muster",
+        "items": {
+            "1": "Formation: Erscheint in einem Aufwärtstrend; eine große bärische Kerze bedeckt den Körper der vorherigen bullischen Kerze vollständig.",
+            "2": "Erste Kerze: Eine kleinere bullische Kerze, die die Fortsetzung des Aufwärtstrends widerspiegelt.",
+            "3": "Zweite Kerze: Eine größere bärische Kerze, die über dem vorherigen Schluss eröffnet und unter dem vorherigen Eröffnungsniveau schließt.",
+            "4": "Bestätigung: Eine nachfolgende bärische Kerze nach dem Engulfing-Muster bestätigt die Umkehr."
+        }
+    },
+    "using": {
+        "title": "Anwendung der Engulfing-Kerzenstrategie",
+        "items": {
+            "1": "Mit Unterstützungs- und Widerstandszonen kombinieren, um die Zuverlässigkeit zu erhöhen.",
+            "2": "Volumenindikatoren nutzen, um die Stärke in Richtung der Engulfing-Kerze zu bestätigen.",
+            "3": "Stop-Loss unter dem Tief eines Bullish Engulfing bzw. über dem Hoch eines Bearish Engulfing setzen, um das Risiko zu steuern."
+        }
+    },
+    "pros": {
+        "title": "Vorteile",
+        "items": {
+            "1": "Klares Umkehrsignal: Deutet eindeutig auf potenzielle Trendwechsel hin.",
+            "2": "Zeitrahmenübergreifend: In kurzen wie langen Zeitrahmen nutzbar.",
+            "3": "Einfache Mustererkennung: Mit Grundkenntnissen der Candlesticks leicht identifizierbar."
+        }
+    },
+    "cons": {
+        "title": "Nachteile",
+        "items": {
+            "1": "Bestätigung erforderlich: Zur Vermeidung falscher Signale ist Confirmation nötig.",
+            "2": "Geringe Zuverlässigkeit bei niedrigem Volumen: In illiquiden Phasen treten häufiger Fehlsignale auf.",
+            "3": "Allein irreführend: Am besten mit zusätzlichen Indikatoren zur stärkeren Validierung einsetzen."
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "login": "登录",
+    "cabinet": "账户中心",
+    "auth": {
+        "login": "登录",
+        "register": "注册"
+    },
+    "sections": [
+        {
+            "key": "trading",
+            "title": "交易",
+            "items": [
+                {
+                    "title": "新闻",
+                    "link": "/news"
+                },
+                {
+                    "title": "账户类型",
+                    "link": "/Accounttypes"
+                },
+                {
+                    "title": "社交交易",
+                    "link": "/socialTrading"
+                },
+                {
+                    "title": "AI智能交易",
+                    "link": "/AITrading"
+                },
+                {
+                    "title": "联盟计划",
+                    "link": "/Affiliate"
+                }
+            ]
+        },
+        {
+            "key": "education",
+            "title": "教育",
+            "items": [
+                {
+                    "title": "技术分析",
+                    "link": "/technical-analysis"
+                },
+                {
+                    "title": "交易策略",
+                    "link": "/trading-strategy"
+                },
+                {
+                    "title": "图形分析",
+                    "link": "/graphical-analysis"
+                },
+                {
+                    "title": "基本面分析",
+                    "link": "/fundamentalanalysis"
+                },
+                {
+                    "title": "术语表",
+                    "link": "/Glossary"
+                }
+            ]
+        },
+        {
+            "key": "company",
+            "title": "公司信息",
+            "items": [
+                {
+                    "title": "支付政策",
+                    "link": "/PaymentPolicy"
+                },
+                {
+                    "title": "退款政策",
+                    "link": "/ReturnPolicy"
+                },
+                {
+                    "title": "反洗钱与KYC",
+                    "link": "/AMLAndKYC"
+                },
+                {
+                    "title": "隐私政策",
+                    "link": "/PricvacyPolicy"
+                },
+                {
+                    "title": "条款与条件",
+                    "link": "/TermsAndCondition"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "title": "联系我们",
+        "email": "contact@qption.com",
+        "phone": "+46 766926599",
+        "location": "瑞典，斯德哥尔摩"
+    }
+}

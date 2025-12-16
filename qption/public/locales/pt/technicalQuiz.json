@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Análise Técnica – Gráficos, Indicadores e Estratégias | Qption",
+        "description": "Domine os mercados com a análise técnica detalhada da Qption: ideias de gráficos em tempo real, guias de indicadores e configurações semanais de trading para forex, cripto e índices.",
+        "keywords": "análise técnica, gráficos de trading, ação do preço, indicadores, padrões de velas, suporte e resistência, educação Qption, análise forex, análise cripto",
+        "ogTitle": "Análise Técnica – Gráficos, Indicadores e Estratégias | Qption",
+        "ogDescription": "Obtenha análises práticas de gráficos e explicações de indicadores feitas pelos analistas da Qption — atualizadas diariamente para traders de forex e cripto.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Análise Técnica – Gráficos, Indicadores e Estratégias | Qption",
+        "twitterDescription": "Ideias de gráficos ao vivo e estratégias semanais para forex, cripto e índices — com a Qption.",
+        "twitterImage": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "canonical": "https://qption.com/technical-analysis"
+    },
+    "page": {
+        "title": "Análise Técnica",
+        "subtitle": "Desafie o seu conhecimento de trading e aprimore suas habilidades com o nosso Quiz Interativo de Análise Técnica — teste sua compreensão sobre padrões gráficos, indicadores e psicologia de mercado para se tornar um trader mais confiante e preparado."
+    },
+    "quiz": {
+        "header": "Quiz",
+        "progress": "Pergunta {{current}} de {{total}}",
+        "correct": "Correto ✅",
+        "incorrect": "Errado ⚠️",
+        "selectHint": "Selecione uma opção e envie sua resposta."
+    },
+    "ui": {
+        "previous": "Anterior",
+        "submit": "Enviar",
+        "finish": "Finalizar",
+        "next": "Próxima",
+        "newRandom": "Novo Quiz Aleatório (10)",
+        "loading": "Carregando o quiz…"
+    },
+    "results": {
+        "score": "Pontuação: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Excelente! Seu conhecimento em Análise Técnica é impressionante.",
+            "good": "Muito bom! Continue praticando para evoluir ainda mais.",
+            "retry": "Bom começo — revise as lições e tente novamente."
+        }
+    },
+    "pool": [
+        {
+            "q": "O que uma Média Móvel Simples (SMA) ajuda os traders a identificar?",
+            "options": [
+                "O preço de entrada mais alto possível",
+                "O preço médio de um período, suavizando o ruído",
+                "O ponto exato de reversão do mercado",
+                "Um nível de rompimento de momentum"
+            ],
+            "correct": "O preço médio de um período, suavizando o ruído",
+            "explain": "A SMA suaviza os dados de preço calculando a média de um número fixo de períodos, ajudando a revelar a tendência subjacente.",
+            "topic": "MA"
+        },
+        {
+            "q": "Qual tipo de média móvel reage mais rápido às mudanças recentes de preço?",
+            "options": [
+                "SMA",
+                "WMA",
+                "EMA",
+                "Todas reagem da mesma forma"
+            ],
+            "correct": "EMA",
+            "explain": "A EMA dá mais peso aos preços mais recentes, reagindo mais rapidamente do que a SMA e geralmente mais que a WMA.",
+            "topic": "MA"
+        },
+        {
+            "q": "Um sinal de compra clássico de cruzamento de médias móveis ocorre quando…",
+            "options": [
+                "Uma média móvel curta cruza acima de uma média longa",
+                "Uma média longa cruza acima de uma média curta",
+                "O preço cai abaixo de ambas as médias",
+                "Ambas as médias permanecem planas"
+            ],
+            "correct": "Uma média móvel curta cruza acima de uma média longa",
+            "explain": "O cruzamento de curto sobre longo normalmente indica momentum de alta; o inverso pode sugerir baixa.",
+            "topic": "MA"
+        },
+        {
+            "q": "Uma desvantagem das médias móveis é que elas…",
+            "options": [
+                "Antecipam a ação do preço e preveem topos/fundos",
+                "Atrasam a ação do preço e podem gerar falsos sinais em mercados laterais",
+                "Não precisam de ajustes de parâmetros",
+                "Funcionam apenas em gráficos diários"
+            ],
+            "correct": "Atrasam a ação do preço e podem gerar falsos sinais em mercados laterais",
+            "explain": "As médias móveis são indicadores atrasados e podem gerar sinais falsos em mercados sem tendência.",
+            "topic": "MA"
+        },
+        {
+            "q": "Qual é o principal propósito das Bandas de Bollinger?",
+            "options": [
+                "Medir o valor fundamental de longo prazo",
+                "Mostrar a volatilidade e níveis relativos de preço ao redor de uma média móvel",
+                "Substituir totalmente as médias móveis",
+                "Desenhar linhas de tendência automaticamente"
+            ],
+            "correct": "Mostrar a volatilidade e níveis relativos de preço ao redor de uma média móvel",
+            "explain": "As bandas se expandem e se contraem com a volatilidade, mostrando extremos relativos em torno de uma média móvel.",
+            "topic": "BB"
+        },
+        {
+            "q": "Quando o preço toca ou fecha fora da banda superior, geralmente indica…",
+            "options": [
+                "Reversão garantida",
+                "Expansão de momentum/volatilidade (nem sempre sobrecompra)",
+                "Sem valor informativo",
+                "Queda iminente"
+            ],
+            "correct": "Expansão de momentum/volatilidade (nem sempre sobrecompra)",
+            "explain": "Toques fora das bandas podem indicar forte momentum; contexto e confirmação são essenciais.",
+            "topic": "BB"
+        },
+        {
+            "q": "Um parâmetro comum para as Bandas de Bollinger é:",
+            "options": [
+                "MA de 20 períodos com ±2 desvios padrão",
+                "MA de 50 períodos com ±1 desvio padrão",
+                "MA de 14 períodos com ±3 desvios padrão",
+                "MA de 9 períodos com ±1.5 desvios padrão"
+            ],
+            "correct": "MA de 20 períodos com ±2 desvios padrão",
+            "explain": "A configuração clássica é 20 SMA e bandas em ±2σ; ajuste conforme o mercado ou o timeframe.",
+            "topic": "BB"
+        },
+        {
+            "q": "O indicador Alligator de Williams é composto por:",
+            "options": [
+                "Duas linhas: mandíbula e dentes",
+                "Três linhas: mandíbula, dentes e lábios",
+                "Quatro linhas incluindo a língua",
+                "Apenas uma média suavizada"
+            ],
+            "correct": "Três linhas: mandíbula, dentes e lábios",
+            "explain": "Usa três médias suavizadas com deslocamentos: mandíbula (lenta), dentes (média), lábios (rápida).",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Quando as linhas do Alligator estão entrelaçadas (dormindo), isso sugere:",
+            "options": [
+                "Uma forte tendência em andamento",
+                "Uma fase de consolidação ou baixa volatilidade",
+                "Rompimento garantido para cima",
+                "Rompimento garantido para baixo"
+            ],
+            "correct": "Uma fase de consolidação ou baixa volatilidade",
+            "explain": "Linhas entrelaçadas indicam consolidação; traders esperam as linhas se abrirem novamente.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "O Alligator está 'comendo' (em tendência) quando:",
+            "options": [
+                "As três linhas se abrem e se alinham com o movimento do preço",
+                "As três linhas se sobrepõem fortemente",
+                "Apenas o preço se move enquanto as linhas permanecem planas",
+                "O volume cai para zero"
+            ],
+            "correct": "As três linhas se abrem e se alinham com o movimento do preço",
+            "explain": "Linhas se abrindo e alinhadas com o preço indicam desenvolvimento de tendência.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Leituras de RSI acima de 70 geralmente indicam:",
+            "options": [
+                "Condição de sobrevenda",
+                "Condição de sobrecompra (risco de correção)",
+                "Nenhum sinal",
+                "Continuação garantida da tendência"
+            ],
+            "correct": "Condição de sobrecompra (risco de correção)",
+            "explain": "Sobrecompra pode persistir em fortes tendências; busque confirmação estrutural.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Um valor de RSI próximo a 30 normalmente sugere:",
+            "options": [
+                "Condição de sobrecompra",
+                "Condição de sobrevenda (possível repique)",
+                "Sem valor informativo",
+                "Rompimento acima da resistência"
+            ],
+            "correct": "Condição de sobrevenda (possível repique)",
+            "explain": "Assim como a sobrecompra, a sobrevenda pode durar; combine com ação do preço.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Uma divergência altista no RSI ocorre quando:",
+            "options": [
+                "O preço faz topos mais altos enquanto o RSI faz topos mais baixos",
+                "O preço faz fundos mais baixos enquanto o RSI faz fundos mais altos",
+                "O RSI cruza acima de 70",
+                "O RSI cruza abaixo de 30"
+            ],
+            "correct": "O preço faz fundos mais baixos enquanto o RSI faz fundos mais altos",
+            "explain": "Perda de momentum em novos fundos de preço pode sinalizar reversão para alta.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Suporte é melhor descrito como:",
+            "options": [
+                "Um nível onde o interesse de compra pode surgir",
+                "Um nível onde a venda deve ocorrer",
+                "Uma média móvel",
+                "Uma linha fixa que nunca é rompida"
+            ],
+            "correct": "Um nível onde o interesse de compra pode surgir",
+            "explain": "O suporte é uma área onde a demanda historicamente entrou; pode ser rompido.",
+            "topic": "TA"
+        },
+        {
+            "q": "Resistência é melhor descrita como:",
+            "options": [
+                "Um nível onde o interesse de venda pode surgir",
+                "Um nível que garante reversões",
+                "Um conceito apenas de volume",
+                "Uma razão de Fibonacci"
+            ],
+            "correct": "Um nível onde o interesse de venda pode surgir",
+            "explain": "A resistência é o oposto do suporte — onde a oferta aumenta.",
+            "topic": "TA"
+        },
+        {
+            "q": "Qual combinação melhora mais a confiabilidade dos sinais?",
+            "options": [
+                "Usar um único indicador em um único período",
+                "Múltiplos sinais não correlacionados (ex: tendência + momentum + estrutura)",
+                "Adicionar muitos indicadores do mesmo tipo",
+                "Ignorar o gerenciamento de risco"
+            ],
+            "correct": "Múltiplos sinais não correlacionados (ex: tendência + momentum + estrutura)",
+            "explain": "Confluência reduz falsos positivos; combine tipos diferentes de sinal.",
+            "topic": "TA"
+        },
+        {
+            "q": "Em um mercado lateral (sem tendência), o que tende a ser mais eficaz?",
+            "options": [
+                "Somente médias móveis seguidoras de tendência",
+                "Osciladores como RSI ou Estocástico",
+                "Apenas sistemas de rompimento",
+                "Ignorar o mercado"
+            ],
+            "correct": "Osciladores como RSI ou Estocástico",
+            "explain": "Osciladores podem identificar reversões em extremos do range; MAs tendem a falhar.",
+            "topic": "TA"
+        },
+        {
+            "q": "Qual afirmação sobre indicadores é mais precisa?",
+            "options": [
+                "Garantem lucro se bem configurados",
+                "São ferramentas para auxiliar decisões, não garantias de lucro",
+                "Funcionam apenas em gráficos de cripto",
+                "Eliminam a necessidade de gerenciamento de risco"
+            ],
+            "correct": "São ferramentas para auxiliar decisões, não garantias de lucro",
+            "explain": "Nenhum indicador garante lucro; combine com gestão de risco e disciplina.",
+            "topic": "TA"
+        },
+        {
+            "q": "Por que usar múltiplos timeframes (MTF) na análise?",
+            "options": [
+                "Para deixar os gráficos mais complexos",
+                "Para alinhar a tendência do período maior com entradas em períodos menores",
+                "Para evitar stop loss",
+                "Para remover a volatilidade"
+            ],
+            "correct": "Para alinhar a tendência do período maior com entradas em períodos menores",
+            "explain": "A análise de múltiplos timeframes melhora o contexto e o timing de entrada.",
+            "topic": "TA"
+        },
+        {
+            "q": "Um erro comum ao fazer backtest de indicadores é:",
+            "options": [
+                "Considerar slippage e spread",
+                "Usar dados fora da amostra",
+                "Ajustar demais os parâmetros aos dados passados",
+                "Incluir custos de transação"
+            ],
+            "correct": "Ajustar demais os parâmetros aos dados passados",
+            "explain": "Overfitting raramente funciona em tempo real; sempre valide com dados novos e custos reais.",
+            "topic": "TA"
+        }
+    ]
+}

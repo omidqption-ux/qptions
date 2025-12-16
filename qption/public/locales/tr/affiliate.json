@@ -1,0 +1,137 @@
+{
+    "seo": {
+        "title": "Ortaklık Programı – %40’a kadar gelir paylaşımı kazanın | Qption",
+        "description": "Qption ile iş birliği yapın ve kitlenizi kazanca dönüştürün. Esnek CPA veya gelir paylaşımı komisyonları kazanın, gerçek zamanlı takipten yararlanın ve yönlendirdiğiniz her trader için haftalık ödeme alın.",
+        "keywords": "Qption ortaklık, trading affiliate programı, forex CPA, kripto ortaklık, gelir paylaşımı, IB programı, broker ortaklığı",
+        "ogTitle": "Ortaklık Programı – %40’a kadar gelir paylaşımı kazanın | Qption",
+        "ogDescription": "Qption Ortaklık Programına katılın, yüksek ödemeler, pazarlama materyalleri ve özel hesap desteği kazanın.",
+        "url": "https://qption.com/affiliate",
+        "image": "https://qption.com/images/og/affiliate-qption.jpg"
+    },
+    "hero": {
+        "title": "Ortaklık Programı",
+        "subtitle": "Ortaklık programımıza katılın ve platformumuza trader yönlendirerek komisyon kazanmaya başlayın. Hedeflerinize uygun planı seçin."
+    },
+    "tabs": {
+        "basic": "Basic",
+        "pro": "Pro",
+        "elite": "Elite"
+    },
+    "labels": {
+        "commission": "Komisyon",
+        "incomePotential": "Kazanma Potansiyeli",
+        "featuresTitle": "Özellikler",
+        "benefitsTitle": "Program Avantajları"
+    },
+    "stats": [
+        {
+            "title": "Aktif Ortaklar",
+            "value": "10.000+"
+        },
+        {
+            "title": "Toplam Ödemeler",
+            "value": "$5M+"
+        },
+        {
+            "title": "Başarı Oranı",
+            "value": "%95"
+        }
+    ],
+    "plans": [
+        {
+            "title": "Basic Ortaklık Programı",
+            "subtitle": "Başlangıç Seviyesi",
+            "description": "Minimum taahhütle kazanmaya başlamak isteyen yeni başlayanlar için mükemmel. Ağınızı kurun ve düzenli komisyon kazanın.",
+            "commission": "%5–10",
+            "income": "$50 - $500/ay",
+            "gradient": "bg-linear-to-br from-green-500/20 to-green-500/5",
+            "features": [
+                {
+                    "title": "Doğrudan Yönlendirme Komisyonu",
+                    "description": "Yönlendirdiğiniz kullanıcıların işlem ücretlerinden %5–10 komisyon."
+                },
+                {
+                    "title": "Tek Seferlik Kayıt Bonusu",
+                    "description": "Aktif kullanıcı olan her yönlendirme için küçük bir bonus."
+                },
+                {
+                    "title": "Pazarlama Desteği",
+                    "description": "Promosyonlar için temel pazarlama materyalleri ve eğitimlere erişim."
+                }
+            ]
+        },
+        {
+            "title": "Pro Ortaklık Programı",
+            "subtitle": "Orta Seviye",
+            "description": "Kazançlarını artırmak isteyen deneyimli pazarlamacılar için. Gelişmiş araçlara ve çok seviyeli komisyonlara erişin.",
+            "commission": "%10–15",
+            "income": "$500 - $2.000/ay",
+            "gradient": "bg-linear-to-br from-green-500/30 to-green-500/10",
+            "features": [
+                {
+                    "title": "Doğrudan Komisyon",
+                    "description": "Yönlendirdiğiniz kullanıcıların işlem ücretlerinden %10–15 komisyon."
+                },
+                {
+                    "title": "İkinci Seviye Komisyon",
+                    "description": "Yönlendirdiğiniz kullanıcıların getirdiği müşterilerden %3–5 komisyon."
+                },
+                {
+                    "title": "Performans Bonusları",
+                    "description": "Hedeflerinize ulaştığınızda ek bonus kazanın."
+                },
+                {
+                    "title": "Gelişmiş Pazarlama Kaynakları",
+                    "description": "Profesyonel promosyon materyalleri ve strateji oturumlarına erişim."
+                }
+            ]
+        },
+        {
+            "title": "Elite Ortaklık Programı",
+            "subtitle": "İleri Seviye",
+            "description": "Kazançlarını en üst düzeye çıkarmak isteyen en iyi performans gösterenler için. Özel avantajlara ve en yüksek komisyon oranlarına erişin.",
+            "commission": "%15–20",
+            "income": "$2.000 - $10.000/ay",
+            "gradient": "bg-linear-to-br from-green-500/40 to-green-500/15",
+            "features": [
+                {
+                    "title": "Doğrudan Komisyon",
+                    "description": "Yönlendirdiğiniz kullanıcıların işlem ücretlerinden %15–20 komisyon."
+                },
+                {
+                    "title": "Çok Seviyeli Komisyon",
+                    "description": "2. seviyede %5, 3. seviyede %2, 4. seviyede %1 komisyon."
+                },
+                {
+                    "title": "VIP Pazarlama Paketi",
+                    "description": "Kişiselleştirilmiş pazarlama materyalleri ve özel açılış sayfaları."
+                },
+                {
+                    "title": "Liderlik Bonusları",
+                    "description": "Alt ortaklarının Pro veya Elite statüsüne ulaşmasına yardımcı olanlar için özel bonuslar."
+                },
+                {
+                    "title": "Özel Destek",
+                    "description": "Kişisel bir ortak yöneticisi ve özel etkinliklere erişim."
+                }
+            ]
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Sürekli Gelir",
+            "description": "Ağınızın işlem faaliyetlerinden düzenli komisyon kazanın."
+        },
+        {
+            "title": "Yapılandırılmış Büyüme",
+            "description": "Kanıtlanmış çok seviyeli yapımızla ağınızı büyütün."
+        },
+        {
+            "title": "Performans Ödülleri",
+            "description": "Hedeflerinize ulaştığınızda bonus ve ödüller kazanın."
+        }
+    ],
+    "cta": {
+        "join": "Ortaklık Programına Katılın"
+    }
+}

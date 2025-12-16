@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "Squat-Candlestick-Handelsstrategie – Hochvolumen-Erschöpfungs- und Umkehrsignale | Qption",
+        "description": "Lerne die Squat-Candlestick-Strategie kennen: Erkenne Hochvolumen-Kerzen mit kleinem Körper und langen Dochten, die auf Markterschöpfung in der Nähe wichtiger Niveaus hinweisen. Erfahre, wie du Squat-Kerzen in Auf- und Abwärtstrends identifizierst, mit Volumen bestätigst und Ein- und Ausstiege sowie Risikokontrolle planst.",
+        "keywords": "Squat-Kerze, Squat-Candlestick-Strategie, hohes Volumen, kleiner Kerzenkörper, Markterschöpfung, Umkehrsignale, Unterstützung und Widerstand, Bestätigungskerze, Volumenanalyse, Preisablehnung, Risikomanagement, Handelsstrategie, Qption",
+        "ogAlt": "Squat-Candlestick-Muster, das Hochvolumen-Erschöpfung und Umkehrsignale zeigt",
+        "ld": {
+            "headline": "Squat-Candlestick-Handelsstrategie – Hochvolumen-Erschöpfungs- und Umkehrsignale"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Handelsstrategie"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln?",
+        "startTrading": "Jetzt handeln"
+    },
+    "hero": {
+        "title": "Squat-Candle-Strategie",
+        "subtitle": "Die Squat-Candle-Strategie konzentriert sich auf die Erkennung von Kerzen mit hohem Volumen, aber begrenzter Kursbewegung – ein Zeichen für einen Machtkampf zwischen Käufern und Verkäufern. Diese Kerzen erscheinen oft vor starken Ausbrüchen oder Umkehrungen und helfen Tradern, Wendepunkte zu antizipieren und Timing sowie Bestätigung zu verbessern."
+    },
+    "video": {
+        "aria": "Tritt während eines Aufwärtstrends in der Nähe des Widerstands mit einer Hochvolumen-Kerze und kleinem Körper auf und signalisiert Erschöpfung und eine mögliche Umkehr."
+    },
+    "overview": {
+        "title": "Überblick",
+        "items": {
+            "1": "Die Squat-Candle-Strategie identifiziert potenzielle Umkehrpunkte oder Markterschöpfung.",
+            "2": "Sie basiert auf der Erkennung einer einzigartigen Kerze mit hohem Volumen, aber begrenzter Kursbewegung.",
+            "3": "Squat-Kerzen bilden sich häufig am Ende eines Trends oder in der Nähe von Unterstützungs-/Widerstandszonen und signalisieren Unentschlossenheit und eine mögliche Umkehr."
+        }
+    },
+    "identify": {
+        "title": "1. Erkennung einer Squat-Kerze",
+        "items": {
+            "1": "Eine Squat-Kerze hat einen kleinen Körper, was auf eine begrenzte Bewegung zwischen Eröffnung und Schlusskurs hinweist.",
+            "2": "Sie hat lange Dochte, die eine starke Preisablehnung auf beiden Seiten zeigen.",
+            "3": "Sie weist ein ungewöhnlich hohes Volumen auf, was auf intensive Aktivität oder einen Kampf zwischen Käufern und Verkäufern hinweist.",
+            "4": "Sie bildet sich oft in der Nähe wichtiger Unterstützungs- oder Widerstandsniveaus und deutet auf eine mögliche Umkehr oder einen Ausbruch hin."
+        }
+    },
+    "uptrend": {
+        "title": "2. Squat-Kerze in einem Aufwärtstrend",
+        "items": {
+            "1": "Bildung: Tritt während eines Aufwärtstrends in der Nähe des Widerstands mit kleinem Körper und hohem Volumen auf.",
+            "2": "Interpretation: Deutet auf Käufererschöpfung hin, wenn der Preis den Widerstand nicht durchbrechen kann.",
+            "3": "Bestätigung: Eine bärische Kerze nach der Squat-Kerze bestätigt eine mögliche Umkehr.",
+            "4": "Handelsausführung: Trader können Short-Positionen eingehen, wenn die nächste Kerze unter dem Tief der Squat-Kerze schließt."
+        }
+    },
+    "downtrend": {
+        "title": "3. Squat-Kerze in einem Abwärtstrend",
+        "items": {
+            "1": "Bildung: Tritt während eines Abwärtstrends in der Nähe der Unterstützung mit kleinem Körper und hohem Volumen auf.",
+            "2": "Interpretation: Weist auf Verkäufererschöpfung hin, wenn der Preis nicht weiter fällt.",
+            "3": "Bestätigung: Eine bullische Kerze nach der Squat-Kerze bestätigt eine mögliche Umkehr.",
+            "4": "Handelsausführung: Trader können Long-Positionen eingehen, wenn die nächste Kerze über dem Hoch der Squat-Kerze schließt."
+        }
+    },
+    "use": {
+        "title": "Verwendung der Squat-Candle-Strategie",
+        "items": {
+            "1": "Kombiniere Squat-Kerzen mit Volumenindikatoren, um die Signalstärke zu bestätigen.",
+            "2": "Konzentriere dich auf Squat-Kerzen, die sich in der Nähe wichtiger Unterstützungs- oder Widerstandsbereiche bilden, um die Umkehrgenauigkeit zu erhöhen.",
+            "3": "Setze Stop-Loss-Orders knapp über oder unter dem Hoch bzw. Tief der Squat-Kerze, um das Risiko zu begrenzen."
+        }
+    },
+    "pros": {
+        "title": "Vorteile",
+        "items": {
+            "1": "Frühes Umkehrsignal – weist auf Markterschöpfung hin, bevor sich der Trend ändert.",
+            "2": "Hohe Volumenbestätigung erhöht die Zuverlässigkeit des Signals.",
+            "3": "Funktioniert gut in Kombination mit anderen Werkzeugen wie Volumen, gleitenden Durchschnitten und Unterstützungs-/Widerstandszonen."
+        }
+    },
+    "cons": {
+        "title": "Nachteile",
+        "items": {
+            "1": "Erfordert Bestätigung – benötigt eine Folgekerze, um falsche Signale zu vermeiden.",
+            "2": "Weniger effektiv in Seitwärtsmärkten – kann falsche Umkehrsignale in seitlichen Bewegungen erzeugen.",
+            "3": "Volumenempfindlichkeit – starkes Volumen ohne Preisbewegung kann irreführend sein."
+        }
+    }
+}

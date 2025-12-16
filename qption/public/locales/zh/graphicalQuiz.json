@@ -1,0 +1,293 @@
+{
+    "seo": {
+        "title": "图形分析测验 – 趋势、支撑与阻力、形态与蜡烛图 | Qption",
+        "description": "通过 Qption 的图形分析测验测试你的图表阅读能力。评估你对趋势、支撑与阻力、斐波那契、艾略特波浪以及趋势延续与反转形态的理解。",
+        "keywords": "图形分析测验, 技术分析, 图表形态, 支撑阻力, 斐波那契, 艾略特波浪, 头肩顶, 旗形, 三角形, 趋势延续, 趋势反转, Qption",
+        "ogTitle": "图形分析测验 – 趋势、支撑与阻力、形态与蜡烛图 | Qption",
+        "ogDescription": "通过关于趋势、支撑阻力、斐波那契、艾略特波浪和反转/延续形态的互动问题来挑战自己。",
+        "url": "https://qption.com/zh/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "图形分析测验 – Qption",
+        "twitterDescription": "通过 Qption 的图形分析测验测试你的图表分析技能。",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/zh/graphical-analysis"
+    },
+    "page": {
+        "title": "图形分析",
+        "subtitle": "通过互动的图形分析测验挑战你的图表阅读能力 —— 测试你对趋势线、支撑与阻力、斐波那契与艾略特波浪，以及延续与反转形态的理解，帮助你成为更自信、更具视觉洞察力的交易者。"
+    },
+    "quiz": {
+        "header": "图形分析测验",
+        "progress": "第 {{current}} 题 / 共 {{total}} 题",
+        "correct": "回答正确 ✅",
+        "incorrect": "回答错误 ⚠️",
+        "selectHint": "请选择一个选项并提交你的答案。",
+        "learnMore": "了解更多 ↗"
+    },
+    "ui": {
+        "previous": "上一题",
+        "submit": "提交",
+        "finish": "完成",
+        "next": "下一题",
+        "newRandom": "新的随机测验 (10)",
+        "loading": "正在加载测验…"
+    },
+    "results": {
+        "score": "得分：{{score}} / {{total}}",
+        "tier": {
+            "excellent": "太棒了！你的图表分析能力非常出色。",
+            "good": "做得很好！继续练习会更进一步。",
+            "retry": "不错的开始 —— 复习课程后再试一次吧。"
+        }
+    },
+    "pool": [
+        {
+            "q": "在图形分析中，上升的移动平均线通常表示：",
+            "options": [
+                "横盘整理",
+                "下行趋势",
+                "上行趋势",
+                "无信号"
+            ],
+            "correct": "上行趋势",
+            "explain": "移动平均线的倾斜度和价格相对位置能快速显示市场方向。",
+            "source": "https://qption.com/zh/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "使用移动平均线作为动态支撑/阻力的常见方法是：",
+            "options": [
+                "等待价格忽略它",
+                "在趋势中寻找价格回调到均线进行顺势交易",
+                "不论情境，每次触及均线都逆势操作",
+                "只在年线图中使用"
+            ],
+            "correct": "在趋势中寻找价格回调到均线进行顺势交易",
+            "explain": "在趋势中，价格回测均线可提供低风险的结构化入场机会。",
+            "source": "https://qption.com/zh/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "与SMA相比，EMA通常：",
+            "options": [
+                "反应更慢",
+                "速度相同",
+                "反应更快",
+                "不是移动平均线"
+            ],
+            "correct": "反应更快",
+            "explain": "EMA对近期数据权重更大，因此比SMA反应更迅速。",
+            "source": "https://qption.com/zh/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "基本的看涨交叉信号出现于：",
+            "options": [
+                "长周期均线向上穿越短周期均线",
+                "短周期均线向上穿越长周期均线",
+                "价格跌破两条均线",
+                "两条均线都呈水平"
+            ],
+            "correct": "短周期均线向上穿越长周期均线",
+            "explain": "短周期上穿长周期可表示动能转强，但仍需结合其他信号确认。",
+            "source": "https://qption.com/zh/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "常用的斐波那契回撤区间是：",
+            "options": [
+                "5%–10%",
+                "23.6%–33.3%",
+                "38.2%–50%–61.8%",
+                "70%–80%"
+            ],
+            "correct": "38.2%–50%–61.8%",
+            "explain": "这些斐波那契区间常用于识别趋势中的潜在反应区域。",
+            "source": "https://qption.com/zh/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "斐波那契共振（Confluence）指的是：",
+            "options": [
+                "来自单一周期的一个水平",
+                "多个斐波那契水平或结构重叠在同一区域",
+                "忽略结构和成交量",
+                "只使用扩展位"
+            ],
+            "correct": "多个斐波那契水平或结构重叠在同一区域",
+            "explain": "例如：61.8% + 前支撑位 + 均线重合时，区域的重要性更高。",
+            "source": "https://qption.com/zh/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "经典艾略特推动浪通常包括：",
+            "options": [
+                "3上2下",
+                "5浪推动 + 3浪调整",
+                "7个随机波浪",
+                "仅2个波浪"
+            ],
+            "correct": "5浪推动 + 3浪调整",
+            "explain": "标准结构：顺趋势的5个推动浪（1–5）加上ABC调整浪。",
+            "source": "https://qption.com/zh/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "在推动浪中，常见的艾略特规则是：",
+            "options": [
+                "第3浪通常最短",
+                "第4浪通常与第1浪重叠",
+                "第3浪通常最长（不是最短）",
+                "所有波浪持续时间相等"
+            ],
+            "correct": "第3浪通常最长（不是最短）",
+            "explain": "第3浪往往是动能最强的一段，不能短于第1和第5浪。",
+            "source": "https://qption.com/zh/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "头肩顶形态通常在何时确认？",
+            "options": [
+                "右肩形成时",
+                "价格有效跌破颈线时",
+                "左肩成交量下降时",
+                "出现任意十字星时"
+            ],
+            "correct": "价格有效跌破颈线时",
+            "explain": "颈线被有效突破（最好伴随成交量）后，形态确认完成。",
+            "source": "https://qption.com/zh/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "双底形态更可靠的情况是：",
+            "options": [
+                "仅出现在上升趋势中",
+                "伴随看涨背离或强势回升",
+                "无任何下跌背景",
+                "完全忽略成交量"
+            ],
+            "correct": "伴随看涨背离或强势回升",
+            "explain": "动能确认或结构性回升增强了反转形态的可靠性。",
+            "source": "https://qption.com/zh/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "阻力位附近的看跌信号可能是：",
+            "options": [
+                "上升楔形向下突破",
+                "上升旗形突破向上",
+                "上升三角形继续上行",
+                "上升趋势中的均线回调"
+            ],
+            "correct": "上升楔形向下突破",
+            "explain": "阻力附近的楔形破位下行常预示趋势反转或回调。",
+            "source": "https://qption.com/zh/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "旗形和三角旗通常被视为：",
+            "options": [
+                "底部形态",
+                "顶部形态",
+                "延续形态",
+                "成交量指标"
+            ],
+            "correct": "延续形态",
+            "explain": "短暂整理后，通常沿先前趋势方向继续运行。",
+            "source": "https://qption.com/zh/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "上升三角形通常会向哪个方向突破？",
+            "options": [
+                "向下",
+                "向上（买盘压力突破水平阻力）",
+                "横盘不变",
+                "随机方向"
+            ],
+            "correct": "向上（买盘压力突破水平阻力）",
+            "explain": "上升低点叠加水平阻力表明买盘压力增加，容易上破。",
+            "source": "https://qption.com/zh/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "矩形整理（区间震荡）通常会：",
+            "options": [
+                "只向下突破",
+                "只向上突破",
+                "任意方向突破 —— 需观察突破与回测",
+                "总是导致反转"
+            ],
+            "correct": "任意方向突破 —— 需观察突破与回测",
+            "explain": "区间是中性结构，方向取决于成交量与突破行为。",
+            "source": "https://qption.com/zh/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "旗形的目标测量通常基于：",
+            "options": [
+                "突破点起算的前一段趋势高度",
+                "随机点数",
+                "仅时间上的斐波那契比率",
+                "SMA数值"
+            ],
+            "correct": "突破点起算的前一段趋势高度",
+            "explain": "通常将旗杆高度从突破点起向上（或向下）投射作为初始目标。",
+            "source": "https://qption.com/zh/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "图形分析强调：",
+            "options": [
+                "趋势、支撑阻力、形态等视觉结构",
+                "仅指标计算",
+                "仅新闻",
+                "忽略多周期分析"
+            ],
+            "correct": "趋势、支撑阻力、形态等视觉结构",
+            "explain": "它关注图表结构、市场上下文与价格行为以辅助决策。",
+            "source": "https://qption.com/zh/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "最佳的入场方式是与以下哪项保持一致？",
+            "options": [
+                "高周期趋势与关键水平",
+                "随机时间入场",
+                "单一指标信号",
+                "无止损"
+            ],
+            "correct": "高周期趋势与关键水平",
+            "explain": "多周期共振能提高交易的成功率与清晰度。",
+            "source": "https://qption.com/zh/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "如何减少形态中的假突破？",
+            "options": [
+                "价格首次触及就立即入场",
+                "等待K线收盘确认或回测",
+                "忽略成交量与市场背景",
+                "无效位不设置"
+            ],
+            "correct": "等待K线收盘确认或回测",
+            "explain": "确认突破与回测信号比盘中瞬间突破更可靠。",
+            "source": "https://qption.com/zh/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "止损应设置在：",
+            "options": [
+                "交易形态内部",
+                "形态失效结构之外（如高点上方或低点下方）",
+                "整数价位处",
+                "无需设置止损"
+            ],
+            "correct": "形态失效结构之外（如高点上方或低点下方）",
+            "explain": "基于结构的止损能明确风险，并帮助判断交易失效点。",
+            "source": "https://qption.com/zh/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        }
+    ]
+}

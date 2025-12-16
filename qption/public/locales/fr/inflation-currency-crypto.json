@@ -1,0 +1,227 @@
+{
+    "seo": {
+        "title": "Inflation et effet sur les devises & la crypto – IPC, IPP, taux & couverture | Qption",
+        "description": "Comprenez comment l’inflation façonne le FX et la crypto : bases IPC/IPP, dynamique demande/tension des coûts, solidité d’une devise via la politique de taux et récit du « Bitcoin couverture contre l’inflation ». Inclut indicateurs clés, avantages et limites.",
+        "keywords": "inflation, IPC, IPP, inflation par la demande, inflation par les coûts, politique de taux d’intérêt, solidité de la devise, marchés des changes, marchés crypto, couverture Bitcoin contre l’inflation, volatilité, rapports des banques centrales, salaires, emploi, analyse fondamentale, Qption",
+        "ogTitle": "Inflation & son effet sur les devises et la crypto | Qption",
+        "ogDescription": "De l’IPC/IPP au BTC comme couverture : guide pratique sur la façon dont l’inflation influence le FX et la crypto.",
+        "url": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+        "image": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Inflation & marchés : FX et Crypto",
+        "twitterDescription": "Découvrez comment l’inflation, les taux et la politique orientent devises et actifs numériques.",
+        "twitterImage": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Inflation et son effet sur les marchés des devises & de la crypto – IPC, IPP, taux & couverture",
+            "description": "Comment l’inflation influence le FX et la crypto, avec IPC/IPP, taux directeurs et récits de couverture.",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/inflation-currency-crypto",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Inflation"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Indice des prix à la consommation (IPC)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Indice des prix à la production (IPP)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Inflation tirée par la demande"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Inflation par les coûts"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Politique de taux d’intérêt"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Marchés des changes (Forex)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Marchés des cryptomonnaies"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bitcoin"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Politique monétaire"
+                }
+            ],
+            "articleSection": [
+                "Aperçu",
+                "Concepts clés de l’inflation",
+                "Impact sur les marchés des devises",
+                "Impact sur les marchés crypto",
+                "Indicateurs à suivre",
+                "Avantages",
+                "Limites"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "IPC",
+                    "value": "Indicateur principal de l’inflation des ménages ; les publications mensuelles orientent les attentes de politique."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "IPP",
+                    "value": "Prix au niveau des producteurs pouvant annoncer les tendances de l’inflation consommateur."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Types d’inflation",
+                    "value": "Tirée par la demande (excès de demande) et par les coûts (hausse des intrants)."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Impact FX",
+                    "value": "Une inflation élevée affaiblit la devise sauf si des hausses de taux la compensent ; un resserrement peut soutenir le FX."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Récit crypto",
+                    "value": "Le Bitcoin et certaines crypto sont perçus comme couvertures potentielles grâce à une offre plafonnée."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Volatilité",
+                    "value": "Les flux liés à l’inflation peuvent amplifier les mouvements spéculatifs des prix crypto."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Watchlist",
+                    "value": "IPC/IPP, déclarations des banques centrales, croissance des salaires, emploi, anticipations d’inflation."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analyse fondamentale"
+    },
+    "page": {
+        "title": "Inflation et son effet sur les devises & la crypto"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "startTrading": "Commencer à trader"
+    },
+    "sections": {
+        "overview": {
+            "title": "Aperçu",
+            "bullets": [
+                "L’inflation est le rythme d’augmentation du niveau général des prix, qui érode le pouvoir d’achat au fil du temps.",
+                "Les banques centrales surveillent de près l’inflation : des dépassements persistants peuvent perturber la stabilité et forcer des ajustements de politique.",
+                "Pour les traders et investisseurs, l’impact de l’inflation sur les taux, la solidité des devises et les rendements d’actifs est un moteur macro essentiel."
+            ]
+        },
+        "keyConcepts": {
+            "title": "Concepts clés de l’inflation",
+            "items": {
+                "cpi": {
+                    "label": "Indice des prix à la consommation (IPC)",
+                    "text": "Mesure l’évolution moyenne des prix d’un panier de biens et services ; l’indicateur d’inflation le plus suivi."
+                },
+                "ppi": {
+                    "label": "Indice des prix à la production (IPP)",
+                    "text": "Suit les prix au niveau des producteurs ; la hausse des coûts d’intrants peut annoncer l’inflation consommateur."
+                },
+                "demandPull": {
+                    "label": "Inflation tirée par la demande",
+                    "text": "Survient lorsque la demande dépasse l’offre, poussant les prix à la hausse."
+                },
+                "costPush": {
+                    "label": "Inflation par les coûts",
+                    "text": "Résulte de la hausse des coûts de production (salaires, matières) répercutée sur les consommateurs."
+                }
+            }
+        },
+        "impactCurrency": {
+            "title": "Impact sur les marchés des devises (FX)",
+            "currencyStrength": {
+                "title": "1. Solidité de la devise",
+                "bullets": [
+                    "Une inflation élevée peut affaiblir une devise en érodant sa valeur réelle et la confiance des investisseurs.",
+                    "Des hausses de taux agressives pour combattre l’inflation peuvent attirer les capitaux en quête de rendement et soutenir la devise."
+                ]
+            },
+            "ratePolicy": {
+                "title": "2. Politique de taux d’intérêt",
+                "bullets": [
+                    "Quand l’inflation grimpe, les banques centrales relèvent souvent leurs taux, augmentant l’attrait de la devise via des rendements plus élevés.",
+                    "Une faible inflation (ou désinflation) peut inciter à des baisses de taux pour stimuler la demande, ce qui peut peser sur le FX."
+                ]
+            }
+        },
+        "impactCrypto": {
+            "title": "Impact sur les marchés crypto",
+            "hedge": {
+                "title": "1. Perception de « couverture anti-inflation »",
+                "bullets": [
+                    "Le Bitcoin et certains actifs numériques sont perçus comme des couvertures grâce à une offre fixe ou programmatique.",
+                    "Lors d’épisodes d’érosion fiduciaire, certains investisseurs se tournent vers la crypto pour préserver la valeur."
+                ]
+            },
+            "volatility": {
+                "title": "2. Volatilité et spéculation",
+                "bullets": [
+                    "La volatilité intrinsèque de la crypto peut être amplifiée par les flux et bascules de récit liés à l’inflation.",
+                    "Les participants se partagent entre des positions de couverture long terme et du trading spéculatif court terme."
+                ]
+            }
+        },
+        "indicators": {
+            "title": "Indicateurs à suivre",
+            "items": [
+                {
+                    "label": "IPC",
+                    "text": "Pouls mensuel de l’inflation qui façonne la trajectoire de politique et les réactions FX/crypto."
+                },
+                {
+                    "label": "IPP",
+                    "text": "Tendances des coûts producteurs susceptibles de précéder les mouvements des prix à la consommation."
+                },
+                {
+                    "label": "Rapports des banques centrales",
+                    "text": "Déclarations, minutes, projections et conférences de presse révélant les intentions de politique."
+                },
+                {
+                    "label": "Emploi & salaires",
+                    "text": "Des marchés du travail tendus et des salaires en accélération peuvent ancrer les pressions inflationnistes."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Avantages de la compréhension de l’inflation",
+            "bullets": [
+                "Améliore l’évaluation des devises et les anticipations de trajectoire des taux.",
+                "Soutient la construction de portefeuille entre expositions fiduciaires et crypto.",
+                "Approfondit la compréhension macro des cycles de politique et des impacts cross-assets."
+            ]
+        },
+        "limitations": {
+            "title": "Limites",
+            "bullets": [
+                "Caractère retardé : les indicateurs globaux comme l’IPC reflètent souvent la situation passée.",
+                "Effets de débordement mondiaux : l’inflation importée et les chocs externes compliquent la lecture.",
+                "Risque événementiel : les publications et indications d’inflation peuvent déclencher des réactions brusques et erratiques — surtout en crypto."
+            ]
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Emtia ve Kriptoda Arz ve Talep – Etkenler, Şoklar, Sinyaller | Qption",
+        "description": "Üretim, jeopolitik, hava koşulları, halving’ler, benimseme ve madencilik/staking akışlarının emtia ve kripto paralardaki arz ve talebi nasıl şekillendirdiğini anlayın. Tipik piyasa tepkilerini, arz-talep analizinin faydalarını ve temel sınırlamalarını öğrenin.",
+        "url": "https://qption.com/fundamental-analysis/supply-and-demand-commodities",
+        "keywords": "arz ve talep, emtia, kripto, Bitcoin halving, üretim seviyeleri, jeopolitik risk, hava şokları, benimseme, madencilik ödülleri, staking ödülleri, piyasa duyarlılığı, fiyat esnekliği, Qption",
+        "ld": {
+            "headline": "Emtia ve Kriptoda Arz ve Talep – Etkenler, Şoklar, Sinyaller",
+            "about": {
+                "supplyDemand": "Arz ve Talep",
+                "commodities": "Emtialar",
+                "crypto": "Kripto Paralar",
+                "halving": "Bitcoin Halving",
+                "mining": "Madencilik Ödülleri",
+                "staking": "Staking",
+                "geopolitics": "Jeopolitik",
+                "weather": "Hava Riski",
+                "sentiment": "Piyasa Duyarlılığı"
+            },
+            "props": {
+                "scarcity": {
+                    "name": "Kıtlık Dinamikleri",
+                    "value": "Sınırlı arzlar (ör. BTC) ve azalan ihraç oranları, talep kaynaklı fiyat hareketlerini güçlendirebilir."
+                },
+                "shock": {
+                    "name": "Şok Duyarlılığı",
+                    "value": "Emtialar, üretimi kısıtlayan dışsal şoklara (hava koşulları, çatışmalar) güçlü tepki verir."
+                },
+                "flowstock": {
+                    "name": "Akış vs. Stok",
+                    "value": "Kripto için yeni ihraç (akış) ile mevcut dolaşım (stok) ve yatırımcı davranışı, likiditeyi şekillendirir."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "page": {
+        "title": "Emtia ve Kripto Piyasalarında Arz ve Talep"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısınız?",
+        "start": "Ticarete Başla"
+    },
+    "sections": {
+        "_list": [
+            "Emtia ve Kripto Piyasalarında Arz ve Talep",
+            "Genel Bakış",
+            "Emtia Piyasalarında Arz ve Talebi Etkileyen Faktörler",
+            "Üretim Seviyeleri",
+            "Jeopolitik Olaylar",
+            "Hava Koşulları",
+            "Küresel Ekonomik Büyüme",
+            "Alternatif Enerji ve Teknolojiler",
+            "Kripto Piyasalarında Arz ve Talebi Etkileyen Faktörler",
+            "Sabit Arz ve Halving’ler",
+            "Piyasa Duyarlılığı ve Benimseme",
+            "Madencilik ve Staking Ödülleri",
+            "Arz ve Talep Değişimlerine Piyasa Tepkileri",
+            "Emtia Piyasaları",
+            "Kripto Piyasaları",
+            "Ticarette Arz ve Talep Analizini Anlamanın Faydaları",
+            "Arz ve Talep Analizinin Sınırlamaları"
+        ],
+        "overview": {
+            "title": "Genel Bakış",
+            "items": [
+                "Arz ve talep, emtia ve kripto paralar dahil tüm varlıklarda fiyat ve miktarı belirleyen temel güçlerdir.",
+                "Emtia arzı; üretim, hava koşulları ve jeopolitik gelişmelerle şekillenirken, talep küresel faaliyet ve sanayi ihtiyaçlarına bağlıdır.",
+                "Kripto arzı genellikle sınırlı veya programlanmıştır; talep ise benimseme, düzenleme ve yatırımcı duyarlılığına bağlı olarak değişir."
+            ]
+        },
+        "commodityFactors": {
+            "title": "Emtia Piyasalarında Arz ve Talebi Etkileyen Faktörler",
+            "items": [
+                {
+                    "label": "Üretim Seviyeleri:",
+                    "text": "Daha yüksek üretim, mevcut arzı artırır ve talep sabit kalırsa fiyatlar üzerinde aşağı yönlü baskı oluşturur."
+                },
+                {
+                    "label": "Jeopolitik Olaylar:",
+                    "text": "Çatışmalar, yaptırımlar ve ticaret politikaları tedarik zincirlerini bozabilir — özellikle enerji ve metallerde."
+                },
+                {
+                    "label": "Hava Koşulları:",
+                    "text": "Kuraklık, don veya fırtınalar mahsul verimini ve lojistiği etkileyerek arzı kısıtlar ve fiyatları yükseltir."
+                },
+                {
+                    "label": "Küresel Ekonomik Büyüme:",
+                    "text": "Ekonomik genişleme, sanayi ve tüketici talebini artırır; durgunluk ise talebi ve fiyatları düşürme eğilimindedir."
+                },
+                {
+                    "label": "Alternatif Enerji ve Teknolojiler:",
+                    "text": "Yenilenebilir enerji ve teknolojik gelişmeler, geleneksel yakıtlara olan talebi azaltarak uzun vadeli fiyat dinamiklerini değiştirebilir."
+                }
+            ]
+        },
+        "cryptoFactors": {
+            "title": "Kripto Piyasalarında Arz ve Talebi Etkileyen Faktörler",
+            "fixed": {
+                "title": "1. Sabit Arz ve Halving’ler",
+                "items": [
+                    "Birçok ağda (ör. Bitcoin) arz sınırlıdır ve zamanla kıtlık artar.",
+                    "Halving olayları, yeni arzı azaltarak akışı sıkılaştırır ve talep devam ederse fiyatları destekleyebilir."
+                ]
+            },
+            "sentiment": {
+                "title": "2. Piyasa Duyarlılığı ve Benimseme",
+                "items": [
+                    "Haberler, düzenlemeler ve etkili kişiler duyarlılığı hızla değiştirebilir ve talebi hareketlendirebilir.",
+                    "Şirketler ve kurumlar tarafından benimsenme, gerçek dünya kullanımını artırır ve uzun vadeli talebi güçlendirir."
+                ]
+            },
+            "rewards": {
+                "title": "3. Madencilik ve Staking Ödülleri",
+                "items": [
+                    "Blok ödülleri ve staking getirileri yeni arz yaratır; bu arz talep tarafından karşılanmazsa fiyat üzerinde baskı oluşturabilir.",
+                    "Zorluk veya getiri değişimleri, ihraç hızını ve dolaşımdaki miktarı etkiler."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Arz ve Talep Değişimlerine Piyasa Tepkileri",
+            "commodity": {
+                "title": "1. Emtia Piyasaları",
+                "items": [
+                    "Arz kesintileri, stokların azalmasıyla birlikte fiyatları genellikle yükseltir.",
+                    "Ekonomik genişlemeler sırasında talep artışı, sanayi girdilerinde fiyatları yukarı iter."
+                ]
+            },
+            "crypto": {
+                "title": "2. Kripto Piyasaları",
+                "items": [
+                    "Sınırlı arzla birlikte artan talep, keskin fiyat yükselişlerine yol açabilir.",
+                    "İhraç oranlarının azalması (ör. halving’ler), benimseme devam ettiği sürece fiyatları destekleyebilir."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Ticarette Arz ve Talep Analizini Anlamanın Faydaları",
+            "items": [
+                "Dengesizlikleri ve stok döngülerini öngörerek zamanlamayı iyileştirme.",
+                "Arz-talep dinamiklerine duyarlı varlıklar arasında daha iyi portföy dağılımı.",
+                "Arzın yapısal olarak kısıtlı olduğu durumlarda uzun vadeli perspektif geliştirme."
+            ]
+        },
+        "limits": {
+            "title": "Arz ve Talep Analizinin Sınırlamaları",
+            "items": [
+                "Yüksek volatilite kısa vadede temellerin etkisini bastırabilir.",
+                "Spekülasyon ve kaldıraç, gözlemlenen arz-talep sinyallerini bozabilir.",
+                "Politika, teknoloji veya jeopolitik gibi dışsal şoklar tabloyu ani şekilde değiştirebilir."
+            ]
+        }
+    }
+}

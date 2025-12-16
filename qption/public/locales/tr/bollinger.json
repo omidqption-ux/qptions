@@ -1,0 +1,90 @@
+{
+    "seo": {
+        "title": "Bollinger Bantları Stratejisi – Teknik Analiz | Qption",
+        "description": "Volatiliteye dayalı işlem stratejilerini Bollinger Bantları ile öğrenin: squeeze formasyonları, aşırı alım/satım dönüşleri ve trend takibi — Qption’da tam rehber.",
+        "keywords": "Bollinger bantları, teknik analiz, squeeze, aşırı alım, aşırı satım, trend takibi, volatilite, işlem stratejisi, Qption",
+        "ogTitle": "Bollinger Bantları Stratejisi – Teknik Analiz | Qption",
+        "ogDescription": "Bollinger Bantlarını kullanarak sıkışma, dönüş ve trend devamı formasyonlarını öğrenin.",
+        "url": "https://qption.com/technical-analysis/bollinger",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "breadcrumb": {
+        "tradingStrategy": "İşlem Stratejisi"
+    },
+    "labels": {
+        "backToTechnical": "Teknik Analiz",
+        "videoAria": "Bollinger Bantları, piyasa volatilitesini ölçmek ve aşırı alım/satım bölgelerini belirlemek için kullanılan popüler bir teknik analiz aracıdır."
+    },
+    "promo": {
+        "text": "Bollinger Bantları ile işlem yapmaya hazır mısınız?",
+        "cta": "İşleme Başla"
+    },
+    "hero": {
+        "title": "Bollinger Bantları Stratejisi",
+        "subtitle": "Volatiliteye dayalı işlem sanatını kapsamlı analizimizle öğrenin"
+    },
+    "overview": {
+        "title": "Genel Bakış",
+        "bullets": [
+            "Bollinger Bantları, volatiliteyi ölçmek ve aşırı alım/satım seviyelerini tespit etmek için kullanılır.",
+            "Gösterge, genellikle 20 periyotluk bir hareketli ortalama (orta bant) ile üst ve alt bantlardan oluşur.",
+            "Fiyat ile volatilite arasındaki ilişkiyi inceleyerek olası fiyat hareketlerini tahmin etmeye yardımcı olur."
+        ]
+    },
+    "how": {
+        "title": "Bollinger Bantları Nasıl Çalışır",
+        "items": [
+            {
+                "title": "Orta Bant",
+                "desc": "Fiyat verilerini yumuşatır ve mevcut trendi gösterir."
+            },
+            {
+                "title": "Üst Bant",
+                "desc": "Orta bandın 2 standart sapma üzerindedir; fiyat temas ettiğinde aşırı alım sinyali olabilir."
+            },
+            {
+                "title": "Alt Bant",
+                "desc": "Orta bandın 2 standart sapma altındadır; fiyat yaklaşınca aşırı satım sinyali olabilir."
+            },
+            {
+                "title": "Volatilite Yorumu",
+                "desc": "Bantlar yüksek volatilitede genişler, düşükte daralır; bu genellikle trend değişimi öncesinde görülür."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Temel Stratejiler",
+        "items": [
+            {
+                "title": "1. Bollinger Band Sıkışması",
+                "points": [
+                    "Oluşum: Bantlar daralır, düşük volatilite büyük bir hareketin habercisidir.",
+                    "Yorum: Fiyat üst bandı kırarsa yükseliş, alt bandı kırarsa düşüş trendi devam eder.",
+                    "Onay: Hacim veya ek göstergelerle doğrulayın."
+                ]
+            },
+            {
+                "title": "2. Aşırı Alım/Aşırı Satım Dönüşleri",
+                "points": [
+                    "Aşırı Alım: Fiyat üst bandı aşarsa düşüş sinyali gelebilir.",
+                    "Aşırı Satım: Fiyat alt bandı aşarsa yükseliş sinyali gelebilir.",
+                    "Onay: RSI gibi göstergeler doğruluk oranını artırır."
+                ]
+            },
+            {
+                "title": "3. Bantları Takip Etme (Trend Takibi)",
+                "points": [
+                    "Trend Sinyali: Fiyat üst bandı takip ediyorsa güçlü yükseliş; alt bandı takip ediyorsa güçlü düşüş trendidir.",
+                    "Giriş/Çıkış: Orta bandı dinamik stop olarak kullanın."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Sınırlamalar",
+        "bullets": [
+            "Gecikmeli Gösterge: Geçmiş fiyatlara dayalı olduğu için ani hareketlere geç tepki verir.",
+            "Yanıltıcı Sinyaller: Düz piyasalarda yanlış alım/satım sinyalleri üretebilir."
+        ]
+    }
+}

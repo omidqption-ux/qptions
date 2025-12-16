@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Überblick über die Technische Analyse | Qption",
+        "description": "Meistere die Kunst der Marktanalyse mit unserem umfassenden Leitfaden zur technischen Analyse – Kernkonzepte, beliebte Indikatoren und häufige Einschränkungen.",
+        "keywords": "technische Analyse, Preisaktion, Indikatoren, Trends, Unterstützung Widerstand, RSI, gleitende Durchschnitte, Bollinger Bänder, Trading Ausbildung, Qption",
+        "ogTitle": "Überblick über die Technische Analyse | Qption",
+        "ogDescription": "Ein prägnanter, praxisorientierter Leitfaden zur technischen Analyse: was sie ist, wie sie funktioniert und welche Werkzeuge Trader nutzen.",
+        "url": "https://qption.com/technical-analysis/technical",
+        "image": "https://qption.com/images/og/technical-overview-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Technische Analyse"
+    },
+    "promo": {
+        "text": "Bereit, die technische Analyse zu meistern?",
+        "cta": "Jetzt lernen"
+    },
+    "hero": {
+        "title": "Überblick über die Technische Analyse",
+        "subtitle": "Meistere die Kunst der Marktanalyse mit unserem umfassenden Leitfaden zur technischen Analyse"
+    },
+    "overview": {
+        "title": "Überblick",
+        "bullets": [
+            "Die technische Analyse ist eine Handelsdisziplin, die Preisdiagramme, Muster und Indikatoren verwendet, um zukünftige Kursbewegungen vorherzusagen.",
+            "Sie konzentriert sich auf historische Preisdaten, Volumen und Marktkennzahlen, um Trends und potenzielle Ein- oder Ausstiegspunkte zu identifizieren.",
+            "Sie wird in vielen Märkten verwendet, darunter Aktien, Forex, Kryptowährungen und Rohstoffe."
+        ]
+    },
+    "core": {
+        "title": "Kernkonzepte",
+        "items": [
+            {
+                "title": "Preistrends",
+                "desc": "Preise bewegen sich tendenziell in Trends – aufwärts, abwärts oder seitwärts – die oft anhalten, bis eine Umkehr eintritt."
+            },
+            {
+                "title": "Unterstützung und Widerstand",
+                "desc": "Schlüsselniveaus, an denen der Preis pausieren oder umkehren kann. Unterstützung ist ein Boden, an dem Kaufinteresse auftritt; Widerstand ist eine Decke, an der Verkaufsinteresse entsteht."
+            },
+            {
+                "title": "Marktzyklen",
+                "desc": "Preise bewegen sich häufig in Zyklen, die von Psychologie, makroökonomischen Bedingungen und Marktstimmung beeinflusst werden."
+            }
+        ]
+    },
+    "indicators": {
+        "title": "Beliebte Indikatoren",
+        "items": [
+            {
+                "title": "Gleitende Durchschnitte",
+                "points": [
+                    "Gleitende Durchschnitte glätten den Preis, um die Trendrichtung und mögliche Umkehrzonen sichtbar zu machen.",
+                    "Zu den häufigsten Typen gehören der einfache gleitende Durchschnitt (SMA) und der exponentielle gleitende Durchschnitt (EMA)."
+                ]
+            },
+            {
+                "title": "Relative-Stärke-Index (RSI)",
+                "points": [
+                    "Der RSI ist ein Momentum-Oszillator, der die Geschwindigkeit und das Ausmaß von Preisänderungen misst.",
+                    "Werte über 70 deuten oft auf überkaufte Bedingungen hin, Werte unter 30 auf überverkaufte."
+                ]
+            },
+            {
+                "title": "Bollinger-Bänder",
+                "points": [
+                    "Ein gleitender Durchschnitt mit oberen/unteren Bändern zur Messung der Volatilität.",
+                    "Die Bänder erweitern sich bei hoher Volatilität und verengen sich bei niedriger Volatilität."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Einschränkungen",
+        "bullets": [
+            "Stützt sich auf historische Daten, die zukünftige Bewegungen möglicherweise nicht genau vorhersagen.",
+            "Anfällig für Fehlsignale in unruhigen oder seitwärts gerichteten Märkten.",
+            "Erfordert Erfahrung in der Interpretation – verschiedene Indikatoren können widersprüchliche Signale liefern, daher ist Konfluenz entscheidend."
+        ]
+    }
+}

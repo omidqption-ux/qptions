@@ -1,0 +1,103 @@
+{
+    "seo": {
+        "title": "Analyse fondamentale – Perspectives macro & radar des résultats | Qption",
+        "description": "Gardez une longueur d’avance avec le hub d’analyse fondamentale de Qption : impact live du calendrier économique, synthèses de résultats et recherche macro pour le forex, la crypto et les indices mondiaux.",
+        "keywords": "analyse fondamentale, calendrier économique, publications de résultats, analyse macro, inflation, taux d’intérêt, PIB, fondamentaux forex, fondamentaux crypto, recherche Qption",
+        "ogTitle": "Analyse fondamentale – Perspectives macro & radar des résultats | Qption",
+        "ogDescription": "Suivez les données qui font bouger les marchés – le desk recherche de Qption transforme les annonces clés en idées de trading actionnables.",
+        "url": "https://qption.com/fundamental-analysis",
+        "image": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Analyse fondamentale – Perspectives macro & radar des résultats | Qption",
+        "twitterDescription": "Découvrez l’histoire derrière les graphiques : suivez en temps réel les annonces économiques et les earnings via la suite d’analyse fondamentale de Qption.",
+        "twitterImage": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "canonical": "https://qption.com/fundamental-analysis"
+    },
+    "page": {
+        "title": "Analyse fondamentale",
+        "subtitle": "Explorez des analyses complètes des indicateurs économiques, des tendances de marché et des instruments financiers pour des décisions éclairées."
+    },
+    "cta": {
+        "takeQuiz": "Faire le quiz"
+    },
+    "cards": {
+        "economicIndicators": {
+            "title": "Indicateurs économiques",
+            "description": "Principaux indicateurs et leur impact sur les marchés"
+        },
+        "centralBankPolicies": {
+            "title": "Politiques des banques centrales",
+            "description": "Politiques monétaires et influence sur les marchés"
+        },
+        "inflation": {
+            "title": "Analyse de l’inflation",
+            "description": "Comprendre les tendances et effets de l’inflation"
+        },
+        "interestRates": {
+            "title": "Taux d’intérêt",
+            "description": "Évolution des taux et impact sur les marchés"
+        },
+        "geopolitics": {
+            "title": "Événements géopolitiques & marchés",
+            "description": "Événements mondiaux et implications boursières"
+        },
+        "fiscalPolicy": {
+            "title": "Politiques budgétaires & dépenses publiques",
+            "description": "Effets des dépenses publiques et de la fiscalité"
+        },
+        "debtAndFX": {
+            "title": "Niveaux d’endettement & valorisation des devises",
+            "description": "Analyse des marchés obligataires et instruments de dette"
+        },
+        "supplyDemandCommodities": {
+            "title": "Offre & demande (matières premières)",
+            "description": "Marchés de matières premières et moteurs de prix"
+        },
+        "safeHavens": {
+            "title": "Actifs refuges vs turbulences",
+            "description": "Analyse des investissements refuges traditionnels"
+        },
+        "forexCfds": {
+            "title": "Forex & CFD",
+            "description": "Marchés des devises et instruments dérivés"
+        },
+        "cryptoRegulation": {
+            "title": "Adoption & régulation crypto",
+            "description": "Tendances et adoption des crypto-actifs"
+        },
+        "blockchainFA": {
+            "title": "Analyse fondamentale blockchain",
+            "description": "Évolutions et applications de la blockchain"
+        }
+    },
+    "tournaments": {
+        "title": "Tournois",
+        "labels": {
+            "prize": "Prix",
+            "participants": "Participants"
+        },
+        "ui": {
+            "join": "Rejoindre le tournoi",
+            "close": "Fermer"
+        },
+        "defaults": {
+            "weekly": {
+                "title": "Défi trading hebdomadaire",
+                "prize": "5 000 $",
+                "participants": "1 234",
+                "startDate": "2024-04-25",
+                "endDate": "2024-05-02",
+                "status": "Bientôt"
+            },
+            "monthly": {
+                "title": "Tournoi mensuel Master",
+                "prize": "25 000 $",
+                "participants": "3 456",
+                "startDate": "2024-05-01",
+                "endDate": "2024-05-31",
+                "status": "Inscriptions ouvertes"
+            }
+        },
+        "list": []
+    }
+}

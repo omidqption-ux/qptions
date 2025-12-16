@@ -1,0 +1,150 @@
+{
+    "seo": {
+        "title": "Correlazione tra Mercati Azionari e Forex/CFD: Fattori, Schemi e Regimi di Rischio | Qption",
+        "description": "Scopri come i mercati azionari e quelli Forex/CFD si muovono insieme (o in direzioni opposte). Approfondisci i fattori macro — tassi d’interesse, dati economici, sentiment di rischio e flussi di capitale — oltre alle correlazioni positive/negative più comuni e al loro utilizzo per diversificazione e copertura.",
+        "url": "https://qption.com/fundamental-analysis/forex-cfds",
+        "keywords": "correlazione azioni e forex, correlazione CFD, risk-on risk-off, tassi d'interesse e FX, flussi di capitale, valute rifugio JPY CHF, USD e azioni, correlazione AUD materie prime, copertura del portafoglio, Qption",
+        "ld": {
+            "headline": "Correlazione tra Mercati Azionari e Forex/CFD",
+            "about": {
+                "equities": "Mercati Azionari",
+                "forex": "Mercato dei Cambi (Forex)",
+                "cfds": "Contratti per Differenza (CFD)",
+                "riskSentiment": "Sentiment di Rischio Globale",
+                "safeHavens": "Valute Rifugio",
+                "rates": "Tassi di Interesse",
+                "flows": "Flussi di Capitale"
+            },
+            "props": {
+                "regimes": {
+                    "name": "Regimi di Correlazione",
+                    "value": "Le relazioni cambiano in base al regime risk-on/risk-off; le valute rifugio (JPY, CHF) tendono a rafforzarsi quando i mercati azionari globali calano."
+                },
+                "commodity": {
+                    "name": "Legami con le Materie Prime",
+                    "value": "AUD e i settori azionari legati alle risorse si muovono spesso insieme a causa dei cicli delle materie prime e dei termini di scambio."
+                },
+                "practice": {
+                    "name": "Utilizzo Pratico",
+                    "value": "I trader utilizzano la consapevolezza delle correlazioni per diversificare, coprirsi e evitare esposizioni eccessivamente concentrate."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analisi Fondamentale"
+    },
+    "cta": {
+        "ready": "Pronto per fare trading?",
+        "start": "Inizia a fare trading"
+    },
+    "page": {
+        "title": "Correlazione tra Mercati Azionari e Forex/CFD"
+    },
+    "sections": {
+        "_list": [
+            "Panoramica",
+            "Principali Fattori di Correlazione",
+            "Tassi di Interesse",
+            "Dati Economici",
+            "Sentiment di Rischio Globale",
+            "Flussi di Capitale",
+            "Correlazioni Comuni tra Mercati Azionari e Forex/CFD",
+            "Correlazioni Positive",
+            "Correlazioni Negative",
+            "Come i Mercati Azionari Influenzano il Forex/CFD",
+            "Rialzi Azionari e Forza delle Valute",
+            "Cali Azionari e Valute Rifugio",
+            "Vantaggi della Comprensione delle Correlazioni",
+            "Limiti dell’Affidarsi alle Correlazioni"
+        ],
+        "overview": {
+            "title": "Panoramica",
+            "items": [
+                "I mercati azionari e quelli Forex/CFD spesso si muovono in relazione tra loro, con variazioni in uno che influenzano l’altro.",
+                "Questa correlazione deriva da fattori macroeconomici come aspettative di crescita, tassi d’interesse, appetito per il rischio e flussi di capitale globali.",
+                "Comprendere questi collegamenti aiuta i trader a costruire strategie più efficaci di diversificazione e copertura tra le diverse classi di asset."
+            ]
+        },
+        "drivers": {
+            "title": "Principali Fattori di Correlazione",
+            "items": [
+                {
+                    "label": "Tassi di Interesse:",
+                    "text": "Le politiche delle banche centrali influenzano sia le valute che le azioni — l’aumento dei tassi può rafforzare le valute ma mettere pressione sulle valutazioni azionarie."
+                },
+                {
+                    "label": "Dati Economici:",
+                    "text": "Dati forti su PIL, occupazione e inflazione influenzano il sentiment degli investitori in entrambi i mercati, allineandone spesso la direzione."
+                },
+                {
+                    "label": "Sentiment di Rischio Globale:",
+                    "text": "Durante le fasi di 'risk-off', gli investitori escono dalle azioni e si rifugiano in valute sicure come JPY e CHF; le fasi 'risk-on' invertono questo comportamento."
+                },
+                {
+                    "label": "Flussi di Capitale:",
+                    "text": "Gli investimenti transfrontalieri nei mercati azionari aumentano la domanda della valuta locale, mentre i deflussi possono indebolirla."
+                }
+            ]
+        },
+        "common": {
+            "title": "Correlazioni Comuni tra Mercati Azionari e Forex/CFD",
+            "positive": {
+                "title": "Correlazioni Positive",
+                "items": [
+                    "USD e Azioni USA: Un’economia robusta può rafforzare sia il dollaro che i mercati azionari, poiché gli investitori si aspettano una forte crescita.",
+                    "AUD e Azioni delle Materie Prime: La valuta australiana, legata alle risorse, tende a muoversi in linea con i titoli minerari ed energetici."
+                ]
+            },
+            "negative": {
+                "title": "Correlazioni Negative",
+                "items": [
+                    "JPY e Azioni Giapponesi: Lo yen tende a rafforzarsi quando le azioni giapponesi calano, poiché i capitali rientrano nel paese durante periodi di avversione al rischio.",
+                    "CHF e Azioni Globali: Il franco svizzero solitamente si apprezza quando i mercati azionari globali scendono, riflettendo una fuga verso la sicurezza."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Come i Mercati Azionari Influenzano il Forex/CFD",
+            "rallies": {
+                "title": "Rialzi Azionari e Forza delle Valute",
+                "items": [
+                    "Quando i mercati azionari crescono, gli afflussi di capitali possono rafforzare la valuta locale poiché gli investitori cercano esposizione alla crescita.",
+                    "Le buone performance azionarie aumentano la fiducia, attirando investimenti esteri e sostenendo l’apprezzamento della valuta."
+                ]
+            },
+            "declines": {
+                "title": "Cali Azionari e Valute Rifugio",
+                "items": [
+                    "I cali dei mercati spingono gli investitori verso valute rifugio come USD, JPY e CHF, che tendono a salire.",
+                    "Durante le crisi, gli investitori riducono l’esposizione al rischio e spostano i fondi dalle azioni alle valute più stabili per preservare il capitale."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Vantaggi della Comprensione delle Correlazioni tra Azioni e Forex/CFD",
+            "items": [
+                "Migliora la diversificazione gestendo il rischio tra diverse classi di asset.",
+                "Supporta un miglior timing comprendendo come un mercato influenzi l’altro.",
+                "Aiuta a individuare opportunità di copertura per compensare potenziali perdite."
+            ]
+        },
+        "limits": {
+            "title": "Limiti dell’Affidarsi alle Correlazioni",
+            "items": [
+                {
+                    "label": "Cambiamenti Imprevedibili:",
+                    "text": "Le correlazioni possono variare rapidamente in risposta a politiche economiche o shock globali, riducendone l’affidabilità."
+                },
+                {
+                    "label": "Fattori Specifici di Mercato:",
+                    "text": "Eventi locali come risultati societari o rischi politici possono alterare i modelli tipici tra i mercati."
+                },
+                {
+                    "label": "Interdipendenze Complesse:",
+                    "text": "Molteplici forze macro e microeconomiche interagiscono, rendendo le correlazioni dinamiche e variabili nel tempo."
+                }
+            ]
+        }
+    }
+}

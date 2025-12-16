@@ -1,0 +1,50 @@
+{
+    "seo": {
+        "title": "Stratégie de retournement | Qption",
+        "description": "Apprenez la stratégie de retournement : repérer l’épuisement d’un trend, utiliser supports/résistances, RSI, MACD, divergences et figures de chandeliers pour confirmer les entrées, tout en gérant le risque avec stops et objectifs clairs.",
+        "keywords": "stratégie de retournement, retournement de tendance, trend exhaustion, support et résistance, divergence, RSI, MACD, figures de chandeliers, marteau, engloutissement, gestion du risque, signaux de confirmation, stratégie de trading, Qption",
+        "url": "https://qption.com/graphical-analysis/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "ogAlt": "Stratégie de retournement"
+    },
+    "ui": {
+        "backToGraphical": "Retour à l’analyse graphique",
+        "graphicalLink": "Analyse graphique"
+    },
+    "page": {
+        "title": "Stratégie de retournement"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "start": "Commencer à trader"
+    },
+    "video": {
+        "aria": "Un retournement apparaît lorsque la tendance en cours s’essouffle et pourrait changer de direction. Les traders surveillent les signes d’épuisement : momentum qui ralentit, sommets plus bas en tendance haussière ou creux plus hauts en tendance baissière."
+    },
+    "sections": {
+        "keyConcepts": {
+            "h": "Concepts clés de la stratégie de retournement",
+            "items": [
+                "Épuisement de tendance : un retournement naît lorsque le trend perd du momentum et signale un possible changement.",
+                "Niveaux de support/résistance : des zones solides peuvent provoquer une inversion, qu’il s’agisse d’un support en tendance baissière ou d’une résistance en tendance haussière.",
+                "Indicateurs techniques : RSI, MACD ou Stochastique détectent les zones surachetées/survendues indiquant un retournement potentiel.",
+                "Figures de chandeliers : doji, marteau ou engulfing signalent visuellement des points de bascule.",
+                "Divergences : quand prix et indicateur évoluent en sens opposé (par ex. prix en creux plus bas, RSI en creux plus haut), un retournement peut suivre."
+            ]
+        },
+        "apply": {
+            "h": "Mettre en œuvre la stratégie",
+            "items": [
+                "Identifier la tendance dominante – les retournements sont plus fiables après des tendances marquées et prolongées.",
+                "Surveiller les signaux : extrêmes d’indicateurs ou chandeliers de retournement.",
+                "Attendre la confirmation via un break/retest de S/R, une divergence ou une séquence de chandeliers opposés.",
+                "Définir entrées et sorties avec supports/résistances et moyennes mobiles.",
+                "Appliquer un risque strict – placer les stops juste au-delà des zones invalidées."
+            ]
+        },
+        "example": {
+            "h": "Exemple d’application",
+            "text": "Une action en tendance haussière depuis plusieurs semaines affiche un RSI > 70 et un chandelier englobant baissier près d’une résistance, avec une divergence MACD. Le trader initie un short avec stop au-dessus de la résistance et vise les anciens creux comme objectifs."
+        }
+    }
+}

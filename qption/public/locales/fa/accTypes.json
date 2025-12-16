@@ -1,0 +1,98 @@
+{
+    "seo": {
+        "title": "انواع حساب – مقایسه پلن‌ها | Qption",
+        "description": "انواع حساب‌های Qption — Basic، Silver، Gold، Platinum، Diamond و Exclusive — را از نظر حداقل واریز، ابزارها، پشتیبانی و مزایای VIP مقایسه کنید. مناسب‌ترین پلن را برای اهداف معاملاتی‌تان انتخاب کنید.",
+        "keywords": "انواع حساب Qption، حساب Basic، حساب Silver، حساب Gold، حساب Platinum، حساب Diamond، حساب Exclusive، مقایسه حساب معاملاتی، حداقل واریز، ابزارهای معاملاتی، خدمات VIP",
+        "ogTitle": "انواع حساب – مقایسه پلن‌ها | Qption",
+        "ogDescription": "ویژگی‌های حساب‌های Basic، Silver، Gold، Platinum، Diamond و Exclusive را مقایسه کنید — از حداقل سرمایه تا پشتیبانی اختصاصی.",
+        "ogUrl": "https://qption.com/accounttypes",
+        "ogImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "انواع حساب – مقایسه پلن‌ها | Qption",
+        "twitterDescription": "از Basic تا Exclusive، مناسب‌ترین گزینه را پیدا کنید. مجموعه کامل سطوح حساب و مزایا در Qption.",
+        "twitterImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "canonical": "https://qption.com/accounttypes",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "نوع حساب خود را انتخاب کنید",
+        "subtitle": "حسابی را برگزینید که با اهداف معاملاتی شما هم‌خوان است",
+        "cta": "شروع کنید",
+        "fromPrefix": "$",
+        "invitationOnly": "صرفاً با دعوت"
+    },
+    "plans": {
+        "basic": {
+            "title": "Basic",
+            "desc": "برای شروع آسان ایده‌آل است و هر زمان می‌توانید وضعیت خود را ارتقا دهید.",
+            "from": "10",
+            "features": [
+                "ابزارهای معاملاتی پایه",
+                "پشتیبانی ایمیلی",
+                "تحلیل بازار",
+                "پشتیبانی ۲۴/۷"
+            ]
+        },
+        "silver": {
+            "title": "Silver",
+            "desc": "فراتر از حساب Basic؛ مناسب کسانی که می‌خواهند جلوتر باشند.",
+            "from": "50",
+            "features": [
+                "همه امکانات Basic",
+                "پشتیبانی اولویت‌دار",
+                "نمودارهای پیشرفته",
+                "به‌روزرسانی‌های روزانه بازار"
+            ]
+        },
+        "gold": {
+            "title": "Gold",
+            "desc": "با حساب Gold شروع کنید؛ انتخاب اکثر مشتریان ما همراه با مشاوره رایگان.",
+            "from": "500",
+            "features": [
+                "همه امکانات Silver",
+                "مشاوره‌های رایگان",
+                "مدیر حساب شخصی",
+                "وبینارهای VIP"
+            ]
+        },
+        "platinum": {
+            "title": "Platinum",
+            "desc": "جایی که سرمایه‌گذاری هوشمند آغاز می‌شود — از امکانات ممتاز و ارزش افزوده لذت ببرید.",
+            "from": "5000",
+            "features": [
+                "همه امکانات Gold",
+                "پشتیبانی اختصاصی ۲۴/۷",
+                "استراتژی‌های معاملاتی سفارشی",
+                "رویدادهای انحصاری"
+            ]
+        },
+        "diamond": {
+            "title": "Diamond",
+            "desc": "بهترین تخصص و مدیریت اختصاصی ما برای سرمایه‌گذاران جدی.",
+            "from": "10000",
+            "features": [
+                "همه امکانات Platinum",
+                "راهکارهای سرمایه‌گذاری سفارشی",
+                "جلسات خصوصی معامله‌گری",
+                "پاداش‌های لوکس"
+            ]
+        },
+        "exclusive": {
+            "title": "Exclusive",
+            "desc": "برای اطلاعات بیشتر با مدیر حساب خود هماهنگ کنید.",
+            "from": "صرفاً با دعوت",
+            "features": [
+                "راهکارهای سفارشی",
+                "مدیریت ثروت خصوصی",
+                "بینش‌های انحصاری بازار",
+                "خدمات شخصی‌سازی‌شده"
+            ]
+        }
+    },
+    "withdrawal": {
+        "title": "روش‌های برداشت",
+        "body1": "آزادانه معامله کنید و به‌سادگی به وجوه خود دسترسی داشته باشید. با بیش از ۲۰ روش پرداخت، می‌توانید وجوه را مستقیماً به کارت‌های بدهی/اعتباری (Visa، MasterCard، Maestro، UnionPay) انتقال دهید یا از روش‌های الکترونیکی مانند Neteller، Skrill، Perfect Money، FasaPay و سایر روش‌ها استفاده کنید.",
+        "highlight": "حساب‌های Gold، Platinum و Exclusive از اولویت در پردازش برداشت برخوردارند."
+    }
+}

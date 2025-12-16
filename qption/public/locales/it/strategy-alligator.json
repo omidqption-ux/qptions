@@ -1,0 +1,170 @@
+{
+    "seo": {
+        "title": "Strategia Alligator – Mascella, denti, labbra, fasi di mercato e rischio | Qption",
+        "description": "Comprendi la strategia Alligator di Bill Williams: impostazioni Jaw/Teeth/Lips, fasi di mercato (sleeping, waking, feeding, sated), applicazione passo-passo, come combinarla con Frattali/RSI/MACD/volume, oltre a pro/contro ed esempio.",
+        "keywords": "strategia alligator, Bill Williams Alligator, mascella denti labbra alligator, medie mobili smussate, identificazione trend, fasi di mercato, sleeping alligator, waking alligator, feeding alligator, frattali, RSI, MACD, analisi del volume, gestione del rischio, strategia di trading, Qption",
+        "url": "https://qption.com/trading-strategy/alligator",
+        "image": "https://qption.com/videos/alligator-strategy/alligator-strategy.png",
+        "imageAlt": "Grafico con strategia Alligator",
+        "jsonLd": {
+            "headline": "Strategia Alligator – Mascella, denti, labbra, fasi di mercato e rischio",
+            "about": [
+                { "@type": "Thing", "name": "Bill Williams Alligator" },
+                { "@type": "Thing", "name": "Medie mobili smussate" },
+                { "@type": "Thing", "name": "Identificazione del trend" },
+                { "@type": "Thing", "name": "Fasi di mercato" },
+                { "@type": "Thing", "name": "Frattali" },
+                { "@type": "Thing", "name": "RSI" },
+                { "@type": "Thing", "name": "MACD" },
+                { "@type": "Thing", "name": "Analisi del volume" },
+                { "@type": "Thing", "name": "Gestione del rischio" }
+            ],
+            "articleSection": [
+                "Strategia Alligator",
+                "Concetti chiave dell’indicatore Alligator",
+                "Comportamento dell’Alligator sul mercato",
+                "Applicare la strategia Alligator",
+                "Combinare l’Alligator con altri indicatori",
+                "Esempio operativo",
+                "Pro e contro della strategia",
+                "Esempio sul grafico"
+            ],
+            "additionalProperty": [
+                { "@type": "PropertyValue", "name": "Jaw (Blu)", "value": "SMA a 13 periodi smussata di 8" },
+                { "@type": "PropertyValue", "name": "Teeth (Rosso)", "value": "SMA a 8 periodi smussata di 5" },
+                { "@type": "PropertyValue", "name": "Lips (Verde)", "value": "SMA a 5 periodi smussata di 3" }
+            ]
+        }
+    },
+    "breadcrumb": "Strategia di trading",
+    "title": "Strategia Alligator",
+    "cta": {
+        "prompt": "Pronto a fare trading?",
+        "button": "Inizia a fare trading"
+    },
+    "video": {
+        "aria": "Mascella, denti, labbra dell’Alligator, fasi comportamentali e stato sleeping"
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Concetti chiave dell’indicatore Alligator",
+            "items": {
+                "jaw": {
+                    "title": "Mascella dell’Alligator (linea blu):",
+                    "desc": "Media mobile a 13 periodi smussata di 8, riflette la direzione di lungo termine."
+                },
+                "teeth": {
+                    "title": "Denti dell’Alligator (linea rossa):",
+                    "desc": "Media mobile a 8 periodi smussata di 5, allineata con il trend di medio periodo."
+                },
+                "lips": {
+                    "title": "Labbra dell’Alligator (linea verde):",
+                    "desc": "Media mobile a 5 periodi smussata di 3; reagisce più velocemente e rappresenta il movimento di breve."
+                }
+            }
+        },
+        "behavior": {
+            "title": "Comportamento dell’Alligator sul mercato",
+            "intro": "L’Alligator aiuta a visualizzare la condizione di mercato e a temporizzare ingressi/uscite:",
+            "items": {
+                "sleeping": {
+                    "title": "Alligator addormentato:",
+                    "desc": "Linee intrecciate; mercato laterale. Molti trader attendono direzione più chiara."
+                },
+                "waking": {
+                    "title": "Alligator che si sveglia:",
+                    "desc": "Le linee iniziano a separarsi; può nascere un nuovo trend. Si cercano ingressi nella direzione del breakout."
+                },
+                "feeding": {
+                    "title": "Alligator che si nutre:",
+                    "desc": "Le linee si aprono nettamente; il trend è consolidato. Molti mantengono la posizione."
+                },
+                "sated": {
+                    "title": "Alligator sazio:",
+                    "desc": "Le linee tornano a convergere; il momentum cala. Valuta prese di profitto o possibili inversioni/consolidamenti."
+                }
+            }
+        },
+        "apply": {
+            "title": "Applicare la strategia Alligator",
+            "items": {
+                "identify": {
+                    "title": "Identifica il trend:",
+                    "desc": "Linee larghe e allineate indicano trend forte; linee intrecciate indicano consolidamento."
+                },
+                "enter": {
+                    "title": "Entra quando si sveglia:",
+                    "desc": "Usa la prima separazione delle linee come segnale di ingresso nella direzione emergente."
+                },
+                "hold": {
+                    "title": "Mantieni durante il feeding:",
+                    "desc": "Quando la distanza aumenta, molti trader restano in posizione per catturare il movimento."
+                },
+                "exit": {
+                    "title": "Esci quando si riaddormenta:",
+                    "desc": "La convergenza segnala momentum in declino; valuta exit o tight risk."
+                }
+            }
+        },
+        "combine": {
+            "title": "Combinare l’Alligator con altri indicatori",
+            "items": {
+                "fractals": {
+                    "title": "Frattali:",
+                    "desc": "Usa i Frattali di Williams per segnare potenziali inversioni e confermare ingressi/uscite."
+                },
+                "momentum": {
+                    "title": "Indicatori di momentum:",
+                    "desc": "RSI o MACD possono confermare la forza del trend insieme all’allineamento dell’Alligator."
+                },
+                "volume": {
+                    "title": "Analisi del volume:",
+                    "desc": "Volumi in aumento sui breakout supportano la fase “waking” e la validità del trend."
+                }
+            }
+        },
+        "example": {
+            "title": "Esempio operativo",
+            "p1": "Dopo una fase di consolidamento con Mascella, Denti e Labbra intrecciati, le Labbra incrociano al rialzo i Denti e la Mascella e le linee iniziano ad allargarsi, segnalando un potenziale trend bullish.",
+            "p2": "Quando lo spread si amplia (fase feeding) si mantiene la posizione long. Alla nuova convergenza delle linee si valuta l’uscita per proteggere i profitti prima di una possibile inversione."
+        },
+        "prosCons": {
+            "title": "Pro e contro della strategia Alligator",
+            "pros": {
+                "title": "Pro:",
+                "items": {
+                    "clarity": {
+                        "title": "Segnali di trend chiari:",
+                        "desc": "Visualizza facilmente le fasi per ingressi/uscite."
+                    },
+                    "timeframes": {
+                        "title": "Funziona su più timeframe:",
+                        "desc": "Utile su forex, azioni e materie prime in vari orizzonti."
+                    },
+                    "compatible": {
+                        "title": "Compatibile con altri tool:",
+                        "desc": "Si integra bene con Frattali e indicatori di momentum."
+                    }
+                }
+            },
+            "cons": {
+                "title": "Contro:",
+                "items": {
+                    "lag": {
+                        "title": "Ritardo nei mercati veloci:",
+                        "desc": "Le medie smussate possono reagire in ritardo in alta volatilità."
+                    },
+                    "false": {
+                        "title": "Falsi segnali in range:",
+                        "desc": "In fasi laterali possono verificarsi whipsaw."
+                    }
+                }
+            }
+        },
+        "chart": {
+            "title": "Esempio sul grafico",
+            "p1": "Setup ideale: le tre linee sono strette (consolidamento) e poi si aprono quando parte il trend.",
+            "p2": "Durante le fasi “waking/feeding” si privilegia l’ingresso e la permanenza; la convergenza invita a prendere profitto o a usare più cautela."
+        }
+    }
+}

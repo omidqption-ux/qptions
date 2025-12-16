@@ -1,0 +1,103 @@
+{
+    "seo": {
+        "title": "ファンダメンタル分析 – マクロインサイトと収益レーダー | Qption",
+        "description": "Qption のファンダメンタル分析センターで市場を先取り：経済カレンダーのリアルタイム影響、企業収益のスナップショット、為替・暗号・グローバル指数のためのマクロリサーチ。",
+        "keywords": "ファンダメンタル分析, 経済カレンダー, 収益レポート, マクロ分析, インフレデータ, 金利, GDP, 為替の基礎, 暗号通貨の基礎, Qption リサーチ",
+        "ogTitle": "ファンダメンタル分析 – マクロインサイトと収益レーダー | Qption",
+        "ogDescription": "市場を動かすデータを追跡 — Qption のリサーチチームが主要な経済指標や企業収益を実践的なトレードアイデアに変換します。",
+        "url": "https://qption.com/ja/fundamental-analysis",
+        "image": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "ファンダメンタル分析 – マクロインサイトと収益レーダー | Qption",
+        "twitterDescription": "チャートの背後にあるストーリーを発見：Qption のファンダメンタル分析スイートで経済発表や収益情報をリアルタイムで追跡。",
+        "twitterImage": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "canonical": "https://qption.com/ja/fundamental-analysis"
+    },
+    "page": {
+        "title": "ファンダメンタル分析",
+        "subtitle": "経済指標、市場動向、金融商品を包括的に分析し、より情報に基づいたトレード判断を行いましょう。"
+    },
+    "cta": {
+        "takeQuiz": "クイズに挑戦する"
+    },
+    "cards": {
+        "economicIndicators": {
+            "title": "経済指標",
+            "description": "主要な経済指標と市場への影響"
+        },
+        "centralBankPolicies": {
+            "title": "中央銀行の政策",
+            "description": "金融政策とその市場への影響"
+        },
+        "inflation": {
+            "title": "インフレ分析",
+            "description": "インフレ動向とその影響を理解する"
+        },
+        "interestRates": {
+            "title": "金利",
+            "description": "金利の変動と市場への影響"
+        },
+        "geopolitics": {
+            "title": "地政学的イベントと市場",
+            "description": "世界的な出来事と市場への影響"
+        },
+        "fiscalPolicy": {
+            "title": "財政政策と政府支出",
+            "description": "政府支出と課税の影響"
+        },
+        "debtAndFX": {
+            "title": "債務水準と通貨評価",
+            "description": "債券市場と債務商品の分析"
+        },
+        "supplyDemandCommodities": {
+            "title": "商品供給と需要",
+            "description": "商品市場と価格を動かす要因"
+        },
+        "safeHavens": {
+            "title": "安全資産 vs 市場の変動",
+            "description": "伝統的な安全資産投資の分析"
+        },
+        "forexCfds": {
+            "title": "外国為替とCFD",
+            "description": "為替市場とデリバティブ商品の分析"
+        },
+        "cryptoRegulation": {
+            "title": "暗号通貨の採用と規制",
+            "description": "暗号通貨市場の動向と普及"
+        },
+        "blockchainFA": {
+            "title": "ブロックチェーンのファンダメンタル分析",
+            "description": "ブロックチェーンの進展と応用"
+        }
+    },
+    "tournaments": {
+        "title": "トーナメント",
+        "labels": {
+            "prize": "賞金",
+            "participants": "参加者"
+        },
+        "ui": {
+            "join": "トーナメントに参加",
+            "close": "閉じる"
+        },
+        "defaults": {
+            "weekly": {
+                "title": "週間トレードチャレンジ",
+                "prize": "$5,000",
+                "participants": "1,234",
+                "startDate": "2024-04-25",
+                "endDate": "2024-05-02",
+                "status": "まもなく開始"
+            },
+            "monthly": {
+                "title": "月間マスタートーナメント",
+                "prize": "$25,000",
+                "participants": "3,456",
+                "startDate": "2024-05-01",
+                "endDate": "2024-05-31",
+                "status": "登録受付中"
+            }
+        },
+        "list": []
+    }
+}

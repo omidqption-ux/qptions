@@ -1,0 +1,51 @@
+{
+    "seo": {
+        "title": "Análise Gráfica – Gráficos Interativos e Scanner de Padrões | Qption",
+        "description": "Explore a suíte de análise gráfica da Qption: gráficos multiativos, detecção automática de padrões e ferramentas de desenho em tempo real para forex, cripto e índices.",
+        "keywords": "análise gráfica, gráficos interativos, padrões gráficos, triângulo, ombro-cabeça-ombro, linhas de tendência, gráficos de forex, gráficos de cripto, ferramentas Qption",
+        "ogTitle": "Análise Gráfica – Gráficos Interativos e Scanner de Padrões | Qption",
+        "ogDescription": "Identifique cunhas, canais e rompimentos em segundos com o scanner automático de padrões e o kit avançado de desenho da Qption.",
+        "url": "https://qption.com/pt/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Análise Gráfica – Gráficos Interativos e Scanner de Padrões | Qption",
+        "twitterDescription": "Negocie o que você vê: use os gráficos ao vivo e a IA de reconhecimento de padrões da Qption para confirmar entradas e saídas.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/pt/graphical-analysis"
+    },
+    "page": {
+        "title": "Análise Gráfica",
+        "subtitle": "Decodifique a ação do preço com gráficos dinâmicos, reconhecimento de padrões e tendências visuais — negocie com clareza e confiança."
+    },
+    "ui": {
+        "learnMore": "Saiba mais"
+    },
+    "cards": {
+        "movingAverage": {
+            "title": "Indicador de Média Móvel"
+        },
+        "fibonacciElliott": {
+            "title": "Retrações de Fibonacci e Ondas de Elliott"
+        },
+        "reversal": {
+            "title": "Padrões de Reversão de Tendência"
+        },
+        "trendContinuation": {
+            "title": "Padrões de Continuação de Tendência"
+        },
+        "graphicalAnalysis": {
+            "title": "Análise Gráfica"
+        }
+    },
+    "video": {
+        "aria": "A análise técnica usa gráficos de preços, padrões e indicadores para antecipar movimentos futuros do mercado."
+    },
+    "cta": {
+        "takeQuiz": "Fazer o quiz de análise gráfica"
+    },
+    "bullets": [
+        "A análise gráfica estuda o comportamento do preço por meio de gráficos, padrões visuais e ferramentas de desenho para antecipar prováveis movimentos.",
+        "Dá ênfase a sinais visuais — linhas de tendência, suportes/resistências, perfis de volume e sobreposições — para identificar mudanças de momentum e temporizar entradas/saídas.",
+        "Traders aplicam a análise gráfica em ações, cripto, forex e commodities para decisões rápidas e claras."
+    ]
+}

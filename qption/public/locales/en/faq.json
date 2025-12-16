@@ -1,0 +1,108 @@
+{
+    "seo": {
+        "title": "FAQ – Qption",
+        "description": "Find quick answers to the most common questions about Qption’s options-trading platform, pricing, security and support.",
+        "keywords": "Qption FAQ, options trading help, fees, account security, deposits, withdrawals, troubleshooting",
+        "ogDescription": "Everything you need to know about using Qption—compiled in one handy Frequently-Asked-Questions page.",
+        "twitterDescription": "Got questions? Find answers fast in Qption’s FAQ.",
+        "url": "https://qption.com/faq",
+        "ogImage": "https://qption.com/images/og/faq-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Find answers to common questions about our platform and services"
+    },
+    "faqs": [
+        {
+            "icon": "chartLine",
+            "q": "What is options trading?",
+            "a": "Options trading involves buying and selling options contracts, which give you the right (but not the obligation) to buy or sell an asset at a specified price within a certain time frame. This allows traders to potentially profit from asset price movements without owning the asset itself."
+        },
+        {
+            "icon": "idCard",
+            "q": "How do I verify my account, and what documents are needed?",
+            "a": "To verify your account, you'll need to make a deposit first and provide a color photo of your valid primary identity document (passport or national ID card) ... For card deposits we might additionally ask you to provide your card statement to verify your card. Ensure documents are clear and readable."
+        },
+        {
+            "icon": "moneyBill",
+            "q": "What is the minimum deposit and withdrawal amount?",
+            "a": "Minimum deposit and withdrawal: $10 (or equivalent in your chosen currency)."
+        },
+        {
+            "icon": "wallet",
+            "q": "How can I make a withdrawal, and which payment methods are available for withdrawals?",
+            "a": "Go to FINANCE and create a withdrawal request. Deposited funds go back to the original source (card/e-wallet). Profits are sent to one of your verified e-wallets. Third-party wallets/cards are not permitted."
+        },
+        {
+            "icon": "handshake",
+            "q": "Can I become your business partner?",
+            "a": "You can earn without a deposit via our Referral Program. Share your referral code, invite new clients, and receive real funds. See 'Become a Partner' for details."
+        },
+        {
+            "icon": "coins",
+            "q": "How much can I earn on the platform?",
+            "a": "Earnings depend on your strategy, market conditions, and risk management. Trading involves risk; profits are not guaranteed."
+        },
+        {
+            "icon": "exchange",
+            "q": "How do I start trading on Qption?",
+            "a": "Create an account, complete verification, and make an initial deposit. Then access the platform and start trading."
+        },
+        {
+            "icon": "chartBar",
+            "q": "What types of options are available for trading?",
+            "a": "We offer several types of options, including binary options, digital options, and FX options. Each has distinct characteristics and risks."
+        },
+        {
+            "icon": "chartLine",
+            "q": "What trading assets are available on the platform?",
+            "a": "Forex, stocks, commodities, and indices—enabling diversification across asset classes."
+        },
+        {
+            "icon": "coins",
+            "q": "How much profit can I make on a single trade?",
+            "a": "Profit potential varies by option type, trade size, and market conditions. Remember, losses are also possible."
+        },
+        {
+            "icon": "warning",
+            "q": "Is options trading risky?",
+            "a": "Yes. Markets can be unpredictable. Use risk management and trade responsibly."
+        },
+        {
+            "icon": "tools",
+            "q": "What trading tools and indicators does Qption offer?",
+            "a": "Moving averages, Bollinger Bands, RSI, MACD and more to support market analysis."
+        },
+        {
+            "icon": "clock",
+            "q": "How long does it take to withdraw funds?",
+            "a": "Typically 1–24 hours, depending on the method. We process as quickly as possible."
+        },
+        {
+            "icon": "creditCard",
+            "q": "Are there fees for trading on Qption?",
+            "a": "We don’t charge commissions on most trades, but some options may have fees or spreads. See our Fee Structure page for details."
+        },
+        {
+            "icon": "lock",
+            "q": "Is my personal and financial information safe?",
+            "a": "Yes. We use advanced encryption and industry-standard security to protect your data."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Difference between binary and digital options?",
+            "a": "Binary options have fixed payouts. Digital options offer variable payouts based on distance from the strike price."
+        },
+        {
+            "icon": "headset",
+            "q": "What are your customer support hours?",
+            "a": "24/7 via live chat, email, or phone."
+        },
+        {
+            "icon": "wallet",
+            "q": "How can I deposit funds into my account?",
+            "a": "Credit/debit cards, bank transfers, and e-wallets (availability varies by region)."
+        }
+    ]
+}

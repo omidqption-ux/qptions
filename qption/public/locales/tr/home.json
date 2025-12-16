@@ -1,0 +1,216 @@
+{
+    "hero": {
+        "newsBar": {
+            "title": "Güncel Piyasa Haberleri"
+        },
+        "marketBar": {
+            "title": "Piyasa Özeti"
+        },
+        "slides": [
+            {
+                "title": "<strong>Qption</strong> Trading Platformu",
+                "subtitle": "Profesyonel trading, basit deneyim",
+                "bullets": [
+                    {
+                        "title": "Hızlı Emir İletimi",
+                        "desc": "Ultra düşük gecikme"
+                    },
+                    {
+                        "title": "Güvenli Platform",
+                        "desc": "Banka seviyesinde koruma"
+                    },
+                    {
+                        "title": "Düşük Ücretler",
+                        "desc": "Rekabetçi maliyetler"
+                    }
+                ]
+            },
+            {
+                "title": "<strong>Yapay Zeka Destekli</strong> Trading Çözümleri",
+                "subtitle": "Gelişmiş yapay zeka teknolojisiyle akıllı trading",
+                "bullets": [
+                    {
+                        "title": "AI Analizi",
+                        "desc": "Akıllı piyasa içgörüleri"
+                    },
+                    {
+                        "title": "Gerçek Zamanlı Veri",
+                        "desc": "Canlı piyasa güncellemeleri"
+                    },
+                    {
+                        "title": "Risk Yönetimi",
+                        "desc": "Akıllı koruma"
+                    }
+                ]
+            },
+            {
+                "title": "<strong>Küresel</strong> Piyasa Erişimi",
+                "subtitle": "Her yerde, her an trade et",
+                "bullets": [
+                    {
+                        "title": "Küresel Piyasalar",
+                        "desc": "Dünyaya açılan erişim"
+                    },
+                    {
+                        "title": "7/24 Trading",
+                        "desc": "Her zaman aktif"
+                    },
+                    {
+                        "title": "Çoklu Varlık",
+                        "desc": "Çeşitli seçenekler"
+                    }
+                ]
+            }
+        ],
+        "images": {
+            "hero1Alt": "Trading Platformu",
+            "hero2Alt": "Trading Platformu – açıdan görünüm",
+            "hero3Alt": "Trading Platformu – gösterge paneli"
+        }
+    },
+    "benefits": {
+        "heading": "Trading <accent>Avantajları</accent>",
+        "sub": "Daha akıllı, daha hızlı, daha iyi trade edin — platformumuzu deneyimleyin.",
+        "cards": [
+            {
+                "title": "$50.000 demo hesap",
+                "desc": "Ücretsiz demo hesapla stratejilerinizi test edin.",
+                "features": [
+                    "Gerçek zamanlı piyasa verisi",
+                    "Gelişmiş trading araçları",
+                    "Risksiz pratik",
+                    "Platformun tamamına erişim"
+                ],
+                "alt": "Demo Hesap"
+            },
+            {
+                "title": "%200 Bonus",
+                "desc": "İlk yatırımızda %200 bonus alın. Cömert hoşgeldin teklifimizle trading potansiyelinizi yükseltin.",
+                "features": [
+                    "İlk yatırımı %200 bonus",
+                    "Anında bonus aktivasyonu",
+                    "Bonus fonlarıyla trade",
+                    "Çeşitli ödeme yöntemleri"
+                ],
+                "alt": "Bonus"
+            },
+            {
+                "title": "7/24 Destek",
+                "desc": "Profesyonel destek ekibimiz günün her saati yanınızda.",
+                "features": [
+                    "Canlı sohbet desteği",
+                    "E-posta desteği",
+                    "Telefon desteği",
+                    "Çok dilli ekip"
+                ],
+                "alt": "7/24 Destek"
+            }
+        ]
+    },
+    "simpleStart": {
+        "title": "<accent>Kolayca</accent> Başlayın",
+        "sub": "Sadece birkaç adımda trading yolculuğunuza başlayın",
+        "steps": [
+            {
+                "title": "Kayıt ol",
+                "desc": "Dakikalar içinde hesap oluştur",
+                "alt": "Kayıt"
+            },
+            {
+                "title": "Platformu keşfet",
+                "desc": "Trading araçlarımızı incele",
+                "alt": "Platform"
+            },
+            {
+                "title": "Trading'e başla",
+                "desc": "Yolculuğunu başlat",
+                "alt": "Trading"
+            },
+            {
+                "title": "Para çek",
+                "desc": "Fonlarına anında erişim",
+                "alt": "Para çekme"
+            }
+        ]
+    },
+    "foundation": {
+        "title": "<accent>AI</accent> senin için çalışsın",
+        "sub": "Son teknoloji yapay zekâ destekli sosyal trading platformumuzla seviyeni yükselt. Finansal hedeflerine ve risk tercihine göre tasarlanmış hesap seçenekleri arasından seçim yap.",
+        "plans": [
+            {
+                "title": "Temkinli AI Trading Planı",
+                "subtitle": "İstikrarlı kazanç - Düşük risk",
+                "minDepositLabel": "Min yatırım:",
+                "returnsLabel": "Beklenen Getiri:",
+                "strategiesLabel": "Stratejiler:",
+                "minDeposit": "500$",
+                "returns": "%5-6",
+                "strategies": "Mean Reversion (Fiyat Düzeltmesi), Teknik Analiz (Formasyon Tanıma), Risk Yönetimi (Pozisyon Büyüklüğü)",
+                "features": [
+                    "Düşük riskli stratejiler",
+                    "Stabil getiriler",
+                    "Piyasa analizi",
+                    "Risk yönetimi"
+                ],
+                "cta": "AI Trading'e Başla"
+            },
+            {
+                "title": "Orta Seviye AI Trading Planı",
+                "subtitle": "Dengeli büyüme ve gelir",
+                "minDepositLabel": "Min yatırım:",
+                "returnsLabel": "Beklenen Getiri:",
+                "strategiesLabel": "Stratejiler:",
+                "minDeposit": "3.000$",
+                "returns": "%12-18",
+                "strategies": "Trend Takibi, Kripto ve Forex'te Duygu Analizi, Seçici Yüksek Frekanslı Trading (HFT)",
+                "features": [
+                    "Dengeli yaklaşım",
+                    "Çeşitlendirilmiş stratejiler",
+                    "Piyasaya adaptasyon",
+                    "Performans takibi"
+                ],
+                "cta": "AI Trading'e Başla"
+            },
+            {
+                "title": "Agresif AI Trading Planı",
+                "subtitle": "Yüksek risk, yüksek getiri",
+                "minDepositLabel": "Min yatırım:",
+                "returnsLabel": "Beklenen Getiri:",
+                "strategiesLabel": "Stratejiler:",
+                "minDeposit": "10.000$",
+                "returns": "%25-40",
+                "strategies": "Yüksek Frekanslı Trading (HFT), Kaldıraçlı Trend Takibi, Duygu ve Haber Bazlı İşlemler",
+                "features": [
+                    "İleri seviye stratejiler",
+                    "Yüksek frekanslı trading",
+                    "Piyasa fırsatları",
+                    "Risk optimizasyonu"
+                ],
+                "cta": "AI Trading'e Başla"
+            }
+        ]
+    },
+    "investment": {
+        "title": "<accent>Qption</accent>'ı akıllı tercih yapan ne?",
+        "sub": "Trader’ların yatırım yolculuklarında platformumuzu tercih etme nedenlerini keşfedin",
+        "features": [
+            {
+                "title": "Sektör lideri platform",
+                "desc": "Ödüllü platform, sektörün önde gelen uzmanları tarafından onaylanmış"
+            },
+            {
+                "title": "Özelleştirilebilir arayüz",
+                "desc": "Grafik tiplerinden renk temalarına, deneyimini ihtiyaçlarına göre şekillendir"
+            },
+            {
+                "title": "Zahmetsiz para çekme",
+                "desc": "Güvenli ödeme yöntemleriyle fonlarına anında ulaş"
+            },
+            {
+                "title": "7/24 Destek",
+                "desc": "İhtiyaç duyduğun her an 7/24 ulaşılabilir destek"
+            }
+        ],
+        "cta": "Daha fazla bilgi"
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "seo": {
+        "title": "Correlação entre Mercados de Ações e Forex/CFDs: Fatores, Padrões e Regimes de Risco | Qption",
+        "description": "Descubra como os mercados de ações e forex/CFDs se movem juntos (ou em direções opostas). Aprenda sobre os principais motores macroeconômicos — taxas de juros, dados de crescimento, sentimento de risco e fluxos de capital — além dos pares de correlação mais comuns e como usar essas relações para diversificação e hedge.",
+        "url": "https://qption.com/fundamental-analysis/forex-cfds",
+        "keywords": "correlação entre ações e forex, correlação CFD, risco-on risco-off, taxas de juros e câmbio, fluxos de capital, moedas refúgio JPY CHF, USD e ações, correlação AUD commodities, hedge de portfólio, Qption",
+        "ld": {
+            "headline": "Correlação entre Mercados de Ações e Forex/CFDs",
+            "about": {
+                "equities": "Mercados de Ações",
+                "forex": "Mercado Cambial (Forex)",
+                "cfds": "Contratos por Diferença (CFDs)",
+                "riskSentiment": "Sentimento de Risco Global",
+                "safeHavens": "Moedas Refúgio",
+                "rates": "Taxas de Juros",
+                "flows": "Fluxos de Capital"
+            },
+            "props": {
+                "regimes": {
+                    "name": "Regimes de Correlação",
+                    "value": "As relações mudam em períodos de risco-on/risk-off; moedas refúgio (JPY, CHF) geralmente se fortalecem quando os mercados de ações globais caem."
+                },
+                "commodity": {
+                    "name": "Vínculos com Commodities",
+                    "value": "O dólar australiano (AUD) e os setores de ações baseados em recursos tendem a se mover juntos devido aos ciclos de commodities e termos de troca."
+                },
+                "practice": {
+                    "name": "Uso Prático",
+                    "value": "Traders aplicam o conhecimento de correlação para diversificação, hedge e evitar exposições concentradas indesejadas."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análise Fundamental"
+    },
+    "cta": {
+        "ready": "Pronto para negociar?",
+        "start": "Começar a Negociar"
+    },
+    "page": {
+        "title": "Correlação entre Mercados de Ações e Forex/CFDs"
+    },
+    "sections": {
+        "_list": [
+            "Visão Geral",
+            "Principais Fatores de Correlação",
+            "Taxas de Juros",
+            "Dados Econômicos",
+            "Sentimento de Risco Global",
+            "Fluxos de Capital",
+            "Correlação Comum entre Ações e Forex/CFDs",
+            "Correlação Positiva",
+            "Correlação Negativa",
+            "Como os Mercados de Ações Afetam Forex/CFDs",
+            "Altas no Mercado de Ações e Força das Moedas",
+            "Quedas no Mercado de Ações e Moedas Refúgio",
+            "Benefícios de Compreender as Correlações",
+            "Limitações da Correlação"
+        ],
+        "overview": {
+            "title": "Visão Geral",
+            "items": [
+                "Os mercados de ações e forex/CFDs frequentemente apresentam correlações, onde o movimento de um pode influenciar o outro.",
+                "Essa correlação surge de fatores como condições econômicas globais, sentimento dos investidores, taxas de juros e fluxos de capital.",
+                "Compreender essas relações ajuda os traders a desenvolver estratégias mais informadas e eficazes de diversificação entre classes de ativos."
+            ]
+        },
+        "drivers": {
+            "title": "Principais Fatores de Correlação",
+            "items": [
+                {
+                    "label": "Taxas de Juros:",
+                    "text": "As políticas de juros dos bancos centrais afetam tanto as moedas quanto as ações. Taxas mais altas fortalecem as moedas, mas podem reduzir os lucros corporativos e pressionar os preços das ações."
+                },
+                {
+                    "label": "Dados Econômicos:",
+                    "text": "Indicadores como PIB, emprego e inflação influenciam tanto os mercados de ações quanto de câmbio, moldando o sentimento dos investidores e suas expectativas de crescimento."
+                },
+                {
+                    "label": "Sentimento de Risco Global:",
+                    "text": "Durante períodos de aversão ao risco, investidores tendem a vender ações e buscar moedas refúgio (como JPY e CHF). Em ambientes de risco-on, buscam ativos de maior rendimento."
+                },
+                {
+                    "label": "Fluxos de Capital:",
+                    "text": "O investimento estrangeiro em um mercado de ações nacional aumenta a demanda pela moeda local, enquanto a saída de capital pode enfraquecê-la."
+                }
+            ]
+        },
+        "common": {
+            "title": "Correlação Comum entre Ações e Forex/CFDs",
+            "positive": {
+                "title": "Correlação Positiva",
+                "items": [
+                    "Dólar Americano e Ações dos EUA: Uma economia americana forte pode impulsionar simultaneamente o dólar e os preços das ações.",
+                    "Dólar Australiano e Ações de Commodities: A economia australiana é impulsionada por recursos naturais, fazendo com que o AUD e as ações de mineração se movam juntos."
+                ]
+            },
+            "negative": {
+                "title": "Correlação Negativa",
+                "items": [
+                    "Iene Japonês e Ações Japonesas: Quando as ações japonesas caem, o iene tende a se fortalecer devido à repatriação de capital.",
+                    "Franco Suíço e Ações Globais: O franco suíço, considerado moeda refúgio, tende a se valorizar quando os mercados globais recuam."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Como os Mercados de Ações Afetam Forex/CFDs",
+            "rallies": {
+                "title": "Altas no Mercado de Ações e Força das Moedas",
+                "items": [
+                    "Durante períodos de alta nas ações, as moedas dos respectivos países podem se fortalecer devido à entrada de capital estrangeiro.",
+                    "O bom desempenho das ações aumenta a confiança dos investidores, atraindo mais investimentos e valorizando a moeda local."
+                ]
+            },
+            "declines": {
+                "title": "Quedas no Mercado de Ações e Moedas Refúgio",
+                "items": [
+                    "Durante quedas no mercado de ações, investidores tendem a migrar para moedas refúgio como USD, JPY e CHF, fortalecendo-as.",
+                    "Esse comportamento é típico em crises globais, quando os investidores buscam proteger o capital reduzindo a exposição a ativos de risco."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefícios de Compreender as Correlações",
+            "items": [
+                "Aumenta a diversificação e o controle de risco do portfólio.",
+                "Ajuda os traders a antecipar movimentos de mercado com base nas interações entre ações e moedas.",
+                "Permite identificar oportunidades de hedge para reduzir perdas em ativos correlacionados."
+            ]
+        },
+        "limits": {
+            "title": "Limitações da Correlação",
+            "items": [
+                {
+                    "label": "Mudanças Imprevisíveis:",
+                    "text": "As correlações podem mudar rapidamente devido a eventos globais ou políticas econômicas, tornando-as às vezes pouco confiáveis."
+                },
+                {
+                    "label": "Fatores Específicos do Mercado:",
+                    "text": "Fatores locais, como lucros corporativos ou instabilidade política, podem romper os padrões normais de correlação."
+                },
+                {
+                    "label": "Interdependências Complexas:",
+                    "text": "Como múltiplos fatores econômicos estão em jogo, as correlações entre ações e forex/CFDs variam ao longo do tempo e não são lineares."
+                }
+            ]
+        }
+    }
+}

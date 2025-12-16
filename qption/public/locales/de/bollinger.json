@@ -1,0 +1,90 @@
+{
+    "seo": {
+        "title": "Bollinger-Bänder Strategie – Technische Analyse | Qption",
+        "description": "Meistern Sie das auf Volatilität basierende Trading mit Bollinger-Bändern: Squeeze-Setups, überkaufte/überverkaufte Umkehrsignale und Trendfolge („Riding the Bands“) – vollständiger Leitfaden auf Qption.",
+        "keywords": "Bollinger-Bänder, technische Analyse, Squeeze, überkauft, überverkauft, Trendfolge, Volatilität, Handelsstrategie, Qption",
+        "ogTitle": "Bollinger-Bänder Strategie – Technische Analyse | Qption",
+        "ogDescription": "Ein praktischer Leitfaden zur Verwendung der Bollinger-Bänder für Squeeze-, Umkehr- und Trendfolgestrategien.",
+        "url": "https://qption.com/technical-analysis/bollinger",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Handelsstrategie"
+    },
+    "labels": {
+        "backToTechnical": "Technische Analyse",
+        "videoAria": "Bollinger-Bänder sind ein beliebtes technisches Analysewerkzeug, um die Marktvolatilität zu messen und überkaufte oder überverkaufte Zustände zu erkennen."
+    },
+    "promo": {
+        "text": "Bereit, mit Bollinger-Bändern zu handeln?",
+        "cta": "Jetzt Traden"
+    },
+    "hero": {
+        "title": "Bollinger-Bänder Strategie",
+        "subtitle": "Meistern Sie das Trading auf Volatilitätsbasis mit unserer umfassenden Bollinger-Bänder-Analyse"
+    },
+    "overview": {
+        "title": "Überblick",
+        "bullets": [
+            "Bollinger-Bänder sind ein beliebtes Werkzeug der technischen Analyse, um Marktvolatilität zu messen und überkaufte oder überverkaufte Bedingungen zu identifizieren.",
+            "Der Indikator besteht aus drei Linien: einer mittleren Linie (normalerweise ein gleitender Durchschnitt über 20 Perioden) und oberen/unteren Bändern, die um eine bestimmte Anzahl von Standardabweichungen verschoben sind.",
+            "Sie helfen Tradern, potenzielle Kursbewegungen vorherzusehen, indem sie die Beziehung zwischen Preis und Volatilität analysieren."
+        ]
+    },
+    "how": {
+        "title": "Wie Bollinger-Bänder funktionieren",
+        "items": [
+            {
+                "title": "Mittleres Band",
+                "desc": "Ein gleitender Durchschnitt (normalerweise über 20 Perioden), der Preisdaten glättet und den vorherrschenden Trend aufzeigt."
+            },
+            {
+                "title": "Oberes Band",
+                "desc": "In der Regel 2 Standardabweichungen über dem mittleren Band; wenn der Preis es erreicht, kann dies auf überkaufte Bedingungen hinweisen."
+            },
+            {
+                "title": "Unteres Band",
+                "desc": "In der Regel 2 Standardabweichungen unter dem mittleren Band; wenn der Preis es erreicht, kann dies auf überverkaufte Bedingungen hinweisen."
+            },
+            {
+                "title": "Volatilitätsinterpretation",
+                "desc": "Die Bänder weiten sich bei hoher Volatilität aus und verengen sich bei geringer Volatilität – dies kann Trendwechsel oder Ausbrüche ankündigen."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Wichtige Strategien",
+        "items": [
+            {
+                "title": "1. Bollinger-Band-Squeeze",
+                "points": [
+                    "Formation: Die Bänder ziehen sich zusammen, was auf geringe Volatilität und eine bevorstehende starke Bewegung hinweisen kann.",
+                    "Interpretation: Ein Ausbruch über das obere Band deutet auf eine bullische Fortsetzung hin; ein Durchbruch unter das untere Band auf eine bärische Fortsetzung.",
+                    "Bestätigung: Verwenden Sie Volumen oder ergänzende Indikatoren, um die Ausbruchsrichtung zu bestätigen."
+                ]
+            },
+            {
+                "title": "2. Überkaufte & Überverkaufte Umkehrsignale",
+                "points": [
+                    "Überkauft: Wenn der Preis das obere Band berührt oder überschreitet, kann dies eine mögliche Abwärtsumkehr signalisieren.",
+                    "Überverkauft: Wenn der Preis das untere Band berührt oder unterschreitet, kann dies eine mögliche Aufwärtsumkehr signalisieren.",
+                    "Bestätigung: RSI oder ähnliche Oszillatoren können die Zuverlässigkeit verbessern."
+                ]
+            },
+            {
+                "title": "3. Riding the Bands (Trendfolge)",
+                "points": [
+                    "Trendsignal: Wenn der Preis das obere Band „entlangläuft“, deutet dies auf einen starken Aufwärtstrend hin; beim unteren Band auf einen starken Abwärtstrend.",
+                    "Einstieg/Ausstieg: Handeln Sie in Trendrichtung und verwenden Sie das mittlere Band als dynamischen Stop oder Ausstiegspunkt."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Einschränkungen",
+        "bullets": [
+            "Nachlaufender Indikator: Da er auf historischen Preisen basiert, kann er auf plötzliche Marktveränderungen verzögert reagieren.",
+            "Falsche Signale: In unruhigen Märkten können die Bänder irreführende Überkauft-/Überverkauft-Signale erzeugen."
+        ]
+    }
+}

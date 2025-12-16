@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Maliye Politikası ve Kamu Harcamaları – Türler, bileşenler, etkiler | Qption",
+        "description": "Maliye politikasını anlayın: genişlemeci vs. daraltıcı adımlar, vergiler, kamu harcamaları ve bütçe açıkları. Altyapı, sosyal programlar, savunma gibi kalemlerin büyüme, enflasyon, istihdam ve borç üzerindeki etkilerini, artı avantaj ve sınırlamaları görün.",
+        "keywords": "maliye politikası, kamu harcamaları, genişlemeci politika, daraltıcı politika, kamu borcu ve açıklar, altyapı harcamaları, sosyal programlar, enflasyon kontrolü, ekonomik büyüme ve istihdam, temel analiz, Qption",
+        "url": "https://qption.com/fundamental-analysis/fiscal-policy-and-government-spending",
+        "ld": {
+            "headline": "Maliye Politikası ve Kamu Harcamaları – Türler, bileşenler, etkiler"
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "page": {
+        "title": "Maliye Politikası ve Kamu Harcamaları"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "start": "Ticarete Başla"
+    },
+    "sections": {
+        "overview": {
+            "title": "Genel Bakış",
+            "items": [
+                "Maliye politikası, hükümetlerin büyümeyi, enflasyonu ve istihdamı etkilemek için vergi, harcama ve borçlanma kararlarını ifade eder.",
+                "Maliye politikasının ana unsuru olan kamu harcamaları; kamu mal ve hizmetleri, altyapı ve sosyal programlar üzerinden istikrarı ve büyümeyi etkiler.",
+                "Hükümetler maliye politikası ile sürdürülebilir büyüme sağlamak, işsizliği azaltmak ve fiyat istikrarını korumayı hedefler."
+            ]
+        },
+        "types": {
+            "title": "Maliye Politikası Türleri",
+            "items": [
+                {
+                    "label": "Genişlemeci Maliye Politikası:",
+                    "text": "Harcama artışı, vergi indirimleri veya her ikisiyle talebi canlandırmak için uygulanır; resesyon dönemlerinde istihdam yaratmak ve talebi desteklemek amacıyla kullanılır."
+                },
+                {
+                    "label": "Daraltıcı Maliye Politikası:",
+                    "text": "Aşırı ısınan ekonomiyi yavaşlatmak için harcamaları kısmayı veya vergileri artırmayı hedefler; enflasyonu kontrol etmeyi amaçlar."
+                },
+                {
+                    "label": "Nötr Maliye Politikası:",
+                    "text": "Harcamaların gelire eşit olduğu dengeli bütçeyi korur; ne genişlemeci ne de daraltıcı etkisi vardır."
+                }
+            ]
+        },
+        "components": {
+            "title": "Kamu Harcamalarının Bileşenleri",
+            "public": {
+                "title": "Kamu Mal ve Hizmetleri",
+                "items": [
+                    "Eğitim, sağlık ve kamu güvenliği gibi temel hizmetler için yapılan harcamalar refahı ve istikrarı destekler.",
+                    "Yollar, ulaşım ve enerji altyapısına yatırımlar verimliliği artırır ve uzun vadeli büyümeyi destekler."
+                ]
+            },
+            "social": {
+                "title": "Sosyal Programlar",
+                "items": [
+                    "İşsizlik ödeneği, sosyal güvenlik ve yardım programları eşitsizliği azaltır ve düşük gelirli haneleri destekler.",
+                    "Bu programlar otomatik dengeleyici görevi görerek durgunluklarda tüketimi ayakta tutar ve toparlanmayı hızlandırır."
+                ]
+            },
+            "defense": {
+                "title": "Savunma ve Ulusal Güvenlik",
+                "items": [
+                    "Kamu harcamalarının önemli bir kısmı savunma ve güvenliğe gider; ulusal korumayı ve istikrarı sağlar.",
+                    "Bu harcamalar askerî personeli, teknolojiyi ve ilgili sektörleri destekleyerek ekonomik aktivite yaratır."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Maliye Politikasının Ekonomiye Etkisi",
+            "growth": {
+                "title": "Ekonomik Büyüme ve İstihdam",
+                "items": [
+                    "Genişlemeci politika talebi ve istihdamı artırarak GSYİH büyümesini hızlandırır.",
+                    "Daraltıcı politika enflasyonu kontrol ederken büyümeyi yavaşlatıp işsizliği yükseltebilir."
+                ]
+            },
+            "inflation": {
+                "title": "Enflasyon Kontrolü",
+                "items": [
+                    "Hükümetler, enflasyonist dönemlerde harcamaları kısarak veya vergileri artırarak talebi soğutabilir.",
+                    "Enflasyonun dengelenmesi, satın alma gücünü aşındıran aşırı fiyat artışlarını önler."
+                ]
+            },
+            "debt": {
+                "title": "Kamu Borcu ve Bütçe Açıkları",
+                "items": [
+                    "Harcama gelirleri aştığında açıklar oluşur; kamu borcu artar ve gelecekteki mali alanı sınırlar.",
+                    "Aşırı borç faiz maliyetlerini yükseltir; sürdürülebilir olması için dikkatli yönetim gerektirir."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Etkili Maliye Politikasının Faydaları",
+            "items": [
+                "Ekonomik İstikrarı Teşvik Eder: İyi yönetilen politikalar büyümeyi dengeler, dalgalanmayı azaltır.",
+                "İstihdamı ve Yaşam Standartlarını İyileştirir: Genişlemeci adımlar iş ve gelir yaratır.",
+                "Gelir Dağılımını Destekler: Sosyal programlar eşitsizliği azaltır, düşük gelirli kesimleri korur."
+            ]
+        },
+        "limits": {
+            "title": "Maliye Politikasının Sınırlamaları ve Zorlukları",
+            "items": [
+                "Siyasi Kısıtlar: Kararlar sıklıkla siyasi gündemler nedeniyle gecikir veya şekil değiştirir.",
+                "Gecikmeli Etki: Mali önlemlerin ekonomiye yansıması zaman alır; kısa vadede etkinliği düşebilir.",
+                "Artan Kamu Borcu Riski: Kalıcı açıklar esnekliği azaltır ve borç servisi maliyetini yükseltir."
+            ]
+        }
+    }
+}

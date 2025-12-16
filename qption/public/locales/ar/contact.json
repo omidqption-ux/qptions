@@ -1,0 +1,21 @@
+{
+    "seo": {
+        "title": "اتصل بنا – Qption",
+        "description": "هل تحتاج إلى مساعدة؟ فريق دعم Qption متاح على مدار الساعة عبر الدردشة أو البريد الإلكتروني أو الهاتف.",
+        "keywords": "Qption تواصل, دعم العملاء, مساعدة التداول, هاتف Qption, بريد Qption",
+        "ogDescription": "لديك أسئلة حول التداول أو الشراكات أو المنصّة؟ تواصل مع فريق Qption على مدار الساعة.",
+        "twitterDescription": "دعم Qption متوفر 24/7 — تواصل الآن.",
+        "url": "https://qption.com/contact",
+        "ogImage": "https://qption.com/images/og/contact-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "اتصل بنا",
+        "support": "دعم العملاء",
+        "supportHours": "على مدار 24 ساعة، طوال أيام الأسبوع",
+        "email": "عنوان البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "address": "العنوان",
+        "cityCountry": "ستوكهولم، السويد"
+    }
+}

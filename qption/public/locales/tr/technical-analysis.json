@@ -1,0 +1,52 @@
+{
+    "seo": {
+        "title": "Teknik Analiz – Grafikler, Göstergeler ve Kurulumlar | Qption",
+        "description": "Qption'ın derinlemesine teknik analiziyle piyasaları ustalaşın: canlı grafik fikirleri, gösterge rehberleri ve forex, kripto ve endeksler için haftalık işlem kurulumları.",
+        "keywords": "teknik analiz, işlem grafikleri, fiyat hareketi, göstergeler, mum formasyonları, destek ve direnç, Qption eğitim, forex analizi, kripto analizi",
+        "ogTitle": "Teknik Analiz – Grafikler, Göstergeler ve Kurulumlar | Qption",
+        "ogDescription": "Qption analistlerinden eyleme dönük grafik analizleri ve gösterge anlatımları alın—forex ve kripto trader'ları için günlük güncellenir.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "hero": {
+        "title": "Teknik Analiz",
+        "subtitle": "Kapsamlı teknik analiz araçlarımız ve göstergelerimizle piyasa analiz etme sanatında ustalaşın"
+    },
+    "labels": {
+        "learnMore": "Daha Fazla Bilgi →",
+        "quizCta": "Teknik analiz testini çöz",
+        "videoAria": "Teknik analiz, gelecekteki fiyat hareketlerini tahmin etmek için fiyat grafikleri, formasyonlar ve göstergeler kullanan bir işlem disiplinidir."
+    },
+    "strategies": [
+        {
+            "title": "Bollinger Bantları",
+            "link": "/technical-analysis/bollinger",
+            "description": "Fiyat hareketi analizi için volatilite tabanlı işlem bantları"
+        },
+        {
+            "title": "Alligator Göstergesi",
+            "link": "/technical-analysis/alligator",
+            "description": "Düzleştirilmiş hareketli ortalamalarla trend takip eden gösterge"
+        },
+        {
+            "title": "RSI Göstergesi",
+            "link": "/technical-analysis/RSIIndicator",
+            "description": "Fiyat hareketlerinin hızını ve değişimini ölçen momentum osilatörü"
+        },
+        {
+            "title": "Teknik Analiz",
+            "link": "/technical-analysis/technical",
+            "description": "Çeşitli teknik araçlarla kapsamlı piyasa analizi"
+        },
+        {
+            "title": "Hareketli Ortalamalar",
+            "link": "/technical-analysis/moving-averages",
+            "description": "Trend tespiti ve destek/direnç seviyeleri"
+        }
+    ],
+    "bullets": [
+        "Teknik analiz, gelecekteki fiyat hareketlerini tahmin etmek için fiyat grafikleri, formasyonlar ve göstergeler kullanan bir işlem disiplinidir.",
+        "Tarihsel fiyat verilerine, işlem hacimlerine ve diğer piyasa metriklerine odaklanarak trendleri ve olası giriş-çıkış noktalarını belirler.",
+        "Teknik analiz hisseler, forex ve emtia dahil farklı piyasalarda yaygın biçimde kullanılır."
+    ]
+}

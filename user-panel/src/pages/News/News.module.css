@@ -1,0 +1,65 @@
+/* Modern Tab Styles */
+.tabsContainer {
+    background: rgba(30, 41, 59, 0.8);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    padding: 4px;
+    margin-bottom: 24px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.tabs {
+    min-height: 48px;
+    position: relative;
+    display: flex;
+    gap: 4px;
+}
+
+.tabs :global(.MuiTabs-flexContainer) {
+    color: #fff;
+}
+
+.tab {
+    flex: 1;
+    text-transform: none;
+    font-weight: 500;
+    font-size: 0.95rem;
+    color: #fff !important;
+    transition: all 0.3s ease;
+    border-radius: 8px;
+    padding: 8px 16px;
+    position: relative;
+    z-index: 1;
+    opacity: 0.7;
+}
+
+.tab:hover {
+    color: #fff !important;
+    opacity: 0.9;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.activeTab {
+    color: #fff !important;
+    opacity: 1;
+    background: linear-gradient(145deg, #00d2ff, #00b8e6);
+    box-shadow: 0 4px 12px rgba(0, 210, 255, 0.2);
+}
+
+.tabIndicator {
+    display: none;
+}
+
+/* Responsive Tab Styles */
+@media (max-width: 600px) {
+    .tabsContainer {
+        padding: 2px;
+        margin-bottom: 16px;
+    }
+
+    .tab {
+        font-size: 0.85rem;
+        padding: 6px 12px;
+    }
+} 

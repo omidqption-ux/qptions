@@ -1,0 +1,190 @@
+{
+    "seo": {
+        "title": "Trendfortsetzungsmuster – Flaggen, Wimpel, Dreiecke & Rechtecke | Qption",
+        "description": "Verstehe Trendfortsetzungsmuster in der grafischen Analyse: Flaggen, Wimpel, aufwärts/abwärts gerichtete Dreiecke und Rechtecke. Lerne Formation, Breakout-Bestätigung, Vorteile, Grenzen und wie Volumen Fehlausbrüche filtert.",
+        "keywords": "Trendfortsetzungsmuster, Flaggenmuster, Wimpelmuster, aufsteigendes Dreieck, absteigendes Dreieck, Rechteckmuster, Breakout-Bestätigung, Volumenbestätigung, technische Analyse, grafische Analyse, Trendfolge, Qption",
+        "url": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+        "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+        "ogAlt": "Leitfaden zu Trendfortsetzungsmustern",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Trendfortsetzungsmuster – Flaggen, Wimpel, Dreiecke & Rechtecke",
+            "description": "Verstehe Trendfortsetzungsmuster in der grafischen Analyse: Flaggen, Wimpel, auf- und absteigende Dreiecke sowie Rechtecke inkl. Breakout-Bestätigung, Vorteile, Grenzen und Volumeneinsatz.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Trendfortsetzungsmuster"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Flaggenmuster"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Wimpelmuster"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Aufsteigendes Dreieck"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Absteigendes Dreieck"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Rechteckmuster"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Breakout"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Volumenbestätigung"
+                }
+            ],
+            "articleSection": [
+                "Trendfortsetzungsmuster in der grafischen Analyse",
+                "Überblick",
+                "Häufige Trendfortsetzungsmuster",
+                "Flaggenmuster",
+                "Wimpelmuster",
+                "Aufsteigendes Dreieck",
+                "Absteigendes Dreieck",
+                "Rechteckmuster",
+                "Vorteile von Trendfortsetzungsmustern",
+                "Grenzen von Trendfortsetzungsmustern"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Flaggenmuster",
+                    "value": "Starker Impuls (Flaggenmast) mit anschließender kleiner Parallelkanal-Konsolidierung; Ausbruch in Trendrichtung"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Wimpelmuster",
+                    "value": "Kurze Konsolidierung zwischen konvergierenden Trendlinien; Ausbruch folgt dem vorigen Trend"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Aufsteigendes Dreieck",
+                    "value": "Flacher Widerstand mit steigenden Tiefs; bullische Fortsetzung beim Ausbruch"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Absteigendes Dreieck",
+                    "value": "Flache Unterstützung mit fallenden Hochs; bärische Fortsetzung beim Durchbruch"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Rechteckmuster",
+                    "value": "Seitwärtsbewegung zwischen horizontaler Unterstützung/Widerstand; Ausbruch setzt Trend fort"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Bestätigung & Risiko",
+                    "value": "Auf Volumenanstieg beim Ausbruch achten; Fehlsignale vermeiden; Stops außerhalb der Mustergrenzen platzieren"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Zurück zur grafischen Analyse",
+        "graphicalLink": "Grafische Analyse"
+    },
+    "page": {
+        "title": "Trendfortsetzungsmuster in der grafischen Analyse"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln?",
+        "start": "Jetzt handeln"
+    },
+    "video": {
+        "aria": "Trendfortsetzungsmuster zeigen eine kurze Pause innerhalb eines Trends an, gefolgt von einer wahrscheinlichen Fortsetzung in dieselbe Richtung."
+    },
+    "sections": {
+        "overview": {
+            "h": "Überblick",
+            "items": [
+                "Trendfortsetzungsmuster deuten auf eine Pause der Bewegung hin, gefolgt von einer Fortsetzung in Trendrichtung.",
+                "Sie liefern potenzielle Einstiege, um nach kurzen Konsolidierungen wieder in den Trend einzusteigen.",
+                "Sie treten in bullischen wie bärischen Märkten und auf verschiedenen Zeitebenen auf."
+            ]
+        },
+        "patterns": {
+            "h": "Häufige Trendfortsetzungsmuster",
+            "list": [
+                {
+                    "h": "1. Flaggenmuster",
+                    "items": [
+                        "Kurzfristige Konsolidierung, die einer Flagge am Mast ähnelt – meist nach einem starken Kursimpuls.",
+                        "Formation: Kräftiger Richtungsimpuls (Flaggenmast) gefolgt von Konsolidierung in einem kleinen Parallelkanal (Flagge).",
+                        "Breakout: Bricht oberhalb (Aufwärtstrend) oder unterhalb (Abwärtstrend) aus, um den Trend fortzusetzen.",
+                        "Chartinterpretation: Deutet nach dem Ausbruch auf eine Fortsetzung des ursprünglichen Trends hin."
+                    ]
+                },
+                {
+                    "h": "2. Wimpelmuster",
+                    "items": [
+                        "Ähnlich wie die Flagge, jedoch mit kleinem, konvergierendem Dreieck während der Konsolidierung.",
+                        "Formation: Kurs steigt (oder fällt) kräftig und konsolidiert dann zwischen zusammenlaufenden Trendlinien.",
+                        "Breakout: Ausbruch in Richtung der vorherigen Bewegung signalisiert Fortsetzung.",
+                        "Chartinterpretation: Kurze Pause, bevor der Trend wieder aufnimmt."
+                    ]
+                },
+                {
+                    "h": "3. Aufsteigendes Dreieck",
+                    "items": [
+                        "Bullisches Fortsetzungsmuster mit flachem Widerstand und steigenden Tiefs.",
+                        "Formation: Höhere Tiefs prallen gegen eine horizontale Widerstandslinie innerhalb eines Dreiecks.",
+                        "Breakout: Der Durchbruch über den Widerstand bestätigt die Fortsetzung des Aufwärtstrends.",
+                        "Chartinterpretation: Steigender Kaufdruck führt häufig zum Ausbruch nach oben."
+                    ]
+                },
+                {
+                    "h": "4. Absteigendes Dreieck",
+                    "items": [
+                        "Bärisches Fortsetzungsmuster mit flacher Unterstützung und fallenden Hochs.",
+                        "Formation: Tiefere Hochs treffen auf eine horizontale Unterstützungslinie.",
+                        "Breakout: Bricht der Kurs unter die Unterstützung, setzt sich der Abwärtstrend fort.",
+                        "Chartinterpretation: Zunehmender Verkaufsdruck mündet meist in einen Ausbruch nach unten."
+                    ]
+                },
+                {
+                    "h": "5. Rechteckmuster",
+                    "items": [
+                        "Seitwärtskonsolidierung zwischen horizontaler Unterstützung und Widerstand.",
+                        "Formation: Der Preis pendelt zwischen zwei horizontalen Levels und bildet ein Rechteck.",
+                        "Breakout: Ein Ausbruch oberhalb (bullisch) oder unterhalb (bärisch) setzt den vorherigen Trend fort.",
+                        "Chartinterpretation: Temporäre Konsolidierung, bevor der Trend in Ausbruchsrichtung weiterläuft."
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "h": "Vorteile von Trendfortsetzungsmustern",
+            "items": [
+                "Liefern präzisere Einstiegszeitpunkte während Konsolidierungen.",
+                "Unterstützen Trendfolge, indem sie wahrscheinliche Wiederaufnahmepunkte hervorheben.",
+                "Funktionieren besonders gut in starken, anhaltenden Trends."
+            ]
+        },
+        "limitations": {
+            "h": "Grenzen von Trendfortsetzungsmustern",
+            "items": [
+                "Fehlausbrüche sind möglich, vor allem in volatilen oder erratischen Märkten.",
+                "Benötigen oft Bestätigung (z. B. Volumenanstieg), um Fehlsignale zu filtern.",
+                "In Seitwärtsmärkten weniger verlässlich und auf zusätzliche Konfluenz angewiesen."
+            ]
+        }
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "seo": {
+        "title": "Graphical Analysis in Technical Trading – Trends, S/R, Patterns & Candlesticks | Qption",
+        "description": "A practical guide to Graphical Analysis: identify trends, draw support/resistance, read chart and candlestick patterns, and use tools like MAs, Bollinger Bands, RSI, and Fibonacci. Covers benefits, limitations, and how to apply visuals for data-driven decisions.",
+        "keywords": "graphical analysis, technical analysis, price trends, support and resistance, chart patterns, candlestick analysis, moving averages, Bollinger Bands, RSI, Fibonacci retracement, trend lines, trading strategy, Qption",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "ogAlt": "Graphical analysis with trend lines, patterns, and indicators on a trading chart",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Graphical Analysis in Technical Trading – Trends, S/R, Patterns & Candlesticks",
+            "description": "A practical guide to Graphical Analysis: identify trends, draw support/resistance, read chart and candlestick patterns, and use tools like MAs, Bollinger Bands, RSI, and Fibonacci.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Graphical Analysis"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Price Trends"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Support and Resistance"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Chart Patterns"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Candlestick Analysis"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Moving Averages"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bollinger Bands"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "RSI"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Fibonacci Retracement"
+                }
+            ],
+            "articleSection": [
+                "Graphical Analysis in Technical Trading",
+                "Overview",
+                "Key Concepts in Graphical Analysis",
+                "Common Techniques in Graphical Analysis",
+                "Trend Line Analysis",
+                "Support and Resistance Levels",
+                "Chart Pattern Analysis",
+                "Candlestick Analysis",
+                "Tools Used in Graphical Analysis",
+                "Benefits of Using Graphical Analysis",
+                "Limitations of Graphical Analysis"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Core Tools",
+                    "value": "Trend lines, Support/Resistance, Chart & Candlestick Patterns"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Indicators",
+                    "value": "Moving Averages, Bollinger Bands, RSI, Fibonacci Retracements"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Use Cases",
+                    "value": "Trend identification, breakouts, reversals, target setting, risk control"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Back to Graphical Analysis"
+    },
+    "page": {
+        "title": "Graphical Analysis in Technical Trading"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "start": "Start Trading"
+    },
+    "sections": {
+        "overview": {
+            "h": "Overview",
+            "items": [
+                "Graphical analysis in trading involves interpreting price charts and patterns to forecast future price movements based on historical data.",
+                "It relies on visual tools including chart patterns, trend lines, support and resistance levels, and various technical indicators.",
+                "Graphical analysis is used across markets (stocks, forex, crypto, commodities) to make data-driven decisions."
+            ]
+        },
+        "key": {
+            "h": "Key Concepts in Graphical Analysis",
+            "items": {
+                "trends": "Price Trends: markets tend to move in uptrends, downtrends, or ranges that can be identified and traded.",
+                "sr": "Support & Resistance: areas where price often pauses or reverses; support acts as a floor, resistance as a ceiling.",
+                "patterns": "Chart Patterns: formations (head & shoulders, triangles, flags) that hint at continuation or reversal.",
+                "volume": "Volume Analysis: rising volume can confirm trends and breakouts; low volume can warn of weak moves."
+            }
+        },
+        "tech": {
+            "h": "Common Techniques in Graphical Analysis",
+            "trend": {
+                "h": "1. Trend Line Analysis",
+                "items": [
+                    "Connect swing lows in an uptrend or swing highs in a downtrend to visualize direction.",
+                    "Use trend lines as dynamic support/resistance to time entries and exits."
+                ]
+            },
+            "sr": {
+                "h": "2. Support and Resistance Levels",
+                "items": [
+                    "Draw horizontal lines at key swing highs/lows where price has reacted before.",
+                    "Use these zones for entries/exits and to place stop-loss orders."
+                ]
+            },
+            "patterns": {
+                "h": "3. Chart Pattern Analysis",
+                "items": [
+                    "Patterns such as triangles, flags, double tops/bottoms, and head & shoulders provide visual cues.",
+                    "Measured-move techniques can project targets based on pattern height or range."
+                ]
+            },
+            "candles": {
+                "h": "4. Candlestick Analysis",
+                "items": [
+                    "Candles show open, close, high, and low to quickly read sentiment and momentum.",
+                    "Setups like doji, hammer, and engulfing can signal reversals or continuations."
+                ]
+            }
+        },
+        "tools": {
+            "h": "Tools Used in Graphical Analysis",
+            "items": {
+                "ma": "Moving Averages (SMA/EMA): smooth price to reveal trend and potential dynamic S/R.",
+                "bb": "Bollinger Bands: gauge volatility; squeezes may precede expansions/breakouts.",
+                "rsi": "RSI: a momentum oscillator highlighting overbought/oversold and divergences.",
+                "fib": "Fibonacci Retracements: potential support/resistance at 23.6%, 38.2%, 50%, 61.8%, 78.6%."
+            }
+        },
+        "benefits": {
+            "h": "Benefits of Using Graphical Analysis",
+            "items": [
+                "Helps identify trends and patterns for clearer trade ideas.",
+                "Flexible across timeframes—from scalping to swing and position trading.",
+                "Intuitive visualization that reduces reliance on complex math."
+            ]
+        },
+        "limitations": {
+            "h": "Limitations of Graphical Analysis",
+            "items": [
+                "Subjective interpretation: different traders may draw levels or patterns differently.",
+                "Past price action does not guarantee future performance.",
+                "Often requires indicator/volume confirmation to reduce false signals."
+            ]
+        }
+    }
+}

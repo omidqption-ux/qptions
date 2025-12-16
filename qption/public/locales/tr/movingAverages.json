@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "Hareketli Ortalamalar Stratejisi (SMA & EMA) – Teknik Analiz | Qption",
+        "description": "Hareketli ortalamalarla trend takibini öğren: SMA vs EMA, kesişimler (Golden/Death Cross), dinamik destek/direnç, MA ribbon’ları ve kilit sınırlamalar—trader’lar için eksiksiz rehber.",
+        "keywords": "hareketli ortalamalar, SMA, EMA, MA kesişimi, golden cross, death cross, hareketli ortalama ribbon, dinamik destek direnç, trend takibi, momentum, teknik analiz, Qption",
+        "ogTitle": "Hareketli Ortalamalar Stratejisi (SMA & EMA) – Teknik Analiz | Qption",
+        "ogDescription": "SMA vs EMA’yı, kesişimlerin nasıl çalıştığını, MA ile dinamik S/R’yi ve ribbon stratejilerini öğren.",
+        "url": "https://qption.com/technical-analysis/moving-averages",
+        "image": "https://qption.com/videos/moving-average/moving-average.png",
+        "imageAlt": "Grafikte açıklanan hareketli ortalama stratejisi"
+    },
+    "labels": {
+        "backToTechnical": "Teknik Analiz",
+        "backToGraphical": "Grafik Analize Geri Dön"
+    },
+    "promo": {
+        "text": "Hareketli Ortalamalarla trade etmeye hazır mısın?",
+        "cta": "Ticarete Başla"
+    },
+    "hero": {
+        "title": "Hareketli Ortalamalar Stratejisi",
+        "subtitle": "Kapsamlı MA analizimizle trend takibi ve momentum trading’de ustalaş"
+    },
+    "video": {
+        "aria": "Hareketli ortalamalar (MA), fiyat verisini yumuşatarak trendleri ve dönüşleri tespit etmeye yardımcı olan popüler teknik analiz araçlarıdır."
+    },
+    "overview": {
+        "title": "Genel Bakış",
+        "bullets": [
+            "MA’lar fiyat verisini smoot ederek trend ve dönüşleri daha görünür kılar.",
+            "En yaygın iki tür, farklı ağırlık yöntemleri kullanan Simple Moving Average (SMA) ve Exponential Moving Average (EMA)’dır.",
+            "MA’lar trader’ların trend yönünü belirlemesine, sinyal üretmesine ve dinamik destek/direnç bulmasına yardımcı olur."
+        ]
+    },
+    "how": {
+        "title": "Hareketli Ortalamalar Nasıl Çalışır?",
+        "items": [
+            {
+                "title": "Simple Moving Average (SMA)",
+                "desc": "Eşit ağırlıklı son fiyatların ortalaması—genel trend analizi için idealdir."
+            },
+            {
+                "title": "Exponential Moving Average (EMA)",
+                "desc": "Son fiyatlara daha fazla ağırlık verir; piyasa değişimlerine hızlı tepki verir, özellikle hareketli piyasalarda tercih edilir."
+            },
+            {
+                "title": "Trend Tanımlama",
+                "desc": "Fiyat MA’nın üstündeyse bullish, altındaysa bearish eğilim olasılığı artar."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Temel Stratejiler",
+        "items": [
+            {
+                "title": "Hareketli Ortalama Kesişimi",
+                "points": [
+                    "Golden Cross: Kısa vadeli MA (örn. 50 günlük) uzun vadeli MA’nın (örn. 200 günlük) üzerine çıkar — yükseliş sinyali.",
+                    "Death Cross: Kısa vadeli MA uzun vadeli MA’nın altına iner — düşüş sinyali."
+                ]
+            },
+            {
+                "title": "Dinamik Destek ve Direnç",
+                "points": [
+                    "Yükselen trendlerde MA’lar sıklıkla dinamik destek görevi görür.",
+                    "Düşen trendlerde MA’lar dinamik direnç olarak fiyatı aşağı iter."
+                ]
+            },
+            {
+                "title": "Hareketli Ortalama Ribbon Stratejisi",
+                "points": [
+                    "10, 20, 50, 100, 200 gibi birden fazla MA ayarlayarak ribbon oluştur.",
+                    "Ribbon tek yönde hizalandığında güçlü trend sinyali üretir."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Sınırlamalar",
+        "bullets": [
+            "MA’lar gecikmeli göstergelerdir; ani piyasa değişimlerine yavaş tepki verebilir.",
+            "Dalgalı veya yatay piyasalarda sahte sinyaller üretebilirler."
+        ]
+    }
+}

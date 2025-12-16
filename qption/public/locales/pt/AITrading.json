@@ -1,0 +1,138 @@
+{
+    "dir": "ltr",
+    "seo": {
+        "title": "Trading com IA – Direção do mercado com um clique | Qption",
+        "description": "Coloque a IA da Qption para trabalhar: com um clique veja imediatamente viés de alta/baixa, zonas de entrada e níveis de risco dinâmicos em pares de forex e cripto.",
+        "keywords": "trading com IA, negociação algorítmica, direção do mercado, sinais, análise automática, forex IA, cripto IA",
+        "ogTitle": "Trading com IA – Direção do mercado com um clique | Qption",
+        "ogDescription": "Corte o ruído — nossa IA analisa o price action e os indicadores em tempo real para mostrar a direção e os níveis mais prováveis.",
+        "url": "https://qption.com/aiTrading",
+        "image": "https://qption.com/images/og/ai-trading-qption.jpg"
+    },
+    "hero": {
+        "title": "Estratégias de Trading com IA",
+        "subtitle": "Escolha o plano ideal para sua tolerância ao risco"
+    },
+    "tabs": {
+        "conservative": "Conservador",
+        "moderate": "Moderado",
+        "aggressive": "Agressivo"
+    },
+    "labels": {
+        "description": "Descrição",
+        "expectedReturns": "Retorno esperado",
+        "riskLevel": "Nível de risco",
+        "recommendedFor": "Recomendado para",
+        "strategiesUsed": "Estratégias utilizadas",
+        "coreTitle": "Componentes centrais do Trading com IA",
+        "advantagesTitle": "Vantagens do Trading com IA"
+    },
+    "plans": [
+        {
+            "title": "Plano Conservador com IA",
+            "subtitle": "Preservação de capital com retornos moderados",
+            "description": "Utiliza estratégias de baixo risco e setups de alta probabilidade para retornos estáveis com mínima queda. Inclui seguidor de tendência em mercados estáveis e renda fixa (CFDs de títulos) ou pares de forex de baixa volatilidade.",
+            "returns": "5-8%",
+            "risk": "Baixo",
+            "recommended": "Clientes avessos ao risco que priorizam preservar capital em vez de crescimento agressivo.",
+            "strategies": [
+                {
+                    "title": "Reversão à média",
+                    "description": "Captura lucros pequenos em desvios do preço em relação à média histórica, focando em ativos de baixa volatilidade."
+                },
+                {
+                    "title": "Arbitragem",
+                    "description": "Aproveita pequenas discrepâncias de preço entre pares de forex e CFDs para lucros consistentes."
+                },
+                {
+                    "title": "Análise de sentimento",
+                    "description": "Analisa o sentimento do mercado em ativos estáveis para antecipar pequenos ajustes de preço."
+                }
+            ]
+        },
+        {
+            "title": "Plano Moderado com IA",
+            "subtitle": "Crescimento e renda equilibrados",
+            "description": "Visa renda moderada com risco balanceado. A IA emprega seguidor de tendência, análise de sentimento e HFT seletivo em forex, cripto principal e CFDs de commodities.",
+            "returns": "12-18%",
+            "risk": "Moderado",
+            "recommended": "Clientes com tolerância moderada ao risco buscando equilíbrio entre crescimento e renda.",
+            "strategies": [
+                {
+                    "title": "Seguidor de tendência",
+                    "description": "Captura lucros de tendências estabelecidas em pares de forex e criptos principais."
+                },
+                {
+                    "title": "Sentimento em cripto e forex",
+                    "description": "Identifica mudanças no sentimento do investidor para ajustar posições com maior probabilidade de acerto."
+                },
+                {
+                    "title": "HFT seletivo",
+                    "description": "Executa operações de curto prazo em pares de alta liquidez para capturar movimentos rápidos."
+                }
+            ]
+        },
+        {
+            "title": "Plano Agressivo com IA",
+            "subtitle": "Alto risco, alto retorno",
+            "description": "Para alta tolerância ao risco. A IA usa HFT e estratégias alavancadas em CFDs para maximizar o ganho de movimentos rápidos, especialmente em cripto e pares voláteis de forex.",
+            "returns": "25-40%",
+            "risk": "Médio a alto",
+            "recommended": "Quem aceita grandes rebaixamentos em troca de maior potencial de retorno.",
+            "strategies": [
+                {
+                    "title": "High-Frequency Trading (HFT)",
+                    "description": "Numerosas operações em pares voláteis para explorar flutuações rápidas."
+                },
+                {
+                    "title": "Tendência alavancada",
+                    "description": "Uso de alavancagem em pares com tendência para maximizar ganhos."
+                },
+                {
+                    "title": "Negociação guiada por sentimento e notícias",
+                    "description": "Resposta rápida a notícias ou mudanças de sentimento para capturar volatilidade em tempo real."
+                }
+            ]
+        }
+    ],
+    "core": [
+        {
+            "title": "Análise de dados",
+            "description": "Análise de dados históricos e em tempo real para detectar padrões e correlações: tendências de preços, sentimento de mercado, indicadores econômicos e notícias."
+        },
+        {
+            "title": "Modelos de ML",
+            "description": "Aprendem com dados históricos para prever movimentos futuros: supervisionado, não supervisionado e aprendizado por reforço."
+        },
+        {
+            "title": "Processamento de linguagem natural (NLP)",
+            "description": "Analisa textos (notícias, redes sociais, relatórios) para medir o sentimento e o possível impacto nos preços."
+        },
+        {
+            "title": "Backtesting e otimização",
+            "description": "Testes históricos e ajuste fino para maior robustez e adaptabilidade."
+        },
+        {
+            "title": "Execução automatizada",
+            "description": "Ordens executadas automaticamente com base em condições predefinidas ou padrões aprendidos, reduzindo a intervenção humana."
+        }
+    ],
+    "advantages": [
+        {
+            "title": "Velocidade e eficiência",
+            "description": "Processamento massivo e execução em milissegundos para aproveitar oportunidades passageiras."
+        },
+        {
+            "title": "Decisões orientadas por dados",
+            "description": "Análise simultânea de múltiplas fontes para decisões mais informadas."
+        },
+        {
+            "title": "Menos viés emocional",
+            "description": "Estratégia consistente sem impulsividade ou medo."
+        },
+        {
+            "title": "Trading 24/7",
+            "description": "Operação contínua — ideal para mercados como forex e cripto."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Terms & Conditions | Qption",
+        "description": "Read Qption’s Terms and Conditions: risk disclosure, account creation & verification, deposits & withdrawals, data protection, AML, force majeure, and termination.",
+        "keywords": "terms and conditions, risk disclosure, account verification, deposits, withdrawals, AML, data protection, force majeure, termination, Qption",
+        "ogTitle": "Terms & Conditions | Qption",
+        "ogDescription": "Key terms that govern the use of Qption: accounts, verification, payments, security, AML, and more.",
+        "url": "https://qption.com/terms-and-conditions",
+        "image": "https://qption.com/images/og/terms-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Terms & Conditions | Qption",
+        "twitterDescription": "Understand the rules and protections that apply when using Qption.",
+        "twitterImage": "https://qption.com/images/og/terms-qption.jpg",
+        "canonical": "https://qption.com/terms-and-conditions"
+    },
+    "hero": {
+        "title": "Terms and Conditions"
+    },
+    "sections": [
+        {
+            "icon": "intro",
+            "title": "1. Introduction",
+            "items": [
+                "Qption provides the brokerage services specified in these Terms and Conditions.",
+                "These Terms and Conditions are in addition to any other agreements between you and Qption.",
+                "The Client is responsible for regularly reviewing these Terms; continued use of the website constitutes acceptance of any changes.",
+                "Qption's official language is English. Translations or information in other languages are provided for convenience only."
+            ]
+        },
+        {
+            "icon": "risk",
+            "title": "2. Risk Disclosure",
+            "items": [
+                "CFDs are leveraged products and involve a high level of risk. It is possible to lose all invested capital.",
+                "These products may not be suitable for everyone. The Client should ensure they understand the risks involved.",
+                "The Client acknowledges that the value of investments may increase or decrease."
+            ]
+        },
+        {
+            "icon": "definitions",
+            "title": "3. Definitions",
+            "items": [
+                "Account: Any accounts created for a Client in order to trade with Qption.",
+                "Client: Any individual or legal entity to whom Qption provides services.",
+                "Deposit: Funds that the Client deposits or transfers into their Qption account(s).",
+                "Withdrawal: Funds that the Client withdraws or transfers from their Qption account(s)."
+            ]
+        },
+        {
+            "icon": "account",
+            "title": "4. Client's Account",
+            "items": [
+                "To use Qption services, a Client must open an account with accurate information.",
+                "The Client must notify Qption immediately of any changes to the provided information.",
+                "Client account information is preserved according to Qption's Privacy Policy."
+            ]
+        },
+        {
+            "icon": "verification",
+            "title": "5. Account Verification",
+            "items": [
+                "Qption requires valid identifying information and documents for verification.",
+                "The Company may request proof of identity and proof of address at any time.",
+                "The Client must be at least 18 years old to enter into a contractual relationship with Qption."
+            ]
+        },
+        {
+            "icon": "payments",
+            "title": "6. Deposits and Withdrawals",
+            "items": [
+                "The Client may deposit funds at any time through approved payment methods.",
+                "Withdrawals are processed in accordance with the payment method used for deposits.",
+                "Qption reserves the right to request documentation confirming the source of funds."
+            ]
+        },
+        {
+            "icon": "dataProtection",
+            "title": "7. Data Protection",
+            "items": [
+                "Qption safeguards Clients’ personal information using SSL encryption technology.",
+                "The Company uses firewalls, authentication systems, and access control mechanisms.",
+                "The Client must inform Qption of any changes to personal information."
+            ]
+        },
+        {
+            "icon": "aml",
+            "title": "8. Anti-Money Laundering",
+            "items": [
+                "Qption is committed to preventing money laundering and terrorist financing.",
+                "The Company maintains policies aligned with Anti-Money Laundering regulations.",
+                "Qption reserves the right to refuse transactions connected to money laundering."
+            ]
+        },
+        {
+            "icon": "forceMajeure",
+            "title": "9. Force Majeure",
+            "items": [
+                "Qption will not be liable for delays or failures caused by events beyond its reasonable control.",
+                "Such events include acts of God, war, fire, flood, network failures, and hardware or software failures, among others."
+            ]
+        },
+        {
+            "icon": "termination",
+            "title": "10. Termination",
+            "items": [
+                "Either party may terminate this agreement by giving five (5) business days’ written notice.",
+                "Qption may terminate the agreement in case of a breach of the Terms.",
+                "Upon termination, any funds in the Client’s account will be refunded subject to applicable deductions."
+            ]
+        }
+    ]
+}

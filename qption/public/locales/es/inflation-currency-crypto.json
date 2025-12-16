@@ -1,0 +1,227 @@
+{
+    "seo": {
+        "title": "Inflación y su impacto en los mercados de divisas y criptomonedas – CPI, PPI, tasas e instrumentos de cobertura | Qption",
+        "description": "Comprende cómo la inflación afecta al mercado de divisas y criptomonedas: fundamentos del CPI/PPI, inflación por demanda vs. inflación por costos, política de tasas de interés, y la narrativa del ‘refugio contra la inflación’ en Bitcoin. Incluye indicadores clave, ventajas y limitaciones.",
+        "keywords": "inflación, CPI, PPI, inflación por demanda, inflación por costos, política de tasas de interés, fortaleza de la moneda, mercado FX, criptomonedas, cobertura contra la inflación, Bitcoin, volatilidad, informes del banco central, empleo, análisis fundamental, Qption",
+        "ogTitle": "Inflación y su impacto en los mercados de divisas y criptomonedas | Qption",
+        "ogDescription": "Desde CPI/PPI hasta el papel del Bitcoin como cobertura ante la inflación: una guía práctica del impacto de la inflación en los mercados de divisas y cripto.",
+        "url": "https://qption.com/es/fundamental-analysis/inflation-currency-crypto",
+        "image": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Inflación y mercados: divisas y criptomonedas",
+        "twitterDescription": "Descubre cómo la inflación y las políticas monetarias mueven monedas y activos digitales.",
+        "twitterImage": "https://qption.com/images/og/inflation-currency-crypto.jpg",
+        "canonical": "https://qption.com/es/fundamental-analysis/inflation-currency-crypto",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Inflación y su impacto en los mercados de divisas y criptomonedas – CPI, PPI, tasas e instrumentos de cobertura",
+            "description": "Cómo la inflación influye en los mercados de divisas y criptomonedas, con foco en CPI/PPI, tasas de interés y políticas monetarias.",
+            "mainEntityOfPage": "https://qption.com/es/fundamental-analysis/inflation-currency-crypto",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Inflación"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Índice de Precios al Consumidor (CPI)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Índice de Precios al Productor (PPI)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Inflación por demanda"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Inflación por costos"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Política de tasas de interés"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercado de divisas (Forex)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercado de criptomonedas"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bitcoin"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Política monetaria"
+                }
+            ],
+            "articleSection": [
+                "Resumen general",
+                "Conceptos clave de la inflación",
+                "Impacto en el mercado de divisas",
+                "Impacto en el mercado de criptomonedas",
+                "Indicadores a monitorear",
+                "Beneficios",
+                "Limitaciones"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "CPI",
+                    "value": "Indicador principal de inflación del consumidor; sus informes mensuales guían las expectativas políticas."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "PPI",
+                    "value": "Precios al productor que pueden anticipar tendencias de inflación al consumidor."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Tipos de inflación",
+                    "value": "Por demanda (exceso de demanda) y por costos (aumento en los costos de producción)."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Impacto en divisas",
+                    "value": "Una alta inflación debilita la moneda a menos que se compense con alzas en tasas; políticas más estrictas pueden fortalecerla."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Narrativa cripto",
+                    "value": "Bitcoin y algunas criptomonedas son vistas como posibles coberturas contra la inflación por su oferta limitada."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Volatilidad",
+                    "value": "Los flujos relacionados con la inflación pueden intensificar los movimientos especulativos en precios de criptomonedas."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Lista de seguimiento",
+                    "value": "CPI/PPI, comunicados del banco central, crecimiento salarial, empleo, proyecciones de inflación."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análisis fundamental"
+    },
+    "page": {
+        "title": "Inflación y su impacto en los mercados de divisas y criptomonedas"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "startTrading": "Comienza a operar"
+    },
+    "sections": {
+        "overview": {
+            "title": "Resumen general",
+            "bullets": [
+                "La inflación es el ritmo al que suben los precios generales, reduciendo el poder adquisitivo con el tiempo.",
+                "Los bancos centrales supervisan de cerca la inflación, ya que una inflación alta y persistente puede desestabilizar la economía y requerir cambios de política.",
+                "Para los traders e inversores, el impacto de la inflación sobre las tasas de interés, la fortaleza de la moneda y los rendimientos es un factor macroeconómico clave."
+            ]
+        },
+        "keyConcepts": {
+            "title": "Conceptos clave de la inflación",
+            "items": {
+                "cpi": {
+                    "label": "Índice de Precios al Consumidor (CPI)",
+                    "text": "Mide el cambio promedio en los precios de una canasta de bienes y servicios; es el indicador de inflación más observado."
+                },
+                "ppi": {
+                    "label": "Índice de Precios al Productor (PPI)",
+                    "text": "Sigue los precios al nivel del productor; los aumentos de costos pueden anticipar inflación al consumidor."
+                },
+                "demandPull": {
+                    "label": "Inflación por demanda",
+                    "text": "Ocurre cuando la demanda supera la oferta, lo que impulsa los precios al alza."
+                },
+                "costPush": {
+                    "label": "Inflación por costos",
+                    "text": "Surge del aumento en los costos de producción (salarios, materias primas) trasladados a los consumidores."
+                }
+            }
+        },
+        "impactCurrency": {
+            "title": "Impacto en el mercado de divisas (Forex)",
+            "currencyStrength": {
+                "title": "1. Fortaleza de la moneda",
+                "bullets": [
+                    "Una alta inflación puede debilitar una moneda al erosionar su valor real y la confianza de los inversores.",
+                    "Las subidas de tasas de interés para combatir la inflación pueden atraer capital extranjero y fortalecer la moneda."
+                ]
+            },
+            "ratePolicy": {
+                "title": "2. Política de tasas de interés",
+                "bullets": [
+                    "Cuando la inflación aumenta, los bancos centrales suelen elevar las tasas, haciendo la moneda más atractiva por su mayor rendimiento.",
+                    "Cuando la inflación es baja, los bancos centrales pueden recortar tasas para estimular la economía, lo que puede debilitar la moneda."
+                ]
+            }
+        },
+        "impactCrypto": {
+            "title": "Impacto en el mercado de criptomonedas",
+            "hedge": {
+                "title": "1. Percepción de cobertura contra la inflación",
+                "bullets": [
+                    "Muchos inversores ven a Bitcoin y otras criptomonedas como cobertura contra la inflación debido a su oferta limitada.",
+                    "A medida que la moneda fiduciaria pierde valor, algunos inversores recurren a los criptoactivos para preservar su poder adquisitivo."
+                ]
+            },
+            "volatility": {
+                "title": "2. Volatilidad y especulación",
+                "bullets": [
+                    "El mercado cripto es altamente volátil, y la inversión impulsada por la inflación puede aumentar las operaciones especulativas.",
+                    "Algunos buscan cobertura a largo plazo, mientras que otros especulan a corto plazo durante períodos inflacionarios."
+                ]
+            }
+        },
+        "indicators": {
+            "title": "Indicadores a monitorear",
+            "items": [
+                {
+                    "label": "Índice de Precios al Consumidor (CPI)",
+                    "text": "Proporciona actualizaciones mensuales sobre la inflación, ayudando a los traders a anticipar decisiones de política monetaria."
+                },
+                {
+                    "label": "Índice de Precios al Productor (PPI)",
+                    "text": "Rastrea cambios en los costos de producción, un indicador temprano de inflación futura."
+                },
+                {
+                    "label": "Informes del Banco Central",
+                    "text": "Incluyen declaraciones y pronósticos sobre inflación, útiles para anticipar ajustes de tasas."
+                },
+                {
+                    "label": "Datos de empleo y salarios",
+                    "text": "El aumento de salarios puede generar presiones inflacionarias y afectar las decisiones de los bancos centrales."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Beneficios de comprender la inflación en el trading",
+            "bullets": [
+                "Mejora la valoración de monedas y la previsión de tasas de interés.",
+                "Facilita la diversificación de carteras entre activos fiduciarios y criptográficos.",
+                "Aumenta la comprensión macroeconómica sobre políticas y ciclos de mercado."
+            ]
+        },
+        "limitations": {
+            "title": "Limitaciones del análisis de inflación",
+            "bullets": [
+                "Indicadores rezagados: el CPI refleja datos pasados y puede causar reacciones tardías en el mercado.",
+                "Factores globales: la inflación puede verse influenciada por elementos internacionales, complicando el análisis.",
+                "Reacciones volátiles: los anuncios relacionados con la inflación pueden provocar movimientos bruscos, especialmente en criptomonedas."
+            ]
+        }
+    }
+}

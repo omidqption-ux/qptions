@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Fundamental Analysis Quiz – Test Your Market Knowledge | Qption",
+        "description": "Challenge your understanding of macroeconomics, interest rates, inflation, and market behavior with Qption’s Fundamental Analysis Quiz. Learn and trade smarter.",
+        "keywords": "fundamental analysis quiz, macroeconomics, forex quiz, inflation, interest rates, central banks, GDP, CPI, carry trade, Qption",
+        "ogTitle": "Fundamental Analysis Quiz – Test Your Market Knowledge | Qption",
+        "ogDesc": "Interactive quiz to test your grasp of economic indicators, central banks, inflation, and global markets.",
+        "url": "https://qption.com/fundamental-analysis/quiz",
+        "ogImage": "https://qption.com/images/og/fundamental-analysis-quiz.jpg"
+    },
+    "ui": {
+        "loadingPool": "Loading quiz questions…",
+        "preparing": "Preparing quiz…",
+        "h1": "Fundamental Analysis",
+        "intro": "Challenge your macro mindset with our interactive Fundamental Analysis Quiz — test your grasp of growth and inflation data, central bank policy, interest-rate differentials, fiscal impacts, and cross-asset dynamics to become a more informed, conviction-driven trader.",
+        "quizTitle": "Fundamental Analysis Quiz",
+        "questionOf": "Question {{current}} of {{total}}",
+        "selectPrompt": "Select an option and submit your answer.",
+        "correct": "Correct ✅",
+        "notQuite": "Not quite ⚠️",
+        "learnMore": "Learn more ↗",
+        "prev": "Previous",
+        "submit": "Submit",
+        "next": "Next",
+        "finish": "Finish",
+        "scoreLabel": "Score: {{score}} / {{total}}",
+        "resultHigh": "Excellent! Your macro radar is sharp.",
+        "resultMid": "Nice work! Keep practicing to level up.",
+        "resultLow": "Good start—review the lessons and try again.",
+        "newRandom": "New Random 10"
+    },
+    "pool": [
+        {
+            "q": "Which indicator is most directly used as the primary gauge of consumer inflation?",
+            "options": [
+                "GDP",
+                "CPI",
+                "Trade Balance",
+                "Retail Sales"
+            ],
+            "correctIndex": 1,
+            "explain": "The Consumer Price Index tracks changes in prices for a basket of goods/services and is a primary inflation gauge.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Economic Indicators"
+        },
+        {
+            "q": "A rising GDP print, all else equal, most likely suggests:",
+            "options": [
+                "Economic contraction",
+                "Economic expansion",
+                "Stagflation",
+                "Only currency depreciation"
+            ],
+            "correctIndex": 1,
+            "explain": "GDP measures total output; a rise generally reflects growth momentum.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Economic Indicators"
+        },
+        {
+            "q": "Which release can spark large FX moves due to labor market implications?",
+            "options": [
+                "Non-farm payrolls (jobs data)",
+                "PPI",
+                "Retail Inventories",
+                "Budget Statement"
+            ],
+            "correctIndex": 0,
+            "explain": "Employment data influences rate expectations and growth outlooks, often moving currencies.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Economic Indicators"
+        },
+        {
+            "q": "When a central bank cuts its policy rate, it most commonly aims to:",
+            "options": [
+                "Cool an overheating economy",
+                "Stimulate borrowing and spending",
+                "Reduce money supply",
+                "Strengthen the currency immediately"
+            ],
+            "correctIndex": 1,
+            "explain": "Lower rates reduce financing costs, supporting demand and investment.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Central Banks"
+        },
+        {
+            "q": "Bond prices typically move _____ to interest rates.",
+            "options": [
+                "Inversely",
+                "Identically",
+                "Randomly",
+                "Unrelated"
+            ],
+            "correctIndex": 0,
+            "explain": "As yields rise, existing fixed coupons are less attractive, pushing prices down (and vice versa).",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Central Banks"
+        },
+        {
+            "q": "Forward guidance refers to:",
+            "options": [
+                "A fixed exchange rate regime",
+                "Communications about future policy intentions",
+                "Only QE operations",
+                "Fiscal deficit projections"
+            ],
+            "correctIndex": 1,
+            "explain": "Central banks shape expectations via guidance on likely policy paths.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Central Banks"
+        },
+        {
+            "q": "High inflation tends to _____ a currency unless offset by higher rates.",
+            "options": [
+                "Strengthen",
+                "Weaken",
+                "Have no effect",
+                "Fix the exchange rate"
+            ],
+            "correctIndex": 1,
+            "explain": "Inflation erodes purchasing power; rate hikes can counteract via higher yields.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Inflation"
+        },
+        {
+            "q": "Some investors view Bitcoin as a potential inflation hedge because:",
+            "options": [
+                "It has an unlimited supply",
+                "Its supply is capped by protocol",
+                "It tracks CPI by design",
+                "It is pegged to the USD"
+            ],
+            "correctIndex": 1,
+            "explain": "Perception of scarcity leads some to treat BTC as a hedge during high inflation regimes.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Inflation"
+        },
+        {
+            "q": "A classic currency carry trade seeks to:",
+            "options": [
+                "Borrow in high-rate currencies and lend in low-rate currencies",
+                "Borrow in low-rate currencies and invest in high-rate currencies",
+                "Eliminate interest rate exposure",
+                "Only hold cash"
+            ],
+            "correctIndex": 1,
+            "explain": "Positive interest differentials can accrue carry—until volatility/regime shifts hit.",
+            "source": "https://qption.com/fundamentalanalysis/interest-rate-differentials-carry-trades",
+            "topic": "Carry"
+        },
+        {
+            "q": "During geopolitical stress, investors often rotate toward:",
+            "options": [
+                "Small-cap growth stocks exclusively",
+                "Higher-beta assets",
+                "Safe-haven assets (e.g., gold, CHF, JPY, Treasuries)",
+                "Illiquid microcaps"
+            ],
+            "correctIndex": 2,
+            "explain": "Uncertainty drives demand for perceived safety and liquidity.",
+            "source": "https://qption.com/fundamentalanalysis/geopolitical-events-and-markets",
+            "topic": "Geopolitics"
+        },
+        {
+            "q": "Expansionary fiscal policy typically includes:",
+            "options": [
+                "Raising taxes and cutting spending",
+                "Cutting taxes and/or increasing spending",
+                "Only balancing the budget",
+                "Selling foreign reserves"
+            ],
+            "correctIndex": 1,
+            "explain": "Aim: boost aggregate demand, growth, and employment during slowdowns.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Fiscal"
+        },
+        {
+            "q": "A key risk of persistent fiscal deficits is:",
+            "options": [
+                "Falling public debt",
+                "Reduced interest costs",
+                "Rising public debt and interest burdens",
+                "Automatic currency appreciation"
+            ],
+            "correctIndex": 2,
+            "explain": "High debt reduces flexibility and can crowd out other priorities.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Fiscal"
+        },
+        {
+            "q": "A high debt-to-GDP ratio can signal:",
+            "options": [
+                "Low reliance on borrowing",
+                "Potential sustainability concerns",
+                "Guaranteed growth",
+                "Fixed exchange rates"
+            ],
+            "correctIndex": 1,
+            "explain": "Heavy debt loads may impair growth and currency confidence if not managed.",
+            "source": "https://qption.com/fundamentalanalysis/global-debt-levels-and-currency-valuation",
+            "topic": "Debt/Currency"
+        },
+        {
+            "q": "Commodity prices are primarily driven by:",
+            "options": [
+                "Only central bank policy",
+                "Supply/demand dynamics and shocks",
+                "Random walk only",
+                "Tax policy exclusively"
+            ],
+            "correctIndex": 1,
+            "explain": "Supply disruptions or demand surges (e.g., growth, weather) move prices.",
+            "source": "https://qption.com/fundamentalanalysis/supply-and-demand-commodities",
+            "topic": "Commodities"
+        },
+        {
+            "q": "Which of the following is commonly viewed as a safe-haven asset?",
+            "options": [
+                "High-beta tech stock",
+                "Gold",
+                "Small-cap biotech",
+                "Emerging-market carry"
+            ],
+            "correctIndex": 1,
+            "explain": "In turbulence, capital often rotates to gold, CHF, JPY, and high-quality sovereign bonds.",
+            "source": "https://qption.com/fundamentalanalysis/safe-haven-assets-market-turbulence",
+            "topic": "Safe Haven"
+        },
+        {
+            "q": "Equities and FX/CFDs can move together because both are influenced by:",
+            "options": [
+                "The same macro drivers (growth, inflation, rates, risk appetite)",
+                "Completely unrelated forces",
+                "Weather only",
+                "A single earnings report"
+            ],
+            "correctIndex": 0,
+            "explain": "Macro regimes (risk-on/off) often show cross-asset correlations.",
+            "source": "https://qption.com/fundamentalanalysis/forex-cfds",
+            "topic": "Cross-Asset"
+        },
+        {
+            "q": "Tighter crypto regulation can:",
+            "options": [
+                "Only increase prices",
+                "Have no effect on participation",
+                "Affect adoption, liquidity, and market structure",
+                "Eliminate volatility entirely"
+            ],
+            "correctIndex": 2,
+            "explain": "Rules shape on/off-ramps, institutions’ access, and behavior.",
+            "source": "https://qption.com/fundamentalanalysis/crypto-adoption-regulation",
+            "topic": "Crypto Regulation"
+        },
+        {
+            "q": "At a high level, blockchains secure transaction history using:",
+            "options": [
+                "Centralized ledgers only",
+                "Distributed consensus and cryptography",
+                "Paper records",
+                "A single company server"
+            ],
+            "correctIndex": 1,
+            "explain": "Consensus (e.g., PoW/PoS) and cryptographic linking maintain integrity.",
+            "source": "https://qption.com/fundamentalanalysis/blockchain-fundamental-analysis",
+            "topic": "Blockchain"
+        }
+    ]
+}

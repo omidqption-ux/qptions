@@ -1,0 +1,143 @@
+{
+    "seo": {
+        "title": "Differenziali di tasso & carry trade valutari – Meccanica, condizioni, rischi | Qption",
+        "description": "Scopri come i differenziali di tasso guidano i movimenti FX e i carry trade. Comprendi meccanica, condizioni ideali, indicatori chiave, benefici e rischi principali (volatilità, svalutazione, cambi politici).",
+        "keywords": "differenziale di tasso, carry trade valutario, FX carry, politica monetaria, tassi banca centrale, risk-on, bassa volatilità, rischio di svalutazione, AUD/JPY, NZD/JPY, funding JPY, strategia forex, analisi fondamentale, Qption",
+        "ogTitle": "Differenziali di tasso & carry trade valutari",
+        "ogDescription": "Carry 101: perché contano gli spread, quando il carry funziona e i rischi che possono rovesciare il P/L.",
+        "url": "https://qption.com/fundamental-analysis/interest-rate-differentials-carry-trades",
+        "image": "https://qption.com/images/og/interest-rate-differentials-carry-trades.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "FX Carry & differenziali di tasso | Qption",
+        "twitterDescription": "Meccanica, condizioni, indicatori, benefici e rischi dei carry trade valutari.",
+        "twitterImage": "https://qption.com/images/og/interest-rate-differentials-carry-trades.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/interest-rate-differentials-carry-trades",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Differenziali di tasso & carry trade valutari – Meccanica, condizioni, rischi",
+            "description": "Come gli spread dei tassi alimentano l’FX e le strategie carry: cosa monitorare, quando funziona e i rischi.",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/interest-rate-differentials-carry-trades",
+            "publisher": { "@type": "Organization", "name": "Qption" },
+            "about": [
+                { "@type": "Thing", "name": "Differenziale di tasso d’interesse" },
+                { "@type": "Thing", "name": "Carry trade valutario" },
+                { "@type": "Thing", "name": "Politica monetaria" },
+                { "@type": "Thing", "name": "Mercato FX" },
+                { "@type": "Thing", "name": "Volatilità" },
+                { "@type": "Thing", "name": "Sentiment risk-on" }
+            ],
+            "articleSection": [
+                "Panoramica",
+                "Capire i differenziali di tasso",
+                "Meccanica del carry",
+                "Condizioni favorevoli",
+                "Benefici",
+                "Rischi e limiti"
+            ],
+            "additionalProperty": [
+                { "name": "Idea base", "value": "Prendere a prestito in valuta a basso rendimento e investire in una ad alto rendimento per incassare lo spread." },
+                { "name": "Coppie tipiche", "value": "Funding: JPY/CHF; Target: AUD/NZD (dipende dal contesto)." },
+                { "name": "Condizioni favorevoli", "value": "Bassa volatilità, spread stabili o in allargamento, sentiment risk-on." },
+                { "name": "Driver chiave", "value": "Percorso delle banche centrali, inflazione, crescita, occupazione." },
+                { "name": "Principali rischi", "value": "Svalutazione FX, picchi di volatilità, sorprese di policy." }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analisi fondamentale"
+    },
+    "page": {
+        "title": "Differenziali di tasso e carry trade valutari"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "startTrading": "Inizia a fare trading"
+    },
+    "sections": {
+        "overview": {
+            "title": "Panoramica",
+            "bullets": [
+                "Il differenziale di tasso è il gap tra i tassi di due economie; guida i trend FX e alimenta i carry trade.",
+                "Un carry trade prende a prestito una valuta a basso tasso e detiene una valuta ad alto tasso per incassare lo spread.",
+                "Il carry è interessante in mercati calmi ma è vulnerabile alla volatilità e ai cambi di policy."
+            ]
+        },
+        "understanding": {
+            "title": "Capire i differenziali di tasso",
+            "items": [
+                {
+                    "label": "Politica sui tassi",
+                    "text": "Le banche centrali modificano i tassi per gestire inflazione e crescita. Percorsi divergenti creano opportunità carry."
+                },
+                {
+                    "label": "Valutazione valutaria",
+                    "text": "Valute ad alto rendimento attirano capitali e si apprezzano; valute di funding low-rate possono indebolirsi."
+                },
+                {
+                    "label": "Indicatori economici",
+                    "text": "Inflazione, PIL e occupazione orientano le aspettative di policy e quindi l’ambiente carry."
+                }
+            ]
+        },
+        "mechanics": {
+            "title": "Meccanica dei carry trade",
+            "choose": {
+                "title": "1. Scelta delle valute",
+                "bullets": [
+                    "Prendi a prestito in valuta low-yield (es. JPY/CHF) e investi in una high-yield (es. AUD/NZD).",
+                    "L’obiettivo è incassare l’interesse netto (“carry”) sulla gamba ad alto rendimento."
+                ]
+            },
+            "earn": {
+                "title": "2. Guadagnare sul differenziale",
+                "bullets": [
+                    "Il P/L deriva dallo spread tra interessi pagati (funding) e incassati (target).",
+                    "Spread stabili o in allargamento + drift FX favorevole amplificano i rendimenti."
+                ]
+            }
+        },
+        "conditions": {
+            "title": "Condizioni di mercato favorevoli",
+            "lowVol": {
+                "title": "1. Bassa volatilità",
+                "bullets": [
+                    "Il carry funziona meglio con range FX calmi e rischi di coda limitati.",
+                    "In contesti tranquilli lo spread di tasso domina l’esito."
+                ]
+            },
+            "riskOn": {
+                "title": "2. Sentiment risk-on",
+                "bullets": [
+                    "Con un sentiment positivo gli investitori detengono più volentieri valute ad alto rendimento.",
+                    "Il risk-on tende a rafforzare le FX high-rate e supportare il carry."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefici dei carry trade",
+            "bullets": [
+                "Reddito aggiuntivo dallo spread d’interesse, anche in mercati laterali.",
+                "Possibile apprezzamento del capitale se la valuta ad alto tasso si rafforza.",
+                "Diversificazione rispetto a esposizioni azionarie e obbligazionarie."
+            ]
+        },
+        "risks": {
+            "title": "Rischi e limiti",
+            "items": [
+                {
+                    "label": "Volatilità di mercato",
+                    "text": "Movimenti FX improvvisi possono annullare il carry e portare il P/L in negativo."
+                },
+                {
+                    "label": "Rischio di svalutazione",
+                    "text": "Se la valuta ad alto tasso si indebolisce significativamente, i guadagni di carry svaniscono."
+                },
+                {
+                    "label": "Shock di policy",
+                    "text": "Azioni a sorpresa delle banche centrali possono comprimere gli spread e invertire i trend di colpo."
+                }
+            ]
+        }
+    }
+}

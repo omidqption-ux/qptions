@@ -1,0 +1,52 @@
+{
+    "seo": {
+        "title": "技术分析 – 图表、指标与交易设置 | Qption",
+        "description": "通过 Qption 的深入技术分析掌握市场：实时图表思路、指标指南以及针对外汇、加密货币和指数的每周交易设置。",
+        "keywords": "技术分析, 交易图表, 价格行为, 指标, K线形态, 支撑与阻力, Qption教育, 外汇分析, 加密分析",
+        "ogTitle": "技术分析 – 图表、指标与交易设置 | Qption",
+        "ogDescription": "来自 Qption 分析师的实用图表讲解和指标指南——每日更新，专为外汇和加密交易者设计。",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "hero": {
+        "title": "技术分析",
+        "subtitle": "使用我们全面的技术分析工具和指标，掌握市场分析的艺术"
+    },
+    "labels": {
+        "learnMore": "了解更多 →",
+        "quizCta": "参加技术分析测验",
+        "videoAria": "技术分析是一种交易方法，通过使用价格图表、形态和指标来预测未来价格走势。"
+    },
+    "strategies": [
+        {
+            "title": "布林带 (Bollinger Bands)",
+            "link": "/technical-analysis/bollinger",
+            "description": "基于波动率的交易带，用于价格行为分析"
+        },
+        {
+            "title": "鳄鱼指标 (Alligator)",
+            "link": "/technical-analysis/alligator",
+            "description": "基于平滑移动平均线的趋势跟随型指标"
+        },
+        {
+            "title": "RSI 相对强弱指标",
+            "link": "/technical-analysis/RSIIndicator",
+            "description": "衡量价格运动速度与变化的动量振荡器"
+        },
+        {
+            "title": "技术分析",
+            "link": "/technical-analysis/technical",
+            "description": "使用多种技术工具进行全面的市场分析"
+        },
+        {
+            "title": "移动平均线 (Moving Averages)",
+            "link": "/technical-analysis/moving-averages",
+            "description": "识别趋势及支撑/阻力位"
+        }
+    ],
+    "bullets": [
+        "技术分析是一种交易方法，通过使用价格图表、形态和指标来预测未来的价格走势。",
+        "它关注历史价格数据、交易量和其他市场指标，以识别趋势和潜在的进场与出场点。",
+        "技术分析被广泛应用于包括股票、外汇和大宗商品在内的各类市场。"
+    ]
+}

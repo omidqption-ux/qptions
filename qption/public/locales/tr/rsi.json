@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Relative Strength Index (RSI) – Teknik Analiz | Qption",
+        "description": "RSI’yi teknik analizde kullanmayı öğrenin: RSI hesaplama, aşırı alım/aşırı satım bölgelerini tanıma, diverjansları okuma ve farklı piyasalar için en iyi ayarları seçme.",
+        "keywords": "RSI, Relative Strength Index, teknik analiz, momentum osilatörü, aşırı alım, aşırı satım, diverjans, trading stratejisi, Qption",
+        "ogTitle": "Relative Strength Index (RSI) – Teknik Analiz | Qption",
+        "ogDescription": "RSI rehberi: nasıl hesaplanır, OB/OS sinyalleri ve diverjanslar nasıl trade edilir, hangi ortamda parıldar.",
+        "url": "https://qption.com/technical-analysis/RSIIndicator",
+        "image": "https://qption.com/videos/og/rsi-indicator/rsi-indicator.png"
+    },
+    "labels": {
+        "backToTechnical": "Teknik Analiz",
+        "videoAria": "RSI (Relative Strength Index), fiyat hareketlerinin hızını ve değişimini ölçen bir momentum osilatörüdür."
+    },
+    "promo": {
+        "text": "RSI ile trade etmeye hazır mısın?",
+        "cta": "Ticarete Başla"
+    },
+    "hero": {
+        "title": "RSI Gösterge Stratejisi",
+        "subtitle": "RSI üzerine kapsamlı analizimizle momentum trading’de ustalaş"
+    },
+    "overview": {
+        "title": "Genel Bakış",
+        "bullets": [
+            "RSI, fiyat hareketlerinin hızını ve değişimini ölçerek trend/dönüş okunabilirliğini artırır.",
+            "0-100 aralığında salınır; 70 üzeri aşırı alım, 30 altı aşırı satım olarak yorumlanır.",
+            "RSI, farklı piyasalarda potansiyel dönüşleri ve OB/OS koşullarını belirlemeye yardımcı olur."
+        ]
+    },
+    "how": {
+        "title": "RSI Nasıl Çalışır?",
+        "items": [
+            {
+                "title": "Hesaplama",
+                "desc": "RSI, genellikle 14 periyotluk ortalama kazanç/kayıplardan türetilir."
+            },
+            {
+                "title": "Aşırı Alım/Aşırı Satım",
+                "desc": "70 üzeri okumalar aşırı alımı, 30 altı aşırı satımı işaret eder."
+            },
+            {
+                "title": "Diverjans",
+                "desc": "Fiyat yeni zirve/dip yaparken RSI yapmıyorsa olası dönüş yaklaşabilir."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Temel Stratejiler",
+        "items": [
+            {
+                "title": "1. Aşırı Alım/Aşırı Satım İşlemleri",
+                "points": [
+                    "RSI 30’un üzerine çıktığında al, 70’in altına indiğinde sat (OB/OS bölgesinden çıkış).",
+                    "Fiyat aksiyonu veya diğer göstergelerden teyit al."
+                ]
+            },
+            {
+                "title": "2. RSI Diverjansları",
+                "points": [
+                    "Bullish diverjans: Fiyat düşen dipler yaparken RSI daha yüksek dipler yapar.",
+                    "Bearish diverjans: Fiyat yükselen tepeler yaparken RSI daha düşük tepeler yapar."
+                ]
+            },
+            {
+                "title": "3. RSI Trend Çizgileri",
+                "points": [
+                    "RSI üzerinde trend çizgileri çizerek olası breakout/breakdown noktalarını yakalayın.",
+                    "RSI kırılışlarını piyasa yapısı ile birleştirerek giriş/çıkış planlayın."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Sınırlamalar",
+        "bullets": [
+            "Güçlü trendlerde RSI uzun süre aşırı alım/aşırı satımda kalabilir.",
+            "Dalgalı yatay piyasalarda yanlış sinyal riski artar."
+        ]
+    }
+}

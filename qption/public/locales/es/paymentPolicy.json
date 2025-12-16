@@ -1,0 +1,77 @@
+{
+    "seo": {
+        "title": "Política de Pagos | Qption",
+        "description": "Política de Qption sobre la visualización del saldo, los procedimientos de depósito y retiro, la verificación de identidad (KYC), las obligaciones fiscales y otras disposiciones.",
+        "keywords": "política de pagos, depósito, retiro, saldo de cuenta, KYC, verificación de identidad, impuestos, Qption",
+        "ogTitle": "Política de Pagos | Qption",
+        "ogDescription": "Consulta las normas de Qption sobre depósitos y retiros, visualización de saldo, KYC e impuestos.",
+        "url": "https://qption.com/payment-policy",
+        "image": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Política de Pagos | Qption",
+        "twitterDescription": "Depósitos/retiros, responsabilidad sobre el saldo, KYC, impuestos y otras disposiciones.",
+        "twitterImage": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "canonical": "https://qption.com/payment-policy"
+    },
+    "hero": {
+        "title": "Política de Pagos"
+    },
+    "sections": [
+        {
+            "key": "account",
+            "icon": "account",
+            "title": "1. Responsabilidad sobre el saldo de la cuenta",
+            "items": [
+                "La Empresa es responsable de mostrar el saldo de la cuenta del Cliente en cualquier momento.",
+                "La responsabilidad de la Empresa comienza cuando se registra un depósito y continúa hasta que la solicitud de retiro del Cliente se procese completamente.",
+                "El Cliente tiene derecho a solicitar los fondos disponibles en su cuenta en el momento de la consulta."
+            ]
+        },
+        {
+            "key": "payments",
+            "icon": "payments",
+            "title": "2. Procedimientos de depósito y retiro",
+            "items": [
+                "Los depósitos y retiros se realizan mediante los métodos oficiales listados en el sitio web de la Empresa.",
+                "El Cliente asume todos los riesgos asociados al uso de los proveedores de pago, los cuales no son afiliados de la Empresa.",
+                "La Empresa es responsable de los fondos únicamente una vez que estos llegan a la cuenta bancaria o de pago de la Empresa."
+            ]
+        },
+        {
+            "key": "registration",
+            "icon": "registration",
+            "title": "3. Registro del cliente",
+            "items": [
+                "El registro requiere proporcionar datos de identidad y de contacto precisos.",
+                "El proceso de verificación exige un documento de identidad emitido por una autoridad gubernamental.",
+                "El proceso de identificación debe completarse en un plazo de 10 días hábiles."
+            ]
+        },
+        {
+            "key": "deposit",
+            "icon": "deposit",
+            "title": "4. Procesos de depósito",
+            "items": [
+                "Los depósitos se inician desde la cuenta personal del Cliente en el sitio web.",
+                "Los pagos electrónicos pueden tardar desde segundos hasta varios días en procesarse."
+            ]
+        },
+        {
+            "key": "tax",
+            "icon": "tax",
+            "title": "5. Obligaciones fiscales",
+            "items": [
+                "La Empresa no actúa como agente fiscal del Cliente; el cumplimiento y la declaración de impuestos son responsabilidad del propio Cliente."
+            ]
+        },
+        {
+            "key": "misc",
+            "icon": "misc",
+            "title": "6. Disposiciones varias",
+            "items": [
+                "Al aceptar el Contrato, el Cliente confirma que es mayor de edad conforme a la ley aplicable.",
+                "El Cliente es responsable de cumplir con las leyes locales vigentes."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Piyasa çalkantısında güvenli liman varlıkları: Altın, Hazine tahvilleri, CHF & JPY | Qption",
+        "description": "Altın, ABD Hazine tahvilleri, İsviçre frangı, Japon yeni ve defansif hisselerin volatil dönemlerde nasıl davrandığını öğrenin. Yatırımcıların sermaye koruma, çeşitlendirme ve hedge amacıyla neden kullandığını ve başlıca trade-off’ları görün.",
+        "url": "https://qption.com/fundamental-analysis/safe-haven-assets-market-turbulence",
+        "keywords": "güvenli liman varlıklar, altın, ABD Hazine Tahvilleri, İsviçre frangı CHF, Japon yeni JPY, defansif hisseler, portföy çeşitlendirme, flight to quality, piyasa volatilitesi, enflasyon koruması, risk yönetimi, Qption",
+        "ld": {
+            "headline": "Piyasa çalkantısında güvenli liman varlıklarının rolü",
+            "about": {
+                "safeHavens": "Güvenli liman varlıklar",
+                "gold": "Altın",
+                "treasuries": "ABD Hazine tahvilleri",
+                "chf": "İsviçre frangı (CHF)",
+                "jpy": "Japon yeni (JPY)",
+                "defensive": "Defansif hisseler",
+                "volatility": "Piyasa Volatilitesi",
+                "f2q": "Quality’e kaçış",
+                "inflationHedge": "Enflasyon Koruması"
+            },
+            "props": {
+                "correlation": {
+                    "name": "Korelasyon Profili",
+                    "value": "Güvenli limanlar, hisse senetleriyle düşük/negatif korelasyon sergileyerek düşüşlerde portföy volatilitesini azaltır."
+                },
+                "crisis": {
+                    "name": "Kriz Davranışı",
+                    "value": "Risk-off dönemlerinde sermaye altın, yüksek notlu tahviller ve CHF/JPY gibi paralara yönelir."
+                },
+                "tradeoffs": {
+                    "name": "Trade-off’lar",
+                    "value": "Daha düşük beklenen getiri ve kriz dönemlerinde yığılma, aşırı değerlenmeye ve sonrasında düzeltmelere yol açabilir."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "start": "Ticarete Başla"
+    },
+    "page": {
+        "title": "Piyasa çalkantısında güvenli liman varlıklarının rolü"
+    },
+    "sections": {
+        "_list": [
+            "Piyasa çalkantısında güvenli liman varlıklarının rolü",
+            "Genel Bakış",
+            "Yaygın Güvenli Liman Varlıklar",
+            "Altın",
+            "ABD Hazine Tahvilleri",
+            "İsviçre Frangı (CHF)",
+            "Japon Yeni (JPY)",
+            "Defansif Hisseler",
+            "Yatırımcılar neden güvenli limanlara yönelir?",
+            "Sermaye Koruma",
+            "Portföy Çeşitlendirmesi",
+            "Enflasyon ve Kur Risklerine Karşı Hedge",
+            "Çalkantı dönemlerinde piyasa tepkileri",
+            "Güvenli liman talebinde artış",
+            "Tahvil piyasalarında quality’e kaçış",
+            "Portföye güvenli liman eklemenin faydaları",
+            "Güvenli liman varlıklarının sınırlamaları"
+        ],
+        "overview": {
+            "title": "Genel Bakış",
+            "items": [
+                "Güvenli liman varlıklar, çalkantı ve belirsizlik dönemlerinde değerini koruma eğilimindeki enstrümanlardır.",
+                "Yatırımcılar, riskli varlıklar düşerken sermayeyi korumak, portföy riskini azaltmak ve volatiliteyi yumuşatmak için güvenli limanlara yönelir.",
+                "Bu varlıklar, finansal krizler, jeopolitik olaylar veya resesyon senaryolarında çeşitlendirme ve risk yönetiminin temelidir."
+            ]
+        },
+        "common": {
+            "title": "Yaygın Güvenli Liman Varlıklar",
+            "items": [
+                {
+                    "label": "Altın:",
+                    "text": "Uzun süredir değer saklama aracı; ekonomik istikrarsızlıkta genellikle yükselir."
+                },
+                {
+                    "label": "ABD Hazine Tahvilleri:",
+                    "text": "Düşük riskli ve devlet garantili; risk-off dönemlerinde fiyatlar yükselir, getiriler düşer."
+                },
+                {
+                    "label": "İsviçre Frangı (CHF):",
+                    "text": "İstikrarlı ekonomi ve düşük enflasyonuyla stres dönemlerinde fon çeker."
+                },
+                {
+                    "label": "Japon Yeni (JPY):",
+                    "text": "Japonya’nın dış dengesi ve derin finansal piyasalarıyla klasik güvenli liman parasıdır."
+                },
+                {
+                    "label": "Defansif hisseler:",
+                    "text": "Kamu hizmetleri, sağlık, temel tüketim gibi daha az döngüsel sektörler nispi istikrar sunar."
+                }
+            ]
+        },
+        "why": {
+            "title": "Yatırımcılar neden güvenli limanlara yönelir?",
+            "capital": {
+                "title": "Sermaye Koruma",
+                "items": [
+                    "Güvenli liman tahsisleri, hisseler sert düştüğünde drawdown’ı sınırlar.",
+                    "Volatil piyasalarda alım gücünü ve portföy değerini korumaya yardım eder."
+                ]
+            },
+            "diversification": {
+                "title": "Portföy Çeşitlendirmesi",
+                "items": [
+                    "Düşük/negatif korelasyon, toplam portföy volatilitesini azaltır.",
+                    "Riskli varlıkları güvenli limanlarla dengelemek döngüler arası getirileri yumuşatır."
+                ]
+            },
+            "hedge": {
+                "title": "Enflasyon ve Kur Risklerine Karşı Hedge",
+                "items": [
+                    "Altın, enflasyon ve para değersizleşmesine karşı gelişmiş bir korunma aracıdır.",
+                    "CHF gibi güvenli liman kurlar global portföylerde FX riskini dengeleyebilir."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Çalkantı dönemlerinde piyasa tepkileri",
+            "demand": {
+                "title": "Güvenli liman talebinde artış",
+                "items": [
+                    "Volatilite sıçramaları altın, Hazine tahvilleri ve güvenli liman FX’ine akışları tetikler.",
+                    "Yatırımcılar, döngüsel ve riskli varlıklardan çıkarak güvenliğe yönelir."
+                ]
+            },
+            "bonds": {
+                "title": "Tahvil piyasalarında quality’e kaçış",
+                "items": [
+                    "Risk-off rejimlerinde devlet tahvili fiyatları yükselir, getiriler sıkışır.",
+                    "Quality’e kaçış, egemen borcun dengeleyici rolünü vurgular."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Güvenli liman varlıklarını portföye eklemenin faydaları",
+            "items": [
+                "Portföy volatilitesini ve drawdown’ları azaltır.",
+                "Stres dönemlerinde likidite ve istikrar sağlar.",
+                "Ekonomik döngüler boyunca uzun vadeli dayanıklılığı destekler."
+            ]
+        },
+        "limits": {
+            "title": "Güvenli liman varlıklarının sınırlamaları",
+            "items": [
+                "Büyüme odaklı varlıklara kıyasla uzun vadeli getiri potansiyeli daha düşüktür.",
+                "Krizlerde yığılma riski aşırı değerlemeye ve sonrasında düzeltmeye yol açabilir.",
+                "Piyasa hissiyatı değiştiğinde tamamen fiyat dalgalanmalarından muaf değildir."
+            ]
+        }
+    }
+}

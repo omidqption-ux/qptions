@@ -1,0 +1,182 @@
+{
+    "seo": {
+        "title": "Gizlilik Politikası & Veri Toplama | Qption",
+        "description": "Qption verilerinizi nasıl toplar, kullanır, saklar ve korur: amaçlar, kimlik tespiti, pazarlama, paylaşımlar, güvenlik, saklama, silme talepleri ve çerezler.",
+        "keywords": "gizlilik politikası, veri toplama, veri koruma, çerezler, KYC, güvenlik, saklama, silme, Qption",
+        "ogTitle": "Gizlilik Politikası & Veri Toplama | Qption",
+        "ogDescription": "Qption’da hangi verileri neden topladığımızı ve nasıl koruduğumuzu öğrenin.",
+        "url": "https://qption.com/privacy-policy",
+        "image": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Gizlilik Politikası & Veri Toplama | Qption",
+        "twitterDescription": "Veri toplama, kullanım, saklama, koruma ve çerez uygulamalarımız.",
+        "twitterImage": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "canonical": "https://qption.com/privacy-policy"
+    },
+    "hero": {
+        "title": "Gizlilik Politikası ve Veri Toplama"
+    },
+    "sections": [
+        {
+            "key": "consent",
+            "icon": "consent",
+            "title": "1. Veri Toplamaya Onay",
+            "items": [
+                "https://qption.com/ adresine erişip Itransition Co hizmetlerini kullanan müşteri, kişisel verilerinin Itransition Co tarafından toplanıp işlenmesini kabul eder."
+            ]
+        },
+        {
+            "key": "info",
+            "icon": "info",
+            "title": "2. Toplanan Bilgiler",
+            "items": [
+                "Kayıt veya hizmet kullanımı sırasında isim, doğum tarihi, e-posta, adres, telefon, işlem detayları, IP adresi, tarayıcı türü, ziyaret süresi, görüntülenen sayfalar ve benzeri bilgiler toplanabilir."
+            ]
+        },
+        {
+            "key": "use",
+            "icon": "use",
+            "title": "3. Kişisel Verilerin Kullanımı",
+            "items": [
+                "Veriler; web sitesini işletmek, müşteri veritabanlarını yönetmek, işlemleri işlemek ve pazarlama faaliyetleri yürütmek için kullanılabilir. İletişim bilgilerini paylaşan müşteri, bu kanallar üzerinden bilgilendirme yapılmasını kabul eder."
+            ]
+        },
+        {
+            "key": "purpose",
+            "icon": "purpose",
+            "title": "4. Veri Toplama Amacı",
+            "items": [
+                "Veriler; yasal yükümlülükler, site operasyonu, hizmet iyileştirme, hesap kurulumu, güvenlik, yedekleme, iletişim, kayıt tutma ile istatistiksel veya pazarlama amaçları için toplanır."
+            ]
+        },
+        {
+            "key": "identification",
+            "icon": "identification",
+            "title": "5. Kimlik Tespiti Gereksinimleri",
+            "items": [
+                "Kayıt sırasında kara para aklama mevzuatı kapsamındaki bilgiler dahil olmak üzere belirli kimlik detayları sağlanmalıdır."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "6. Bilgilerin Doğruluğu",
+            "items": [
+                "Müşteriler doğru ve güncel bilgi vermekle yükümlüdür. Değişiklikler en geç 30 gün içinde şirkete bildirilmelidir."
+            ]
+        },
+        {
+            "key": "marketing",
+            "icon": "marketing",
+            "title": "7. Pazarlama Amaçlı Kullanım",
+            "items": [
+                "Kayıt veya hizmet sırasında sağlanan bilgiler, şirket tarafından pazarlama materyalleri göndermek için kullanılabilir."
+            ]
+        },
+        {
+            "key": "disclosure",
+            "icon": "disclosure",
+            "title": "8. Bilgi Paylaşımı",
+            "items": [
+                "Müşteri bilgileri yalnızca yasa gerektirdiğinde ve gerekli minimum kapsamda resmi mercilerle paylaşılır."
+            ]
+        },
+        {
+            "key": "nonPersonal",
+            "icon": "nonPersonal",
+            "title": "9. Kişisel Olmayan Verilerin Kullanımı",
+            "items": [
+                "Kişisel olmayan veriler reklam ve analiz amaçlarıyla kullanılabilir."
+            ]
+        },
+        {
+            "key": "verification",
+            "icon": "verification",
+            "title": "10. Doğrulama ve Belge Talepleri",
+            "items": [
+                "Belirli işlemler için kimlik belgeleri talep edilebilir. Uyulmaması hesabın askıya alınmasına veya kapatılmasına neden olabilir."
+            ]
+        },
+        {
+            "key": "confidentiality",
+            "icon": "confidentiality",
+            "title": "11. Veri Gizliliği",
+            "items": [
+                "Şirket, yasal gereklilikler dışında müşteri verilerini onay olmadan paylaşmaz. Bilgiler güvenli şekilde saklanır ve sadece yetkili personel erişebilir."
+            ]
+        },
+        {
+            "key": "storage",
+            "icon": "storage",
+            "title": "12. Hesap Bilgilerinin Saklanması",
+            "items": [
+                "Hesap ve işlem detayları Şirket tarafından saklanır; müşteriyle yaşanabilecek anlaşmazlıklarda referans olarak kullanılabilir."
+            ]
+        },
+        {
+            "key": "review",
+            "icon": "review",
+            "title": "13. Bilgilerin İncelenmesi",
+            "items": [
+                "Şirket, müşteri tarafından sunulan bilgileri inceleme hakkına sahiptir, ancak zorunluluğu yoktur."
+            ]
+        },
+        {
+            "key": "protection",
+            "icon": "protection",
+            "title": "14. Veri Koruma",
+            "items": [
+                "Şirket, müşteri verilerini korumak için gelişmiş güvenlik prosedürleri uygular ve düzenli olarak günceller."
+            ]
+        },
+        {
+            "key": "credentials",
+            "icon": "credentials",
+            "title": "15. Giriş Bilgileri ve Gizlilik",
+            "items": [
+                "Müşteriler güvenli kullanıcı adı ve şifre belirlemeli, bu bilgileri paylaşmamalıdır. Yanlış kullanımdan doğan kayıplardan şirket sorumlu değildir."
+            ]
+        },
+        {
+            "key": "unauthorized",
+            "icon": "unauthorized",
+            "title": "16. Yetkisiz Erişim",
+            "items": [
+                "Hesapta yetkisiz kullanım şüphesi varsa müşteri derhal şirket desteğine haber vermelidir."
+            ]
+        },
+        {
+            "key": "cardSecurity",
+            "icon": "cardSecurity",
+            "title": "17. Kart Verisi Güvenliği",
+            "items": [
+                "Şirket banka kartı verisi saklamaz. Kart bilgileri TLS 1.2 aktarım şifrelemesi ve AES-256 ile korunarak Ödeme Kartı Sektörü standartlarına uyum sağlar."
+            ]
+        },
+        {
+            "key": "deletion",
+            "icon": "deletion",
+            "title": "18. Veri Silme Talepleri",
+            "items": [
+                "Müşteriler help@Itransition.Co adresi üzerinden veri silme talebi iletebilir. Şirket, hizmet sağlamak, dolandırıcılığı önlemek veya yasal yükümlülükleri karşılamak için bazı verileri saklayabilir."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "19. Veri Saklama ve Politika Güncellemeleri",
+            "items": [
+                "Veriler hizmet sunumu için gerekli olduğu veya yasal olarak zorunlu kılındığı sürece saklanır. Şirket bu gizlilik politikasını güncelleyebilir; değişiklik sonrası sitenin kullanılmaya devam edilmesi yeni politikayı kabul ettiğiniz anlamına gelir."
+            ]
+        },
+        {
+            "key": "cookies",
+            "icon": "cookies",
+            "title": "20. Çerez Politikası",
+            "items": [
+                "Çerezler, site kullanımını takip etmek için cihazda saklanan küçük dosyalardır. Tarayıcı ayarlarınızdan çerezleri engelleyebilirsiniz.",
+                "Şirket çerezleri, görüntülenen sayfalar ve tercihleri izleyerek deneyimi iyileştirir; isim veya e-posta gibi kişisel veriler çerezlerde saklanmaz."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Politique budgétaire & dépenses publiques – Types, composantes, impacts | Qption",
+        "description": "Comprenez la politique budgétaire : mesures expansionnistes ou restrictives, fiscalité, dépenses publiques et déficits. Découvrez comment les dépenses (infrastructures, programmes sociaux, défense) influencent croissance, inflation, emploi et dette, ainsi que les avantages et limites.",
+        "keywords": "politique budgétaire, dépenses publiques, politique expansionniste, politique restrictive, dette publique, déficits, dépenses d’infrastructure, programmes sociaux, maîtrise de l’inflation, croissance économique et emploi, analyse fondamentale, Qption",
+        "url": "https://qption.com/fundamental-analysis/fiscal-policy-and-government-spending",
+        "ld": {
+            "headline": "Politique budgétaire & dépenses publiques – Types, composantes, impacts"
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analyse fondamentale"
+    },
+    "page": {
+        "title": "Politique budgétaire et dépenses publiques"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "start": "Commencer à trader"
+    },
+    "sections": {
+        "overview": {
+            "title": "Vue d’ensemble",
+            "items": [
+                "La politique budgétaire regroupe les décisions de l’État en matière d’impôts, de dépenses et d’emprunts pour influencer la croissance, l’inflation et l’emploi.",
+                "Les dépenses publiques – cœur de la politique budgétaire – couvrent les biens et services publics, les infrastructures et les programmes sociaux, et agissent sur la stabilité et la croissance.",
+                "Grâce à ces leviers, les gouvernements visent une croissance durable, moins de chômage et la stabilité des prix."
+            ]
+        },
+        "types": {
+            "title": "Types de politiques budgétaires",
+            "items": [
+                {
+                    "label": "Politique budgétaire expansionniste :",
+                    "text": "Stimule l’économie en augmentant les dépenses publiques, en réduisant les impôts ou les deux – surtout en récession pour relancer la demande et l’emploi."
+                },
+                {
+                    "label": "Politique budgétaire restrictive :",
+                    "text": "Ralentit une économie en surchauffe en réduisant les dépenses ou en augmentant les impôts afin de contenir l’inflation."
+                },
+                {
+                    "label": "Politique budgétaire neutre :",
+                    "text": "Maintient un budget équilibré où dépenses et recettes se compensent – sans effet expansionniste ou restrictif."
+                }
+            ]
+        },
+        "components": {
+            "title": "Composantes des dépenses publiques",
+            "public": {
+                "title": "Biens et services publics",
+                "items": [
+                    "Les dépenses financent des services essentiels (éducation, santé, sécurité) et renforcent le bien-être collectif.",
+                    "Les investissements dans les infrastructures (routes, transports, réseaux) améliorent l’efficacité et soutiennent la croissance à long terme."
+                ]
+            },
+            "social": {
+                "title": "Programmes sociaux",
+                "items": [
+                    "Les allocations chômage, la sécurité sociale ou l’aide sociale réduisent les inégalités et soutiennent les ménages modestes.",
+                    "Ces programmes servent d’amortisseurs automatiques, soutenant la consommation en période de ralentissement."
+                ]
+            },
+            "defense": {
+                "title": "Défense et sécurité nationale",
+                "items": [
+                    "Une part importante du budget couvre la défense afin d’assurer protection et stabilité.",
+                    "Ce poste finance les forces armées, les technologies et les industries associées, contribuant à l’activité économique."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Impact de la politique budgétaire sur l’économie",
+            "growth": {
+                "title": "Croissance économique et emploi",
+                "items": [
+                    "Une politique expansionniste stimule la demande, crée des emplois et accroît le PIB.",
+                    "Une politique restrictive peut freiner la croissance et l’emploi tout en maîtrisant l’inflation."
+                ]
+            },
+            "inflation": {
+                "title": "Maîtrise de l’inflation",
+                "items": [
+                    "Les autorités peuvent réduire les dépenses ou augmenter les impôts pour calmer la demande lors des phases inflationnistes.",
+                    "Garder l’inflation sous contrôle évite les hausses de prix excessives qui rognent le pouvoir d’achat."
+                ]
+            },
+            "debt": {
+                "title": "Dette publique et déficits",
+                "items": [
+                    "Quand les dépenses dépassent les recettes, des déficits apparaissent, augmentant la dette et réduisant la marge budgétaire future.",
+                    "Une dette trop élevée renchérit les intérêts et demande une gestion rigoureuse pour rester soutenable."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Avantages d’une politique budgétaire efficace",
+            "items": [
+                "Stabilité économique : une politique bien pilotée stabilise la croissance et réduit la volatilité.",
+                "Emploi et niveau de vie : les mesures expansionnistes créent des emplois et soutiennent les revenus.",
+                "Redistribution : les programmes sociaux réduisent les inégalités et aident les ménages modestes."
+            ]
+        },
+        "limits": {
+            "title": "Limites et défis de la politique budgétaire",
+            "items": [
+                "Contraintes politiques : les décisions peuvent être retardées ou biaisées par les agendas politiques.",
+                "Effets décalés : les mesures budgétaires agissent avec retard, limitant l’efficacité à court terme.",
+                "Risque de dette accrue : des déficits persistants réduisent la flexibilité et alourdissent le service de la dette."
+            ]
+        }
+    }
+}

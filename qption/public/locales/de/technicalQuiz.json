@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Technische Analyse – Charts, Indikatoren & Setups | Qption",
+        "description": "Meistere die Märkte mit Qptions umfassender technischer Analyse: Live-Chart-Ideen, Indikatoren-Leitfäden und wöchentliche Handels-Setups für Forex, Krypto und Indizes.",
+        "keywords": "technische Analyse, Handelscharts, Preisaktion, Indikatoren, Candlestick-Muster, Unterstützung und Widerstand, Qption Ausbildung, Forex-Analyse, Krypto-Analyse",
+        "ogTitle": "Technische Analyse – Charts, Indikatoren & Setups | Qption",
+        "ogDescription": "Erhalte umsetzbare Chart-Analysen und Indikator-Erklärungen von Qptions Analysten – täglich aktualisiert für Forex- und Krypto-Trader.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Technische Analyse – Charts, Indikatoren & Setups | Qption",
+        "twitterDescription": "Live-Chart-Ideen und wöchentliche Handels-Setups für Forex, Krypto und Indizes – powered by Qption.",
+        "twitterImage": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "canonical": "https://qption.com/technical-analysis"
+    },
+    "page": {
+        "title": "Technische Analyse",
+        "subtitle": "Teste dein Trading-Wissen und schärfe deine Fähigkeiten mit unserem interaktiven Quiz zur technischen Analyse — prüfe dein Verständnis von Chartmustern, Indikatoren und Marktpsychologie, um ein selbstbewussterer und informierter Trader zu werden."
+    },
+    "quiz": {
+        "header": "Quiz",
+        "progress": "Frage {{current}} von {{total}}",
+        "correct": "Richtig ✅",
+        "incorrect": "Nicht ganz ⚠️",
+        "selectHint": "Wähle eine Option und sende deine Antwort."
+    },
+    "ui": {
+        "previous": "Zurück",
+        "submit": "Senden",
+        "finish": "Beenden",
+        "next": "Weiter",
+        "newRandom": "Neue zufällige 10",
+        "loading": "Quiz wird geladen…"
+    },
+    "results": {
+        "score": "Ergebnis: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Ausgezeichnet! Dein Wissen in technischer Analyse ist beeindruckend.",
+            "good": "Gut gemacht! Übe weiter, um dich weiter zu verbessern.",
+            "retry": "Guter Anfang – wiederhole die Lektionen und versuche es erneut."
+        }
+    },
+    "pool": [
+        {
+            "q": "Wobei hilft ein einfacher gleitender Durchschnitt (SMA) Tradern hauptsächlich?",
+            "options": [
+                "Den höchstmöglichen Einstiegspreis zu bestimmen",
+                "Den Durchschnittspreis über einen bestimmten Zeitraum zu glätten",
+                "Den genauen Wendepunkt des Marktes zu identifizieren",
+                "Ein Momentum-Ausbruchslevel zu bestimmen"
+            ],
+            "correct": "Den Durchschnittspreis über einen bestimmten Zeitraum zu glätten",
+            "explain": "Ein SMA glättet Kursdaten durch den Durchschnitt über mehrere Perioden und zeigt so den zugrunde liegenden Trend.",
+            "topic": "MA"
+        },
+        {
+            "q": "Welcher gleitende Durchschnitt reagiert am schnellsten auf aktuelle Preisänderungen?",
+            "options": [
+                "SMA",
+                "WMA",
+                "EMA",
+                "Alle reagieren gleich"
+            ],
+            "correct": "EMA",
+            "explain": "EMA gewichtet aktuelle Preise stärker und reagiert dadurch schneller als SMA oder WMA.",
+            "topic": "MA"
+        },
+        {
+            "q": "Ein typisches Kaufsignal bei gleitenden Durchschnitten entsteht, wenn…",
+            "options": [
+                "Ein kurzfristiger Durchschnitt über einen langfristigen kreuzt",
+                "Ein langfristiger Durchschnitt über einen kurzfristigen kreuzt",
+                "Der Preis unter beide Durchschnitte fällt",
+                "Beide Durchschnitte flach bleiben"
+            ],
+            "correct": "Ein kurzfristiger Durchschnitt über einen langfristigen kreuzt",
+            "explain": "Kreuzungen von kurz über lang signalisieren oft bullisches Momentum; das Gegenteil kann bärisch sein.",
+            "topic": "MA"
+        },
+        {
+            "q": "Ein Nachteil bei der Verwendung gleitender Durchschnitte ist, dass sie…",
+            "options": [
+                "Dem Preis vorauslaufen und genaue Tops/Böden vorhersagen",
+                "Dem Preis hinterherlaufen und in Seitwärtsphasen Fehlsignale erzeugen",
+                "Keine Einstellung benötigen",
+                "Nur auf Tagescharts funktionieren"
+            ],
+            "correct": "Dem Preis hinterherlaufen und in Seitwärtsphasen Fehlsignale erzeugen",
+            "explain": "Gleitende Durchschnitte sind nachlaufende Indikatoren und können in unruhigen Märkten falsche Signale geben.",
+            "topic": "MA"
+        },
+        {
+            "q": "Was ist der Hauptzweck der Bollinger Bänder?",
+            "options": [
+                "Langfristigen fundamentalen Wert messen",
+                "Volatilität und relative Hoch/Tief-Niveaus um einen gleitenden Durchschnitt anzeigen",
+                "Gleitende Durchschnitte vollständig ersetzen",
+                "Automatisch Trendlinien zeichnen"
+            ],
+            "correct": "Volatilität und relative Hoch/Tief-Niveaus um einen gleitenden Durchschnitt anzeigen",
+            "explain": "Bänder erweitern oder verengen sich mit der Volatilität und zeigen relative Preisextreme um den Durchschnitt.",
+            "topic": "BB"
+        },
+        {
+            "q": "Wenn der Preis das obere Bollinger Band berührt oder darüber schließt, signalisiert das oft…",
+            "options": [
+                "Eine garantierte Umkehr",
+                "Momentum-/Volatilitätsausweitung (nicht immer überkauft)",
+                "Keine Aussagekraft",
+                "Einen bevorstehenden Crash"
+            ],
+            "correct": "Momentum-/Volatilitätsausweitung (nicht immer überkauft)",
+            "explain": "Berührungen außerhalb der Bänder können auf starkes Momentum hinweisen; Kontext ist entscheidend.",
+            "topic": "BB"
+        },
+        {
+            "q": "Eine gängige Einstellung für Bollinger Bänder ist:",
+            "options": [
+                "20-Perioden-MA mit ±2 Standardabweichungen",
+                "50-Perioden-MA mit ±1 Standardabweichung",
+                "14-Perioden-MA mit ±3 Standardabweichungen",
+                "9-Perioden-MA mit ±1,5 Standardabweichungen"
+            ],
+            "correct": "20-Perioden-MA mit ±2 Standardabweichungen",
+            "explain": "Die klassische Einstellung ist 20 SMA und ±2σ-Bänder; kann je nach Markt angepasst werden.",
+            "topic": "BB"
+        },
+        {
+            "q": "Der Williams-Alligator-Indikator besteht aus:",
+            "options": [
+                "Zwei Linien: Kiefer und Zähne",
+                "Drei Linien: Kiefer, Zähne und Lippen",
+                "Vier Linien einschließlich der Zunge",
+                "Nur einem geglätteten Durchschnitt"
+            ],
+            "correct": "Drei Linien: Kiefer, Zähne und Lippen",
+            "explain": "Er verwendet drei geglättete Durchschnitte mit Verschiebungen: Kiefer (langsam), Zähne (mittel), Lippen (schnell).",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Wenn sich die Linien des Alligators überlappen (schlafen), deutet das auf…",
+            "options": [
+                "Einen starken Trend",
+                "Eine Seitwärts- oder Niedrigvolatilitätsphase",
+                "Einen garantierten Ausbruch nach oben",
+                "Einen garantierten Absturz nach unten"
+            ],
+            "correct": "Eine Seitwärts- oder Niedrigvolatilitätsphase",
+            "explain": "Verflochtene Linien deuten auf Konsolidierung hin; Trader warten oft, bis sie sich trennen.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Der Alligator 'frisst' (trendend), wenn…",
+            "options": [
+                "Die drei Linien sich spreizen und mit der Preisbewegung übereinstimmen",
+                "Die drei Linien eng beieinander liegen",
+                "Nur der Preis sich bewegt, während die Linien flach bleiben",
+                "Das Volumen auf null sinkt"
+            ],
+            "correct": "Die drei Linien sich spreizen und mit der Preisbewegung übereinstimmen",
+            "explain": "Das Auseinanderlaufen der Linien mit gerichtetem Preis weist auf Trendentwicklung hin.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "RSI-Werte über 70 deuten typischerweise auf…",
+            "options": [
+                "Überverkaufte Bedingungen",
+                "Überkaufte Bedingungen (mögliche Korrektur)",
+                "Kein Signal",
+                "Garantierte Trendfortsetzung"
+            ],
+            "correct": "Überkaufte Bedingungen (mögliche Korrektur)",
+            "explain": "Überkauft kann in starken Trends anhalten; immer auf Bestätigung durch Struktur achten.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Ein RSI-Wert nahe 30 deutet häufig auf…",
+            "options": [
+                "Überkaufte Bedingungen",
+                "Überverkaufte Bedingungen (mögliche Erholung)",
+                "Keine Aussagekraft",
+                "Einen Ausbruch über den Widerstand"
+            ],
+            "correct": "Überverkaufte Bedingungen (mögliche Erholung)",
+            "explain": "Wie überkauft kann auch überverkauft bestehen bleiben; nutze Preisaktion zur Bestätigung.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Eine bullische RSI-Divergenz tritt auf, wenn…",
+            "options": [
+                "Der Preis höhere Hochs macht, während RSI tiefere Hochs macht",
+                "Der Preis tiefere Tiefs macht, während RSI höhere Tiefs bildet",
+                "RSI über 70 steigt",
+                "RSI unter 30 fällt"
+            ],
+            "correct": "Der Preis tiefere Tiefs macht, während RSI höhere Tiefs bildet",
+            "explain": "Abnehmendes Momentum bei neuen Tiefs kann auf eine mögliche Umkehr nach oben hinweisen.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Unterstützung wird am besten beschrieben als…",
+            "options": [
+                "Ein Preisniveau, bei dem Kaufinteresse auftreten kann",
+                "Ein Preisniveau, bei dem Verkauf stattfinden muss",
+                "Ein gleitender Durchschnitt",
+                "Eine feste Linie, die nie bricht"
+            ],
+            "correct": "Ein Preisniveau, bei dem Kaufinteresse auftreten kann",
+            "explain": "Unterstützung ist ein Bereich, in dem Nachfrage historisch auftrat; sie kann jedoch brechen.",
+            "topic": "TA"
+        },
+        {
+            "q": "Widerstand wird am besten beschrieben als…",
+            "options": [
+                "Ein Preisniveau, bei dem Verkaufsinteresse auftreten kann",
+                "Ein Niveau, das Umkehrungen garantiert",
+                "Ein Konzept, das nur auf Volumen basiert",
+                "Ein Fibonacci-Verhältnis"
+            ],
+            "correct": "Ein Preisniveau, bei dem Verkaufsinteresse auftreten kann",
+            "explain": "Widerstand ist das Gegenteil von Unterstützung – hier tritt traditionell Angebot auf.",
+            "topic": "TA"
+        },
+        {
+            "q": "Welche Kombination verbessert die Signalzuverlässigkeit am meisten?",
+            "options": [
+                "Einen Indikator auf einem Zeitrahmen verwenden",
+                "Mehrere unkorrelierte Signale und Konfluenz (z. B. Trend + Momentum + Struktur)",
+                "Viele Indikatoren desselben Typs hinzufügen",
+                "Risikomanagement ignorieren"
+            ],
+            "correct": "Mehrere unkorrelierte Signale und Konfluenz (z. B. Trend + Momentum + Struktur)",
+            "explain": "Konfluenz reduziert Fehlsignale; kombiniere verschiedene Signaltypen und bestätige über Zeitrahmen hinweg.",
+            "topic": "TA"
+        },
+        {
+            "q": "In einem seitwärts gerichteten Markt sind meist effektiver…",
+            "options": [
+                "Nur Trendfolge-Indikatoren",
+                "Oszillatoren wie RSI oder Stochastik",
+                "Nur Ausbruchssysteme",
+                "Den Markt vollständig ignorieren"
+            ],
+            "correct": "Oszillatoren wie RSI oder Stochastik",
+            "explain": "Oszillatoren helfen, Umkehrungen an den Extrempunkten der Spanne zu erkennen; MAs können Fehlsignale liefern.",
+            "topic": "TA"
+        },
+        {
+            "q": "Welche Aussage über Indikatoren ist am genauesten?",
+            "options": [
+                "Sie garantieren Gewinne, wenn sie richtig eingestellt sind",
+                "Sie sind Werkzeuge zur Entscheidungsunterstützung, keine Garantien",
+                "Sie funktionieren nur bei Krypto-Charts",
+                "Sie machen Risikomanagement überflüssig"
+            ],
+            "correct": "Sie sind Werkzeuge zur Entscheidungsunterstützung, keine Garantien",
+            "explain": "Kein Indikator garantiert Gewinne; kombiniere sie mit Disziplin und Risikomanagement.",
+            "topic": "TA"
+        },
+        {
+            "q": "Warum verwendet man mehrere Zeitrahmen (MTF) in der Analyse?",
+            "options": [
+                "Um Charts komplexer aussehen zu lassen",
+                "Um den Trend im höheren Zeitrahmen mit Einstiegen im niedrigeren abzustimmen",
+                "Um Stop-Loss-Orders zu vermeiden",
+                "Um Volatilität zu entfernen"
+            ],
+            "correct": "Um den Trend im höheren Zeitrahmen mit Einstiegen im niedrigeren abzustimmen",
+            "explain": "Top-Down-Analyse verbessert Kontext und Einstiegstiming.",
+            "topic": "TA"
+        },
+        {
+            "q": "Ein häufiger Fehler beim Backtesting von Indikatoren ist…",
+            "options": [
+                "Berücksichtigung von Slippage und Spreads",
+                "Verwendung von Out-of-Sample-Daten",
+                "Überanpassung von Parametern an vergangene Daten",
+                "Einbeziehung von Transaktionskosten"
+            ],
+            "correct": "Überanpassung von Parametern an vergangene Daten",
+            "explain": "Überanpassung funktioniert selten in der Praxis; teste Strategien mit neuen Daten und berücksichtige Kosten.",
+            "topic": "TA"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Estratégia V-Bounce (Pico de Volume) | Qption",
+        "description": "Aprenda a estratégia V-Bounce: use suporte e resistência, pontos de decisão romper ou retornar, o “strike” de rompimento e o primeiro pullback “boomerang”, além de entradas por retorno e confirmação com fractais para opções de 60 segundos.",
+        "keywords": "V-Bounce, pico de volume, suporte e resistência, estratégia de rompimento, estratégia de pullback, entrada boomerang, confirmação por fractal, opções de 60 segundos, estratégia de trading, Qption",
+        "ogAlt": "Estratégia V-Bounce com pico de volume e S&R",
+        "ld": {
+            "headline": "Estratégia V-Bounce (Pico de Volume)"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estratégia de trading"
+    },
+    "cta": {
+        "ready": "Pronto para negociar?",
+        "startTrading": "Começar a negociar"
+    },
+    "hero": {
+        "title": "Estratégia V-Bounce (Pico de Volume)",
+        "subtitle": "Para maximizar os lucros em operações menores, muitos traders focam mercados de maior liquidez para aumentar a frequência de trades. Uma estratégia popular de opções de 60 segundos é identificar retornos claros a partir de níveis definidos de suporte ou resistência, aproveitando movimentos rápidos e previsíveis em pouco tempo."
+    },
+    "sr": {
+        "title": "Papel do suporte e resistência",
+        "p1": "Níveis de S&R são essenciais na Qption. Eles marcam zonas onde o preço historicamente reagiu ou pausou, ajudando a identificar pontos potenciais de entrada e saída.",
+        "p2": "À medida que o preço se aproxima de um nível pré-definido, podemos definir um possível “ponto de romper ou retornar” para antecipar se o nível será respeitado ou rompido.",
+        "list": {
+            "title": "Elementos comuns de S&R",
+            "i1": {
+                "h": "Máximas e mínimas históricas",
+                "p": "Picos e vales anteriores costumam formar zonas fortes."
+            },
+            "i2": {
+                "h": "Médias móveis",
+                "p": "Médias como 50/200 podem atuar como S&R dinâmicos."
+            },
+            "i3": {
+                "h": "Linhas de tendência",
+                "p": "Destacam áreas prováveis de continuação ou reversão."
+            },
+            "i4": {
+                "h": "Retrações de Fibonacci",
+                "p": "Níveis como 38,2%, 50% e 61,8% são amplamente utilizados."
+            },
+            "i5": {
+                "h": "Números redondos",
+                "p": "Marcos psicológicos (ex.: 1,00 / 100) funcionam como barreiras naturais."
+            }
+        }
+    },
+    "bb": {
+        "title": "Ponto de romper ou retornar",
+        "p": "Depois que o trader da Qption identifica um S&R chave, ele se torna uma “linha na areia”. Observa-se a ação de preço nesse ponto — se haverá retorno ou rompimento."
+    },
+    "why": {
+        "title": "Por que isso é importante?",
+        "l1": "Marcar níveis com antecedência filtra ruído e cria pontos de decisão objetivos.",
+        "l2": "Sem filtros, cada tick parece relevante, levando a decisões emocionais movidas por medo/ganância.",
+        "p1": "Após mapear o ponto de romper/retornar, aguarde o preço se aproximar da zona. Observe se ele rompe ou respeita o nível para decidir com base no comportamento.",
+        "strike": {
+            "h": "Rompimento (Strike)",
+            "p": "O preço atravessa o S&R, sinalizando possível continuação. É uma oportunidade de entrada na direção do rompimento."
+        },
+        "boomerang": {
+            "h": "Primeiro pullback (Boomerang)",
+            "p": "Após o rompimento, o preço costuma retestar o nível rompido. Esse primeiro pullback confirma a força e oferece uma segunda entrada."
+        },
+        "p2": "Na Qption, focamos em identificar o strike (rompimento) e o primeiro pullback (boomerang) para entradas em opções."
+    },
+    "bounce": {
+        "title": "Operando os retornos",
+        "p1": "Um retorno pode ser um recuo curto, profundo ou até uma reversão completa. Grandes topos/fundos e níveis de Fibonacci raramente são rompidos sem algum “respeito”.",
+        "p2": "Formas de entrada no retorno:",
+        "direct": {
+            "h": "Direta",
+            "p": "Ordem exatamente no S&R (ex.: nível de Fibonacci ou topo prévio). Vantagem: entrada mais cedo. Atenção: pequenos avanços além do nível em timeframes baixos podem complicar o stop."
+        },
+        "confirm": {
+            "h": "Confirmação do retorno",
+            "p": "Aguarde uma reação visível no S&R (parada/recusa) e entre com confirmação, evitando ordens às cegas."
+        },
+        "breakAfter": {
+            "h": "Rompimento após o retorno",
+            "p": "Use ferramentas como fractais para definir a estrutura e considere escalonar entradas/saídas na plataforma Qption."
+        }
+    },
+    "fractals": {
+        "title": "Retorno usando fractais",
+        "lead": "Outra maneira de operar o retorno é usando fractais. Passos:",
+        "steps": {
+            "1": "Antecipe um S&R importante.",
+            "2": "Aguarde o preço reagir no nível e formar um fractal.",
+            "3": "Aguarde o afastamento do preço do nível.",
+            "4": "Espere um fractal no lado oposto.",
+            "5": "Opere o rompimento do fractal oposto."
+        },
+        "meanTitle": "O que isso significa?",
+        "meanBody": "Ao permitir o padrão parar–reverter–parar–reverter, você obtém duas “linhas na areia”: o S&R esperado e o fractal oposto. A quebra de qualquer uma tende a revelar o lado vencedor."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "seo": {
+        "title": "Analyse graphique – Graphiques interactifs & scanner de figures | Qption",
+        "description": "Explorez la suite d’analyse graphique de Qption : graphiques multi-actifs, détection automatique de figures et outils de dessin en temps réel pour le forex, la crypto et les indices.",
+        "keywords": "analyse graphique, graphiques interactifs, figures chartistes, triangle, tête et épaules, lignes de tendance, graphiques forex, graphiques crypto, outils Qption",
+        "ogTitle": "Analyse graphique – Graphiques interactifs & scanner de figures | Qption",
+        "ogDescription": "Repérez en quelques secondes les wedges, canaux et breakouts grâce au scanner de figures et aux outils de dessin avancés.",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Analyse graphique – Graphiques interactifs & scanner de figures | Qption",
+        "twitterDescription": "Trade ce que tu vois : utilise les graphiques live et l’IA de reconnaissance de Qption pour confirmer entrées et sorties.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/graphical-analysis"
+    },
+    "page": {
+        "title": "Analyse graphique",
+        "subtitle": "Décode le price action avec des graphiques dynamiques, la reconnaissance de figures et des tendances visuelles – trade chaque mouvement avec clarté et assurance."
+    },
+    "ui": {
+        "learnMore": "En savoir plus"
+    },
+    "cards": {
+        "movingAverage": {
+            "title": "Indicateur de moyenne mobile"
+        },
+        "fibonacciElliott": {
+            "title": "Fibonacci & vagues d’Elliott"
+        },
+        "reversal": {
+            "title": "Figures de retournement"
+        },
+        "trendContinuation": {
+            "title": "Figures de continuation"
+        },
+        "graphicalAnalysis": {
+            "title": "Analyse graphique"
+        }
+    },
+    "video": {
+        "aria": "L’analyse technique s’appuie sur les graphiques, figures et indicateurs pour anticiper les mouvements futurs."
+    },
+    "cta": {
+        "takeQuiz": "Passer le quiz d’analyse graphique"
+    },
+    "bullets": [
+        "L’analyse graphique étudie le comportement des prix via des graphiques, figures et outils de dessin pour anticiper les mouvements probables.",
+        "Elle s’appuie sur des signaux visuels – lignes de tendance, supports/résistances, profils de volume, overlays – afin de détecter les changements de momentum et de caler entrées/sorties.",
+        "Les traders l’appliquent sur actions, crypto, forex et matières premières pour des décisions rapides et lisibles."
+    ]
+}

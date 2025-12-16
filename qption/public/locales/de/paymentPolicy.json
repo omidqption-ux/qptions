@@ -1,0 +1,77 @@
+{
+    "seo": {
+        "title": "Zahlungsrichtlinie | Qption",
+        "description": "Die Zahlungsrichtlinie von Qption umfasst die Anzeige des Kontostands, Einzahlungs- und Auszahlungsverfahren, Kundenverifizierung (KYC), steuerliche Verpflichtungen und weitere wichtige Bedingungen.",
+        "keywords": "Zahlungsrichtlinie, Einzahlung, Auszahlung, Kontostand, KYC, Verifizierung, Steuer, Qption",
+        "ogTitle": "Zahlungsrichtlinie | Qption",
+        "ogDescription": "Erfahren Sie mehr über Qptions Richtlinien zu Einzahlungen, Auszahlungen, Kontostandsanzeige, KYC und Besteuerung.",
+        "url": "https://qption.com/payment-policy",
+        "image": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Zahlungsrichtlinie | Qption",
+        "twitterDescription": "Einzahlungs-/Auszahlungsverfahren, Kontostandsverantwortung, KYC, Besteuerung und mehr.",
+        "twitterImage": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "canonical": "https://qption.com/payment-policy"
+    },
+    "hero": {
+        "title": "Zahlungsrichtlinie"
+    },
+    "sections": [
+        {
+            "key": "account",
+            "icon": "account",
+            "title": "1. Verantwortung für den Kontostand",
+            "items": [
+                "Das Unternehmen ist dafür verantwortlich, den Kontostand des Kunden zu jedem Zeitpunkt anzuzeigen.",
+                "Die Verantwortung des Unternehmens beginnt, sobald eine Einzahlung erfasst wurde, und endet, wenn eine vollständige Auszahlungsanfrage durch den Kunden bearbeitet wurde.",
+                "Der Kunde hat das Recht, die zum Zeitpunkt der Anfrage auf seinem Konto verfügbaren Mittel anzufordern."
+            ]
+        },
+        {
+            "key": "payments",
+            "icon": "payments",
+            "title": "2. Einzahlungs- und Auszahlungsverfahren",
+            "items": [
+                "Einzahlungen und Auszahlungen erfolgen über die offiziellen Methoden, die auf der Website des Unternehmens aufgeführt sind.",
+                "Kunden übernehmen alle Risiken im Zusammenhang mit der Nutzung von Zahlungsmethoden, da diese Anbieter keine Partner des Unternehmens sind.",
+                "Das Unternehmen ist nur für Gelder verantwortlich, sobald sie das Bank- oder Zahlungskonto des Unternehmens erreicht haben."
+            ]
+        },
+        {
+            "key": "registration",
+            "icon": "registration",
+            "title": "3. Kundenregistrierung",
+            "items": [
+                "Für die Registrierung müssen genaue Identitäts- und Kontaktdaten angegeben werden.",
+                "Der Verifizierungsprozess erfordert einen amtlichen Ausweis.",
+                "Der Identifikationsprozess muss innerhalb von 10 Werktagen abgeschlossen sein."
+            ]
+        },
+        {
+            "key": "deposit",
+            "icon": "deposit",
+            "title": "4. Einzahlungsprozesse",
+            "items": [
+                "Einzahlungen werden über das persönliche Konto des Kunden auf der Website initiiert.",
+                "Elektronische Zahlungen können innerhalb von Sekunden verarbeitet werden oder je nach Anbieter mehrere Tage dauern."
+            ]
+        },
+        {
+            "key": "tax",
+            "icon": "tax",
+            "title": "5. Steuerliche Verpflichtungen",
+            "items": [
+                "Das Unternehmen fungiert nicht als Steuervertreter des Kunden; alle Steuererklärungen und -zahlungen liegen in der Verantwortung des Kunden."
+            ]
+        },
+        {
+            "key": "misc",
+            "icon": "misc",
+            "title": "6. Sonstige Bestimmungen",
+            "items": [
+                "Durch die Annahme des Vertrags bestätigt der Kunde, dass er volljährig ist.",
+                "Der Kunde ist dafür verantwortlich, die Einhaltung aller geltenden lokalen Gesetze und Vorschriften sicherzustellen."
+            ]
+        }
+    ]
+}

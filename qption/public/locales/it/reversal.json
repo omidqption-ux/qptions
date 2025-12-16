@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "title": "Strategia Reversal – Segnali, conferme e gestione del rischio | Qption",
+        "description": "Scopri la strategia Reversal: individua l’esaurimento del trend, usa supporti/resistenze, divergenti RSI/MACD e pattern candlestick, attendi conferme e gestisci il rischio con stop e target chiari. Include flusso operativo ed esempio pratico.",
+        "url": "https://qption.com/trading-strategy/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "imageAlt": "Strategia di trading Reversal",
+        "keywords": "strategia reversal, inversione di trend, esaurimento trend, supporto e resistenza, divergenza, RSI, MACD, pattern candlestick, hammer, engulfing, gestione del rischio, segnali di conferma, ingressi e uscite, strategia di trading, Qption",
+        "jsonLd": {
+            "headline": "Strategia Reversal – Segnali, conferme e gestione del rischio",
+            "about": [
+                "Trading di inversione",
+                "Esaurimento del trend",
+                "Supporto e resistenza",
+                "Divergenza",
+                "RSI",
+                "MACD",
+                "Pattern candlestick",
+                "Gestione del rischio"
+            ],
+            "articleSection": [
+                "Strategia Reversal",
+                "Concetti chiave della strategia Reversal",
+                "Applicare la strategia Reversal",
+                "Esempio pratico di strategia Reversal"
+            ]
+        }
+    },
+    "breadcrumb": "Strategia di trading",
+    "title": "Strategia Reversal",
+    "cta": {
+        "prompt": "Pronto a fare trading?",
+        "button": "Inizia a fare trading"
+    },
+    "video": {
+        "aria": "Una reversal avviene quando il trend in corso perde forza e può cambiare direzione. Osserva segnali di esaurimento, divergenze e pattern candlestick chiave."
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Concetti chiave della strategia Reversal",
+            "items": {
+                "exhaustion": {
+                    "title": "Esaurimento del trend",
+                    "desc": "Una reversal può formarsi quando il momentum rallenta e la struttura mostra massimi decrescenti in un uptrend o minimi crescenti in un downtrend."
+                },
+                "sr": {
+                    "title": "Livelli di supporto e resistenza",
+                    "desc": "Le reazioni sui principali supporti/resistenze spesso precedono le inversioni. Cerca shadow di rifiuto, rotture fallite o chiusure rientranti."
+                },
+                "indicators": {
+                    "title": "Indicatori tecnici",
+                    "desc": "Usa RSI, MACD o Stocastico per contestualizzare ipercomprato/ipervenduto e cambi di momentum che convalidano l’idea di inversione."
+                },
+                "candles": {
+                    "title": "Pattern candlestick",
+                    "desc": "Hammer, doji, engulfing e pin bar vicino a livelli chiave possono segnalare punti di svolta—conferma sempre con la struttura."
+                },
+                "divergence": {
+                    "title": "Divergenza",
+                    "desc": "Divergenza rialzista (prezzo fa minimi più bassi, indicatore minimi più alti) o ribassista (prezzo massimi più alti, indicatore massimi più bassi) può anticipare una reversal."
+                }
+            }
+        },
+        "applying": {
+            "title": "Applicare la strategia Reversal",
+            "items": {
+                "identifyTrend": {
+                    "title": "Identifica il trend",
+                    "desc": "Parti da un trend prevalente chiaro su timeframe superiori; le inversioni sono più affidabili dopo movimenti estesi."
+                },
+                "watchSignals": {
+                    "title": "Monitora i segnali di inversione",
+                    "desc": "Osserva segnali di esaurimento vicino a zone chiave, estremi di indicatori e candele reversal in linea con il contesto di mercato."
+                },
+                "confirm": {
+                    "title": "Attendi la conferma",
+                    "desc": "Usa rotture/retest dei livelli, chiusure consecutive o divergenze confermate prima di entrare contro il trend precedente."
+                },
+                "entriesExits": {
+                    "title": "Definisci ingressi e uscite",
+                    "desc": "Pianifica gli ingressi sui retest della struttura rotta. Definisci i target sui livelli strutturali vicini o su proiezioni misurate."
+                },
+                "risk": {
+                    "title": "Implementa la gestione del rischio",
+                    "desc": "Posiziona gli stop oltre l’invalidazione (sopra la resistenza per gli short, sotto il supporto per i long) e dimensiona le posizioni di conseguenza."
+                }
+            }
+        },
+        "example": {
+            "title": "Esempio pratico di strategia Reversal",
+            "p1": "Il mercato sale verso una resistenza maggiore dopo settimane di rally. L’RSI segnala ipercomprato e il MACD mostra divergenza ribassista. Una candela engulfing ribassista si forma a ridosso della resistenza.",
+            "p2": "Si apre una posizione short dopo la conferma, con stop appena sopra la resistenza e target sui minimi strutturali precedenti. Se il prezzo segue il piano, il movimento di inversione cattura la rotazione al ribasso."
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "seo": {
+        "title": "Kara Para Aklama (AML) ve Terörizmin Finansmanıyla Mücadele (CTF) Politikası | Qption",
+        "description": "Qption’un Kara Para Aklama (AML) ve Terörizmin Finansmanıyla Mücadele (CTF) Politikası: tanımlar, program, çalışan ve müşteri yükümlülükleri, KYC kontrolleri, şüpheli işlemlerin ele alınması ve sorumluluk.",
+        "keywords": "AML, CTF, KYC, kara para aklama, terör finansmanı, şüpheli işlemler, uyumluluk, Qption",
+        "ogTitle": "Kara Para Aklama (AML) ve Terörizmin Finansmanıyla Mücadele (CTF) Politikası | Qption",
+        "ogDescription": "Qption’un kara para aklama ve terör finansmanını nasıl önlediğini öğrenin: program yönetimi, kimlik doğrulama, izleme ve müşteri sorumlulukları.",
+        "url": "https://qption.com/aml-kyc",
+        "image": "https://qption.com/images/og/aml-kyc-qption.jpg",
+        "canonical": "https://qption.com/aml-kyc"
+    },
+    "hero": {
+        "title": "Kara Para Aklama (AML) ve Terörizmin Finansmanıyla Mücadele (CTF) Politikası"
+    },
+    "sections": [
+        {
+            "key": "general",
+            "icon": "general",
+            "title": "1. Genel Politika",
+            "items": [
+                "Şirket, kara para aklama ve terörizmin finansmanı gibi yasa dışı faaliyetleri yasaklar ve aktif olarak önlemeye çalışır. Tüm çalışanlar ve iş ortakları, şirket hizmetlerinin yasa dışı finansal amaçlarla kullanılmasını önlemek için bu standartlara uymalıdır."
+            ]
+        },
+        {
+            "key": "definition",
+            "icon": "definition",
+            "title": "2. Kara Para Aklamanın Tanımı",
+            "items": [
+                "Kara para aklama, yasa dışı yollarla elde edilen fonların kaynağını gizleyerek meşru gelir gibi göstermeyi amaçlayan eylemleri kapsar."
+            ]
+        },
+        {
+            "key": "stages",
+            "icon": "stages",
+            "title": "3. Kara Para Aklamanın Aşamaları",
+            "items": [
+                "Yerleştirme: Suç gelirlerinin finansal sisteme sokulması.",
+                "Katmanlama: Fonların farklı hesaplar veya kurumlar arasında aktarılmasıyla kaynağının gizlenmesi.",
+                "Bütünleşme: Fonların ekonomiye yeniden dahil edilerek meşru varlıkların satın alınması veya yeni faaliyetlerin finanse edilmesi."
+            ]
+        },
+        {
+            "key": "employees",
+            "icon": "employees",
+            "title": "4. Çalışanların Sorumlulukları",
+            "items": [
+                "Şirket hizmetlerinde görev alan çalışanlar, kara para aklamayı önlemeye yönelik yasal düzenlemeleri bilmek ve bunlara uymakla yükümlüdür."
+            ]
+        },
+        {
+            "key": "program",
+            "icon": "program",
+            "title": "5. AML Uyum Programı",
+            "items": [
+                "Şirket, yasal uyumu sağlamak, kara para aklama riskini en aza indirmek ve tüm iş birimlerinde düzenleyici gereklilikleri koordine etmek için sürekli bir program yürütür."
+            ]
+        },
+        {
+            "key": "affiliates",
+            "icon": "affiliates",
+            "title": "6. İş Ortaklarının Uyumu",
+            "items": [
+                "Her şirket ortağı AML ve Müşterini Tanı (KYC) politikalarına uymak zorundadır."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "7. Belgelerin Saklanması",
+            "items": [
+                "Kimlik belgeleri ve hizmet kayıtları, yerel yasaların gerektirdiği asgari süre boyunca saklanır."
+            ]
+        },
+        {
+            "key": "training",
+            "icon": "training",
+            "title": "8. Çalışan Eğitimi",
+            "items": [
+                "Yeni çalışanlara işe alım sürecinde AML eğitimi verilir. Uygun çalışanlar için yıllık AML ve KYC eğitimleri zorunludur."
+            ]
+        },
+        {
+            "key": "obligations",
+            "icon": "obligations",
+            "title": "9. Müşteri Yükümlülükleri",
+            "items": [
+                "Müşteriler, kara para aklama, dolandırıcılık ve yasa dışı faaliyetleri önlemeye yönelik yasalara uymakla yükümlüdür.",
+                "Müşteriler, hesaplarına aktarılan fonların yasal kaynaklardan geldiğini garanti etmelidir."
+            ]
+        },
+        {
+            "key": "checks",
+            "icon": "checks",
+            "title": "10. KYC ve AML Kontrolleri",
+            "items": [
+                "Şirket, düzenlemelere uymak ve finansal suçları önlemek amacıyla müşteriler üzerinde KYC ve AML/CTF kontrolleri yapma hakkını saklı tutar.",
+                "Müşteriler, doğrulama için talep edilen tüm belgeleri sağlamalıdır. Uyulmaması hizmetlerin gecikmesine veya askıya alınmasına neden olabilir."
+            ]
+        },
+        {
+            "key": "suspicious",
+            "icon": "suspicious",
+            "title": "11. Şüpheli İşlemlerin Ele Alınması",
+            "items": [
+                "Şüpheli veya sahte işlemler tespit edilirse, şirket hesap hizmetlerini askıya alabilir, müşterinin hesabını bloke edebilir ve işlemleri soruşturma sonuçlanana kadar iptal edebilir."
+            ]
+        },
+        {
+            "key": "docs",
+            "icon": "docs",
+            "title": "12. Soruşturmalar Sırasında Belge Talepleri",
+            "items": [
+                "Soruşturmalar sırasında, şirket kimlik belgeleri ve fon kaynağına ilişkin kanıt isteyebilir."
+            ]
+        },
+        {
+            "key": "prohibition",
+            "icon": "prohibition",
+            "title": "13. Yasa Dışı Faaliyetlerin Yasaklanması",
+            "items": [
+                "Şirket hizmetlerinin veya yazılımlarının kara para aklama dahil yasa dışı veya dolandırıcılık amaçlı kullanımı kesinlikle yasaktır."
+            ]
+        },
+        {
+            "key": "liability",
+            "icon": "liability",
+            "title": "14. Şirketin Sorumluluğu",
+            "items": [
+                "Şirketin şüpheli işlemleri reddetmesi, müşteri veya üçüncü şahıslar karşısında herhangi bir sorumluluk oluşturmaz."
+            ]
+        }
+    ]
+}

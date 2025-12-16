@@ -1,0 +1,96 @@
+{
+    "nav": {
+        "home": "Home",
+        "trade": "Trade",
+        "education": "Education",
+        "pricing": "Pricing",
+        "dashboard": "Dashboard",
+        "login": "Log in",
+        "signup": "Sign up",
+        "logout": "Log out",
+        "language": "Language"
+    },
+    "hero": {
+        "title": "Trade smarter with Qption",
+        "subtitle": "Real-time charts, fast execution, and transparent pricing.",
+        "cta": "Get started"
+    },
+    "auth": {
+        "email": "Email",
+        "phone": "Phone",
+        "password": "Password",
+        "confirmPassword": "Confirm password",
+        "login": "Log in",
+        "signup": "Create account",
+        "forgot": "Forgot password?",
+        "otp": "Enter verification code",
+        "verify": "Verify",
+        "or": "or"
+    },
+    "trade": {
+        "buy": "Buy",
+        "sell": "Sell",
+        "openTrade": "Open trade",
+        "closeTrade": "Close trade",
+        "amount": "Amount",
+        "balance": "Balance",
+        "profitLoss": "P/L",
+        "timeframe": "Timeframe",
+        "marketOpen": "Market is open",
+        "marketClosed": "Market is closed",
+        "mode": {
+            "live": "Live",
+            "demo": "Demo",
+            "real": "Real"
+        }
+    },
+    "chart": {
+        "loading": "Loading chart…",
+        "indicators": "Indicators",
+        "movingAverage": "Moving Average",
+        "bollingerBands": "Bollinger Bands",
+        "rsi": "RSI",
+        "alligator": "Alligator"
+    },
+    "wallet": {
+        "deposit": "Deposit",
+        "withdraw": "Withdraw",
+        "address": "Address",
+        "copy": "Copy",
+        "copied": "Copied!",
+        "confirmations": "Confirmations",
+        "status": {
+            "waiting": "Waiting",
+            "confirmed": "Confirmed",
+            "rejected": "Rejected"
+        }
+    },
+    "kyc": {
+        "title": "Account verification",
+        "uploadDoc": "Upload documents",
+        "pending": "Under review",
+        "approved": "Approved",
+        "rejected": "Rejected"
+    },
+    "errors": {
+        "required": "This field is required",
+        "invalidEmail": "Invalid email",
+        "network": "Network error, please try again",
+        "unknown": "Something went wrong"
+    },
+    "common": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "back": "Back",
+        "next": "Next",
+        "search": "Search",
+        "loading": "Loading…",
+        "viewMore": "View more"
+    },
+    "footer": {
+        "rights": "All rights reserved."
+    },
+    "tryDemo": "Try Demo",
+    "registration": "Registration"
+}

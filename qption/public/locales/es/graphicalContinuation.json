@@ -1,0 +1,190 @@
+{
+    "seo": {
+        "title": "Patrones de Continuación de Tendencia – Banderas, Banderines, Triángulos y Rectángulos | Qption",
+        "description": "Comprende los patrones de continuación de tendencia en el análisis gráfico: banderas, banderines, triángulos ascendentes/descendentes y rectángulos. Aprende su formación, confirmación del breakout, ventajas, limitaciones y cómo usar el volumen para evitar falsos rompimientos.",
+        "keywords": "patrones de continuación, bandera, banderín, triángulo ascendente, triángulo descendente, rectángulo, confirmación de breakout, confirmación por volumen, análisis técnico, análisis gráfico, seguimiento de tendencia, Qption",
+        "url": "https://qption.com/es/graphical-analysis/trend-continuation-patterns",
+        "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+        "ogAlt": "Guía de patrones de continuación de tendencia",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Patrones de Continuación de Tendencia – Banderas, Banderines, Triángulos y Rectángulos",
+            "description": "Comprende los patrones de continuación de tendencia en el análisis gráfico: banderas, banderines, triángulos ascendentes/descendentes y rectángulos. Aprende su formación, confirmación del breakout, ventajas, limitaciones y cómo usar el volumen para evitar falsos rompimientos.",
+            "mainEntityOfPage": "https://qption.com/es/graphical-analysis/trend-continuation-patterns",
+            "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Patrón de continuación de tendencia"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bandera"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Banderín"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Triángulo ascendente"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Triángulo descendente"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Rectángulo"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Breakout"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Confirmación por volumen"
+                }
+            ],
+            "articleSection": [
+                "Patrones de continuación de tendencia en el análisis gráfico",
+                "Visión general",
+                "Patrones de continuación más comunes",
+                "Bandera",
+                "Banderín",
+                "Triángulo ascendente",
+                "Triángulo descendente",
+                "Rectángulo",
+                "Ventajas de los patrones de continuación",
+                "Limitaciones de los patrones de continuación"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Bandera",
+                    "value": "Movimiento fuerte (asta) seguido de una pequeña consolidación en canal paralelo; ruptura en la dirección de la tendencia"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Banderín",
+                    "value": "Breve consolidación dentro de líneas convergentes; ruptura alineada con la tendencia previa"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Triángulo ascendente",
+                    "value": "Resistencia plana con mínimos crecientes; continuación alcista al romper la resistencia"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Triángulo descendente",
+                    "value": "Soporte plano con máximos decrecientes; continuación bajista al romper el soporte"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Rectángulo",
+                    "value": "Consolidación lateral entre soporte/resistencia horizontales; la ruptura continúa la tendencia previa"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Confirmación y riesgo",
+                    "value": "Usar expansión del volumen en la ruptura; evitar falsos rompimientos; stops fuera de los límites del patrón"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Volver al análisis gráfico",
+        "graphicalLink": "Análisis gráfico"
+    },
+    "page": {
+        "title": "Patrones de continuación de tendencia en el análisis gráfico"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "start": "Comenzar a operar"
+    },
+    "video": {
+        "aria": "Los patrones de continuación de tendencia son formaciones gráficas que indican una pausa temporal en la tendencia actual, seguida normalmente por su continuación en la misma dirección."
+    },
+    "sections": {
+        "overview": {
+            "h": "Visión general",
+            "items": [
+                "Los patrones de continuación sugieren una pausa seguida de la reanudación del movimiento en la misma dirección.",
+                "Ofrecen puntos de entrada potenciales tras consolidaciones breves.",
+                "Aparecen en mercados alcistas y bajistas en múltiples marcos temporales."
+            ]
+        },
+        "patterns": {
+            "h": "Patrones de continuación más comunes",
+            "list": [
+                {
+                    "h": "1. Bandera",
+                    "items": [
+                        "Consolidación a corto plazo con forma de bandera sobre un asta, a menudo tras un movimiento brusco.",
+                        "Formación: gran impulso direccional (asta) seguido de consolidación en un canal paralelo pequeño (bandera).",
+                        "Ruptura: por encima en tendencia alcista o por debajo en tendencia bajista para confirmar la continuación.",
+                        "Interpretación: alta probabilidad de que la tendencia original continúe tras el breakout."
+                    ]
+                },
+                {
+                    "h": "2. Banderín",
+                    "items": [
+                        "Similar a la bandera, pero la consolidación forma un pequeño triángulo convergente (banderín).",
+                        "Formación: subida/caída fuerte y luego consolidación entre líneas de tendencia convergentes.",
+                        "Ruptura: en la dirección del movimiento previo suele indicar continuación.",
+                        "Interpretación: breve pausa antes de reanudar la tendencia."
+                    ]
+                },
+                {
+                    "h": "3. Triángulo ascendente",
+                    "items": [
+                        "Patrón de continuación alcista con resistencia horizontal y mínimos crecientes.",
+                        "Formación: mínimos crecientes contra un nivel de resistencia horizontal.",
+                        "Ruptura: superar la resistencia señala continuación de la tendencia alcista.",
+                        "Interpretación: presión compradora acumulándose, suele terminar en ruptura al alza."
+                    ]
+                },
+                {
+                    "h": "4. Triángulo descendente",
+                    "items": [
+                        "Patrón de continuación bajista con soporte horizontal y máximos decrecientes.",
+                        "Formación: máximos más bajos contra un nivel de soporte horizontal.",
+                        "Ruptura: pérdida del soporte señala continuación de la tendencia bajista.",
+                        "Interpretación: presión vendedora en aumento, a menudo desemboca en ruptura a la baja."
+                    ]
+                },
+                {
+                    "h": "5. Rectángulo",
+                    "items": [
+                        "Rango lateral entre soporte y resistencia horizontales.",
+                        "Formación: el precio oscila entre niveles horizontales formando un rectángulo.",
+                        "Ruptura: por encima (alcista) o por debajo (bajista) continúa la tendencia previa.",
+                        "Interpretación: consolidación temporal antes de reanudar la tendencia en la dirección de la ruptura."
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "h": "Ventajas de los patrones de continuación",
+            "items": [
+                "Mejoran el timing de entrada durante las consolidaciones.",
+                "Refuerzan las estrategias de seguimiento de tendencia resaltando los puntos de reanudación.",
+                "Especialmente efectivos en tendencias fuertes y persistentes."
+            ]
+        },
+        "limitations": {
+            "h": "Limitaciones de los patrones de continuación",
+            "items": [
+                "Pueden producirse falsos rompimientos, especialmente en mercados volátiles.",
+                "A menudo requieren confirmación (p. ej., aumento del volumen) para reducir señales falsas.",
+                "Menos fiables en mercados laterales y pueden requerir confluencias adicionales."
+            ]
+        }
+    }
+}

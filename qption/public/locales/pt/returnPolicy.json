@@ -1,0 +1,58 @@
+{
+    "seo": {
+        "title": "Processo e Condições de Retirada | Qption",
+        "description": "Saiba como funcionam os saques na Qption: etapas de solicitação, devolução ao método de depósito original, responsabilidades do cliente e regras de encerramento de conta.",
+        "keywords": "política de saque, solicitação de retirada, método de depósito original, responsabilidade do cliente, encerramento de conta, Qption",
+        "ogTitle": "Processo e Condições de Retirada | Qption",
+        "ogDescription": "Guia detalhado sobre solicitações de saque, prazos de processamento, rotas de pagamento e condições de conformidade.",
+        "url": "https://qption.com/withdrawal-policy",
+        "image": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Processo e Condições de Retirada | Qption",
+        "twitterDescription": "Como solicitar retiradas, prazos de processamento, regras de pagamento e muito mais.",
+        "twitterImage": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "canonical": "https://qption.com/withdrawal-policy"
+    },
+    "hero": {
+        "title": "Processo e Condições de Retirada"
+    },
+    "sections": [
+        {
+            "key": "request",
+            "icon": "request",
+            "title": "1. Procedimento de Solicitação de Retirada",
+            "items": [
+                "Para iniciar uma retirada, o Cliente deve enviar uma solicitação por meio de sua área pessoal no site, selecionar o método de retirada e fornecer as informações necessárias.",
+                "Após o envio, o pedido recebe o status de “Solicitado”. Quando o processamento começa, muda para “Em processo”, e os fundos são deduzidos do saldo da conta. Ao ser concluído, o status muda para “Processado” e os fundos são transferidos para a carteira do sistema de pagamento do Cliente.",
+                "Os pedidos de retirada são processados pelo departamento financeiro da Empresa na ordem em que são recebidos. O processamento pode levar até cinco (5) dias úteis. A Empresa reserva-se o direito de estender este prazo, se necessário."
+            ]
+        },
+        {
+            "key": "originalMethod",
+            "icon": "originalMethod",
+            "title": "2. Retirada para o Método de Depósito Original",
+            "items": [
+                "Os fundos só podem ser retirados para a conta de pagamento usada originalmente para o depósito. Se isso não for tecnicamente possível, a Empresa pode escolher um método alternativo, garantindo que os dados pessoais do Cliente coincidam com os dados de pagamento.",
+                "Se o Cliente usou um cartão bancário para o depósito, a retirada deve ser feita para o mesmo cartão. Outros métodos podem ser usados apenas se o valor da retirada exceder o valor do depósito inicial.",
+                "Se o Cliente enviar uma solicitação de retirada sem realizar nenhuma operação de negociação após o depósito, a retirada deve usar as mesmas credenciais e o mesmo sistema de pagamento. A Empresa reserva-se o direito de cobrar taxas pela devolução dos fundos e custos de processamento."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "3. Responsabilidade e Precisão das Informações do Cliente",
+            "items": [
+                "O Cliente é totalmente responsável pela precisão das informações fornecidas na solicitação de retirada."
+            ]
+        },
+        {
+            "key": "closure",
+            "icon": "closure",
+            "title": "4. Encerramento da Conta por Violação dos Termos",
+            "items": [
+                "Se a conta de um Cliente for encerrada devido à violação dos Termos e Condições, a Empresa reserva-se o direito de reter e manter quaisquer lucros obtidos pelo Cliente.",
+                "A critério da Empresa, os fundos depositados podem ser devolvidos ao Cliente, deduzindo-se todas as taxas e encargos aplicáveis."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "seo": {
+        "title": "Fundamentalanalyse – Makro-Einblicke & Earnings-Radar | Qption",
+        "description": "Bleibe dem Markt voraus mit Qptions Fundamentalanalyse-Hub: Live-Impact des Wirtschaftskalenders, kompakte Earnings-Updates und Makro-Research für Forex, Krypto und globale Indizes.",
+        "keywords": "Fundamentalanalyse, Wirtschaftskalender, Quartalszahlen, Makroanalyse, Inflationsdaten, Zinssätze, BIP-Veröffentlichungen, Forex-Fundamentals, Krypto-Fundamentals, Qption Research",
+        "ogTitle": "Fundamentalanalyse – Makro-Einblicke & Earnings-Radar | Qption",
+        "ogDescription": "Folge den Daten, die Märkte bewegen – Qptions Research-Team destilliert wichtige Konjunktur- und Earnings-Reports in umsetzbare Trade-Ideen.",
+        "url": "https://qption.com/fundamental-analysis",
+        "image": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Fundamentalanalyse – Makro-Einblicke & Earnings-Radar | Qption",
+        "twitterDescription": "Erhalte die Geschichte hinter den Charts: verfolge Konjunktur- und Earnings-Daten in Echtzeit mit Qptions Fundamentalanalyse-Suite.",
+        "twitterImage": "https://qption.com/images/og/fundamental-analysis-qption.jpg",
+        "canonical": "https://qption.com/fundamental-analysis"
+    },
+    "page": {
+        "title": "Fundamentalanalyse",
+        "subtitle": "Umfassende Analysen von Wirtschaftsindikatoren, Markttrends und Finanzinstrumenten für fundierte Trading-Entscheidungen."
+    },
+    "cta": {
+        "takeQuiz": "Quiz starten"
+    },
+    "cards": {
+        "economicIndicators": {
+            "title": "Wirtschaftsindikatoren",
+            "description": "Zentrale Kennzahlen und ihr Markteinfluss"
+        },
+        "centralBankPolicies": {
+            "title": "Notenbankpolitik",
+            "description": "Geldpolitische Maßnahmen und Marktwirkung"
+        },
+        "inflation": {
+            "title": "Inflationsanalyse",
+            "description": "Trends und Auswirkungen der Teuerung"
+        },
+        "interestRates": {
+            "title": "Zinsen",
+            "description": "Zinsbewegungen und Marktauswirkungen"
+        },
+        "geopolitics": {
+            "title": "Geopolitische Ereignisse & Märkte",
+            "description": "Globale Ereignisse und ihre Marktimplikationen"
+        },
+        "fiscalPolicy": {
+            "title": "Fiskalpolitik & Staatsausgaben",
+            "description": "Effekte von Staatsausgaben und Besteuerung"
+        },
+        "debtAndFX": {
+            "title": "Verschuldung & Währungsbewertung",
+            "description": "Analyse von Bondmärkten und Schuldtiteln"
+        },
+        "supplyDemandCommodities": {
+            "title": "Angebot & Nachfrage (Rohstoffe)",
+            "description": "Treiber der Rohstoffmärkte und Preise"
+        },
+        "safeHavens": {
+            "title": "Safe-Haven-Assets vs. Turbulenzen",
+            "description": "Analyse klassischer sicherer Anlagen"
+        },
+        "forexCfds": {
+            "title": "Forex & CFDs",
+            "description": "Währungsmärkte und Derivate"
+        },
+        "cryptoRegulation": {
+            "title": "Krypto-Adoption & Regulierung",
+            "description": "Trends und Nutzung des Kryptomarkts"
+        },
+        "blockchainFA": {
+            "title": "Blockchain-Fundamentalanalyse",
+            "description": "Entwicklungen und Anwendungen der Blockchain"
+        }
+    },
+    "tournaments": {
+        "title": "Turniere",
+        "labels": {
+            "prize": "Preis",
+            "participants": "Teilnehmer"
+        },
+        "ui": {
+            "join": "Turnier beitreten",
+            "close": "Schließen"
+        },
+        "defaults": {
+            "weekly": {
+                "title": "Wöchentliche Trading-Challenge",
+                "prize": "$5,000",
+                "participants": "1,234",
+                "startDate": "2024-04-25",
+                "endDate": "2024-05-02",
+                "status": "Startet bald"
+            },
+            "monthly": {
+                "title": "Monatliches Master-Turnier",
+                "prize": "$25,000",
+                "participants": "3,456",
+                "startDate": "2024-05-01",
+                "endDate": "2024-05-31",
+                "status": "Anmeldung offen"
+            }
+        },
+        "list": []
+    }
+}

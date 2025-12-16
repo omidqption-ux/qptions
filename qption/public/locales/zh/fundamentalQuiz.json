@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "基础面分析测验 – 测试你的宏观经济知识 | Qption",
+        "description": "参加 Qption 的基础面分析测验，测试你对经济增长、通胀、货币政策、利率差异、财政政策和全球宏观趋势的理解。",
+        "keywords": "基础面分析, 经济指标, 通货膨胀, 中央银行, 利率, GDP, CPI, 外汇, 投资, Qption",
+        "ogTitle": "基础面分析测验 – 提升你的宏观思维 | Qption",
+        "ogDesc": "通过 Qption 的互动测验深化你对市场与经济的理解。",
+        "url": "https://qption.com/fundamental-analysis/quiz",
+        "ogImage": "https://qption.com/images/og/fundamental-analysis-quiz.jpg"
+    },
+    "ui": {
+        "loadingPool": "加载测验中…",
+        "preparing": "正在准备问题…",
+        "h1": "基础面分析",
+        "intro": "通过 Qption 的互动基础面分析测验挑战你的宏观思维 —— 测试你对经济增长、通胀、央行政策、利率差异、财政影响和跨资产动态的理解，成为更有信念的交易者。",
+        "quizTitle": "基础面分析测验",
+        "questionOf": "第 {{current}} 题 / 共 {{total}} 题",
+        "selectPrompt": "请选择一个选项并提交答案。",
+        "correct": "正确 ✅",
+        "notQuite": "接近 ⚠️",
+        "learnMore": "了解更多 ↗",
+        "prev": "上一题",
+        "submit": "提交",
+        "next": "下一题",
+        "finish": "完成",
+        "scoreLabel": "得分：{{score}} / {{total}}",
+        "resultHigh": "非常棒！你的宏观视野非常敏锐。",
+        "resultMid": "不错的成绩！继续练习提升自己。",
+        "resultLow": "好的开始——复习课程内容后再试一次吧。",
+        "newRandom": "重新生成 10 道随机题目"
+    },
+    "pool": [
+        {
+            "q": "哪个指标最常被用作衡量消费者通胀的主要标准？",
+            "options": [
+                "GDP（国内生产总值）",
+                "CPI（消费者物价指数）",
+                "贸易差额",
+                "零售销售"
+            ],
+            "correctIndex": 1,
+            "explain": "消费者物价指数（CPI）追踪一篮子商品和服务的价格变化，是主要的通胀指标。",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "经济指标"
+        },
+        {
+            "q": "GDP 上升（其他条件不变）最有可能意味着：",
+            "options": [
+                "经济收缩",
+                "经济扩张",
+                "滞胀",
+                "仅货币贬值"
+            ],
+            "correctIndex": 1,
+            "explain": "GDP 衡量经济总产出，增长通常反映经济扩张。",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "经济指标"
+        },
+        {
+            "q": "哪一项数据由于其对劳动力市场的影响而常引发外汇市场剧烈波动？",
+            "options": [
+                "非农就业报告（NFP）",
+                "生产者物价指数（PPI）",
+                "零售库存数据",
+                "预算报告"
+            ],
+            "correctIndex": 0,
+            "explain": "就业数据会影响利率预期与经济前景，从而推动汇率波动。",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "经济指标"
+        },
+        {
+            "q": "当中央银行下调基准利率时，其主要目的是：",
+            "options": [
+                "抑制过热经济",
+                "刺激借贷与消费",
+                "减少货币供给",
+                "立即强化货币"
+            ],
+            "correctIndex": 1,
+            "explain": "较低的利率降低融资成本，从而促进需求与投资。",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "中央银行"
+        },
+        {
+            "q": "债券价格通常与利率呈 _____ 关系。",
+            "options": [
+                "反向",
+                "同向",
+                "随机",
+                "无关"
+            ],
+            "correctIndex": 0,
+            "explain": "当收益率上升时，旧债券的固定利息吸引力下降，价格随之下跌（反之亦然）。",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "中央银行"
+        },
+        {
+            "q": "“前瞻指引”（Forward Guidance）指的是：",
+            "options": [
+                "固定汇率制度",
+                "关于未来政策意向的沟通",
+                "仅限量化宽松操作",
+                "财政赤字预测"
+            ],
+            "correctIndex": 1,
+            "explain": "央行通过前瞻指引影响市场对未来政策路径的预期。",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "中央银行"
+        },
+        {
+            "q": "高通胀通常会 _____ 一国货币，除非伴随更高的利率。",
+            "options": [
+                "增强",
+                "削弱",
+                "无影响",
+                "固定汇率"
+            ],
+            "correctIndex": 1,
+            "explain": "通胀削弱购买力；若利率上调，则可部分抵消该影响。",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "通货膨胀"
+        },
+        {
+            "q": "部分投资者认为比特币可对抗通胀，因为：",
+            "options": [
+                "供应无限制",
+                "供应量受协议限制",
+                "与 CPI 挂钩",
+                "与美元挂钩"
+            ],
+            "correctIndex": 1,
+            "explain": "有限供应使 BTC 被视为在高通胀时期的稀缺资产。",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "通货膨胀"
+        },
+        {
+            "q": "经典的套利交易（Carry Trade）旨在：",
+            "options": [
+                "借入高利率货币投资低利率货币",
+                "借入低利率货币投资高利率货币",
+                "消除利率风险",
+                "仅持有现金"
+            ],
+            "correctIndex": 1,
+            "explain": "通过利差赚取收益，直到市场波动或政策变化导致逆转。",
+            "source": "https://qption.com/fundamentalanalysis/interest-rate-differentials-carry-trades",
+            "topic": "利率套利"
+        },
+        {
+            "q": "在地缘政治紧张时期，投资者通常会转向：",
+            "options": [
+                "高风险小盘股",
+                "高波动性资产",
+                "避险资产（黄金、瑞郎、日元、美国国债）",
+                "流动性差的小型企业"
+            ],
+            "correctIndex": 2,
+            "explain": "不确定性驱动市场资金流向更安全、更具流动性的资产。",
+            "source": "https://qption.com/fundamentalanalysis/geopolitical-events-and-markets",
+            "topic": "地缘政治"
+        },
+        {
+            "q": "扩张性财政政策通常包括：",
+            "options": [
+                "提高税收并削减支出",
+                "减税和/或增加支出",
+                "平衡预算",
+                "出售外汇储备"
+            ],
+            "correctIndex": 1,
+            "explain": "目标是在经济放缓时刺激总需求、促进增长与就业。",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "财政政策"
+        },
+        {
+            "q": "持续财政赤字的主要风险是：",
+            "options": [
+                "公共债务下降",
+                "利息支出减少",
+                "公共债务和利息负担上升",
+                "自动货币升值"
+            ],
+            "correctIndex": 2,
+            "explain": "债务负担过高会降低财政灵活性并挤压其他支出。",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "财政政策"
+        },
+        {
+            "q": "高债务占 GDP 比例可能表明：",
+            "options": [
+                "低借贷依赖",
+                "债务可持续性风险",
+                "保证经济增长",
+                "固定汇率政策"
+            ],
+            "correctIndex": 1,
+            "explain": "过高的债务可能削弱信心并抑制经济增长。",
+            "source": "https://qption.com/fundamentalanalysis/global-debt-levels-and-currency-valuation",
+            "topic": "全球债务与货币"
+        },
+        {
+            "q": "商品价格主要由以下哪项驱动：",
+            "options": [
+                "仅中央银行政策",
+                "供需动态与市场冲击",
+                "完全随机",
+                "仅税收政策"
+            ],
+            "correctIndex": 1,
+            "explain": "供给中断或需求激增（如经济增长、天气因素）会导致价格波动。",
+            "source": "https://qption.com/fundamentalanalysis/supply-and-demand-commodities",
+            "topic": "商品市场"
+        },
+        {
+            "q": "以下哪种资产通常被视为避险资产？",
+            "options": [
+                "高风险科技股",
+                "黄金",
+                "小盘生物科技公司",
+                "新兴市场货币"
+            ],
+            "correctIndex": 1,
+            "explain": "市场动荡时，资金往往流向黄金、瑞郎、日元及高信用主权债券。",
+            "source": "https://qption.com/fundamentalanalysis/safe-haven-assets-market-turbulence",
+            "topic": "避险资产"
+        },
+        {
+            "q": "股票与外汇/差价合约（CFDs）可能联动，因为它们都受到：",
+            "options": [
+                "相同的宏观驱动因素（增长、通胀、利率、风险偏好）",
+                "完全无关的力量",
+                "天气因素",
+                "单一企业财报"
+            ],
+            "correctIndex": 0,
+            "explain": "风险偏好变化（risk-on/off）常导致跨资产相关性上升。",
+            "source": "https://qption.com/fundamentalanalysis/forex-cfds",
+            "topic": "跨资产关联"
+        },
+        {
+            "q": "更严格的加密监管可能：",
+            "options": [
+                "只会推高价格",
+                "对参与度无影响",
+                "影响采用率、流动性和市场结构",
+                "完全消除波动性"
+            ],
+            "correctIndex": 2,
+            "explain": "监管决定了资金进出渠道、机构准入及市场行为。",
+            "source": "https://qption.com/fundamentalanalysis/crypto-adoption-regulation",
+            "topic": "加密监管"
+        },
+        {
+            "q": "从根本上看，区块链通过以下方式保障交易历史：",
+            "options": [
+                "集中式账本",
+                "分布式共识与加密技术",
+                "纸质记录",
+                "单一服务器"
+            ],
+            "correctIndex": 1,
+            "explain": "共识机制（如 PoW/PoS）和加密链接确保账本数据的完整性与安全性。",
+            "source": "https://qption.com/fundamentalanalysis/blockchain-fundamental-analysis",
+            "topic": "区块链"
+        }
+    ]
+}

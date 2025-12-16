@@ -1,0 +1,40 @@
+{
+    "sections": {
+        "home": "Accueil",
+        "trading": "Trading",
+        "education": "Éducation",
+        "company": "Entreprise"
+    },
+    "links": {
+        "home": "Accueil",
+        "register": "S'inscrire",
+        "about": "À propos",
+        "contact": "Contactez-nous",
+        "faq": "FAQ",
+        "news": "Actualités",
+        "accountTypes": "Types de compte",
+        "socialTrading": "Trading social",
+        "aiTrading": "Trading IA",
+        "affiliate": "Programme d’affiliation",
+        "technicalAnalysis": "Analyse technique",
+        "tradingStrategies": "Stratégies de trading",
+        "graphicalAnalysis": "Analyse graphique",
+        "fundamentalAnalysis": "Analyse fondamentale",
+        "glossary": "Glossaire",
+        "paymentPolicy": "Politique de paiement",
+        "returnPolicy": "Politique de retour",
+        "amlKyc": "Lutte contre le blanchiment & KYC",
+        "privacyPolicy": "Politique de confidentialité",
+        "terms": "Conditions générales"
+    },
+    "followUs": "Suivez-nous :",
+    "riskWarning": "Avertissement sur les risques : les CFD sont des instruments complexes et comportent un risque élevé de perte rapide d'argent en raison de l'effet de levier. 72 % des comptes d'investisseurs particuliers perdent de l'argent lorsqu'ils tradent des CFD avec ce fournisseur. Réfléchissez à votre compréhension du fonctionnement des CFD et à votre capacité à supporter le risque élevé de perte de votre argent. Qption LLC est enregistrée à Saint-Vincent-et-les-Grenadines (n° 1744 LLC 22).",
+    "recaptcha": {
+        "prefix": "Ce site est protégé par reCAPTCHA et les",
+        "privacy": "Règles de confidentialité de Google",
+        "and": "et",
+        "terms": "Conditions d'utilisation de Google",
+        "apply": "s'appliquent."
+    },
+    "payments": "Paiements"
+}

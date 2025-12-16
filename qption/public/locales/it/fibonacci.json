@@ -1,0 +1,134 @@
+{
+    "seo": {
+        "title": "Ritracciamenti di Fibonacci e Onde di Elliott – Guida all'Analisi Grafica | Qption",
+        "description": "Impara i Ritracciamenti di Fibonacci e la Teoria delle Onde di Elliott: livelli chiave (23,6%, 38,2%, 50%, 61,8%, 78,6%), tracciatura, supporto/resistenza, continuazione vs inversione, onde impulsive/correttive e combinazione con medie mobili e linee di tendenza.",
+        "keywords": "ritracciamenti di Fibonacci, teoria delle onde di Elliott, analisi grafica, analisi tecnica, supporto e resistenza, onde impulsive, onde correttive, livelli di Fibonacci, medie mobili, linee di tendenza, obiettivi di prezzo, gestione del rischio, Qption",
+        "url": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+        "image": "https://qption.com/videos/fibonacci-elliott-waves/fibonacci-elliott-waves.jpg",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Ritracciamenti di Fibonacci e Onde di Elliott – Guida all'Analisi Grafica",
+            "description": "Impara i Ritracciamenti di Fibonacci e la Teoria delle Onde di Elliott nell'analisi grafica.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "image": "https://qption.com/videos/fibonacci-elliott-waves/fibonacci-elliott-waves.jpg",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            }
+        }
+    },
+    "ui": {
+        "backToGraphical": "Torna all'Analisi Grafica"
+    },
+    "page": {
+        "title": "Ritracciamenti di Fibonacci e Onde di Elliott nell'Analisi Grafica"
+    },
+    "cta": {
+        "ready": "Pronto per fare trading?",
+        "start": "Inizia a fare trading"
+    },
+    "video": {
+        "aria": "I ritracciamenti di Fibonacci aiutano a identificare potenziali aree di supporto/resistenza applicando rapporti di Fibonacci ai grafici dei prezzi."
+    },
+    "sections": {
+        "fibOverview": {
+            "h": "Panoramica dei Ritracciamenti di Fibonacci",
+            "i1": "I ritracciamenti di Fibonacci sono uno strumento popolare per individuare potenziali livelli di supporto/resistenza utilizzando i rapporti di Fibonacci.",
+            "i2": "Livelli comuni: 23,6%, 38,2%, 50%, 61,8%, 78,6%.",
+            "i3": "Aiutano a individuare punti di entrata/uscita osservando le reazioni del prezzo a questi livelli."
+        },
+        "fibHow": {
+            "h": "Come Funzionano i Ritracciamenti di Fibonacci",
+            "s1": {
+                "h": "Tracciatura:",
+                "t": "Dal minimo al massimo nei trend rialzisti (o dal massimo al minimo nei trend ribassisti), creando linee orizzontali ai livelli di Fibonacci."
+            },
+            "s2": {
+                "h": "Supporto/Resistenza:",
+                "t": "I livelli possono agire come zone di reazione in cui il prezzo si inverte o consolida."
+            },
+            "s3": {
+                "h": "Continuazione:",
+                "t": "Se il prezzo tiene un livello, il trend spesso riprende, offrendo potenziali punti di entrata."
+            },
+            "s4": {
+                "h": "Segnale di Inversione:",
+                "t": "Una rottura decisa oltre un livello chiave può suggerire un cambio di tendenza."
+            }
+        },
+        "fibTech": {
+            "h": "Tecniche con i Ritracciamenti di Fibonacci",
+            "t1": {
+                "h": "1) Fibonacci con Linee di Tendenza",
+                "i1": "La confluenza con le linee di tendenza rafforza la validità del livello.",
+                "i2": "Cerca allineamenti come zone di alta confluenza."
+            },
+            "t2": {
+                "h": "2) Fibonacci con Medie Mobili",
+                "i1": "Quando un livello coincide con una media mobile, l’affidabilità aumenta.",
+                "i2": "Le medie mobili 50/200 combinate con i livelli di Fibonacci spesso segnano forti reazioni."
+            }
+        },
+        "fibProsCons": {
+            "h": "Vantaggi e Limiti dei Ritracciamenti di Fibonacci",
+            "p1": {
+                "h": "Vantaggio:",
+                "t": "Livelli chiari per pianificare entrate, uscite e stop."
+            },
+            "p2": {
+                "h": "Vantaggio:",
+                "t": "Funziona bene con linee di tendenza e medie mobili per la conferma."
+            },
+            "c1": {
+                "h": "Limite:",
+                "t": "Non è uno strumento autonomo; affidarsi solo al Fibonacci può produrre falsi segnali in periodi di alta volatilità."
+            }
+        },
+        "ewOverview": {
+            "h": "Panoramica della Teoria delle Onde di Elliott",
+            "i1": "Studia i prezzi come onde per dedurre la direzione attraverso cicli e schemi.",
+            "i2": "Cinque onde impulsive e tre onde correttive (A-B-C).",
+            "i3": "Utilizzata per anticipare continuazioni, inversioni e ritracciamenti."
+        },
+        "ewHow": {
+            "h": "Come Funzionano le Onde di Elliott",
+            "s1": {
+                "h": "Onde Impulsive:",
+                "t": "Cinque onde nella direzione del trend; 1, 3, 5 con il trend; 2 e 4 correttive."
+            },
+            "s2": {
+                "h": "Onde Correttive:",
+                "t": "Tre onde (A-B-C) contro la tendenza principale."
+            },
+            "s3": {
+                "h": "Identificazione delle Onde:",
+                "t": "Riconosci gli schemi per individuare la continuazione o la fine del trend."
+            },
+            "s4": {
+                "h": "Rapporti:",
+                "t": "I rapporti di Fibonacci spesso coincidono con le onde (es. ritracciamenti nelle onde 2/4, estensioni nella 5)."
+            }
+        },
+        "ewTech": {
+            "h": "Tecniche con le Onde di Elliott",
+            "t1": {
+                "h": "1) Utilizzare Onde Impulsive/Correttive per Mappare i Trend",
+                "i1": "Le onde impulsive mostrano la forza/direzione del trend; le correttive segnano i ritracciamenti.",
+                "i2": "Entra con le onde impulsive; usa le correttive per anticipare i ritracciamenti."
+            },
+            "t2": {
+                "h": "2) Combinare Onde di Elliott e Fibonacci",
+                "i1": "I rapporti di Fibonacci appaiono all’interno delle onde (ritracciamenti 2/4; estensioni 5).",
+                "i2": "Combina i ritracciamenti di Fibonacci con il conteggio delle onde per proiettare obiettivi e inversioni."
+            }
+        },
+        "ewProsCons": {
+            "h": "Vantaggi e Limiti delle Onde di Elliott",
+            "p1": "Vantaggio: Approccio strutturato per cicli di mercato e inversioni.",
+            "p2": "Vantaggio: Si combina bene con Fibonacci per obiettivi e stop.",
+            "c1": "Limite: Può essere complessa e soggettiva; i conteggi possono variare.",
+            "c2": "Limite: Etichettare erroneamente le onde porta a previsioni inaccurate."
+        }
+    }
+}

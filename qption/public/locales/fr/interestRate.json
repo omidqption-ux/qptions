@@ -1,0 +1,184 @@
+{
+    "seo": {
+        "title": "Différentiels de taux d’intérêt & stratégies de carry trade – Mécanique, conditions, risques | Qption",
+        "description": "Découvrez comment les différentiels de taux d’intérêt pilotent les mouvements FX et les carry trades. Comprenez la mécanique, les conditions favorables, les indicateurs clés, les avantages et les principaux risques, dont la volatilité, la dépréciation et les changements de politique.",
+        "keywords": "différentiels de taux d’intérêt, carry trade de devises, FX carry, politique monétaire, taux des banques centrales, risk-on, faible volatilité, risque de dépréciation, AUD/JPY, NZD/JPY, financement en JPY, stratégie forex, analyse fondamentale, Qption",
+        "ogTitle": "Différentiels de taux & carry trades",
+        "ogDescription": "Le carry 101 : pourquoi l’écart de taux compte, quand cela fonctionne et les risques qui peuvent retourner la performance.",
+        "url": "https://qption.com/fundamental-analysis/interest-rate-differentials-carry-trades",
+        "image": "https://qption.com/images/og/interest-rate-differentials-carry-trades.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "FX Carry & différentiels de taux | Qption",
+        "twitterDescription": "Mécanique, conditions, indicateurs, avantages et risques des carry trades en devises.",
+        "twitterImage": "https://qption.com/images/og/interest-rate-differentials-carry-trades.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/interest-rate-differentials-carry-trades",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Différentiels de taux d’intérêt & carry trades – Mécanique, conditions, risques",
+            "description": "Comment les écarts de taux façonnent les mouvements FX et les stratégies de carry — quoi surveiller, quand cela marche et les écueils.",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/interest-rate-differentials-carry-trades",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Différentiel de taux d’intérêt"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Carry trade en devises"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Politique monétaire"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Marché des changes (Forex)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Volatilité"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Sentiment risk-on"
+                }
+            ],
+            "articleSection": [
+                "Aperçu",
+                "Comprendre les différentiels de taux",
+                "Mécanique du carry",
+                "Conditions favorables",
+                "Avantages",
+                "Risques & limites"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Idée centrale",
+                    "value": "Emprunter dans une devise à faible rendement ; investir dans une devise à rendement plus élevé pour capter l’écart."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Paires typiques",
+                    "value": "Financement : JPY/CHF ; Cible : AUD/NZD (selon le contexte)."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Conditions favorables",
+                    "value": "Faible volatilité, écarts stables/en élargissement, contexte global risk-on."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Facteurs clés",
+                    "value": "Trajectoires des banques centrales, inflation, croissance, emploi, guidage."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Principaux risques",
+                    "value": "Dépréciation FX, pics de volatilité, surprises de politique comprimant les écarts."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analyse fondamentale"
+    },
+    "page": {
+        "title": "Différentiels de taux d’intérêt et carry trades en devises"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "startTrading": "Commencer à trader"
+    },
+    "sections": {
+        "overview": {
+            "title": "Aperçu",
+            "bullets": [
+                "Les différentiels de taux sont l’écart entre les taux de deux économies ; ils influencent les tendances FX et alimentent les carry trades.",
+                "Un carry trade consiste à emprunter une devise à faible taux et à détenir une devise à taux plus élevé pour empocher l’écart.",
+                "Le carry est attractif en marchés calmes mais vulnérable à la volatilité et aux changements de politique."
+            ]
+        },
+        "understanding": {
+            "title": "Comprendre les différentiels de taux d’intérêt",
+            "items": [
+                {
+                    "label": "Politiques de taux d’intérêt",
+                    "text": "Les banques centrales ajustent les taux pour gérer inflation et croissance. Des trajectoires divergentes créent des opportunités de carry."
+                },
+                {
+                    "label": "Valorisation des devises",
+                    "text": "Les devises à taux plus élevés peuvent attirer des capitaux et s’apprécier ; les devises de financement à bas taux peuvent dériver à la baisse."
+                },
+                {
+                    "label": "Indicateurs économiques",
+                    "text": "Inflation, PIB et emploi façonnent les attentes de politique, et donc le contexte du carry."
+                }
+            ]
+        },
+        "mechanics": {
+            "title": "Mécanique des carry trades en devises",
+            "choose": {
+                "title": "1. Choisir les devises pour un carry trade",
+                "bullets": [
+                    "S’endetter dans une devise à faible rendement (p. ex. JPY/CHF) et investir dans une devise à rendement plus élevé (p. ex. AUD/NZD).",
+                    "La position vise à gagner l’intérêt net (« carry ») du côté à haut rendement."
+                ]
+            },
+            "earn": {
+                "title": "2. Gagner l’écart de taux",
+                "bullets": [
+                    "La performance du carry provient de l’écart entre l’intérêt payé (financement) et l’intérêt perçu (cible).",
+                    "Des écarts stables/en élargissement, plus une dérive FX favorable, peuvent composer les rendements."
+                ]
+            }
+        },
+        "conditions": {
+            "title": "Conditions de marché favorables au carry",
+            "lowVol": {
+                "title": "1. Faible volatilité du marché",
+                "bullets": [
+                    "Le carry fonctionne mieux lorsque les plages FX sont calmes et les risques extrêmes atténués.",
+                    "Des conditions tranquilles laissent l’écart de taux dominer les résultats."
+                ]
+            },
+            "riskOn": {
+                "title": "2. Sentiment risk-on",
+                "bullets": [
+                    "En phase d’optimisme, les investisseurs acceptent plus volontiers de détenir des devises à rendement élevé.",
+                    "Les contextes risk-on s’alignent souvent avec des devises à haut taux plus fortes et un carry soutenu."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Avantages des carry trades",
+            "bullets": [
+                "Revenu supplémentaire potentiel via l’écart de taux, même en marchés en range.",
+                "Possibilité d’appréciation du capital si la devise à haut taux se renforce.",
+                "Diversification du portefeuille par rapport aux actions et obligations."
+            ]
+        },
+        "risks": {
+            "title": "Risques et limites des carry trades",
+            "items": [
+                {
+                    "label": "Volatilité du marché",
+                    "text": "Des mouvements FX brusques peuvent dépasser le revenu de carry et inverser la performance."
+                },
+                {
+                    "label": "Risque de dépréciation de la devise",
+                    "text": "Si la devise à haut taux s’affaiblit fortement, les gains de carry peuvent être effacés."
+                },
+                {
+                    "label": "Virages de politique",
+                    "text": "Des décisions inattendues des banques centrales peuvent comprimer les écarts et renverser les tendances."
+                }
+            ]
+        }
+    }
+}

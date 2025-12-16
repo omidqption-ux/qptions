@@ -1,0 +1,50 @@
+{
+    "seo": {
+        "title": "Reversal Trading Strategy | Qption",
+        "description": "Learn the Reversal Trading Strategy: identify trend exhaustion, use support/resistance, RSI, MACD, divergence and candlestick patterns to confirm entries, and manage risk with defined stops and targets.",
+        "keywords": "reversal strategy, trend reversal, trend exhaustion, support and resistance, divergence, RSI, MACD, candlestick patterns, hammer, engulfing pattern, risk management, confirmation signals, trading strategy, Qption",
+        "url": "https://qption.com/graphical-analysis/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "ogAlt": "Reversal Trading Strategy"
+    },
+    "ui": {
+        "backToGraphical": "Back to Graphical Analysis",
+        "graphicalLink": "Graphical Analysis"
+    },
+    "page": {
+        "title": "Reversal Trading Strategy"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "start": "Start Trading"
+    },
+    "video": {
+        "aria": "A reversal occurs when the current trend weakens, suggesting it may soon change direction. Traders watch for signs of exhaustion such as slowing momentum, lower highs in an uptrend, or higher lows in a downtrend."
+    },
+    "sections": {
+        "keyConcepts": {
+            "h": "Key Concepts of the Reversal Strategy",
+            "items": [
+                "Trend Exhaustion: A reversal forms when the trend loses momentum, showing potential to change direction.",
+                "Support & Resistance Levels: Strong support in a downtrend or resistance in an uptrend can trigger a reversal.",
+                "Technical Indicators: RSI, MACD, or Stochastic help detect overbought/oversold conditions hinting at reversals.",
+                "Candlestick Patterns: Doji, Hammer, and Engulfing patterns visually signal potential turning points.",
+                "Divergence: When price and indicator move opposite (e.g., lower lows in price, higher lows in RSI), reversal may follow."
+            ]
+        },
+        "apply": {
+            "h": "Applying the Reversal Strategy",
+            "items": [
+                "Identify the prevailing trend — reversals work best after strong, extended trends.",
+                "Watch for signals such as indicator extremes or reversal candle formations.",
+                "Wait for confirmation via breaks of S/R, divergence, or opposite candle sequences.",
+                "Define entry and exit points using support/resistance and moving averages.",
+                "Use strict risk management — place stop-losses just beyond failed reversal zones."
+            ]
+        },
+        "example": {
+            "h": "Example of a Reversal Strategy in Action",
+            "text": "A stock in a multi-week uptrend shows RSI above 70 and a bearish engulfing candle near resistance while MACD diverges. The trader enters a short position with a stop above resistance, targeting profits as price declines."
+        }
+    }
+}

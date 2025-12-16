@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Relative Strength Index (RSI) – Technical Analysis | Qption",
+        "description": "Learn how to use the RSI for technical analysis: calculate RSI, spot overbought/oversold levels, read divergences, and choose optimal settings for different markets.",
+        "keywords": "RSI, Relative Strength Index, technical analysis, momentum oscillator, overbought, oversold, divergence, trading strategy, Qption",
+        "ogTitle": "Relative Strength Index (RSI) – Technical Analysis | Qption",
+        "ogDescription": "A clear guide to RSI: how it’s calculated, how to trade OB/OS signals and divergences, and where it shines or fails.",
+        "url": "https://qption.com/technical-analysis/RSIIndicator",
+        "image": "https://qption.com/videos/og/rsi-indicator/rsi-indicator.png"
+    },
+    "labels": {
+        "backToTechnical": "Technical Analysis",
+        "videoAria": "RSI (Relative Strength Index) is a momentum oscillator that measures the speed and change of price movements."
+    },
+    "promo": {
+        "text": "Ready to trade with RSI?",
+        "cta": "Start Trading"
+    },
+    "hero": {
+        "title": "RSI Indicator Strategy",
+        "subtitle": "Master momentum trading with our comprehensive RSI analysis"
+    },
+    "overview": {
+        "title": "Overview",
+        "bullets": [
+            "RSI is a momentum oscillator that measures the speed and change of price movements.",
+            "It oscillates between 0 and 100 — above 70 is commonly considered overbought and below 30 oversold.",
+            "RSI helps identify potential reversals and OB/OS conditions across markets."
+        ]
+    },
+    "how": {
+        "title": "How RSI Works",
+        "items": [
+            {
+                "title": "Calculation",
+                "desc": "RSI is computed from average gains and losses over a lookback period (typically 14)."
+            },
+            {
+                "title": "Overbought/Oversold",
+                "desc": "Readings above 70 suggest overbought; below 30 suggest oversold conditions."
+            },
+            {
+                "title": "Divergence",
+                "desc": "When price makes new highs/lows but RSI does not, a potential reversal may be near."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Key Strategies",
+        "items": [
+            {
+                "title": "1. Overbought/Oversold Trading",
+                "points": [
+                    "Buy when RSI crosses above 30 (exiting oversold) and sell when it crosses below 70 (exiting overbought).",
+                    "Use confluence from price action or other indicators for confirmation."
+                ]
+            },
+            {
+                "title": "2. RSI Divergence",
+                "points": [
+                    "Bullish divergence: price makes lower lows while RSI makes higher lows.",
+                    "Bearish divergence: price makes higher highs while RSI makes lower highs."
+                ]
+            },
+            {
+                "title": "3. RSI Trend Lines",
+                "points": [
+                    "Draw trend lines on the RSI itself to spot potential breakouts/breakdowns.",
+                    "Combine RSI breaks with market structure for entries/exits."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitations",
+        "bullets": [
+            "In strong trends the RSI can remain overbought/oversold for extended periods.",
+            "Choppy, sideways markets can create false signals."
+        ]
+    }
+}

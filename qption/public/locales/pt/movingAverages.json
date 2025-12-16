@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "Estratégia de Médias Móveis (SMA e EMA) – Análise Técnica | Qption",
+        "description": "Domine o acompanhamento de tendências com Médias Móveis: SMA vs EMA, cruzamentos (Cruz Dourada/Morte), suporte e resistência dinâmicos, faixas de médias e suas limitações — guia completo para traders.",
+        "keywords": "médias móveis, SMA, EMA, cruzamento de médias, cruz dourada, cruz da morte, faixa de médias móveis, suporte e resistência dinâmicos, tendência, impulso, análise técnica, Qption",
+        "ogTitle": "Estratégia de Médias Móveis (SMA e EMA) – Análise Técnica | Qption",
+        "ogDescription": "Aprenda a usar SMA e EMA, identificar cruzamentos e suporte/resistência dinâmicos para melhorar suas estratégias de trading.",
+        "url": "https://qption.com/technical-analysis/moving-averages",
+        "image": "https://qption.com/videos/moving-average/moving-average.png",
+        "imageAlt": "Estratégia de médias móveis mostrada em um gráfico"
+    },
+    "labels": {
+        "backToTechnical": "Análise Técnica",
+        "backToGraphical": "Voltar para Análise Gráfica"
+    },
+    "promo": {
+        "text": "Pronto para negociar com Médias Móveis?",
+        "cta": "Começar a Negociar"
+    },
+    "hero": {
+        "title": "Estratégia de Médias Móveis",
+        "subtitle": "Domine o acompanhamento de tendências e o trading de momento com nossa análise completa de médias móveis"
+    },
+    "video": {
+        "aria": "As médias móveis (MA) são ferramentas populares de análise técnica usadas para suavizar os dados de preços e identificar tendências e reversões."
+    },
+    "overview": {
+        "title": "Visão Geral",
+        "bullets": [
+            "As médias móveis (MA) suavizam os dados de preços, facilitando a identificação de tendências e reversões.",
+            "Os dois tipos mais comuns são a Média Móvel Simples (SMA) e a Média Móvel Exponencial (EMA), cada uma com métodos diferentes de ponderação.",
+            "As médias móveis ajudam os traders a identificar a direção da tendência, gerar sinais de negociação e identificar níveis de suporte e resistência."
+        ]
+    },
+    "how": {
+        "title": "Como Funcionam as Médias Móveis",
+        "items": [
+            {
+                "title": "Média Móvel Simples (SMA)",
+                "desc": "Calculada pela média aritmética de um número específico de preços recentes. Usada para análise geral de tendências."
+            },
+            {
+                "title": "Média Móvel Exponencial (EMA)",
+                "desc": "Dá mais peso aos preços recentes, reagindo mais rapidamente às mudanças do mercado. Preferida em mercados voláteis."
+            },
+            {
+                "title": "Identificação de Tendência",
+                "desc": "Quando o preço está acima da média móvel, indica uma tendência de alta; abaixo, uma tendência de baixa."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Principais Estratégias",
+        "items": [
+            {
+                "title": "Cruzamento de Médias Móveis",
+                "points": [
+                    "Cruz Dourada: ocorre quando uma média móvel de curto prazo (ex: 50 dias) cruza acima de uma de longo prazo (ex: 200 dias), indicando tendência de alta.",
+                    "Cruz da Morte: ocorre quando uma média móvel de curto prazo cruza abaixo de uma de longo prazo, sinalizando tendência de baixa."
+                ]
+            },
+            {
+                "title": "Suporte e Resistência Dinâmicos",
+                "points": [
+                    "Suporte em tendência de alta: a média móvel pode atuar como suporte dinâmico, onde o preço tende a reagir.",
+                    "Resistência em tendência de baixa: a média móvel pode atuar como resistência, empurrando o preço para baixo."
+                ]
+            },
+            {
+                "title": "Estratégia de Faixa de Médias Móveis",
+                "points": [
+                    "Use múltiplas médias móveis com diferentes períodos (10, 20, 50, 100, 200) para criar um efeito de faixa no gráfico.",
+                    "Quando todas as médias estão alinhadas na mesma direção, isso indica uma forte tendência."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitações",
+        "bullets": [
+            "As médias móveis são indicadores atrasados e podem reagir lentamente a mudanças bruscas do mercado.",
+            "Podem gerar falsos sinais em mercados laterais ou de baixa volatilidade."
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "seo": {
+        "title": "提现流程与条款 | Qption",
+        "description": "了解 Qption 的提现流程：申请步骤、原始入金方式返还、客户责任及账户关闭条款。",
+        "keywords": "提现政策, 提现申请, 原始入金方式, 客户责任, 账户关闭, Qption",
+        "ogTitle": "提现流程与条款 | Qption",
+        "ogDescription": "详细了解提现申请、处理时间、付款路径及合规条件。",
+        "url": "https://qption.com/withdrawal-policy",
+        "image": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "提现流程与条款 | Qption",
+        "twitterDescription": "了解如何申请提现、处理时间、支付规则等内容。",
+        "twitterImage": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "canonical": "https://qption.com/withdrawal-policy"
+    },
+    "hero": {
+        "title": "提现流程与条款"
+    },
+    "sections": [
+        {
+            "key": "request",
+            "icon": "request",
+            "title": "1. 提现申请流程",
+            "items": [
+                "要发起提现，客户必须通过网站的个人中心提交申请，选择提现方式并提供必要信息。",
+                "提交后，申请状态将变为“已申请”。当开始处理时，状态变为“处理中”，此时账户余额会被扣除。完成后，状态变为“已处理”，资金将转入客户的支付账户。",
+                "提现申请由公司财务部门按收到的顺序处理，处理时间最长为5个工作日。公司有权在必要时延长此时间。"
+            ]
+        },
+        {
+            "key": "originalMethod",
+            "icon": "originalMethod",
+            "title": "2. 提现至原始入金方式",
+            "items": [
+                "资金只能提至最初用于入金的支付账户。如果技术上无法实现，公司可选择其他提现方式，但须确保客户的个人信息与支付信息一致。",
+                "若客户通过银行卡入金，则提现必须返回同一张卡。仅当提现金额超过初始入金额时，才能使用其他方式。",
+                "若客户在入金后未进行任何交易便申请提现，则提现必须使用与入金相同的支付方式和账户。公司有权收取资金返还及处理费用。"
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "3. 客户责任与信息准确性",
+            "items": [
+                "客户对提现申请中提供的所有信息的准确性负全部责任。"
+            ]
+        },
+        {
+            "key": "closure",
+            "icon": "closure",
+            "title": "4. 因违反条款而关闭账户",
+            "items": [
+                "如果客户因违反条款与条件而被关闭账户，公司保留扣留并保管客户所获利润的权利。",
+                "公司可自行决定将已存资金退还给客户，但需扣除所有适用费用与手续费。"
+            ]
+        }
+    ]
+}

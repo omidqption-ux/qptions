@@ -1,0 +1,306 @@
+{
+    "seo": {
+        "title": "Quiz zur grafischen Analyse – Trends, S/R, Muster & Candlesticks | Qption",
+        "description": "Teste deine Chart-Lesefähigkeiten mit Qptions Quiz zur grafischen Analyse. Prüfe dein Verständnis von Trends, Support/Resistance, Fibonacci & Elliott sowie Fortsetzungs- und Umkehrmustern.",
+        "keywords": "grafische Analyse Quiz, technische Analyse Quiz, Chartmuster, Unterstützung und Widerstand, Fibonacci, Elliott Waves, Kopf-Schulter, Flaggen, Wimpel, Trendfortsetzung, Reversal, Qption",
+        "ogTitle": "Quiz zur grafischen Analyse – Trends, S/R, Muster & Candlesticks | Qption",
+        "ogDescription": "Fordere dich mit interaktiven Fragen zu Trends, S/R, Fibonacci & Elliott sowie Fortsetzungs- und Umkehrmustern heraus.",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Quiz zur grafischen Analyse – Qption",
+        "twitterDescription": "Stelle dein Chartwissen mit dem Quiz zur grafischen Analyse von Qption unter Beweis.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/graphical-analysis"
+    },
+    "page": {
+        "title": "Graphical Analysis",
+        "subtitle": "Fordere deine Chart-Lesefähigkeiten mit unserem interaktiven Quiz heraus – teste dein Verständnis von Trendlinien, Unterstützung/Widerstand, Fibonacci- & Elliott-Konzepten sowie Fortsetzungs- und Reversalmustern, um ein visuell gesteuerter Trader zu werden."
+    },
+    "quiz": {
+        "header": "Quiz zur grafischen Analyse",
+        "progress": "Frage {{current}} von {{total}}",
+        "correct": "Richtig ✅",
+        "incorrect": "Nicht ganz ⚠️",
+        "selectHint": "Wähle eine Option und sende deine Antwort.",
+        "learnMore": "Mehr erfahren ↗"
+    },
+    "ui": {
+        "previous": "Zurück",
+        "submit": "Abschicken",
+        "finish": "Beenden",
+        "next": "Weiter",
+        "newRandom": "Neue zufällige 10",
+        "loading": "Quiz wird geladen …"
+    },
+    "results": {
+        "score": "Score: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Großartig! Deine Chart-Reads sind messerscharf.",
+            "good": "Starke Leistung! Weiter üben und Level erhöhen.",
+            "retry": "Guter Start – Lektionen prüfen und erneut versuchen."
+        }
+    },
+    "pool": [
+        {
+            "q": "Eine steigende gleitende Durchschnittslinie weist in der grafischen Analyse meist auf:",
+            "options": [
+                "Range-Bedingungen",
+                "Abwärtstendenzen",
+                "Aufwärtstendenzen",
+                "kein Signal"
+            ],
+            "correct": "Aufwärtstendenzen",
+            "explain": "Steigung und Preisposition relativ zum GD liefern schnell den Richtungsbias.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Eine gängige Nutzung gleitender Durchschnitte als dynamische S/R besteht darin:",
+            "options": [
+                "zu warten, bis der Preis sie ignoriert",
+                "Pullbacks zum GD im Trend als Fortsetzungseinstieg zu handeln",
+                "jeden GD-Touch zu handeln – unabhängig vom Kontext",
+                "sie nur auf Jahrescharts zu verwenden"
+            ],
+            "correct": "Pullbacks zum GD im Trend als Fortsetzungseinstieg zu handeln",
+            "explain": "Rücksetzer zum GD liefern Struktur für Stops und Fortsetzungstrades.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Im Vergleich zu einem SMA reagiert ein EMA typischerweise:",
+            "options": [
+                "langsamer",
+                "gleich schnell",
+                "schneller",
+                "gar nicht – ist kein GD"
+            ],
+            "correct": "schneller",
+            "explain": "EMAs gewichten aktuelle Daten stärker und drehen daher schneller als SMAs.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Ein grundlegendes bullisches Crossover-Signal entsteht, wenn:",
+            "options": [
+                "der lange GD über den kurzen steigt",
+                "der kurze GD über den langen steigt",
+                "der Preis unter beide GDs gappt",
+                "beide GDs flach bleiben"
+            ],
+            "correct": "der kurze GD über den langen steigt",
+            "explain": "Kurz-über-Lang signalisiert Momentumwechsel – trotzdem Bestätigung suchen.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Ein aufsteigendes Dreieck bricht häufig:",
+            "options": [
+                "per Definition nach unten",
+                "nach oben, da Käufer eine horizontale Decke bedrängen",
+                "ewig seitwärts",
+                "rein zufällig"
+            ],
+            "correct": "nach oben, da Käufer eine horizontale Decke bedrängen",
+            "explain": "Höhere Tiefs gegen flachen Widerstand deuten auf Druck nach oben hin – Bestätigung nötig.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Eine Rechteck-Konsolidierung (Range) löst sich gewöhnlich:",
+            "options": [
+                "nur nach unten",
+                "nur nach oben",
+                "in beide Richtungen – Breakout + Retest beobachten",
+                "immer in ein Reversal"
+            ],
+            "correct": "in beide Richtungen – Breakout + Retest beobachten",
+            "explain": "Ranges sind neutral; Kontext, Volumen und Breakout-Verhalten bestimmen den Bias.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Ein „Measured Move“-Ziel bei Flaggen/Wimpeln schätzt man oft über:",
+            "options": [
+                "die Höhe des vorigen Impulses, projiziert ab dem Ausbruch",
+                "zufällige Pip-Zahlen",
+                "nur Fibonacci-Zeiten",
+                "den SMA-Wert"
+            ],
+            "correct": "die Höhe des vorigen Impulses, projiziert ab dem Ausbruch",
+            "explain": "Die Flaggenmast-Höhe wird ab dem Ausbruchspunkt als erstes Ziel angelegt.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Die grafische Analyse legt den Schwerpunkt auf:",
+            "options": [
+                "visuelle Strukturen wie Trends, S/R, Muster und Levels",
+                "nur Indikator-Mathematik",
+                "ausschließlich News",
+                "das Ignorieren mehrerer Zeitebenen"
+            ],
+            "correct": "visuelle Strukturen wie Trends, S/R, Muster und Levels",
+            "explain": "Sie priorisiert Chartstruktur, Kontext und Price Action als Entscheidungsgrundlage.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Beste Praxis ist es, Einstiege auszurichten mit:",
+            "options": [
+                "dem Trend und Schlüssellevels höherer Zeitebenen",
+                "zufälligen Tageszeiten",
+                "einem einzelnen Indikator",
+                "Trades ohne Stop"
+            ],
+            "correct": "dem Trend und Schlüssellevels höherer Zeitebenen",
+            "explain": "Top-down-Konfluenz erhöht die Wahrscheinlichkeit und bietet Klarheit für Setups.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Was reduziert Fehl-Breakouts bei Mustern?",
+            "options": [
+                "immer beim ersten Tick durch das Level einsteigen",
+                "auf Close/Akzeptanz jenseits des Levels und/oder Retest warten",
+                "Volumen und Kontext ignorieren",
+                "ohne Invalidation handeln"
+            ],
+            "correct": "auf Close/Akzeptanz jenseits des Levels und/oder Retest warten",
+            "explain": "Bestätigte Breaks plus Retests liefern mehr Evidenz als Intrabar-Spikes.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Stops platziert man häufig am besten:",
+            "options": [
+                "innerhalb der gehandelten Struktur",
+                "jenseits der Invalidation (z. B. über/unter Musterextremen)",
+                "nur an glatten Zahlen",
+                "gar nicht – Stops sind unnötig"
+            ],
+            "correct": "jenseits der Invalidation (z. B. über/unter Musterextremen)",
+            "explain": "Strukturbasierte Stops definieren Risiko und zeigen klar, wann die Idee falsch ist.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Welche Aussage zu Flaggen trifft zu?",
+            "options": [
+                "Sie treten nur in Abwärtstrends auf",
+                "Sie bestehen aus einem scharfen Impuls und einer engen Gegenkanal-Korrektur",
+                "Sie verlangen obligatorisch drei Dojis",
+                "Sie sind reine Volumenmuster"
+            ],
+            "correct": "Sie bestehen aus einem scharfen Impuls und einer engen Gegenkanal-Korrektur",
+            "explain": "Flaggen folgen auf Impulse („Mast“) und konsolidieren in einem kleinen Kanal, bevor sie fortsetzen.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Ein Pennant unterscheidet sich von einer Flagge hauptsächlich durch:",
+            "options": [
+                "einen konvergierenden Dreiecksbereich statt parallelem Kanal",
+                "den fehlenden Impuls zuvor",
+                "Verwendung nur auf Monatscharts",
+                "obligatorische Gap-Bildung"
+            ],
+            "correct": "einen konvergierenden Dreiecksbereich statt parallelem Kanal",
+            "explain": "Pennants konsolidieren den Impuls in zusammenlaufenden Trendlinien (Mini-Dreieck).",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Ein aufsteigendes Dreieck besteht typischerweise aus:",
+            "options": [
+                "fallenden Tiefs und flachem Widerstand",
+                "steigenden Tiefs und flachem Widerstand",
+                "flacher Unterstützung und fallenden Hochs",
+                "zufälligen Dojis"
+            ],
+            "correct": "steigenden Tiefs und flachem Widerstand",
+            "explain": "Höhere Tiefs treffen auf horizontale Decke – bullische Fortsetzung, wenn Widerstand bricht.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Ein absteigendes Dreieck signalisiert häufig:",
+            "options": [
+                "steigende Tiefs",
+                "fallende Hochs gegen flache Unterstützung und potenziellen Durchbruch nach unten",
+                "keine Aussage",
+                "nur Seitwärtsmärkte"
+            ],
+            "correct": "fallende Hochs gegen flache Unterstützung und potenziellen Durchbruch nach unten",
+            "explain": "Sinkende Hochs gegen horizontale Unterstützung üben Druck nach unten aus.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Head-and-Shoulders gilt als:",
+            "options": [
+                "Fortsetzungsmuster",
+                "Umkehrmuster mit Nackenlinie als Trigger",
+                "reiner Volumenindikator",
+                "Artefakt ohne Aussage"
+            ],
+            "correct": "Umkehrmuster mit Nackenlinie als Trigger",
+            "explain": "Drei Gipfel mit fallender Nackenlinie zeigen nachlassendes Momentum – Bruch triggert Reversal.",
+            "source": "https://qption.com/graphical-analysis/graphical-reversal-patterns",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Bei einem Doppelboden achten Trader auf:",
+            "options": [
+                "zwei Hochs",
+                "zwei Tiefs mit dazwischenliegendem Swing-Hoch, dessen Bruch bestätigt",
+                "nur Trendbeschleunigung",
+                "keine Volumenunterstützung"
+            ],
+            "correct": "zwei Tiefs mit dazwischenliegendem Swing-Hoch, dessen Bruch bestätigt",
+            "explain": "Zwei gleiche Tiefs zeigen Nachfrage; Trigger ist der Bruch des Zwischenhochs.",
+            "source": "https://qption.com/graphical-analysis/graphical-reversal-patterns",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Das Fibonacci-61,8-%-Retracement wird oft genutzt für:",
+            "options": [
+                "zufällige Werte",
+                "potenzielle Unterstützungs-/Widerstandszonen im Trend",
+                "Volumetrading",
+                "News-Filter"
+            ],
+            "correct": "potenzielle Unterstützungs-/Widerstandszonen im Trend",
+            "explain": "Fib-Level markieren mögliche Reaktionsbereiche für Pullbacks oder Profitziele.",
+            "source": "https://qption.com/graphical-analysis/fibonacci",
+            "topic": "Fibonacci"
+        },
+        {
+            "q": "Elliott-Wellen helfen Tradern, indem sie:",
+            "options": [
+                "reine Fundamentaldaten analysieren",
+                "mögliche Impuls- und Korrekturstrukturen im Trendcharakter skizzieren",
+                "nur Indikatoren ersetzen",
+                "stets fünf gleiche Kerzen verlangen"
+            ],
+            "correct": "mögliche Impuls- und Korrekturstrukturen im Trendcharakter skizzieren",
+            "explain": "Sie ordnen Preisbewegungen in Muster (Impulse + Korrekturen), um Szenarien zu planen.",
+            "source": "https://qption.com/graphical-analysis/elliott-wave",
+            "topic": "Elliott"
+        },
+        {
+            "q": "Ein Vorteil mehrerer Zeitebenen ist:",
+            "options": [
+                "mehr Rauschen",
+                "bessere Konfluenz zwischen übergeordnetem Bias und Einstiegssignal",
+                "keine Stopps nötig",
+                "nur Intraday nutzbar"
+            ],
+            "correct": "bessere Konfluenz zwischen übergeordnetem Bias und Einstiegssignal",
+            "explain": "Top-down-Analysen filtern Setups und erhöhen die Wahrscheinlichkeit konsistenter Trades.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        }
+    ]
+}

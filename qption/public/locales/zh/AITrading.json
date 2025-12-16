@@ -1,0 +1,138 @@
+{
+    "dir": "ltr",
+    "seo": {
+        "title": "AI 交易 – 一键判断市场方向 | Qption",
+        "description": "启动 Qption 的 AI：一键即可即时查看多空倾向、入场区间与动态风险水平，覆盖外汇与加密货币对。",
+        "keywords": "AI 交易, 算法交易, 市场方向, 交易信号, 自动分析, 外汇 AI, 加密 AI",
+        "ogTitle": "AI 交易 – 一键判断市场方向 | Qption",
+        "ogDescription": "剔除噪音——我们的 AI 实时扫描价格行为与指标，呈现最可能的方向与交易水平。",
+        "url": "https://qption.com/aiTrading",
+        "image": "https://qption.com/images/og/ai-trading-qption.jpg"
+    },
+    "hero": {
+        "title": "AI 交易策略",
+        "subtitle": "选择与您风险承受度匹配的交易方案"
+    },
+    "tabs": {
+        "conservative": "保守",
+        "moderate": "适中",
+        "aggressive": "激进"
+    },
+    "labels": {
+        "description": "说明",
+        "expectedReturns": "预期回报",
+        "riskLevel": "风险等级",
+        "recommendedFor": "适合人群",
+        "strategiesUsed": "采用策略",
+        "coreTitle": "AI 交易核心组成",
+        "advantagesTitle": "AI 交易优势"
+    },
+    "plans": [
+        {
+            "title": "保守型 AI 交易方案",
+            "subtitle": "保全资本，获取适度回报",
+            "description": "以低风险、高胜率的策略为主，目标是在最小回撤下获取稳定收益。典型策略包含在稳定市场中的趋势跟随，以及债券类 CFD 或低波动外汇对等固定收益工具。",
+            "returns": "5-8%",
+            "risk": "低",
+            "recommended": "重视资本安全、而非激进增长的客户。",
+            "strategies": [
+                {
+                    "title": "均值回归",
+                    "description": "把握价格相对历史均值的偏离，专注低波动资产以获取小额利润。"
+                },
+                {
+                    "title": "套利",
+                    "description": "利用外汇与 CFD 之间的微小价差，获取稳定而细小的收益。"
+                },
+                {
+                    "title": "情绪分析",
+                    "description": "分析稳定资产的市场情绪，以预判小幅价格调整。"
+                }
+            ]
+        },
+        {
+            "title": "适中型 AI 交易方案",
+            "subtitle": "增长与收益的平衡",
+            "description": "面向寻求适度收益与均衡风险的客户。AI 结合趋势跟随、情绪分析与选择性 HFT，覆盖外汇、主流加密与大宗商品 CFD。",
+            "returns": "12-18%",
+            "risk": "中",
+            "recommended": "风险承受度中等、追求增长与收益平衡的客户。",
+            "strategies": [
+                {
+                    "title": "趋势跟随",
+                    "description": "把握外汇与主流加密中的既有趋势。"
+                },
+                {
+                    "title": "加密与外汇的情绪分析",
+                    "description": "识别投资者情绪变化，以提高交易胜率。"
+                },
+                {
+                    "title": "选择性高频交易 (HFT)",
+                    "description": "在高流动性货币对中执行短线交易，把握快速波动。"
+                }
+            ]
+        },
+        {
+            "title": "激进型 AI 交易方案",
+            "subtitle": "高风险，高回报",
+            "description": "为高风险偏好者设计。AI 通过 HFT 与杠杆 CFD 策略，最大化利用快速市场波动，尤其在加密与高波动外汇对中。",
+            "returns": "25-40%",
+            "risk": "中到高",
+            "recommended": "能够接受较大回撤以换取更高潜在回报的客户。",
+            "strategies": [
+                {
+                    "title": "高频交易 (HFT)",
+                    "description": "在高波动货币对上进行大量交易，捕捉快速波动。"
+                },
+                {
+                    "title": "杠杆趋势跟随",
+                    "description": "在趋势明显的外汇与加密对上使用杠杆以放大收益。"
+                },
+                {
+                    "title": "情绪与新闻驱动交易",
+                    "description": "AI 快速响应突发新闻或情绪转变，即时捕捉波动。"
+                }
+            ]
+        }
+    ],
+    "core": [
+        {
+            "title": "数据分析",
+            "description": "分析历史与实时数据以发现模式与关联：价格趋势、市场情绪、经济指标与新闻等。"
+        },
+        {
+            "title": "机器学习模型",
+            "description": "基于历史数据学习并预测未来走势：包括监督学习、无监督学习与强化学习。"
+        },
+        {
+            "title": "自然语言处理 (NLP)",
+            "description": "分析新闻、社交媒体与财报等文本数据，评估情绪及其对价格的潜在影响。"
+        },
+        {
+            "title": "回测与优化",
+            "description": "在历史数据上测试与微调模型，提高稳健性与适应性。"
+        },
+        {
+            "title": "自动执行",
+            "description": "依据预设条件或学习到的模式自动下单，减少人为与情绪干扰。"
+        }
+    ],
+    "advantages": [
+        {
+            "title": "速度与效率",
+            "description": "毫秒级处理与执行，抓住转瞬即逝的机会。"
+        },
+        {
+            "title": "数据驱动决策",
+            "description": "同时分析多源数据，做出更全面的判断。"
+        },
+        {
+            "title": "降低情绪偏差",
+            "description": "剔除情绪影响，保持策略一致性。"
+        },
+        {
+            "title": "全天候交易",
+            "description": "持续运行，适用于外汇与加密等 24/7 市场。"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "seo": {
+        "title": "Estratégia de Reversão | Qption",
+        "description": "Aprenda a Estratégia de Reversão: identifique esgotamento de tendência, use suporte/resistência, RSI, MACD, divergências e padrões de candles para confirmar entradas e gerenciar risco com stops e alvos definidos.",
+        "keywords": "estratégia de reversão, reversão de tendência, esgotamento de tendência, suporte e resistência, divergência, RSI, MACD, padrões de candles, martelo, engolfo, gestão de risco, sinais de confirmação, estratégia de trading, Qption",
+        "url": "https://qption.com/pt/graphical-analysis/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "ogAlt": "Estratégia de Reversão"
+    },
+    "ui": {
+        "backToGraphical": "Voltar para Análise Gráfica",
+        "graphicalLink": "Análise Gráfica"
+    },
+    "page": {
+        "title": "Estratégia de Reversão"
+    },
+    "cta": {
+        "ready": "Pronto para operar?",
+        "start": "Começar a operar"
+    },
+    "video": {
+        "aria": "A reversão ocorre quando a tendência atual enfraquece e pode mudar de direção. Traders observam sinais de esgotamento como perda de momentum, topos descendentes em altas ou fundos ascendentes em quedas."
+    },
+    "sections": {
+        "keyConcepts": {
+            "h": "Conceitos-chave da Estratégia de Reversão",
+            "items": [
+                "Esgotamento de tendência: a reversão surge quando o momentum diminui, sugerindo possível mudança de direção.",
+                "Suporte e Resistência: níveis fortes em quedas (suporte) ou altas (resistência) podem acionar reversões.",
+                "Indicadores técnicos: RSI, MACD ou Estocástico ajudam a detectar sobrecompra/sobrevenda que antecipam reversões.",
+                "Padrões de candles: Doji, Martelo e Engolfo sinalizam visualmente possíveis pontos de virada.",
+                "Divergência: quando preço e indicador divergem (ex.: preço faz fundos mais baixos e RSI faz fundos mais altos), pode haver reversão."
+            ]
+        },
+        "apply": {
+            "h": "Aplicando a Estratégia de Reversão",
+            "items": [
+                "Identifique a tendência predominante — reversões funcionam melhor após movimentos fortes e prolongados.",
+                "Procure sinais como extremos de indicadores ou formações de candles de reversão.",
+                "Aguarde confirmação por rompimentos de S/R, divergências ou sequências de candles contrárias.",
+                "Defina entradas e saídas usando S/R, linhas de tendência e médias móveis.",
+                "Use gestão de risco rigorosa — posicione o stop um pouco além da zona onde a reversão falharia."
+            ]
+        },
+        "example": {
+            "h": "Exemplo de Estratégia de Reversão em Ação",
+            "text": "Uma ação em alta por várias semanas mostra RSI acima de 70 e um engolfo baixista próximo à resistência, enquanto o MACD diverge. O trader vende a descoberto com stop logo acima da resistência, visando lucro na queda."
+        }
+    }
+}

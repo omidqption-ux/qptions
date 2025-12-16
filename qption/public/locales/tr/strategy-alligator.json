@@ -1,0 +1,209 @@
+{
+    "seo": {
+        "title": "Alligator Trading Stratejisi – Çene, Dişler, Dudaklar, Piyasa Aşamaları ve Risk | Qption",
+        "description": "Bill Williams Alligator stratejisini anlayın: Çene/Dişler/Dudak ayarları, piyasa aşamaları (uykuda, uyanan, beslenen, doymuş), adım adım uygulama, Fraktallar/RSI/MACD/hacim ile nasıl birleştirileceği, artıları/eksileri ve bir örnek.",
+        "keywords": "Alligator stratejisi,Bill Williams Alligator,Alligator çene diş dudak,düzleştirilmiş hareketli ortalamalar,trendi belirleme,piyasa aşamaları,uyuyan alligator,uyanmakta olan alligator,beslenen alligator,fraktallar,RSI,MACD,hacim analizi,risk yönetimi,trading stratejisi,Qption",
+        "url": "https://qption.com/trading-strategy/alligator",
+        "image": "https://qption.com/videos/alligator-strategy/alligator-strategy.png",
+        "imageAlt": "Alligator trading stratejisi grafiği",
+        "jsonLd": {
+            "headline": "Alligator Trading Stratejisi – Çene, Dişler, Dudaklar, Piyasa Aşamaları ve Risk",
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Bill Williams Alligator"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Düzleştirilmiş Hareketli Ortalamalar"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Trend Belirleme"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Piyasa Aşamaları"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Fraktallar"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "RSI"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "MACD"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Hacim Analizi"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Risk Yönetimi"
+                }
+            ],
+            "articleSection": [
+                "Alligator Trading Stratejisi",
+                "Alligator Göstergesinin Temel Kavramları",
+                "Piyasada Alligator'un Davranışı",
+                "Alligator Trading Stratejisini Uygulama",
+                "Alligator Stratejisini Diğer Göstergelerle Birleştirmek",
+                "Alligator Stratejisinin Uygulamalı Örneği",
+                "Alligator Stratejisinin Artıları ve Eksileri",
+                "Grafik Örneği"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Çene (Mavi)",
+                    "value": "8 ile düzleştirilmiş 13 periyotluk SMA"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Dişler (Kırmızı)",
+                    "value": "5 ile düzleştirilmiş 8 periyotluk SMA"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Dudaklar (Yeşil)",
+                    "value": "3 ile düzleştirilmiş 5 periyotluk SMA"
+                }
+            ]
+        }
+    },
+    "breadcrumb": "Trading stratejisi",
+    "title": "Alligator Trading Stratejisi",
+    "cta": {
+        "prompt": "Ticarete hazır mısınız?",
+        "button": "Ticarete Başla"
+    },
+    "video": {
+        "aria": "Alligator'un Çenesi, Dişleri, Dudakları, davranış evreleri ve uyuyan alligator"
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Alligator Göstergesinin Temel Kavramları",
+            "items": {
+                "jaw": {
+                    "title": "Alligator'un Çenesi (Mavi Çizgi):",
+                    "desc": "8 periyot boyunca düzleştirilmiş 13 periyotluk hareketli ortalama, uzun vadeli piyasa yönünü yansıtır."
+                },
+                "teeth": {
+                    "title": "Alligator'un Dişleri (Kırmızı Çizgi):",
+                    "desc": "5 periyotla düzleştirilen 8 periyotluk hareketli ortalama, orta vadeli trendle hizalanır."
+                },
+                "lips": {
+                    "title": "Alligator'un Dudakları (Yeşil Çizgi):",
+                    "desc": "3 periyotla düzleştirilen 5 periyotluk hareketli ortalama; daha hızlı tepki verir ve kısa vadeli hareketi temsil eder."
+                }
+            }
+        },
+        "behavior": {
+            "title": "Piyasada Alligator'un Davranışı",
+            "intro": "Alligator piyasa koşulunu ve giriş/çıkış zamanlamasını görselleştirmenize yardımcı olur:",
+            "items": {
+                "sleeping": {
+                    "title": "Uyuyan Alligator:",
+                    "desc": "Çizgiler birbirine dolanır; piyasa yatay/seyrinde. Birçok trader daha net yön bekler."
+                },
+                "waking": {
+                    "title": "Uyanan Alligator:",
+                    "desc": "Çizgiler açılmaya başlar; yeni bir trend başlayabilir. Trader'lar kırılma yönünde giriş arar."
+                },
+                "feeding": {
+                    "title": "Beslenen Alligator:",
+                    "desc": "Çizgiler güçlü şekilde yelpaze olur; trend oturmuştur. Birçok trader bu aşamada pozisyonları taşır."
+                },
+                "sated": {
+                    "title": "Doymuş Alligator:",
+                    "desc": "Çizgiler yeniden yakınsar; momentum zayıflar. Kâr almayı veya tersine/konsolidasyona hazırlığı düşünün."
+                }
+            }
+        },
+        "apply": {
+            "title": "Alligator Trading Stratejisini Uygulama",
+            "items": {
+                "identify": {
+                    "title": "Trendi Belirleyin:",
+                    "desc": "Geniş ve hizalı çizgiler güçlü trende, iç içe çizgiler konsolidasyona işaret eder."
+                },
+                "enter": {
+                    "title": "Uyandığında Giriş Yapın:",
+                    "desc": "İlk ayrışmayı ortaya çıkan trend yönünde giriş sinyali olarak kullanın."
+                },
+                "hold": {
+                    "title": "Beslenme Sırasında Taşıyın:",
+                    "desc": "Ayrışma genişledikçe, birçok trader trend hareketini yakalamak için pozisyonu taşır."
+                },
+                "exit": {
+                    "title": "Uykuya Daldığında Çıkın:",
+                    "desc": "Yakınsama momentumun azaldığını gösterir; çıkmayı veya riski sıkılaştırmayı değerlendirin."
+                }
+            }
+        },
+        "combine": {
+            "title": "Alligator Stratejisini Diğer Göstergelerle Birleştirmek",
+            "items": {
+                "fractals": {
+                    "title": "Fraktallar:",
+                    "desc": "Williams Fractals'ı olası dönüş noktalarını işaretlemek ve giriş/çıkışları teyit etmek için kullanın."
+                },
+                "momentum": {
+                    "title": "Momentum Göstergeleri:",
+                    "desc": "RSI veya MACD, Alligator hizalanmasıyla birlikte trend gücünü teyit edebilir."
+                },
+                "volume": {
+                    "title": "Hacim Analizi:",
+                    "desc": "Kırılmalarda artan hacim 'uyanma' aşamasını ve trend geçerliliğini destekler."
+                }
+            }
+        },
+        "example": {
+            "title": "Alligator Stratejisinin Uygulamalı Örneği",
+            "p1": "Çene, Dişler ve Dudaklar birbirine dolandığı bir konsolidasyon sonrası, Dudakların Dişler ve Çenenin üzerine çıkması ve çizgilerin ayrılmaya başlaması potansiyel yükseliş trendini işaret eder.",
+            "p2": "Ayrışma genişledikçe (beslenme fazı) uzun pozisyon korunur. Çizgiler yeniden yakınsadığında, olası bir dönüşten önce kârı güvenceye almak için çıkmayı düşünün."
+        },
+        "prosCons": {
+            "title": "Alligator Stratejisinin Artıları ve Eksileri",
+            "pros": {
+                "title": "Artılar:",
+                "items": {
+                    "clarity": {
+                        "title": "Net Trend Sinyalleri:",
+                        "desc": "Giriş/çıkış fazlarını kolayca görselleştirir."
+                    },
+                    "timeframes": {
+                        "title": "Çoklu Zaman Dilimlerinde Çalışır:",
+                        "desc": "Forex, hisse senetleri ve emtialarda birden çok vadede kullanışlıdır."
+                    },
+                    "compatible": {
+                        "title": "Diğer Araçlarla Uyumlu:",
+                        "desc": "Fraktallar ve momentum göstergeleriyle iyi eşleşir."
+                    }
+                }
+            },
+            "cons": {
+                "title": "Eksiler:",
+                "items": {
+                    "lag": {
+                        "title": "Hızlı Piyasalarda Gecikme:",
+                        "desc": "Düzleştirilmiş hareketli ortalamalar yüksek volatilitede sinyalleri geciktirebilir."
+                    },
+                    "false": {
+                        "title": "Yatayda Sahte Sinyaller:",
+                        "desc": "Düşük volatilite ve yatay koşullarda whipsaw'lar oluşabilir."
+                    }
+                }
+            }
+        },
+        "chart": {
+            "title": "Grafik Örneği",
+            "p1": "İdeal kurulum, üç çizginin sıkı olduğu (konsolidasyon) ve trend başladıkça yelpaze açtığı durumdur.",
+            "p2": "'Uyanma'/'beslenme' fazlarında giriş ve pozisyonu koruma tercih edilir; yakınsama kâr alma veya temkin sinyali verir."
+        }
+    }
+}

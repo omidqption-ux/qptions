@@ -1,0 +1,133 @@
+{
+    "seo": {
+        "title": "Politica AML e CTF | Qption",
+        "description": "Politica di Qption contro il riciclaggio di denaro (AML) e il finanziamento del terrorismo (CTF): definizioni, programma, obblighi di dipendenti e clienti, controlli KYC, gestione delle attività sospette e responsabilità.",
+        "keywords": "AML, CTF, KYC, antiriciclaggio, finanziamento del terrorismo, transazioni sospette, conformità, Qption",
+        "ogTitle": "Politica Antiriciclaggio (AML) e Contro il Finanziamento del Terrorismo (CTF) | Qption",
+        "ogDescription": "Scopri come Qption previene il riciclaggio di denaro e il finanziamento del terrorismo: governance del programma, verifiche, monitoraggio e responsabilità del cliente.",
+        "url": "https://qption.com/aml-kyc",
+        "image": "https://qption.com/images/og/aml-kyc-qption.jpg",
+        "canonical": "https://qption.com/aml-kyc"
+    },
+    "hero": {
+        "title": "Politica Antiriciclaggio (AML) e Contro il Finanziamento del Terrorismo (CTF)"
+    },
+    "sections": [
+        {
+            "key": "general",
+            "icon": "general",
+            "title": "1. Politica Generale",
+            "items": [
+                "L’Azienda vieta e contrasta attivamente il riciclaggio di denaro e le attività che finanziano il terrorismo o altre azioni criminali. Tutti i dipendenti e gli affiliati devono rispettare questi standard per evitare l’uso improprio dei servizi aziendali a fini illegali."
+            ]
+        },
+        {
+            "key": "definition",
+            "icon": "definition",
+            "title": "2. Definizione di Riciclaggio di Denaro",
+            "items": [
+                "Il riciclaggio di denaro comprende azioni volte a nascondere l’origine di fondi ottenuti illegalmente, facendoli apparire provenienti da fonti legittime."
+            ]
+        },
+        {
+            "key": "stages",
+            "icon": "stages",
+            "title": "3. Fasi del Riciclaggio di Denaro",
+            "items": [
+                "Collocamento: il denaro proveniente da attività criminali entra nel sistema finanziario.",
+                "Stratificazione: i fondi vengono trasferiti tra conti o istituzioni per oscurarne ulteriormente l’origine.",
+                "Integrazione: i fondi rientrano nell’economia per acquistare beni legittimi o finanziare ulteriori attività."
+            ]
+        },
+        {
+            "key": "employees",
+            "icon": "employees",
+            "title": "4. Responsabilità dei Dipendenti",
+            "items": [
+                "I dipendenti coinvolti nei servizi aziendali devono conoscere e rispettare le leggi e i regolamenti applicabili alla prevenzione del riciclaggio di denaro."
+            ]
+        },
+        {
+            "key": "program",
+            "icon": "program",
+            "title": "5. Programma di Conformità AML",
+            "items": [
+                "L’Azienda mantiene un programma continuo per garantire la conformità legale, ridurre l’esposizione al riciclaggio di denaro e coordinare i requisiti normativi tra tutte le unità aziendali."
+            ]
+        },
+        {
+            "key": "affiliates",
+            "icon": "affiliates",
+            "title": "6. Conformità degli Affiliati",
+            "items": [
+                "Ogni affiliato dell’Azienda deve aderire alle politiche AML e Know Your Customer (KYC)."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "7. Conservazione della Documentazione",
+            "items": [
+                "Tutti i documenti di identificazione e i registri dei servizi vengono conservati per almeno il periodo minimo richiesto dalla legge locale."
+            ]
+        },
+        {
+            "key": "training",
+            "icon": "training",
+            "title": "8. Formazione dei Dipendenti",
+            "items": [
+                "I nuovi dipendenti ricevono formazione antiriciclaggio durante l’inserimento. La formazione annuale AML e KYC è obbligatoria per i dipendenti pertinenti."
+            ]
+        },
+        {
+            "key": "obligations",
+            "icon": "obligations",
+            "title": "9. Obblighi dei Clienti",
+            "items": [
+                "I clienti devono rispettare le leggi in materia di antiriciclaggio, prevenzione delle frodi e operazioni illegali.",
+                "I clienti devono garantire che i fondi trasferiti sui propri conti provengano da fonti legittime."
+            ]
+        },
+        {
+            "key": "checks",
+            "icon": "checks",
+            "title": "10. Controlli KYC e AML",
+            "items": [
+                "L’Azienda si riserva il diritto di condurre controlli KYC e AML/CTF sui clienti per rispettare le normative e prevenire crimini finanziari.",
+                "I clienti devono fornire tutti i documenti richiesti per la verifica. Il mancato adempimento può comportare ritardi o sospensione dei servizi."
+            ]
+        },
+        {
+            "key": "suspicious",
+            "icon": "suspicious",
+            "title": "11. Gestione delle Transazioni Sospette",
+            "items": [
+                "Se vengono rilevate transazioni sospette o fraudolente, l’Azienda può sospendere i servizi, bloccare l’account del cliente e annullare le operazioni in attesa di indagine."
+            ]
+        },
+        {
+            "key": "docs",
+            "icon": "docs",
+            "title": "12. Richieste di Documenti Durante le Indagini",
+            "items": [
+                "Durante le indagini, l’Azienda può richiedere documenti d’identità e prova della provenienza dei fondi per confermare la legalità."
+            ]
+        },
+        {
+            "key": "prohibition",
+            "icon": "prohibition",
+            "title": "13. Divieto di Attività Illegali",
+            "items": [
+                "È severamente vietato utilizzare i servizi o il software dell’Azienda per attività illegali o fraudolente, incluso il riciclaggio di denaro."
+            ]
+        },
+        {
+            "key": "liability",
+            "icon": "liability",
+            "title": "14. Responsabilità dell’Azienda",
+            "items": [
+                "Il rifiuto dell’Azienda di elaborare transazioni sospette non comporta alcuna responsabilità nei confronti del cliente o di terzi."
+            ]
+        }
+    ]
+}

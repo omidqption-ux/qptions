@@ -1,0 +1,52 @@
+{
+    "seo": {
+        "title": "Analyse Technique – Graphiques, Indicateurs et Configurations | Qption",
+        "description": "Maîtrisez les marchés avec l’analyse technique approfondie de Qption : idées de graphiques en direct, guides d’indicateurs et configurations hebdomadaires pour le forex, la crypto et les indices.",
+        "keywords": "analyse technique, graphiques de trading, action des prix, indicateurs, figures de chandeliers, supports et résistances, formation Qption, analyse forex, analyse crypto",
+        "ogTitle": "Analyse Technique – Graphiques, Indicateurs et Configurations | Qption",
+        "ogDescription": "Obtenez des analyses de graphiques exploitables et des guides d’indicateurs détaillés par les analystes de Qption — mis à jour quotidiennement pour les traders forex et crypto.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "hero": {
+        "title": "Analyse Technique",
+        "subtitle": "Maîtrisez l’art de l’analyse des marchés grâce à nos outils et indicateurs techniques complets"
+    },
+    "labels": {
+        "learnMore": "En savoir plus →",
+        "quizCta": "Passer le quiz d’analyse technique",
+        "videoAria": "L’analyse technique est une discipline de trading qui utilise les graphiques de prix, les figures et les indicateurs pour anticiper les mouvements futurs du marché."
+    },
+    "strategies": [
+        {
+            "title": "Bandes de Bollinger",
+            "link": "/technical-analysis/bollinger",
+            "description": "Bandes de volatilité basées sur l’action des prix"
+        },
+        {
+            "title": "Indicateur Alligator",
+            "link": "/technical-analysis/alligator",
+            "description": "Indicateur de suivi de tendance utilisant des moyennes mobiles lissées"
+        },
+        {
+            "title": "Indicateur RSI",
+            "link": "/technical-analysis/RSIIndicator",
+            "description": "Oscillateur de momentum mesurant la vitesse et l’amplitude des mouvements de prix"
+        },
+        {
+            "title": "Analyse Technique",
+            "link": "/technical-analysis/technical",
+            "description": "Analyse complète du marché à l’aide de divers outils techniques"
+        },
+        {
+            "title": "Moyennes Mobiles",
+            "link": "/technical-analysis/moving-averages",
+            "description": "Identification de la tendance et niveaux de support/résistance"
+        }
+    ],
+    "bullets": [
+        "L’analyse technique est une discipline de trading qui utilise les graphiques de prix, les figures et les indicateurs pour anticiper les mouvements futurs du marché.",
+        "Elle se concentre sur les données historiques des prix, les volumes d’échanges et d’autres mesures du marché afin d’identifier les tendances et les points d’entrée ou de sortie potentiels.",
+        "L’analyse technique est largement utilisée sur différents marchés, notamment les actions, le forex et les matières premières."
+    ]
+}

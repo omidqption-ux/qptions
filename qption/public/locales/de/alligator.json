@@ -1,0 +1,80 @@
+{
+    "seo": {
+        "title": "Alligator-Strategie – Technische Analyse | Qption",
+        "description": "Beherrschen Sie Trendfolge und Momentum-Trading mit dem Alligator-Indikator: Verstehen Sie Kiefer, Zähne und Lippen, lernen Sie Ein- und Ausstiegssignale und vermeiden Sie Fehlsignale in Seitwärtsmärkten.",
+        "keywords": "Alligator, Bill Williams, technische Analyse, Trendfolge, Momentum, gleitende Durchschnitte, Handelsstrategie, Qption",
+        "ogTitle": "Alligator-Strategie – Technische Analyse | Qption",
+        "ogDescription": "Ein praktischer Leitfaden zum Handel mit dem Alligator-Indikator – von Aufbau und Signalen bis zu Grenzen und Best Practices.",
+        "url": "https://qption.com/technical-analysis/alligator",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Technische Analyse"
+    },
+    "promo": {
+        "text": "Bereit, mit dem Alligator zu handeln?",
+        "cta": "Jetzt Traden"
+    },
+    "hero": {
+        "title": "Alligator-Strategie",
+        "subtitle": "Beherrschen Sie Trendfolge und Momentum-Trading mit unserer umfassenden Alligator-Analyse"
+    },
+    "overview": {
+        "title": "Überblick",
+        "bullets": [
+            "Der von Bill Williams entwickelte Alligator-Indikator hilft, Markttrends und Konsolidierungsphasen zu erkennen.",
+            "Er besteht aus drei geglätteten gleitenden Durchschnitten, die den Kiefer, die Zähne und die Lippen des Alligators darstellen.",
+            "Er hilft Händlern zu erkennen, ob sich der Markt in einem Trend oder einer Seitwärtsphase befindet."
+        ]
+    },
+    "how": {
+        "title": "Funktionsweise des Alligators",
+        "items": [
+            {
+                "title": "Kiefer (Blaue Linie)",
+                "desc": "13-periodiger geglätteter gleitender Durchschnitt, um 8 Perioden verschoben – repräsentiert den langfristigen Trend."
+            },
+            {
+                "title": "Zähne (Rote Linie)",
+                "desc": "8-periodiger geglätteter gleitender Durchschnitt, um 5 Perioden verschoben – repräsentiert den mittelfristigen Trend."
+            },
+            {
+                "title": "Lippen (Grüne Linie)",
+                "desc": "5-periodiger geglätteter gleitender Durchschnitt, um 3 Perioden verschoben – repräsentiert den kurzfristigen Trend."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Wichtige Strategien",
+        "items": [
+            {
+                "title": "1. Trenderkennung",
+                "points": [
+                    "Wenn alle drei Linien ausgerichtet sind und sich in die gleiche Richtung bewegen, deutet dies auf einen starken Trend hin.",
+                    "Wenn sich die Linien überschneiden, befindet sich der Markt in einer Konsolidierung oder Seitwärtsbewegung."
+                ]
+            },
+            {
+                "title": "2. Einstiegssignale",
+                "points": [
+                    "Kaufen, wenn die Lippen in einem Aufwärtstrend über Zähne und Kiefer kreuzen.",
+                    "Verkaufen, wenn die Lippen in einem Abwärtstrend unter Zähne und Kiefer kreuzen."
+                ]
+            },
+            {
+                "title": "3. Ausstiegssignale",
+                "points": [
+                    "Long-Positionen schließen, wenn die Lippen unter die Zähne fallen.",
+                    "Short-Positionen schließen, wenn die Lippen über die Zähne steigen."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Einschränkungen",
+        "bullets": [
+            "Verzögerung: Durch Glättung können Signale in schnellen Märkten verspätet sein.",
+            "Am besten in Trends: In Seitwärtsmärkten können Fehlsignale auftreten."
+        ]
+    }
+}

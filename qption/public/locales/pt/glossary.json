@@ -1,0 +1,131 @@
+{
+    "seo": {
+        "title": "Glossário de Trading – Termos e Conceitos-Chave | Qption",
+        "description": "Definições claras e essenciais dos principais termos de trading: preço de compra e venda, mercados de alta e baixa, volatilidade, liquidez, suporte, resistência, linha de tendência, correlação e muito mais.",
+        "keywords": "glossário de trading, termos de trading, preço de compra, preço de venda, mercado de alta, mercado de baixa, volatilidade, liquidez, suporte, resistência, correlação, linha de tendência, Qption",
+        "ogTitle": "Glossário de Trading – Termos e Conceitos-Chave | Qption",
+        "ogDescription": "Aprenda a linguagem dos mercados com o glossário da Qption: explicações simples e diretas sobre os conceitos essenciais de trading.",
+        "url": "https://qption.com/glossary",
+        "image": "https://qption.com/images/og/glossary-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Glossário de Trading – Termos e Conceitos-Chave | Qption",
+        "twitterDescription": "Definições essenciais de trading explicadas de forma clara para aprender mais rápido e negociar com confiança.",
+        "twitterImage": "https://qption.com/images/og/glossary-qption.jpg",
+        "canonical": "https://qption.com/glossary"
+    },
+    "hero": {
+        "title": "Termos e Conceitos Fundamentais de Trading"
+    },
+    "terms": [
+        {
+            "key": "ask",
+            "title": "Preço de Compra (Ask)",
+            "desc": "O preço atual de mercado pelo qual você pode comprar um ativo."
+        },
+        {
+            "key": "bull",
+            "title": "Touro (Bull)",
+            "desc": "Trader ou investidor que espera que os preços subam e compra ativos para vendê-los mais caro no futuro."
+        },
+        {
+            "key": "bullMarket",
+            "title": "Mercado de Alta (Bull Market)",
+            "desc": "Mercado caracterizado por aumento generalizado dos preços e sentimento otimista — representado graficamente como uma tendência ascendente."
+        },
+        {
+            "key": "return",
+            "title": "Retorno (Return)",
+            "desc": "O ganho ou percentual recebido de uma operação. Em plataformas como Qption, o trader pode receber até 45% do investimento mesmo em operações perdedoras. A taxa de retorno é definida na compra do ativo."
+        },
+        {
+            "key": "volatility",
+            "title": "Volatilidade",
+            "desc": "Grau de variação de preço de um ativo em um determinado período. Maior volatilidade significa movimentos de preços mais amplos e rápidos."
+        },
+        {
+            "key": "deposit",
+            "title": "Depósito",
+            "desc": "Os fundos disponíveis na conta de trading, utilizados para abrir e gerenciar posições."
+        },
+        {
+            "key": "diversification",
+            "title": "Diversificação",
+            "desc": "Estratégia de gestão de risco que distribui o capital entre diferentes ativos e mercados para reduzir a exposição a um único ativo."
+        },
+        {
+            "key": "indicator",
+            "title": "Indicador Técnico",
+            "desc": "Ferramenta de análise técnica baseada em dados de preço e volume usada para avaliar tendência, impulso e volatilidade, auxiliando nas decisões de trading."
+        },
+        {
+            "key": "bid",
+            "title": "Preço de Venda (Bid)",
+            "desc": "O preço atual de mercado pelo qual você pode vender um ativo."
+        },
+        {
+            "key": "priceCorridor",
+            "title": "Corredor de Preço",
+            "desc": "Faixa no gráfico onde o preço se move entre os níveis de suporte (inferior) e resistência (superior)."
+        },
+        {
+            "key": "correction",
+            "title": "Correção",
+            "desc": "Movimento temporário de preço contrário à tendência principal após uma alta ou queda acentuada."
+        },
+        {
+            "key": "correlation",
+            "title": "Correlação",
+            "desc": "Mede como dois ativos se movem entre si, variando de -1 (inverso) a +1 (direto). Exemplo: EUR/USD e GBP/USD geralmente se movem na mesma direção."
+        },
+        {
+            "key": "liquidity",
+            "title": "Liquidez",
+            "desc": "Facilidade de comprar ou vender um ativo sem alterar significativamente seu preço. Maior volume de negociação normalmente indica maior liquidez."
+        },
+        {
+            "key": "supportLine",
+            "title": "Linha de Suporte",
+            "desc": "Nível de preço onde a demanda tende a aumentar, impedindo quedas adicionais."
+        },
+        {
+            "key": "resistanceLine",
+            "title": "Linha de Resistência",
+            "desc": "Nível de preço onde a oferta tende a aumentar, impedindo novas altas."
+        },
+        {
+            "key": "trendLine",
+            "title": "Linha de Tendência",
+            "desc": "Linha que conecta mínimas ascendentes em uma tendência de alta ou máximas descendentes em uma tendência de baixa para indicar a direção geral do mercado."
+        },
+        {
+            "key": "bear",
+            "title": "Urso (Bear)",
+            "desc": "Trader ou investidor que espera uma queda de preços e busca lucrar com o movimento de baixa."
+        },
+        {
+            "key": "bearMarket",
+            "title": "Mercado de Baixa (Bear Market)",
+            "desc": "Período prolongado de queda generalizada de preços e sentimento pessimista, representado por tendências descendentes."
+        },
+        {
+            "key": "bearRaid",
+            "title": "Ataque de Urso (Bear Raid)",
+            "desc": "Ação coordenada de traders que vendem grandes volumes para forçar a queda do preço de um ativo."
+        },
+        {
+            "key": "traderSentiment",
+            "title": "Sentimento do Trader",
+            "desc": "Indicador que reflete a direção predominante do mercado — se a maioria dos traders está comprando ou vendendo."
+        },
+        {
+            "key": "bar",
+            "title": "Barra (Bar)",
+            "desc": "Elemento do gráfico que mostra o movimento do preço (abertura, máxima, mínima e fechamento) em um determinado período de tempo."
+        },
+        {
+            "key": "bonus",
+            "title": "Bônus",
+            "desc": "Fundos extras adicionados à conta do trader pela plataforma, geralmente como incentivo promocional ou bônus de depósito."
+        }
+    ]
+}

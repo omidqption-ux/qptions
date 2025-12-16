@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "Estrategia de Medias Móviles (SMA y EMA) – Análisis Técnico | Qption",
+        "description": "Domina el seguimiento de tendencias con medias móviles: SMA vs EMA, cruces (cruce dorado/mortal), soporte y resistencia dinámicos, cintas MA y sus limitaciones clave — guía completa para traders.",
+        "keywords": "medias móviles, SMA, EMA, cruce de medias móviles, cruce dorado, cruce mortal, cinta de medias móviles, soporte y resistencia dinámicos, seguimiento de tendencia, impulso, análisis técnico, Qption",
+        "ogTitle": "Estrategia de Medias Móviles (SMA y EMA) – Análisis Técnico | Qption",
+        "ogDescription": "Aprende a usar SMA y EMA, cruces MA, soporte y resistencia dinámicos, y cómo aplicarlos en tus estrategias de trading.",
+        "url": "https://qption.com/technical-analysis/moving-averages",
+        "image": "https://qption.com/videos/moving-average/moving-average.png",
+        "imageAlt": "Estrategia de medias móviles mostrada en un gráfico"
+    },
+    "labels": {
+        "backToTechnical": "Análisis Técnico",
+        "backToGraphical": "Volver al Análisis Gráfico"
+    },
+    "promo": {
+        "text": "¿Listo para operar con Medias Móviles?",
+        "cta": "Comenzar a operar"
+    },
+    "hero": {
+        "title": "Estrategia de Medias Móviles",
+        "subtitle": "Domina el seguimiento de tendencias y el trading de impulso con nuestro análisis completo de medias móviles"
+    },
+    "video": {
+        "aria": "Las medias móviles (MA) son herramientas populares de análisis técnico que suavizan los datos de precios para facilitar la identificación de tendencias y reversiones."
+    },
+    "overview": {
+        "title": "Descripción general",
+        "bullets": [
+            "Las medias móviles (MA) suavizan los datos de precios, ayudando a identificar tendencias y posibles reversiones.",
+            "Los dos tipos más comunes son la media móvil simple (SMA) y la media móvil exponencial (EMA), cada una con diferentes métodos de ponderación.",
+            "Ayudan a los traders a determinar la dirección de la tendencia, generar señales y detectar niveles de soporte y resistencia."
+        ]
+    },
+    "how": {
+        "title": "Cómo funcionan las Medias Móviles",
+        "items": [
+            {
+                "title": "Media Móvil Simple (SMA)",
+                "desc": "Calculada como el promedio aritmético de un número específico de precios recientes. Usada para análisis general de tendencias."
+            },
+            {
+                "title": "Media Móvil Exponencial (EMA)",
+                "desc": "Da más peso a los precios recientes, reaccionando más rápido a los cambios del mercado. Preferida en mercados volátiles."
+            },
+            {
+                "title": "Identificación de Tendencias",
+                "desc": "Cuando el precio está por encima de la media móvil indica una tendencia alcista; por debajo sugiere una tendencia bajista."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Estrategias Clave",
+        "items": [
+            {
+                "title": "Cruce de Medias Móviles",
+                "points": [
+                    "Cruz Dorada: ocurre cuando una media móvil a corto plazo (por ejemplo, 50 días) cruza hacia arriba una de largo plazo (por ejemplo, 200 días), indicando una tendencia alcista.",
+                    "Cruz de la Muerte: sucede cuando una media móvil a corto plazo cruza hacia abajo una de largo plazo, señalando una tendencia bajista."
+                ]
+            },
+            {
+                "title": "Soporte y Resistencia Dinámicos",
+                "points": [
+                    "Soporte en tendencia alcista: la media móvil puede actuar como soporte dinámico, donde el precio rebota durante la tendencia.",
+                    "Resistencia en tendencia bajista: la media móvil puede funcionar como resistencia, empujando los precios hacia abajo."
+                ]
+            },
+            {
+                "title": "Estrategia de Cinta de Medias Móviles",
+                "points": [
+                    "Usa múltiples medias móviles de diferentes longitudes (10, 20, 50, 100, 200) para crear un efecto de cinta en el gráfico.",
+                    "Cuando todas las medias están alineadas en una dirección, se indica una tendencia fuerte."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitaciones",
+        "bullets": [
+            "Las medias móviles son indicadores rezagados y pueden reaccionar lentamente a los cambios bruscos del mercado.",
+            "Pueden generar señales falsas en mercados laterales o con poca volatilidad."
+        ]
+    }
+}

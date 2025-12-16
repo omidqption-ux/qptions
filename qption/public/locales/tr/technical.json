@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Teknik Analiz Genel Bakış | Qption",
+        "description": "Teknik analizin temellerini, popüler göstergeleri ve yaygın sınırlamaları kapsayan kapsamlı rehberimizle piyasa analizinin inceliklerini öğrenin.",
+        "keywords": "teknik analiz, fiyat hareketi, göstergeler, trendler, destek direnç, RSI, hareketli ortalamalar, Bollinger Bantları, ticaret eğitimi, Qption",
+        "ogTitle": "Teknik Analiz Genel Bakış | Qption",
+        "ogDescription": "Teknik analize kısa ve pratik bir rehber: nedir, nasıl çalışır ve yatırımcıların güvendiği araçlar nelerdir.",
+        "url": "https://qption.com/technical-analysis/technical",
+        "image": "https://qption.com/images/og/technical-overview-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Teknik Analiz"
+    },
+    "promo": {
+        "text": "Teknik Analizde ustalaşmaya hazır mısınız?",
+        "cta": "Öğrenmeye Başla"
+    },
+    "hero": {
+        "title": "Teknik Analiz Genel Bakış",
+        "subtitle": "Teknik analizin kapsamlı rehberiyle piyasa analizinin sanatında ustalaşın"
+    },
+    "overview": {
+        "title": "Genel Bakış",
+        "bullets": [
+            "Teknik analiz, fiyat grafiklerini, formasyonları ve göstergeleri kullanarak gelecekteki fiyat hareketlerini tahmin etmeyi amaçlayan bir ticaret disiplinidir.",
+            "Geçmiş fiyat verileri, hacimler ve piyasa metriklerine odaklanarak trendleri ve olası giriş/çıkış noktalarını belirlemeye çalışır.",
+            "Hisse senetleri, forex, kripto ve emtia piyasaları dahil olmak üzere birçok piyasada yaygın olarak kullanılır."
+        ]
+    },
+    "core": {
+        "title": "Temel Kavramlar",
+        "items": [
+            {
+                "title": "Fiyat Trendleri",
+                "desc": "Fiyatlar genellikle yukarı, aşağı veya yatay hareket eden trendler içinde olur ve bu trendler bir dönüş gerçekleşene kadar devam etme eğilimindedir."
+            },
+            {
+                "title": "Destek ve Direnç",
+                "desc": "Fiyatın duraklayabileceği veya tersine dönebileceği kilit seviyelerdir. Destek, alıcı ilgisinin arttığı bir taban; direnç ise satıcı ilgisinin yoğunlaştığı bir tavan bölgesidir."
+            },
+            {
+                "title": "Piyasa Döngüleri",
+                "desc": "Fiyatlar genellikle yatırımcı psikolojisi, makroekonomik koşullar ve piyasa duyarlılığı tarafından etkilenerek döngüler halinde hareket eder."
+            }
+        ]
+    },
+    "indicators": {
+        "title": "Popüler Göstergeler",
+        "items": [
+            {
+                "title": "Hareketli Ortalamalar",
+                "points": [
+                    "Hareketli ortalamalar, fiyatları yumuşatarak trend yönünü ve olası dönüş bölgelerini belirlemeye yardımcı olur.",
+                    "Yaygın türler arasında Basit Hareketli Ortalama (SMA) ve Üssel Hareketli Ortalama (EMA) bulunur."
+                ]
+            },
+            {
+                "title": "Göreceli Güç Endeksi (RSI)",
+                "points": [
+                    "RSI, fiyat değişimlerinin hızını ve büyüklüğünü ölçen bir momentum osilatörüdür.",
+                    "70’in üzerindeki değerler genellikle aşırı alım; 30’un altındaki değerler aşırı satım koşullarını gösterir."
+                ]
+            },
+            {
+                "title": "Bollinger Bantları",
+                "points": [
+                    "Volatiliteyi ölçmek için kullanılan, hareketli ortalama etrafına çizilen üst ve alt bantlardan oluşur.",
+                    "Volatilite arttığında bantlar genişler, azaldığında ise daralır."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Sınırlamalar",
+        "bullets": [
+            "Geçmiş verilere dayanır, bu nedenle gelecekteki hareketleri her zaman doğru tahmin edemez.",
+            "Yatay veya dalgalı piyasalarda yanlış sinyaller üretmeye eğilimlidir.",
+            "Yorumlama becerisi gerektirir — farklı göstergeler çelişebilir, bu yüzden sinyallerin birleşimi (confluence) önemlidir."
+        ]
+    }
+}

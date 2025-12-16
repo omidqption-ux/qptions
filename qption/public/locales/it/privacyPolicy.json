@@ -1,0 +1,182 @@
+{
+    "seo": {
+        "title": "Informativa sulla Privacy e Raccolta Dati | Qption",
+        "description": "Come Qption raccoglie, utilizza, archivia e protegge i tuoi dati: finalità, identificazione, marketing, divulgazioni, sicurezza, conservazione, richieste di cancellazione e cookie.",
+        "keywords": "informativa sulla privacy, raccolta dati, protezione dati, cookie, KYC, sicurezza, conservazione, cancellazione, Qption",
+        "ogTitle": "Informativa sulla Privacy e Raccolta Dati | Qption",
+        "ogDescription": "Scopri cosa raccogliamo, perché lo facciamo e come proteggiamo le tue informazioni su Qption.",
+        "url": "https://qption.com/privacy-policy",
+        "image": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Informativa sulla Privacy e Raccolta Dati | Qption",
+        "twitterDescription": "Le nostre pratiche sulla raccolta, utilizzo, archiviazione, protezione dei dati e cookie.",
+        "twitterImage": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "canonical": "https://qption.com/privacy-policy"
+    },
+    "hero": {
+        "title": "Informativa sulla Privacy e Raccolta Dati"
+    },
+    "sections": [
+        {
+            "key": "consent",
+            "icon": "consent",
+            "title": "1. Consenso alla Raccolta Dati",
+            "items": [
+                "Accedendo a https://qption.com/ e utilizzando i servizi forniti da Itransition Co, il Cliente acconsente alla raccolta e al trattamento dei propri dati personali da parte di Itransition Co."
+            ]
+        },
+        {
+            "key": "info",
+            "icon": "info",
+            "title": "2. Informazioni Raccolte",
+            "items": [
+                "Durante la registrazione o l’utilizzo dei servizi, Itransition Co può raccogliere nome, data di nascita, email, indirizzo, numero di telefono, dettagli delle transazioni, indirizzo IP, tipo di browser, durata della visita, pagine visualizzate e altri dati correlati."
+            ]
+        },
+        {
+            "key": "use",
+            "icon": "use",
+            "title": "3. Utilizzo dei Dati Personali",
+            "items": [
+                "I dati forniti possono essere utilizzati per gestire il sito web, il database clienti, elaborare transazioni e condurre attività di marketing. Fornendo i propri contatti, il Cliente acconsente a essere contattato tramite tali canali."
+            ]
+        },
+        {
+            "key": "purpose",
+            "icon": "purpose",
+            "title": "4. Finalità della Raccolta Dati",
+            "items": [
+                "I dati vengono raccolti per obblighi legali, funzionamento del sito, miglioramento dei servizi, apertura di conti, sicurezza, backup, comunicazioni, registrazioni e per scopi statistici o di marketing."
+            ]
+        },
+        {
+            "key": "identification",
+            "icon": "identification",
+            "title": "5. Requisiti di Identificazione",
+            "items": [
+                "I Clienti devono fornire determinati dettagli identificativi per la registrazione, inclusi quelli richiesti per la conformità alle norme antiriciclaggio."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "6. Accuratezza delle Informazioni",
+            "items": [
+                "I Clienti devono fornire informazioni veritiere, accurate e aggiornate sulla propria identità. Qualsiasi modifica deve essere comunicata alla Società entro 30 giorni."
+            ]
+        },
+        {
+            "key": "marketing",
+            "icon": "marketing",
+            "title": "7. Utilizzo dei Dati del Cliente per il Marketing",
+            "items": [
+                "I dati forniti durante la registrazione o l’utilizzo dei servizi possono essere utilizzati dalla Società per l’invio di materiale promozionale o informativo."
+            ]
+        },
+        {
+            "key": "disclosure",
+            "icon": "disclosure",
+            "title": "8. Divulgazione delle Informazioni",
+            "items": [
+                "Le informazioni dei Clienti possono essere comunicate alle autorità ufficiali solo quando richiesto dalla legge e solo nella misura strettamente necessaria."
+            ]
+        },
+        {
+            "key": "nonPersonal",
+            "icon": "nonPersonal",
+            "title": "9. Uso di Dati Non Personali",
+            "items": [
+                "I dati non personali dei Clienti possono essere utilizzati dalla Società per scopi pubblicitari e di analisi."
+            ]
+        },
+        {
+            "key": "verification",
+            "icon": "verification",
+            "title": "10. Verifica e Richiesta di Documenti",
+            "items": [
+                "Per determinate operazioni, ai Clienti può essere richiesto di fornire documenti identificativi. Il mancato adempimento può comportare la sospensione o la chiusura del conto a discrezione della Società."
+            ]
+        },
+        {
+            "key": "confidentiality",
+            "icon": "confidentiality",
+            "title": "11. Riservatezza dei Dati",
+            "items": [
+                "La Società non divulgherà i dati dei Clienti senza consenso, salvo quando richiesto dalla legge per la verifica dell’identità. Le informazioni dei Clienti sono archiviate in modo sicuro e accessibili solo al personale autorizzato."
+            ]
+        },
+        {
+            "key": "storage",
+            "icon": "storage",
+            "title": "12. Conservazione delle Informazioni del Conto",
+            "items": [
+                "I dettagli del conto e delle operazioni dei Clienti vengono conservati dalla Società e possono essere utilizzati in caso di controversie tra Cliente e Società."
+            ]
+        },
+        {
+            "key": "review",
+            "icon": "review",
+            "title": "13. Revisione delle Informazioni del Cliente",
+            "items": [
+                "La Società ha il diritto, ma non l’obbligo, di esaminare e verificare qualsiasi informazione fornita dal Cliente."
+            ]
+        },
+        {
+            "key": "protection",
+            "icon": "protection",
+            "title": "14. Protezione dei Dati",
+            "items": [
+                "La Società implementa procedure avanzate di protezione dei dati per salvaguardare le informazioni dei Clienti e le aggiorna periodicamente per migliorare la sicurezza."
+            ]
+        },
+        {
+            "key": "credentials",
+            "icon": "credentials",
+            "title": "15. Credenziali di Accesso e Privacy",
+            "items": [
+                "I Clienti devono scegliere un nome utente e una password sicuri per accedere al sito. La condivisione di queste credenziali è vietata, e la Società non è responsabile per perdite dovute a un uso improprio."
+            ]
+        },
+        {
+            "key": "unauthorized",
+            "icon": "unauthorized",
+            "title": "16. Accesso Non Autorizzato al Conto",
+            "items": [
+                "I Clienti sono responsabili di informare il supporto della Società se sospettano un uso non autorizzato del proprio conto."
+            ]
+        },
+        {
+            "key": "cardSecurity",
+            "icon": "cardSecurity",
+            "title": "17. Sicurezza dei Dati della Carta Bancaria",
+            "items": [
+                "La Società non archivia i dati delle carte bancarie. Le informazioni della carta sono protette con crittografia TLS 1.2 durante la trasmissione e crittografia AES-256 per rispettare gli standard del settore dei pagamenti (PCI)."
+            ]
+        },
+        {
+            "key": "deletion",
+            "icon": "deletion",
+            "title": "18. Richieste di Cancellazione dei Dati",
+            "items": [
+                "I Clienti possono richiedere la cancellazione dei dati contattando help@Itransition.Co. La Società può conservare determinati dati come richiesto dalla legge, incluso per la fornitura di servizi, la prevenzione delle frodi e il rispetto degli obblighi legali."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "19. Conservazione dei Dati e Aggiornamenti della Politica",
+            "items": [
+                "I dati vengono conservati per il tempo necessario alla fornitura dei servizi o come previsto dalla legge. La Società può aggiornare la presente Informativa sulla Privacy; l’uso continuato del sito dopo le modifiche costituisce accettazione della nuova politica."
+            ]
+        },
+        {
+            "key": "cookies",
+            "icon": "cookies",
+            "title": "20. Politica sui Cookie",
+            "items": [
+                "I cookie sono piccoli file di dati memorizzati sul dispositivo del Cliente per tracciare l’utilizzo del sito. I Clienti possono bloccare i cookie tramite le impostazioni del browser.",
+                "I cookie della Società aiutano a migliorare l’esperienza utente monitorando le pagine visitate e le preferenze; i dati personali come nomi ed email non vengono memorizzati nei cookie."
+            ]
+        }
+    ]
+}

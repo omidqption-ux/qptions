@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Estratégia Tweezers – Padrões de Reversão Tweezer Top & Bottom | Qption",
+        "description": "Domine a estratégia Tweezers: identifique os padrões de reversão Tweezer Top e Tweezer Bottom, confirme os sinais com RSI e suporte/resistência, e gerencie o risco com stop-loss preciso. Aprenda as regras de formação, métodos de confirmação, prós e contras.",
+        "keywords": "estratégia Tweezers, Tweezer Top, Tweezer Bottom, padrões de reversão de velas, reversão de tendência, suporte e resistência, reversão de alta, reversão de baixa, confirmação RSI, estratégia de stop-loss, price action, análise técnica, estratégia de trading, Qption",
+        "ogAlt": "Padrões de reversão de velas Tweezer Top e Bottom com sinais de confirmação",
+        "ld": {
+            "headline": "Estratégia Tweezers – Padrões de Reversão Tweezer Top & Bottom"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estratégia de trading"
+    },
+    "cta": {
+        "ready": "Pronto para negociar?",
+        "startTrading": "Começar a negociar"
+    },
+    "hero": {
+        "title": "Estratégia Tweezers",
+        "subtitle": "A estratégia Tweezers identifica topos e fundos potenciais no mercado usando um simples padrão de reversão de duas velas. Ela oferece um sinal visual precoce de reversão quando o preço rejeita o mesmo nível duas vezes — uma em cada vela."
+    },
+    "video": {
+        "aria": "A estratégia Tweezers é um padrão de reversão de velas usado para indicar topos e fundos potenciais no mercado."
+    },
+    "overview": {
+        "title": "Visão Geral",
+        "items": {
+            "1": "A estratégia Tweezers é um padrão de reversão de velas que destaca possíveis topos e fundos na ação do preço.",
+            "2": "Forma-se quando duas velas consecutivas têm máximas ou mínimas quase idênticas, sugerindo uma forte rejeição em um nível-chave.",
+            "3": "Existem dois tipos de Tweezers: o Tweezer Top (reversão de baixa) e o Tweezer Bottom (reversão de alta)."
+        }
+    },
+    "top": {
+        "title": "1. Estratégia Tweezer Top",
+        "items": {
+            "1": {
+                "label": "Formação",
+                "text": "Ocorre no final de uma tendência de alta, quando duas velas consecutivas apresentam máximas quase idênticas."
+            },
+            "2": {
+                "label": "Primeira Vela",
+                "text": "Geralmente é uma vela de alta, mostrando forte impulso comprador antes da rejeição."
+            },
+            "3": {
+                "label": "Segunda Vela",
+                "text": "Uma vela de baixa com máxima semelhante, indicando resistência no mesmo nível de preço."
+            },
+            "4": {
+                "label": "Confirmação",
+                "text": "A reversão é confirmada quando a próxima vela fecha abaixo da mínima do padrão Tweezer."
+            }
+        }
+    },
+    "bottom": {
+        "title": "2. Estratégia Tweezer Bottom",
+        "items": {
+            "1": {
+                "label": "Formação",
+                "text": "Aparece no final de uma tendência de baixa, quando duas velas têm mínimas quase idênticas."
+            },
+            "2": {
+                "label": "Primeira Vela",
+                "text": "Normalmente é uma vela de baixa que continua a tendência antes da entrada dos compradores."
+            },
+            "3": {
+                "label": "Segunda Vela",
+                "text": "Uma vela de alta com a mesma mínima, sinalizando suporte e força compradora."
+            },
+            "4": {
+                "label": "Confirmação",
+                "text": "Confirmada quando a próxima vela fecha acima da máxima do padrão Tweezer."
+            }
+        }
+    },
+    "use": {
+        "title": "Como Usar a Estratégia Tweezers",
+        "items": {
+            "1": "Procure por padrões Tweezer Top ou Bottom próximos a níveis importantes de suporte ou resistência para maior precisão.",
+            "2": "Combine com indicadores como RSI para confirmar condições de sobrecompra ou sobrevenda.",
+            "3": "Defina o stop-loss logo acima do Tweezer Top ou abaixo do Tweezer Bottom para gerenciar o risco de forma eficaz."
+        }
+    },
+    "pros": {
+        "title": "Vantagens",
+        "items": {
+            "1": "Padrão simples – fácil de identificar com apenas duas velas consecutivas.",
+            "2": "Sinal de reversão confiável perto de zonas de suporte/resistência principais.",
+            "3": "Funciona bem em conjunto com ferramentas de confirmação como RSI, MACD ou linhas de tendência."
+        }
+    },
+    "cons": {
+        "title": "Desvantagens",
+        "items": {
+            "1": "Requer confirmação para evitar falsos sinais de reversão.",
+            "2": "Menos confiável em mercados laterais ou de baixo volume.",
+            "3": "Pode ser enganoso se usado isoladamente, sem outras formas de análise."
+        }
+    }
+}

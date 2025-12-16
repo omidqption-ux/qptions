@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Fiscal Policy & Government Spending – Types, Components, Impacts | Qption",
+        "description": "Understand fiscal policy: expansionary vs. contractionary, taxes, public spending, and budget deficits. See how government outlays (infrastructure, social programs, defense) affect growth, inflation, jobs, and debt — plus benefits and limitations.",
+        "keywords": "fiscal policy, government spending, expansionary policy, contractionary policy, public debt and deficits, infrastructure spending, social programs, inflation control, economic growth and employment, fundamental analysis, Qption",
+        "url": "https://qption.com/fundamental-analysis/fiscal-policy-and-government-spending",
+        "ld": {
+            "headline": "Fiscal Policy & Government Spending – Types, Components, Impacts"
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Fundamental Analysis"
+    },
+    "page": {
+        "title": "Fiscal Policy and Government Spending"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "start": "Start Trading"
+    },
+    "sections": {
+        "overview": {
+            "title": "Overview",
+            "items": [
+                "Fiscal policy refers to government decisions on taxation, spending, and borrowing to influence economic growth, inflation, and employment levels.",
+                "Government spending, a key part of fiscal policy, includes expenditures on public goods and services, infrastructure, and social programs, impacting stability and growth.",
+                "Through fiscal policy, governments aim to achieve sustainable growth, reduce unemployment, and maintain price stability."
+            ]
+        },
+        "types": {
+            "title": "Types of Fiscal Policy",
+            "items": [
+                {
+                    "label": "Expansionary Fiscal Policy:",
+                    "text": "Implemented to stimulate the economy by increasing government spending, cutting taxes, or both—used during recessions to boost demand and create jobs."
+                },
+                {
+                    "label": "Contractionary Fiscal Policy:",
+                    "text": "Aimed at slowing an overheating economy, usually by reducing government spending or raising taxes to curb inflation."
+                },
+                {
+                    "label": "Neutral Fiscal Policy:",
+                    "text": "Maintains a balanced budget where spending equals revenue, resulting in neither expansionary nor contractionary effects."
+                }
+            ]
+        },
+        "components": {
+            "title": "Components of Government Spending",
+            "public": {
+                "title": "Public Goods and Services",
+                "items": [
+                    "Government spending provides essential services like education, healthcare, and public safety, promoting welfare and stability.",
+                    "Investments in infrastructure such as roads, transport, and utilities improve efficiency and support long-term growth."
+                ]
+            },
+            "social": {
+                "title": "Social Programs",
+                "items": [
+                    "Expenditures on programs like unemployment benefits, social security, and welfare reduce inequality and support low-income households.",
+                    "These programs act as automatic stabilizers, maintaining consumption during downturns and aiding recovery."
+                ]
+            },
+            "defense": {
+                "title": "Defense and National Security",
+                "items": [
+                    "A significant portion of government spending goes to defense and security, ensuring national protection and stability.",
+                    "This spending supports military personnel, technology, and related industries, contributing to economic activity."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Impact of Fiscal Policy on the Economy",
+            "growth": {
+                "title": "Economic Growth and Employment",
+                "items": [
+                    "Expansionary fiscal policy boosts demand and job creation, raising GDP growth.",
+                    "Contractionary policy may slow growth and raise unemployment while controlling inflation."
+                ]
+            },
+            "inflation": {
+                "title": "Inflation Control",
+                "items": [
+                    "Governments may cut spending or raise taxes to cool demand during inflationary periods.",
+                    "Balancing inflation prevents excessive price increases that erode purchasing power."
+                ]
+            },
+            "debt": {
+                "title": "Public Debt and Budget Deficits",
+                "items": [
+                    "When spending exceeds revenue, deficits arise, increasing public debt and limiting future fiscal flexibility.",
+                    "Excessive debt raises interest costs and requires careful management to remain sustainable."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefits of Effective Fiscal Policy",
+            "items": [
+                "Promotes Economic Stability: Well-managed fiscal policies stabilize growth and reduce volatility.",
+                "Improves Employment and Living Standards: Expansionary measures increase jobs and income.",
+                "Supports Income Redistribution: Social programs reduce inequality and support low-income groups."
+            ]
+        },
+        "limits": {
+            "title": "Limitations and Challenges of Fiscal Policy",
+            "items": [
+                "Political Constraints: Policy decisions are often delayed or distorted by political agendas.",
+                "Lagging Effect: Fiscal measures take time to impact the economy, reducing short-term effectiveness.",
+                "Risk of Increased Public Debt: Persistent deficits limit flexibility and increase debt servicing costs."
+            ]
+        }
+    }
+}

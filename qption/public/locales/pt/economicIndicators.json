@@ -1,0 +1,204 @@
+{
+    "seo": {
+        "title": "Indicadores Econômicos e Reações do Mercado – PIB, IPC, Emprego, IPP e mais | Qption",
+        "description": "Entenda os principais indicadores econômicos (PIB, IPC, Emprego, Vendas no Varejo, IPP, Balança Comercial) e como os mercados de ações, títulos, câmbio e commodities reagem. Saiba o que cada indicador representa, as reações típicas e as vantagens e limitações para os traders.",
+        "keywords": "indicadores econômicos, PIB, IPC, IPP, emprego, desemprego, vendas no varejo, balança comercial, reações do mercado, ações, títulos, forex, commodities, política monetária, análise fundamental, Qption",
+        "ogTitle": "Indicadores Econômicos e Reações do Mercado – PIB, IPC, Emprego, IPP e mais | Qption",
+        "ogDescription": "Descubra como o PIB, a inflação, o emprego e o IPP afetam os mercados de ações, câmbio e commodities — e como os traders podem aproveitar essas informações.",
+        "url": "https://qption.com/pt/fundamental-analysis/economic-indicators-market-reactions",
+        "image": "https://qption.com/images/og/economic-indicators-market-reactions.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Indicadores Econômicos e Reações do Mercado | Qption",
+        "twitterDescription": "Entenda como PIB, inflação, emprego e IPP influenciam o mercado e como usar esses dados para tomar decisões de trading mais informadas.",
+        "twitterImage": "https://qption.com/images/og/economic-indicators-market-reactions.jpg",
+        "canonical": "https://qption.com/pt/fundamental-analysis/economic-indicators-market-reactions",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Indicadores Econômicos e Reações do Mercado – PIB, IPC, Emprego, IPP e mais",
+            "description": "Uma visão geral dos principais indicadores econômicos e suas reações típicas nos mercados financeiros.",
+            "mainEntityOfPage": "https://qption.com/pt/fundamental-analysis/economic-indicators-market-reactions",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Indicadores Econômicos"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Produto Interno Bruto (PIB)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Índice de Preços ao Consumidor (IPC)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Índice de Preços ao Produtor (IPP)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Dados de Emprego"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Vendas no Varejo"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Balança Comercial"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Política Monetária"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercado de Ações"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercado de Títulos"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercado de Câmbio (Forex)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Mercado de Commodities"
+                }
+            ],
+            "articleSection": [
+                "Indicadores Econômicos e Reações do Mercado",
+                "Visão Geral",
+                "Principais Indicadores Econômicos",
+                "Reações do Mercado aos Indicadores Econômicos",
+                "Mercado de Ações",
+                "Mercado de Títulos",
+                "Mercado de Câmbio (Forex)",
+                "Mercado de Commodities",
+                "Benefícios de Monitorar os Indicadores Econômicos",
+                "Limitações de Confiar nos Indicadores Econômicos"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "PIB",
+                    "value": "Principal medida da produção econômica; alta indica crescimento, queda indica contração."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "IPC",
+                    "value": "Inflação do consumidor; surpresas positivas geralmente aumentam as expectativas de alta de juros."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Emprego",
+                    "value": "Taxa de desemprego e folhas de pagamento; mercado de trabalho forte sustenta o crescimento."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Vendas no Varejo",
+                    "value": "Mede o consumo; crescimento indica confiança e gasto, fraqueza indica desaceleração."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "IPP",
+                    "value": "Inflação ao nível do produtor; pode antecipar tendências de preços ao consumidor."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Balança Comercial",
+                    "value": "Superávit tende a fortalecer a moeda; déficit pode enfraquecê-la."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Reações Típicas",
+                    "value": "Dados fortes: ações↑, rendimentos↑ (títulos↓), moeda↑. Dados fracos: ações↓, rendimentos↓ (títulos↑), moeda↓; commodities seguem a demanda global."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Análise Fundamental"
+    },
+    "page": {
+        "title": "Indicadores Econômicos e Reações do Mercado"
+    },
+    "cta": {
+        "ready": "Pronto para negociar?",
+        "startTrading": "Começar a Negociar"
+    },
+    "sections": {
+        "overview": {
+            "title": "Visão Geral",
+            "bullets": [
+                "Os indicadores econômicos são métricas estatísticas que mostram o estado da economia — ajudando os traders a avaliar crescimento, inflação e emprego.",
+                "As reações do mercado a esses indicadores podem ser significativas, impactando ações, títulos, moedas e commodities.",
+                "Compreender os principais indicadores ajuda a antecipar movimentos de mercado e alinhar estratégias com as tendências macroeconômicas."
+            ]
+        },
+        "keyIndicators": {
+            "title": "Principais Indicadores Econômicos",
+            "items": {
+                "gdp": "Produto Interno Bruto (PIB): Mede a produção econômica total de um país. Um aumento indica crescimento; uma queda sinaliza contração.",
+                "cpi": "Índice de Preços ao Consumidor (IPC): Mede mudanças no custo de uma cesta de bens e serviços — principal medida da inflação. Um IPC alto leva a políticas monetárias mais restritivas.",
+                "employment": "Dados de Emprego: Incluem taxa de desemprego e folhas de pagamento, refletindo a saúde do mercado de trabalho. Emprego forte sustenta o crescimento; fraqueza indica desaceleração.",
+                "retailSales": "Vendas no Varejo: Mostram o nível de gastos do consumidor, um motor fundamental da economia. Altas vendas indicam confiança; baixas, fraqueza.",
+                "ppi": "Índice de Preços ao Produtor (IPP): Mede variações de preços do ponto de vista do produtor, podendo antecipar a inflação ao consumidor.",
+                "tradeBalance": "Balança Comercial: Diferença entre exportações e importações; superávit fortalece a moeda, déficit a enfraquece."
+            }
+        },
+        "reactions": {
+            "title": "Reações do Mercado aos Indicadores Econômicos",
+            "stocks": {
+                "title": "1. Mercado de Ações",
+                "bullets": [
+                    "Dados positivos, como crescimento do PIB ou aumento do emprego, elevam a confiança dos investidores e impulsionam as ações.",
+                    "Alta inflação ou desaceleração econômica podem derrubar as ações devido à expectativa de políticas monetárias mais rígidas ou recessão."
+                ]
+            },
+            "bonds": {
+                "title": "2. Mercado de Títulos",
+                "bullets": [
+                    "Dados fortes podem elevar as taxas de juros, reduzindo o preço dos títulos à medida que os rendimentos aumentam.",
+                    "Dados fracos podem baixar as taxas e elevar os preços dos títulos, já que investidores buscam segurança."
+                ]
+            },
+            "fx": {
+                "title": "3. Mercado de Câmbio (Forex)",
+                "bullets": [
+                    "Indicadores fortes, como PIB ou emprego, tendem a fortalecer a moeda com expectativas de juros mais altos e maior confiança.",
+                    "Dados fracos enfraquecem a moeda, com menores taxas e menor atratividade para investidores estrangeiros."
+                ]
+            },
+            "cmd": {
+                "title": "4. Mercado de Commodities",
+                "bullets": [
+                    "Indicadores de crescimento fortes aumentam a demanda por commodities como petróleo e metais, elevando os preços.",
+                    "Dados fracos reduzem a demanda, levando à queda dos preços à medida que produção e consumo diminuem."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefícios de Monitorar os Indicadores Econômicos",
+            "bullets": [
+                "Antecipar Tendências de Mercado: Entender os indicadores permite prever movimentos com base nas condições econômicas.",
+                "Apoiar Decisões de Investimento: A análise de indicadores ajuda a tomar decisões informadas sobre alocação de ativos e ajustes de portfólio.",
+                "Avaliar a Saúde Econômica: Acompanhar indicadores oferece uma visão mais clara do ciclo econômico e melhora a gestão de riscos."
+            ]
+        },
+        "limitations": {
+            "title": "Limitações de Confiar nos Indicadores Econômicos",
+            "bullets": [
+                "Natureza Defasada: Alguns indicadores, como o PIB, refletem dados passados e podem não representar a situação atual.",
+                "Volatilidade do Mercado: Grandes divulgações econômicas podem causar movimentos bruscos e imprevisíveis, especialmente em forex e ações.",
+                "Interpretação Complexa: Os indicadores podem emitir sinais mistos, exigindo experiência e dados adicionais para uma leitura precisa."
+            ]
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "交易策略 – 经过验证的设置与信号 | Qption",
+        "description": "探索 Qption 的专业交易策略库——包括剥头皮、日内、波段和长期策略，附带入场规则、风险管理和实时业绩数据。",
+        "keywords": "交易策略, 外汇策略, 加密策略, 剥头皮, 日内交易, 波段交易, 趋势交易, 风险管理, Qption信号",
+        "ogTitle": "交易策略 – 经过验证的设置与信号 | Qption",
+        "ogDescription": "从动能突破到均值回归交易——获取我们分析师遵循的精确规则并在您的账户中复制。",
+        "url": "https://qption.com/trading-strategies",
+        "image": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "交易策略 – 经过验证的设置与信号 | Qption",
+        "twitterDescription": "学习我们资深交易员在外汇和加密市场中使用的分步策略规则。",
+        "twitterImage": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "canonical": "https://qption.com/trading-strategies"
+    },
+    "hero": {
+        "title": "交易策略",
+        "subtitle": "掌握经过验证的交易策略——从高速剥头皮到长期波段，以清晰、规则化的设置将洞察转化为行动。"
+    },
+    "cta": {
+        "learnMore": "了解更多"
+    },
+    "quiz": {
+        "link": "/trading-strategy/quiz-trading-strategy",
+        "cta": "参加交易策略测验"
+    },
+    "cards": [
+        {
+            "title": "V形反弹成交量激增策略",
+            "link": "/trading-strategy/v-bounce",
+            "icon": "chartBar"
+        },
+        {
+            "title": "马丁格尔策略",
+            "link": "/trading-strategy/martingale",
+            "icon": "chartLine"
+        },
+        {
+            "title": "反转策略",
+            "link": "/trading-strategy/reversal",
+            "icon": "chartPie"
+        },
+        {
+            "title": "突破策略",
+            "link": "/trading-strategy/breakout",
+            "icon": "chartArea"
+        },
+        {
+            "title": "鳄鱼指标策略",
+            "link": "/trading-strategy/alligator",
+            "icon": "globe"
+        },
+        {
+            "title": "布林带策略",
+            "link": "/trading-strategy/bollinger",
+            "icon": "bitcoin"
+        },
+        {
+            "title": "移动平均策略",
+            "link": "/trading-strategy/moving-average",
+            "icon": "coins"
+        },
+        {
+            "title": "三法策略",
+            "link": "/trading-strategy/threeMethods",
+            "icon": "chartPie"
+        },
+        {
+            "title": "镊子形态策略",
+            "link": "/trading-strategy/tweezersStrategy",
+            "icon": "trophy"
+        },
+        {
+            "title": "压缩K线策略（Squat）",
+            "link": "/trading-strategy/squat-candle-stick",
+            "icon": "exchange"
+        },
+        {
+            "title": "吞没K线策略（Engulfing）",
+            "link": "/trading-strategy/engulfing-candlestick",
+            "icon": "dollar"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "seo": {
+        "title": "Engulfing Candlestick Strategy – Bullish & Bearish Reversal Patterns | Qption",
+        "description": "Learn the Engulfing Candlestick strategy: spot bullish and bearish engulfing reversals, confirm with support/resistance and volume, and manage risk with precise stop-loss placement. Includes identification rules, confirmations, pros, and cons.",
+        "keywords": "Engulfing candlestick, bullish engulfing, bearish engulfing, reversal pattern, price action trading, support and resistance, volume confirmation, risk management, technical analysis, trading strategy, Qption",
+        "ogAlt": "Engulfing Candlestick strategy illustrated on a trading chart",
+        "ld": {
+            "headline": "Engulfing Candlestick Strategy – Bullish & Bearish Reversal Patterns"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading Strategy"
+    },
+    "hero": {
+        "title": "Engulfing Candlestick Strategy"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "startTrading": "Start Trading"
+    },
+    "video": {
+        "aria": "The Engulfing Candlestick Strategy is a popular reversal pattern that signals a potential trend change."
+    },
+    "overview": {
+        "title": "Overview",
+        "items": {
+            "1": "The Engulfing Candlestick Strategy is a popular reversal pattern that signals a potential trend change.",
+            "2": "This strategy involves identifying an engulfing candlestick pattern, where a larger candle completely “engulfs” the previous candle’s body.",
+            "3": "There are two main types: Bullish Engulfing (signals a reversal to an uptrend) and Bearish Engulfing (signals a reversal to a downtrend)."
+        }
+    },
+    "bullish": {
+        "title": "1. Bullish Engulfing Pattern",
+        "items": {
+            "1": "Formation: Occurs during a downtrend, with a large bullish candle completely covering the previous bearish candle's body.",
+            "2": "First Candlestick: A smaller bearish candle that reflects the continuation of the downtrend.",
+            "3": "Second Candlestick: A larger bullish candle that opens below the previous close and closes above the previous open.",
+            "4": "Confirmation: A subsequent bullish candle after the engulfing pattern confirms the reversal."
+        }
+    },
+    "bearish": {
+        "title": "2. Bearish Engulfing Pattern",
+        "items": {
+            "1": "Formation: Appears during an uptrend, with a large bearish candle completely covering the previous bullish candle's body.",
+            "2": "First Candlestick: A smaller bullish candle that reflects the continuation of the uptrend.",
+            "3": "Second Candlestick: A larger bearish candle that opens above the previous close and closes below the previous open.",
+            "4": "Confirmation: A subsequent bearish candle after the engulfing pattern confirms the reversal."
+        }
+    },
+    "using": {
+        "title": "Using the Engulfing Candlestick Strategy",
+        "items": {
+            "1": "Combine with support and resistance levels to enhance signal reliability.",
+            "2": "Use volume indicators to confirm strength in the engulfing candle's direction.",
+            "3": "Apply stop-loss orders below the low of a Bullish Engulfing or above the high of a Bearish Engulfing candle to manage risk."
+        }
+    },
+    "pros": {
+        "title": "Pros",
+        "items": {
+            "1": "Clear Reversal Signal: Provides a clear indication of potential trend reversals.",
+            "2": "Works Across Timeframes: Useful in various timeframes, from short-term to long-term trades.",
+            "3": "Simple Pattern Recognition: Easily identifiable with basic candlestick knowledge."
+        }
+    },
+    "cons": {
+        "title": "Cons",
+        "items": {
+            "1": "Requires Confirmation: Needs confirmation to avoid false signals.",
+            "2": "Less Reliable in Low-Volume Markets: False signals are more common in low-volume conditions.",
+            "3": "Can Be Misleading if Used Alone: Best used with additional indicators for stronger validation."
+        }
+    }
+}

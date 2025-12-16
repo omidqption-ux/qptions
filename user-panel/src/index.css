@@ -1,0 +1,243 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700&display=swap');
+
+
+body {
+     font-family: 'Roboto', sans-serif;
+}
+
+span {
+     font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2.h3,
+h4,
+h5,
+h6 {
+     font-family: 'Nunito', sans-serif;
+}
+
+/* Remove default styles applied by Chrome for autocomplete */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+     transition: background-color 5000s ease-in-out 0s;
+}
+
+/* To prevent the default appearance of the dropdown in Chrome */
+input:-webkit-autofill {
+     -webkit-text-fill-color: #b4c2e4 !important;
+}
+
+::-webkit-scrollbar {
+     width: 8px;
+     height: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+     @apply bg-darkBlue/20;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+     @apply bg-darkBlue/40 rounded-full hover:bg-darkBlue/60 transition-colors duration-300;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+     background: #7d89a5;
+}
+
+.bg-low-opacity::before {
+     content: '';
+     position: absolute;
+     inset: 0;
+     background-image: url('./assets/logo-t.png');
+     background-size: auto;
+     opacity: 0.5;
+     z-index: -1;
+}
+
+@keyframes clipAnim {
+     0% {
+          clip-path: inset(0 100% 0 0);
+     }
+
+     100% {
+          clip-path: inset(0 0 0 0);
+     }
+}
+
+/* This animation changes the opacity in a loop */
+@keyframes opacityAnim {
+
+     0%,
+     100% {
+          opacity: 1;
+     }
+
+     50% {
+          opacity: 0.5;
+     }
+}
+
+/* Combine both animations on one element:
+      - clipAnim runs for 3s, only once (with forwards so it holds its final state)
+      - opacityAnim runs in a 2s loop infinitely */
+.clip-reveal {
+     animation: clipAnim 4s ease-out 1 forwards,
+          opacityAnim 2s ease-in-out infinite;
+}
+
+.wave-container {
+     position: relative;
+
+     overflow: hidden;
+}
+
+/* The SVG wave is positioned absolutely */
+.wave {
+     position: absolute;
+     top: 0;
+     left: 0;
+     height: 100%;
+     /* Animate the vertical movement from off-screen top to its final position */
+     animation: waveMove 5s linear infinite;
+}
+
+@keyframes waveMove {
+     0% {
+          transform: translateY(-100%);
+     }
+
+     50% {
+          transform: translateY(0%);
+     }
+
+     100% {
+          transform: translateY(-100%);
+     }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+     -webkit-appearance: none;
+     margin: 0;
+}
+
+/* Hide spinner in Firefox */
+input[type='number'] {
+     -moz-appearance: textfield;
+}
+
+@layer base {
+     :root {
+          --color-primary: 59 130 246;
+          --color-darkBlue: 15 23 42;
+          --color-offWhite: 241 245 249;
+          --color-googleRed: 220 38 38;
+     }
+}
+
+@layer components {
+     .glass-effect {
+          @apply bg-darkBlue/20 backdrop-blur-sm border border-darkBlue/30;
+     }
+
+     .hover-card {
+          @apply transition-all duration-300 hover:border-primary/50 hover:shadow-lg hover:shadow-primary/10 hover:scale-[1.02];
+     }
+
+     .text-gradient {
+          @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70;
+     }
+
+     .btn-primary {
+          @apply px-4 py-2 rounded-lg bg-primary text-offWhite hover:bg-primary/90 transition-colors duration-300;
+     }
+
+     .btn-secondary {
+          @apply px-4 py-2 rounded-lg bg-darkBlue/20 text-offWhite border border-darkBlue/30 hover:border-primary/50 transition-colors duration-300;
+     }
+
+     .input-field {
+          @apply w-full px-4 py-2 rounded-lg bg-darkBlue/20 border border-darkBlue/30 text-offWhite focus:border-primary/50 focus:outline-none transition-colors duration-300;
+     }
+}
+
+/* Animations */
+@keyframes fadeIn {
+     from {
+          opacity: 0;
+          transform: translateY(10px);
+     }
+
+     to {
+          opacity: 1;
+          transform: translateY(0);
+     }
+}
+
+.animate-fadeIn {
+     animation: fadeIn 0.3s ease-out forwards;
+}
+
+html,
+body {
+     height: 100%;
+     margin: 0;
+     overscroll-behavior: none;
+}
+
+/* Wrapper: takes the real device viewport */
+.force-landscape-wrapper {
+     position: fixed;
+     inset: 0;
+     width: 100svh;
+     /* swap width/height */
+     height: 100svw;
+     overflow: hidden;
+     transform: rotate(90deg) translateY(-100%);
+     transform-origin: left top;
+}
+
+/* Inner: put your app back to normal sizing inside the rotated plane */
+.force-landscape-inner {
+     width: 100svw;
+     /* now becomes the “landscape” width */
+     height: 100svh;
+     /* “landscape” height */
+     overflow: hidden;
+}
+
+.thin-scrollbar::-webkit-scrollbar {
+     height: 4px;
+     /* thinner horizontal bar */
+}
+
+.thin-scrollbar::-webkit-scrollbar-track {
+     background: transparent;
+}
+
+.thin-scrollbar::-webkit-scrollbar-thumb {
+     background: rgba(34, 197, 94, 0.5);
+     /* green-500-ish */
+     border-radius: 9999px;
+}
+
+.thin-scrollbar::-webkit-scrollbar-thumb:hover {
+     background: rgba(34, 197, 94, 0.8);
+}
+
+/* Firefox */
+.thin-scrollbar {
+     scrollbar-width: thin;
+     scrollbar-color: rgba(34, 197, 94, 0.7) transparent;
+}

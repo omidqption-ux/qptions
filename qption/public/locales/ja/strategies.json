@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "トレーディング戦略 – 実証済みのセットアップ＆シグナル | Qption",
+        "description": "Qptionが厳選した戦略ライブラリをチェック：スキャルピング、デイトレ、スイング、長期ポジション。エントリールール、リスク管理、ライブ実績データまで網羅。",
+        "keywords": "トレーディング戦略, 為替戦略, クリプト戦略, スキャルピング, デイトレード, スイングトレード, ポジショントレード, リスク管理, Qptionシグナル",
+        "ogTitle": "トレーディング戦略 – 実証済みのセットアップ＆シグナル | Qption",
+        "ogDescription": "モメンタムブレイクアウトから平均回帰トレードまで—アナリストが実際に使うルールをあなたの口座で再現。",
+        "url": "https://qption.com/trading-strategies",
+        "image": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "トレーディング戦略 – 実証済みのセットアップ＆シグナル | Qption",
+        "twitterDescription": "為替・暗号資産市場でリードトレーダーが用いる手順をステップごとに学ぼう。",
+        "twitterImage": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "canonical": "https://qption.com/trading-strategies"
+    },
+    "hero": {
+        "title": "トレーディング戦略",
+        "subtitle": "高速スキャルプから長期スイングまで、明確なルールベースのセットアップで洞察を確実なアクションへ。"
+    },
+    "cta": {
+        "learnMore": "詳しく見る"
+    },
+    "quiz": {
+        "link": "/trading-strategy/quiz-trading-strategy",
+        "cta": "戦略クイズに挑戦"
+    },
+    "cards": [
+        {
+            "title": "V反発・出来高スパイク戦略",
+            "link": "/trading-strategy/v-bounce",
+            "icon": "chartBar"
+        },
+        {
+            "title": "マーチンゲール戦略",
+            "link": "/trading-strategy/martingale",
+            "icon": "chartLine"
+        },
+        {
+            "title": "リバーサル戦略",
+            "link": "/trading-strategy/reversal",
+            "icon": "chartPie"
+        },
+        {
+            "title": "ブレイクアウト戦略",
+            "link": "/trading-strategy/breakout",
+            "icon": "chartArea"
+        },
+        {
+            "title": "アリゲーター戦略",
+            "link": "/trading-strategy/alligator",
+            "icon": "globe"
+        },
+        {
+            "title": "ボリンジャーバンド戦略",
+            "link": "/trading-strategy/bollinger",
+            "icon": "bitcoin"
+        },
+        {
+            "title": "移動平均戦略",
+            "link": "/trading-strategy/moving-average",
+            "icon": "coins"
+        },
+        {
+            "title": "Three Methods（三法）戦略",
+            "link": "/trading-strategy/threeMethods",
+            "icon": "chartPie"
+        },
+        {
+            "title": "ツイーザーズ（毛抜き）戦略",
+            "link": "/trading-strategy/tweezersStrategy",
+            "icon": "trophy"
+        },
+        {
+            "title": "スクワット・キャンドル戦略",
+            "link": "/trading-strategy/squat-candle-stick",
+            "icon": "exchange"
+        },
+        {
+            "title": "エンガルフィング（包み足）戦略",
+            "link": "/trading-strategy/engulfing-candlestick",
+            "icon": "dollar"
+        }
+    ]
+}

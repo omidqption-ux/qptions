@@ -1,0 +1,190 @@
+{
+    "seo": {
+        "title": "Figures de continuation de tendance – Drapeaux, Fanions, Triangles et Rectangles | Qption",
+        "description": "Comprenez les figures de continuation de tendance en analyse graphique : drapeaux, fanions, triangles ascendants/descendants et rectangles. Apprenez leur formation, la confirmation de cassure, les avantages, les limites et comment utiliser le volume pour éviter les fausses cassures.",
+        "keywords": "figures de continuation de tendance, figure en drapeau, figure en fanion, triangle ascendant, triangle descendant, figure en rectangle, confirmation de cassure, confirmation par le volume, analyse technique, analyse graphique, suivi de tendance, Qption",
+        "url": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+        "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+        "ogAlt": "Guide des figures de continuation de tendance",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Figures de continuation de tendance – Drapeaux, Fanions, Triangles et Rectangles",
+            "description": "Comprenez les figures de continuation de tendance en analyse graphique : drapeaux, fanions, triangles ascendants/descendants et rectangles. Apprenez leur formation, la confirmation de cassure, les avantages, les limites et comment utiliser le volume pour éviter les fausses cassures.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Figure de continuation de tendance"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Figure en drapeau"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Figure en fanion"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Triangle ascendant"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Triangle descendant"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Figure en rectangle"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Cassure"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Confirmation par le volume"
+                }
+            ],
+            "articleSection": [
+                "Figures de continuation de tendance en analyse graphique",
+                "Aperçu",
+                "Figures de continuation de tendance courantes",
+                "Figure en drapeau",
+                "Figure en fanion",
+                "Triangle ascendant",
+                "Triangle descendant",
+                "Figure en rectangle",
+                "Avantages de l’utilisation des figures de continuation de tendance",
+                "Limites des figures de continuation de tendance"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Figure en drapeau",
+                    "value": "Mouvement net (mât) suivi d’une petite consolidation en canal parallèle ; cassure dans le sens de la tendance"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Figure en fanion",
+                    "value": "Courte consolidation entre des lignes de tendance convergentes ; la cassure suit la tendance précédente"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Triangle ascendant",
+                    "value": "Résistance plate avec creux ascendants ; continuation haussière après cassure de la résistance"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Triangle descendant",
+                    "value": "Support plat avec sommets descendants ; continuation baissière après cassure du support"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Figure en rectangle",
+                    "value": "Consolidation horizontale entre support et résistance ; la cassure continue la tendance précédente"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Confirmation et risque",
+                    "value": "Utiliser l’expansion du volume lors de la cassure ; surveiller les fausses cassures ; placer des stops sous/au-dessus des bornes de la figure"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Retour à l’analyse graphique",
+        "graphicalLink": "Analyse graphique"
+    },
+    "page": {
+        "title": "Figures de continuation de tendance en analyse graphique"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "start": "Commencer à trader"
+    },
+    "video": {
+        "aria": "Les figures de continuation de tendance sont des formations graphiques qui signalent une pause temporaire dans la tendance actuelle, suivie d’une probable continuation dans la même direction."
+    },
+    "sections": {
+        "overview": {
+            "h": "Aperçu",
+            "items": [
+                "Les figures de continuation de tendance sont des formations graphiques suggérant une pause dans le mouvement, puis une reprise dans la même direction.",
+                "Elles offrent des points d’entrée potentiels pour participer à la reprise de tendance après une brève consolidation.",
+                "Elles apparaissent dans les marchés haussiers et baissiers sur plusieurs unités de temps."
+            ]
+        },
+        "patterns": {
+            "h": "Figures de continuation de tendance courantes",
+            "list": [
+                {
+                    "h": "1. Figure en drapeau",
+                    "items": [
+                        "Consolidation à court terme ressemblant à un drapeau sur un mât, souvent après un mouvement de prix marqué.",
+                        "Formation : un mouvement directionnel fort (le mât) suivi d’une consolidation dans un petit canal parallèle (le drapeau).",
+                        "Cassure : au-dessus (tendance haussière) ou en dessous (tendance baissière) du drapeau pour poursuivre la tendance en cours.",
+                        "Interprétation graphique : suggère la continuation probable de la tendance initiale après la cassure."
+                    ]
+                },
+                {
+                    "h": "2. Figure en fanion",
+                    "items": [
+                        "Semblable au drapeau, mais avec un petit triangle convergent (le fanion) durant la consolidation.",
+                        "Formation : le prix monte (ou baisse) puis se consolide entre des lignes convergentes formant un fanion.",
+                        "Cassure : une cassure dans la direction du mouvement précédent signale la continuation.",
+                        "Interprétation graphique : une brève pause avant la reprise de la tendance."
+                    ]
+                },
+                {
+                    "h": "3. Triangle ascendant",
+                    "items": [
+                        "Figure de continuation haussière avec résistance horizontale et creux ascendants.",
+                        "Formation : des creux plus hauts se forment contre un niveau de résistance horizontal dans un triangle.",
+                        "Cassure : une cassure au-dessus de la résistance signale la poursuite de la tendance haussière.",
+                        "Interprétation graphique : accumulation de pression haussière menant souvent à une cassure vers le haut."
+                    ]
+                },
+                {
+                    "h": "4. Triangle descendant",
+                    "items": [
+                        "Figure de continuation baissière avec support horizontal et sommets descendants.",
+                        "Formation : des sommets plus bas se forment contre un support horizontal dans un triangle.",
+                        "Cassure : une cassure en dessous du support signale la poursuite de la tendance baissière.",
+                        "Interprétation graphique : pression vendeuse croissante conduisant souvent à une cassure vers le bas."
+                    ]
+                },
+                {
+                    "h": "5. Figure en rectangle",
+                    "items": [
+                        "Consolidation horizontale entre un support et une résistance.",
+                        "Formation : le prix évolue entre des niveaux horizontaux formant un rectangle.",
+                        "Cassure : un mouvement au-dessus (haussier) ou en dessous (baissier) du rectangle poursuit la tendance précédente.",
+                        "Interprétation graphique : consolidation temporaire avant la reprise de la tendance dans la direction de la cassure."
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "h": "Avantages de l’utilisation des figures de continuation de tendance",
+            "items": [
+                "Fournissent un meilleur timing d’entrée pendant les consolidations.",
+                "Renforcent le suivi de tendance en mettant en évidence les points probables de reprise.",
+                "Particulièrement efficaces lors de tendances fortes et soutenues."
+            ]
+        },
+        "limitations": {
+            "h": "Limites des figures de continuation de tendance",
+            "items": [
+                "Les fausses cassures peuvent survenir, notamment sur des marchés volatils ou irréguliers.",
+                "Nécessitent souvent une confirmation (par exemple, expansion du volume) pour réduire les faux signaux.",
+                "Moins fiables sur les marchés latéraux et peuvent nécessiter une confluence supplémentaire."
+            ]
+        }
+    }
+}

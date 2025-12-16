@@ -1,0 +1,77 @@
+{
+    "seo": {
+        "title": "Politica sui Pagamenti | Qption",
+        "description": "La politica sui pagamenti di Qption copre la visualizzazione del saldo del conto, le procedure di deposito e prelievo, la verifica del cliente (KYC), gli obblighi fiscali e altri termini chiave.",
+        "keywords": "politica sui pagamenti, deposito, prelievo, saldo conto, KYC, verifica, tasse, Qption",
+        "ogTitle": "Politica sui Pagamenti | Qption",
+        "ogDescription": "Scopri le politiche di Qption su depositi, prelievi, visibilità del saldo, KYC e tassazione.",
+        "url": "https://qption.com/payment-policy",
+        "image": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Politica sui Pagamenti | Qption",
+        "twitterDescription": "Procedure di deposito/prelievo, responsabilità del saldo, KYC, tassazione e altro.",
+        "twitterImage": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "canonical": "https://qption.com/payment-policy"
+    },
+    "hero": {
+        "title": "Politica sui Pagamenti"
+    },
+    "sections": [
+        {
+            "key": "account",
+            "icon": "account",
+            "title": "1. Responsabilità del Saldo del Conto",
+            "items": [
+                "La Società è responsabile della visualizzazione del saldo del conto del Cliente in qualsiasi momento.",
+                "La responsabilità della Società inizia una volta registrato un deposito e continua fino a quando la richiesta di prelievo completa viene elaborata dal Cliente.",
+                "Il Cliente ha il diritto di richiedere i fondi disponibili nel proprio conto al momento della richiesta."
+            ]
+        },
+        {
+            "key": "payments",
+            "icon": "payments",
+            "title": "2. Procedure di Deposito e Prelievo",
+            "items": [
+                "I depositi e i prelievi vengono effettuati attraverso i metodi ufficiali elencati sul sito web della Società.",
+                "I Clienti si assumono tutti i rischi associati all’utilizzo dei metodi di pagamento, poiché tali fornitori non sono affiliati alla Società.",
+                "La Società è responsabile dei fondi solo una volta che questi raggiungono il conto bancario o di pagamento della Società."
+            ]
+        },
+        {
+            "key": "registration",
+            "icon": "registration",
+            "title": "3. Registrazione del Cliente",
+            "items": [
+                "La registrazione richiede la fornitura di dati di identità e contatto accurati.",
+                "Il processo di verifica richiede un documento d’identità rilasciato dal governo.",
+                "Il processo di identificazione deve essere completato entro 10 giorni lavorativi."
+            ]
+        },
+        {
+            "key": "deposit",
+            "icon": "deposit",
+            "title": "4. Processi di Deposito",
+            "items": [
+                "I depositi vengono avviati dal conto personale del Cliente sul sito web.",
+                "I pagamenti elettronici possono essere elaborati in pochi secondi o richiedere diversi giorni, a seconda del fornitore."
+            ]
+        },
+        {
+            "key": "tax",
+            "icon": "tax",
+            "title": "5. Obblighi Fiscali",
+            "items": [
+                "La Società non è un agente fiscale per il Cliente; tutte le dichiarazioni e i pagamenti fiscali restano responsabilità del Cliente."
+            ]
+        },
+        {
+            "key": "misc",
+            "icon": "misc",
+            "title": "6. Termini Vari",
+            "items": [
+                "Accettando il Contratto, il Cliente conferma di essere maggiorenne.",
+                "Il Cliente è responsabile di garantire la conformità a tutte le leggi e normative locali applicabili."
+            ]
+        }
+    ]
+}

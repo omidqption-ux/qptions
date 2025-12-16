@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Tweezers Trading Strategy – Tweezer Top & Bottom Reversal Patterns | Qption",
+        "description": "Master the Tweezers trading strategy: identify Tweezer Top and Tweezer Bottom candlestick reversal patterns, confirm signals with RSI and support/resistance, and manage risk with precise stop-loss placement. Learn setup rules, confirmation methods, pros, and cons.",
+        "keywords": "Tweezers strategy, Tweezer Top, Tweezer Bottom, candlestick reversal patterns, trend reversal, support and resistance, bullish reversal, bearish reversal, RSI confirmation, stop-loss strategy, price action trading, technical analysis, trading strategy, Qption",
+        "ogAlt": "Tweezers Top and Bottom candlestick reversal patterns with confirmation signals",
+        "ld": {
+            "headline": "Tweezers Trading Strategy – Tweezer Top & Bottom Reversal Patterns"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading strategy"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "startTrading": "Start Trading"
+    },
+    "hero": {
+        "title": "Tweezers Strategy",
+        "subtitle": "The Tweezers strategy identifies potential tops and bottoms in the market using a simple two-candle reversal pattern. It provides early visual clues of a trend reversal when prices reject the same level twice — once on each candle."
+    },
+    "video": {
+        "aria": "The Tweezers strategy is a candlestick reversal pattern used to signal potential tops and bottoms in the market."
+    },
+    "overview": {
+        "title": "Overview",
+        "items": {
+            "1": "The Tweezers strategy is a candlestick reversal pattern that highlights potential tops and bottoms in price action.",
+            "2": "It forms when two consecutive candles have nearly identical highs or lows, suggesting strong rejection at a key level.",
+            "3": "There are two types of tweezers: the Tweezer Top (bearish reversal) and the Tweezer Bottom (bullish reversal)."
+        }
+    },
+    "top": {
+        "title": "1. Tweezer Top Strategy",
+        "items": {
+            "1": {
+                "label": "Formation",
+                "text": "Occurs at the end of an uptrend with two consecutive candles having almost identical highs."
+            },
+            "2": {
+                "label": "First Candlestick",
+                "text": "Typically a bullish candle showing strong upward momentum before rejection."
+            },
+            "3": {
+                "label": "Second Candlestick",
+                "text": "A bearish candle with a similar high, showing resistance at the same price level."
+            },
+            "4": {
+                "label": "Confirmation",
+                "text": "The reversal is confirmed when the next candle closes below the Tweezer pattern’s low."
+            }
+        }
+    },
+    "bottom": {
+        "title": "2. Tweezer Bottom Strategy",
+        "items": {
+            "1": {
+                "label": "Formation",
+                "text": "Appears at the end of a downtrend when two candles have nearly identical lows."
+            },
+            "2": {
+                "label": "First Candlestick",
+                "text": "Usually a bearish candle continuing the trend before buyers step in."
+            },
+            "3": {
+                "label": "Second Candlestick",
+                "text": "A bullish candle with the same low, signaling support and buying strength."
+            },
+            "4": {
+                "label": "Confirmation",
+                "text": "Confirmed when the next candle closes above the Tweezer pattern’s high."
+            }
+        }
+    },
+    "use": {
+        "title": "Using the Tweezers Strategy",
+        "items": {
+            "1": "Look for Tweezer Tops or Bottoms near key support or resistance levels for higher accuracy.",
+            "2": "Combine with indicators like RSI to confirm overbought or oversold conditions.",
+            "3": "Set stop-losses just above the Tweezer Top or below the Tweezer Bottom to manage risk effectively."
+        }
+    },
+    "pros": {
+        "title": "Pros",
+        "items": {
+            "1": "Simple pattern – easy to identify using only two consecutive candles.",
+            "2": "Reliable reversal signal near major support/resistance zones.",
+            "3": "Works well with confirmation tools like RSI, MACD, or trendlines."
+        }
+    },
+    "cons": {
+        "title": "Cons",
+        "items": {
+            "1": "Requires confirmation to avoid false reversal signals.",
+            "2": "Less reliable in ranging or low-volume markets.",
+            "3": "Can be misleading if used alone without other analysis tools."
+        }
+    }
+}

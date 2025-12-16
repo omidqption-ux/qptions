@@ -1,0 +1,293 @@
+{
+    "seo": {
+        "title": "グラフィカル分析クイズ – トレンド、サポート＆レジスタンス、パターン、ローソク足 | Qption",
+        "description": "Qptionのグラフィカル分析クイズでチャート分析スキルをテストしましょう。トレンド、サポートとレジスタンス、フィボナッチやエリオット波動、継続・反転パターンの理解度を確認できます。",
+        "keywords": "グラフィカル分析, テクニカル分析, チャートパターン, サポート, レジスタンス, フィボナッチ, エリオット波動, ヘッドアンドショルダー, フラッグ, トライアングル, トレンド継続, 反転, Qption",
+        "ogTitle": "グラフィカル分析クイズ – トレンド、サポート＆レジスタンス、パターン、ローソク足 | Qption",
+        "ogDescription": "トレンド、S/R、フィボナッチ、エリオット波動、継続・反転パターンに関するインタラクティブな質問で自分を試してみましょう。",
+        "url": "https://qption.com/ja/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "グラフィカル分析クイズ – Qption",
+        "twitterDescription": "Qptionのグラフィカル分析クイズでチャートスキルを試しましょう。",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/ja/graphical-analysis"
+    },
+    "page": {
+        "title": "グラフィカル分析",
+        "subtitle": "インタラクティブなグラフィカル分析クイズでチャートリーディングスキルを磨きましょう。トレンドライン、サポート・レジスタンス、フィボナッチやエリオットの概念、継続・反転パターンを学び、より自信のあるビジュアルトレーダーを目指します。"
+    },
+    "quiz": {
+        "header": "グラフィカル分析クイズ",
+        "progress": "質問 {{current}} / {{total}}",
+        "correct": "正解 ✅",
+        "incorrect": "不正解 ⚠️",
+        "selectHint": "オプションを選択して送信してください。",
+        "learnMore": "詳しく見る ↗"
+    },
+    "ui": {
+        "previous": "前へ",
+        "submit": "送信",
+        "finish": "終了",
+        "next": "次へ",
+        "newRandom": "新しいランダム10問",
+        "loading": "クイズを読み込み中…"
+    },
+    "results": {
+        "score": "スコア: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "素晴らしい！ あなたのチャートリーディングスキルは非常に高いです。",
+            "good": "よくできました！ 継続的に練習すればさらに上達します。",
+            "retry": "良いスタートです — レッスンを復習してもう一度挑戦してみましょう。"
+        }
+    },
+    "pool": [
+        {
+            "q": "グラフィカル分析で、上向きの移動平均線は通常何を示していますか？",
+            "options": [
+                "レンジ相場",
+                "下降トレンド傾向",
+                "上昇トレンド傾向",
+                "シグナルなし"
+            ],
+            "correct": "上昇トレンド傾向",
+            "explain": "移動平均線の傾きと価格の位置関係は、方向性バイアスを瞬時に判断する手助けになります。",
+            "source": "https://qption.com/ja/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "移動平均線を動的なサポート／レジスタンスとして使う一般的な方法は？",
+            "options": [
+                "価格が無視するまで待つ",
+                "トレンド中の押し目（戻り）で移動平均に注目し継続エントリーを狙う",
+                "文脈に関係なく常に逆張りする",
+                "年足チャートでのみ使用する"
+            ],
+            "correct": "トレンド中の押し目（戻り）で移動平均に注目し継続エントリーを狙う",
+            "explain": "トレンド中に移動平均まで戻る動きは、リスクを管理しながら継続エントリーする構造を提供します。",
+            "source": "https://qption.com/ja/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "SMAと比較して、EMAは一般的にどのような特徴がありますか？",
+            "options": [
+                "反応が遅い",
+                "同じスピード",
+                "反応が速い",
+                "移動平均ではない"
+            ],
+            "correct": "反応が速い",
+            "explain": "EMAは最近のデータに重みを置くため、SMAよりも素早く反応します。",
+            "source": "https://qption.com/ja/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "基本的な強気のゴールデンクロスシグナルは次のときに発生します：",
+            "options": [
+                "長期移動平均が短期移動平均を上抜ける",
+                "短期移動平均が長期移動平均を上抜ける",
+                "価格が両方の移動平均を下回る",
+                "両方の移動平均がフラットである"
+            ],
+            "correct": "短期移動平均が長期移動平均を上抜ける",
+            "explain": "短期線が長期線を上抜けるとモメンタム変化の兆候になります（ただし遅行指標であるため確認が必要）。",
+            "source": "https://qption.com/ja/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "押し目や戻りの際によく注目されるフィボナッチのリトレースメント帯は？",
+            "options": [
+                "5%–10%",
+                "23.6%–33.3%",
+                "38.2%–50%–61.8%",
+                "70%–80%"
+            ],
+            "correct": "38.2%–50%–61.8%",
+            "explain": "これらのゾーンは、トレンド中の一時的な調整ポイントとして広く観察されています。",
+            "source": "https://qption.com/ja/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "フィボナッチ・コンフルエンスとは？",
+            "options": [
+                "単一の時間軸上の1つのレベル",
+                "複数のフィボナッチレベルや構造が同じ価格帯に重なること",
+                "構造と出来高を無視すること",
+                "エクステンションのみを使用すること"
+            ],
+            "correct": "複数のフィボナッチレベルや構造が同じ価格帯に重なること",
+            "explain": "例：61.8% + 過去のサポート + 移動平均の重なり → エリアの信頼性が高まります。",
+            "source": "https://qption.com/ja/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "典型的なエリオット波動の推進波は次の構成です：",
+            "options": [
+                "上3波・下2波",
+                "5波の推進＋3波の修正",
+                "7つのランダムな波",
+                "2波のみ"
+            ],
+            "correct": "5波の推進＋3波の修正",
+            "explain": "標準構造：トレンド方向に5波（1〜5）、その後修正のABC波。",
+            "source": "https://qption.com/ja/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "推進波における一般的なエリオットのガイドラインは？",
+            "options": [
+                "第3波は最も短いことが多い",
+                "第4波は通常、第1波と重なる",
+                "第3波は最も長い（最短ではない）ことが多い",
+                "各波は同じ時間で形成される必要がある"
+            ],
+            "correct": "第3波は最も長い（最短ではない）ことが多い",
+            "explain": "第3波は最も強いモメンタムを持つ傾向があり、他の主要波より短くなることはありません。",
+            "source": "https://qption.com/ja/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "ヘッド＆ショルダーのトップが確認されるのはいつですか？",
+            "options": [
+                "右肩が形成されたとき",
+                "価格がネックラインを明確に下抜けたとき",
+                "左肩の出来高が減少したとき",
+                "どんなドージーでも出現したとき"
+            ],
+            "correct": "価格がネックラインを明確に下抜けたとき",
+            "explain": "ネックラインのブレイク（出来高による確認があればさらに良い）で反転が確定します。",
+            "source": "https://qption.com/ja/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "ダブルボトムがより信頼できるのは次のときです：",
+            "options": [
+                "強い上昇トレンド中に形成された場合のみ",
+                "強気のダイバージェンスや重要レベルの再突破を伴う場合",
+                "下落トレンドが全くない場合",
+                "出来高を完全に無視する場合"
+            ],
+            "correct": "強気のダイバージェンスや重要レベルの再突破を伴う場合",
+            "explain": "モメンタムの確認や重要水準の再奪回があると、反転の信頼性が高まります。",
+            "source": "https://qption.com/ja/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "レジスタンス付近での弱気シグナルとなり得るのは？",
+            "options": [
+                "上昇ウェッジの下抜け",
+                "強気フラッグの上抜け",
+                "上昇トライアングルの継続",
+                "上昇トレンド中のMA押し目買い"
+            ],
+            "correct": "上昇ウェッジの下抜け",
+            "explain": "レジスタンス付近のウェッジ崩れは、調整またはトレンド転換の前兆となることがあります。",
+            "source": "https://qption.com/ja/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "フラッグやペナントは一般的にどんなパターンですか？",
+            "options": [
+                "ボトムパターン",
+                "トップパターン",
+                "継続パターン",
+                "出来高インジケーター"
+            ],
+            "correct": "継続パターン",
+            "explain": "短期的な調整や横ばいの後、前の方向に再度動くことが多いです。",
+            "source": "https://qption.com/ja/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "上昇トライアングルは一般的にどの方向にブレイクしますか？",
+            "options": [
+                "下方向",
+                "上方向（買い圧力が抵抗線を押し上げる）",
+                "横ばいのまま",
+                "ランダム"
+            ],
+            "correct": "上方向（買い圧力が抵抗線を押し上げる）",
+            "explain": "切り上げる安値と横ばいの抵抗線は、上方ブレイクの圧力が高まっているサインです。",
+            "source": "https://qption.com/ja/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "レンジ（矩形）パターンのブレイクは一般的に：",
+            "options": [
+                "下方向のみ",
+                "上方向のみ",
+                "どちらの方向にも起こり得る—ブレイクと再テストを確認",
+                "常に反転に繋がる"
+            ],
+            "correct": "どちらの方向にも起こり得る—ブレイクと再テストを確認",
+            "explain": "レンジは中立的な構造であり、出来高やブレイクの形で方向が決まります。",
+            "source": "https://qption.com/ja/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "フラッグやペナントの「計測値目標」はどのように算出されますか？",
+            "options": [
+                "直前の推進波の高さをブレイク地点から投影する",
+                "ランダムなピップ数",
+                "時間的フィボナッチのみ",
+                "SMA値"
+            ],
+            "correct": "直前の推進波の高さをブレイク地点から投影する",
+            "explain": "フラッグポールの高さを目安に、ブレイク後のターゲットを算出します。",
+            "source": "https://qption.com/ja/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "グラフィカル分析が重視するのは次のうちどれですか？",
+            "options": [
+                "トレンド、S/R、パターン、レベルなどの視覚的構造",
+                "インジケーターの数式のみ",
+                "ニュース見出しのみ",
+                "複数時間軸を無視すること"
+            ],
+            "correct": "トレンド、S/R、パターン、レベルなどの視覚的構造",
+            "explain": "チャート構造と価格行動を重視し、判断材料とします。",
+            "source": "https://qption.com/ja/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "エントリーを最適化するベストプラクティスは？",
+            "options": [
+                "上位時間軸のトレンドおよび重要レベルと一致させる",
+                "ランダムな時間帯に入る",
+                "単一インジケーターのシグナルのみ使う",
+                "ストップロスを使わない"
+            ],
+            "correct": "上位時間軸のトレンドおよび重要レベルと一致させる",
+            "explain": "マルチタイムフレームの整合性を取ることで、成功確率が上がります。",
+            "source": "https://qption.com/ja/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "パターンでダマシのブレイクを減らすには？",
+            "options": [
+                "最初のタッチで即座にエントリー",
+                "ローソク足の確定や再テストを待つ",
+                "出来高と文脈を無視する",
+                "無効化レベルを設定しない"
+            ],
+            "correct": "ローソク足の確定や再テストを待つ",
+            "explain": "確定ブレイクや再テストの確認により、ダマシを避ける精度が上がります。",
+            "source": "https://qption.com/ja/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "ストップロスはどこに置くのが望ましいですか？",
+            "options": [
+                "取引している構造の内部",
+                "無効化構造の外側（例：パターンの高値／安値の外）",
+                "ちょうどキリの良い数字に置く",
+                "設定しない"
+            ],
+            "correct": "無効化構造の外側（例：パターンの高値／安値の外）",
+            "explain": "構造に基づくストップ設定はリスクを明確にし、トレードの根拠を保ちます。",
+            "source": "https://qption.com/ja/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        }
+    ]
+}

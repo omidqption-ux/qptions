@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "ファンダメンタル分析クイズ – 経済理解をテストしよう | Qption",
+        "description": "Qptionのファンダメンタル分析クイズに挑戦して、成長・インフレデータ、中央銀行政策、金利差、財政政策、国際市場の動きを学びましょう。",
+        "keywords": "ファンダメンタル分析, 経済指標, インフレ, 金利, 中央銀行, GDP, CPI, 為替, 投資, Qption",
+        "ogTitle": "ファンダメンタル分析クイズ – 経済の知識を試そう | Qption",
+        "ogDesc": "インタラクティブなクイズで、経済・金利・通貨・暗号資産の理解を深めよう。",
+        "url": "https://qption.com/fundamental-analysis/quiz",
+        "ogImage": "https://qption.com/images/og/fundamental-analysis-quiz.jpg"
+    },
+    "ui": {
+        "loadingPool": "クイズを読み込み中…",
+        "preparing": "問題を準備中…",
+        "h1": "ファンダメンタル分析",
+        "intro": "Qptionのファンダメンタル分析クイズであなたの経済理解を試しましょう。成長率・インフレ・金利政策・財政刺激策・市場関連性など、幅広い分野で知識を確認できます。",
+        "quizTitle": "ファンダメンタル分析クイズ",
+        "questionOf": "質問 {{current}} / {{total}}",
+        "selectPrompt": "選択肢を選んで回答を送信してください。",
+        "correct": "正解です ✅",
+        "notQuite": "残念！不正解です ⚠️",
+        "learnMore": "詳しく見る ↗",
+        "prev": "前へ",
+        "submit": "回答を送信",
+        "next": "次へ",
+        "finish": "終了",
+        "scoreLabel": "スコア: {{score}} / {{total}}",
+        "resultHigh": "素晴らしい！あなたの経済感覚は非常に鋭いです。",
+        "resultMid": "よくできました！ さらに学習してスキルを磨きましょう。",
+        "resultLow": "いいスタートです。レッスンを復習してもう一度挑戦しましょう。",
+        "newRandom": "ランダムな10問を再挑戦"
+    },
+    "pool": [
+        {
+            "q": "消費者インフレを最も直接的に測定する主要指標はどれですか？",
+            "options": [
+                "GDP",
+                "CPI",
+                "貿易収支",
+                "小売売上高"
+            ],
+            "correctIndex": 1,
+            "explain": "CPI（消費者物価指数）は、商品やサービスの価格変化を追跡し、インフレ率の主要な指標です。",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "経済指標"
+        },
+        {
+            "q": "GDPが上昇している場合、一般的に示唆されるのは？",
+            "options": [
+                "景気後退",
+                "経済拡大",
+                "スタグフレーション",
+                "通貨安のみ"
+            ],
+            "correctIndex": 1,
+            "explain": "GDPは総生産量を測定します。上昇は通常、経済成長を意味します。",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "経済指標"
+        },
+        {
+            "q": "労働市場の動向によって為替が大きく動く可能性がある発表はどれ？",
+            "options": [
+                "雇用統計（非農業部門雇用者数）",
+                "生産者物価指数 (PPI)",
+                "小売在庫",
+                "財政収支報告"
+            ],
+            "correctIndex": 0,
+            "explain": "雇用データは金利見通しや成長期待に影響を与え、為替市場を動かす要因です。",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "経済指標"
+        },
+        {
+            "q": "中央銀行が政策金利を引き下げる主な目的は？",
+            "options": [
+                "過熱経済を抑える",
+                "借入と消費を刺激する",
+                "マネーサプライを減らす",
+                "通貨を即座に強化する"
+            ],
+            "correctIndex": 1,
+            "explain": "金利を下げると融資コストが下がり、需要と投資を促進します。",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "中央銀行"
+        },
+        {
+            "q": "債券価格は金利に対して通常どのように動きますか？",
+            "options": [
+                "逆相関",
+                "同方向",
+                "ランダム",
+                "無関係"
+            ],
+            "correctIndex": 0,
+            "explain": "金利が上昇すると、既存のクーポンの価値が下がり、価格が下落します（逆も然り）。",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "中央銀行"
+        },
+        {
+            "q": "フォワードガイダンスとは何を指しますか？",
+            "options": [
+                "固定為替制度",
+                "将来の政策方針に関するコミュニケーション",
+                "量的緩和（QE）だけ",
+                "財政赤字の見通し"
+            ],
+            "correctIndex": 1,
+            "explain": "中央銀行は今後の政策方針を発信して、市場の期待を形成します。",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "中央銀行"
+        },
+        {
+            "q": "高インフレは、より高い金利で相殺されない限り、通貨を_____傾向があります。",
+            "options": [
+                "強くする",
+                "弱くする",
+                "影響しない",
+                "固定する"
+            ],
+            "correctIndex": 1,
+            "explain": "インフレは購買力を低下させます。高金利はその影響を補う可能性があります。",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "インフレ"
+        },
+        {
+            "q": "一部の投資家がビットコインをインフレヘッジと見なす理由は？",
+            "options": [
+                "供給が無制限だから",
+                "供給量がプロトコルで上限設定されているから",
+                "CPIに連動しているから",
+                "米ドルにペッグされているから"
+            ],
+            "correctIndex": 1,
+            "explain": "供給が限られているため、希少性がインフレ対策の資産と見なされることがあります。",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "インフレ"
+        },
+        {
+            "q": "キャリートレードの目的は次のうちどれですか？",
+            "options": [
+                "高金利通貨で借りて低金利通貨に投資する",
+                "低金利通貨で借りて高金利通貨に投資する",
+                "金利リスクを完全に排除する",
+                "現金のみを保有する"
+            ],
+            "correctIndex": 1,
+            "explain": "金利差から利益を得る戦略ですが、市場変動時にはリスクも高まります。",
+            "source": "https://qption.com/fundamentalanalysis/interest-rate-differentials-carry-trades",
+            "topic": "キャリートレード"
+        },
+        {
+            "q": "地政学的リスクが高まると、投資家は一般的にどの資産に移動しますか？",
+            "options": [
+                "小型成長株のみ",
+                "ハイベータ資産",
+                "安全資産（例: 金、スイスフラン、円、米国債）",
+                "流動性の低いマイクロ株"
+            ],
+            "correctIndex": 2,
+            "explain": "不確実性が高まると、安全で流動性の高い資産への需要が増えます。",
+            "source": "https://qption.com/fundamentalanalysis/geopolitical-events-and-markets",
+            "topic": "地政学"
+        },
+        {
+            "q": "拡張的な財政政策には通常どのような手段が含まれますか？",
+            "options": [
+                "増税と歳出削減",
+                "減税または歳出拡大",
+                "予算の均衡化",
+                "外貨準備の売却"
+            ],
+            "correctIndex": 1,
+            "explain": "景気減速時に総需要・雇用を押し上げるための政策です。",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "財政政策"
+        },
+        {
+            "q": "財政赤字が長期化する主なリスクは？",
+            "options": [
+                "国債残高の減少",
+                "利払い費の減少",
+                "国債残高と利払い負担の増加",
+                "自動的な通貨高"
+            ],
+            "correctIndex": 2,
+            "explain": "公的債務が膨らむと柔軟性が低下し、財政余地が制限されます。",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "財政政策"
+        },
+        {
+            "q": "債務残高がGDPに対して高い比率を示す場合、何を意味しますか？",
+            "options": [
+                "借入依存度が低い",
+                "持続可能性への懸念",
+                "確実な成長",
+                "固定為替制度"
+            ],
+            "correctIndex": 1,
+            "explain": "高い債務負担は、成長や通貨への信頼を損なう可能性があります。",
+            "source": "https://qption.com/fundamentalanalysis/global-debt-levels-and-currency-valuation",
+            "topic": "債務と通貨"
+        },
+        {
+            "q": "コモディティ価格の主な決定要因は？",
+            "options": [
+                "中央銀行の政策のみ",
+                "需給のバランスとショック",
+                "完全なランダムウォーク",
+                "税制のみ"
+            ],
+            "correctIndex": 1,
+            "explain": "供給障害や需要急増（成長・天候など）は価格に影響を与えます。",
+            "source": "https://qption.com/fundamentalanalysis/supply-and-demand-commodities",
+            "topic": "コモディティ"
+        },
+        {
+            "q": "次のうち一般的に安全資産（セーフヘイブン）とみなされるのはどれですか？",
+            "options": [
+                "ハイテク株",
+                "金（ゴールド）",
+                "小型バイオ株",
+                "新興国通貨キャリー"
+            ],
+            "correctIndex": 1,
+            "explain": "市場の混乱時、資金は金、スイスフラン、円、国債などに流れます。",
+            "source": "https://qption.com/fundamentalanalysis/safe-haven-assets-market-turbulence",
+            "topic": "安全資産"
+        },
+        {
+            "q": "株式と為替が連動して動くのは、どのような理由からですか？",
+            "options": [
+                "成長・インフレ・金利・リスク選好といったマクロ要因が共通しているため",
+                "全く無関係な要因",
+                "天候のみ",
+                "単一企業の決算報告"
+            ],
+            "correctIndex": 0,
+            "explain": "リスクオン・リスクオフのマクロ環境が複数の資産クラスに影響します。",
+            "source": "https://qption.com/fundamentalanalysis/forex-cfds",
+            "topic": "クロスアセット"
+        },
+        {
+            "q": "暗号資産への厳格な規制は何に影響を与えますか？",
+            "options": [
+                "価格上昇のみ",
+                "参加への影響なし",
+                "採用率・流動性・市場構造",
+                "ボラティリティを完全に排除する"
+            ],
+            "correctIndex": 2,
+            "explain": "規制はオン／オフランプや機関投資家のアクセス方法を形成します。",
+            "source": "https://qption.com/fundamentalanalysis/crypto-adoption-regulation",
+            "topic": "暗号資産規制"
+        },
+        {
+            "q": "ブロックチェーンはどのように取引履歴の安全性を確保していますか？",
+            "options": [
+                "中央集権型台帳のみ",
+                "分散型コンセンサスと暗号技術",
+                "紙の記録",
+                "単一企業のサーバー"
+            ],
+            "correctIndex": 1,
+            "explain": "PoW/PoSなどの合意形成と暗号化が、ネットワークの整合性を保証します。",
+            "source": "https://qption.com/fundamentalanalysis/blockchain-fundamental-analysis",
+            "topic": "ブロックチェーン"
+        }
+    ]
+}

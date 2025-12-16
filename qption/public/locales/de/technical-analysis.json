@@ -1,0 +1,52 @@
+{
+    "seo": {
+        "title": "Technische Analyse – Charts, Indikatoren & Setups | Qption",
+        "description": "Beherrsche die Märkte mit der ausführlichen technischen Analyse von Qption: Live-Chartideen, Indikator-Guides und wöchentliche Setups für Forex, Krypto und Indizes.",
+        "keywords": "technische Analyse, Trading-Charts, Price Action, Indikatoren, Candlestick-Muster, Unterstützung und Widerstand, Qption Education, Forex-Analyse, Krypto-Analyse",
+        "ogTitle": "Technische Analyse – Charts, Indikatoren & Setups | Qption",
+        "ogDescription": "Erhalte praxisnahe Chartanalysen und Indikator-Guides von Qptions Analysten – täglich aktualisiert für Forex- und Krypto-Trader.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "hero": {
+        "title": "Technische Analyse",
+        "subtitle": "Meistere die Kunst der Marktanalyse mit unseren umfassenden Tools und Indikatoren"
+    },
+    "labels": {
+        "learnMore": "Mehr erfahren →",
+        "quizCta": "Quiz zur technischen Analyse starten",
+        "videoAria": "Technische Analyse nutzt Charts, Muster und Indikatoren, um zukünftige Preisbewegungen abzuschätzen."
+    },
+    "strategies": [
+        {
+            "title": "Bollinger Bänder",
+            "link": "/technical-analysis/bollinger",
+            "description": "Volatilitätsbasierte Trading-Bänder zur Price-Action-Analyse"
+        },
+        {
+            "title": "Alligator-Indikator",
+            "link": "/technical-analysis/alligator",
+            "description": "Trendfolgendes Tool auf Basis geglätteter Durchschnitte"
+        },
+        {
+            "title": "RSI-Indikator",
+            "link": "/technical-analysis/RSIIndicator",
+            "description": "Momentum-Oszillator für Geschwindigkeit und Richtungswechsel"
+        },
+        {
+            "title": "Technische Analyse",
+            "link": "/technical-analysis/technical",
+            "description": "Umfassende Marktanalyse mit diversen Tools"
+        },
+        {
+            "title": "Gleitende Durchschnitte",
+            "link": "/technical-analysis/moving-averages",
+            "description": "Trenderkennung und dynamische S/R-Level"
+        }
+    ],
+    "bullets": [
+        "Technische Analyse ist eine Trading-Disziplin, die Preisdiagramme, Muster und Indikatoren nutzt, um künftige Kursbewegungen einzuschätzen.",
+        "Sie fokussiert historische Preise, Volumen und andere Marktmetriken, um Trends sowie mögliche Ein- und Ausstiegspunkte zu erkennen.",
+        "Technische Analyse wird in zahlreichen Märkten eingesetzt – Aktien, Forex, Krypto und Rohstoffe."
+    ]
+}

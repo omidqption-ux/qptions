@@ -1,0 +1,50 @@
+{
+    "seo": {
+        "title": "Reversal-Trading-Strategie | Qption",
+        "description": "Lerne die Reversal-Strategie: Trendermüdung erkennen, Unterstützung/Widerstand, RSI, MACD, Divergenzen und Candlestick-Muster zur Bestätigung einsetzen und das Risiko mit klaren Stops und Zielen steuern.",
+        "keywords": "Reversal-Strategie, Trendwechsel, Trenderschöpfung, Unterstützung und Widerstand, Divergenz, RSI, MACD, Candlestick-Muster, Hammer, Engulfing, Risikomanagement, Bestätigungssignale, Handelsstrategie, Qption",
+        "url": "https://qption.com/graphical-analysis/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "ogAlt": "Reversal-Trading-Strategie"
+    },
+    "ui": {
+        "backToGraphical": "Zurück zur grafischen Analyse",
+        "graphicalLink": "Grafische Analyse"
+    },
+    "page": {
+        "title": "Reversal-Trading-Strategie"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln?",
+        "start": "Jetzt handeln"
+    },
+    "video": {
+        "aria": "Eine Umkehr entsteht, wenn der laufende Trend an Kraft verliert und sich eine Richtungsänderung abzeichnet. Trader achten auf Ermüdungssignale wie nachlassendes Momentum, tiefere Hochs im Aufwärtstrend oder höhere Tiefs im Abwärtstrend."
+    },
+    "sections": {
+        "keyConcepts": {
+            "h": "Schlüsselkonzepte der Reversal-Strategie",
+            "items": [
+                "Trenderschöpfung: Eine Umkehr bildet sich, wenn der Trend Fahrt verliert und Richtungswechsel möglich werden.",
+                "Unterstützungs- & Widerstandsniveaus: Starke Unterstützung im Abwärtstrend oder Widerstand im Aufwärtstrend können eine Umkehr auslösen.",
+                "Technische Indikatoren: RSI, MACD oder Stochastik erkennen überkaufte/überverkaufte Zonen und deuten Umkehr an.",
+                "Candlestick-Muster: Doji, Hammer oder Engulfing visualisieren potenzielle Wendepunkte.",
+                "Divergenz: Wenn Preis und Indikator auseinanderlaufen (z. B. tiefere Tiefs im Preis, höhere Tiefs im RSI), kann eine Umkehr folgen."
+            ]
+        },
+        "apply": {
+            "h": "Anwendung der Reversal-Strategie",
+            "items": [
+                "Bestimme den vorherrschenden Trend – Reversals funktionieren am besten nach langen, ausgeprägten Bewegungen.",
+                "Achte auf Signale wie Extremwerte bei Indikatoren oder Reversal-Kerzenformationen.",
+                "Warte auf Bestätigung durch Brüche von S/R, Divergenzen oder gegenläufige Kerzenfolgen.",
+                "Definiere Einstiege/Ausstiege anhand von Unterstützung/Widerstand und gleitenden Durchschnitten.",
+                "Setze strenges Risikomanagement ein – Stops knapp hinter den Bereichen platzieren, die eine Umkehr negieren würden."
+            ]
+        },
+        "example": {
+            "h": "Beispiel für eine Reversal-Strategie",
+            "text": "Eine Aktie im mehrwöchigen Aufwärtstrend zeigt RSI über 70, ein bärisches Engulfing direkt am Widerstand und eine MACD-Divergenz. Der Trader eröffnet eine Short-Position mit Stop über dem Widerstand und nimmt Gewinne mit, sobald der Kurs fällt."
+        }
+    }
+}

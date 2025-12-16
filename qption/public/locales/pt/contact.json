@@ -1,0 +1,21 @@
+{
+    "seo": {
+        "title": "Fale Conosco – Qption",
+        "description": "Precisa de ajuda? Nossa equipe de suporte está disponível 24/7 por chat, e-mail ou telefone.",
+        "keywords": "Qption contato, suporte ao cliente, ajuda trading, telefone Qption, e-mail Qption",
+        "ogDescription": "Dúvidas sobre trading, parcerias ou a plataforma? Fale com um humano da Qption — 24/7.",
+        "twitterDescription": "Suporte Qption 24/7 — fale conosco agora.",
+        "url": "https://qption.com/contact",
+        "ogImage": "https://qption.com/images/og/contact-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Fale Conosco",
+        "support": "Suporte ao cliente",
+        "supportHours": "24 horas por dia, 7 dias por semana",
+        "email": "Endereço de e-mail",
+        "phone": "Número de telefone",
+        "address": "Endereço",
+        "cityCountry": "Estocolmo, Suécia"
+    }
+}

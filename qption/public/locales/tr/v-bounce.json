@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "V-Bounce (Hacim Sıçraması) Trading Stratejisi | Qption",
+        "description": "V-Bounce trading stratejisini öğrenin: destek & direnç, kırıl mı sıçra mı karar noktaları, breakout “strike” ve ilk geri çekilme “boomerang”, ayrıca 60 saniyelik opsiyonlar için sıçrama girişleri ve fraktal teyidi kullanın.",
+        "keywords": "V-Bounce,hacim sıçraması,destek ve direnç,breakout stratejisi,geri çekilme stratejisi,boomerang girişi,fraktal teyidi,60 saniyelik opsiyonlar,trading stratejisi,Qption",
+        "ogAlt": "Hacim sıçraması ve destek & direnç ile V-Bounce trading stratejisi",
+        "ld": {
+            "headline": "V-Bounce (Hacim Sıçraması) Trading Stratejisi"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading stratejisi"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısınız",
+        "startTrading": "Ticarete Başla"
+    },
+    "hero": {
+        "title": "V-Bounce Hacim Sıçraması Trading Stratejisi",
+        "subtitle": "Daha küçük işlemlerde getiriyi azamiye çıkarmak için birçok trader, işlem sıklığını artırmak adına daha likit piyasalara odaklanır. Popüler 60 saniyelik opsiyon stratejilerinden biri, belirgin destek veya direnç seviyelerinden net fiyat sıçramalarını yakalamaktır. Bu yaklaşım, trader'ların kısa sürede hızlı ve öngörülebilir fiyat hareketlerinden yararlanmasını sağlar."
+    },
+    "sr": {
+        "title": "Destek ve direncin rolü",
+        "p1": "Destek ve direnç (S&D) seviyeleri Qption'da işlem yapmak için temel araçlardır. Bu seviyeler, varlıkların geçmişte dönüş yaptığı veya durakladığı fiyat bölgelerini işaretleyerek trader'ların olası giriş ve çıkış noktalarını belirlemesine yardımcı olur. Bu bölgeleri tanımak, fiyat sıçramalarını veya kırılmalarını öngörüp stratejileri optimize etmeye yönelik daha bilinçli kararlar almayı sağlar.",
+        "p2": "Fiyat önceden belirlenmiş destek veya dirence yaklaştığında, trader'lar potansiyel bir “kırıl ya da sıçra noktası” tanımlayabilir. Bu, fiyatın seviyeden sıçrama mı yoksa kırılma mı yapma olasılığını netleştirir ve devam sinyali verir.",
+        "list": {
+            "title": "Yaygın S&D unsurları",
+            "i1": {
+                "h": "Tarihî Zirveler ve Dipler",
+                "p": "Önceki tepe ve dipler genellikle güçlü S&D bölgeleri olarak davranır."
+            },
+            "i2": {
+                "h": "Hareketli Ortalamalar",
+                "p": "Yaygın kullanılan HO'lar (ör. 50/200) dinamik S&D gibi davranabilir."
+            },
+            "i3": {
+                "h": "Trend Çizgileri",
+                "p": "Swing'ler boyunca çizilen çizgiler muhtemel devam veya dönüş alanlarını gösterir."
+            },
+            "i4": {
+                "h": "Fibonacci Düzeltmeleri",
+                "p": "%38,2, %50 ve %61,8 gibi seviyeler sık sık S&D ile hizalanır."
+            },
+            "i5": {
+                "h": "Yuvarlak Rakamlar",
+                "p": "Psikolojik seviyeler (ör. 1,00 / 100) çoğunlukla bariyer görevi görür."
+            }
+        }
+    },
+    "bb": {
+        "title": "Kırıl veya sıçra noktası",
+        "p": "Bir Qption trader'ı kritik bir S&D seviyesini belirlediğinde, bu seviye “kumda çizgi” hâline gelir. Önceden tanımlanmış bu karar noktası, fiyatın o seviyedeki davranışını yakından takip etmeye odaklanır—sıçrama mı kırılma mı geleceğini görmek için."
+    },
+    "why": {
+        "title": "Neden önemli?",
+        "l1": "Önceden işaretlenen seviyeler gürültüyü filtreler ve nesnel karar noktaları oluşturur.",
+        "l2": "Filtreler olmadan her tik önemli görünür ve korku/açgözlülük kaynaklı kararları tetikler.",
+        "p1": "Araçlarınızla kırıl/sıçra noktasını haritaladıktan sonra fiyatın bölgeye yaklaşmasını bekleyin. Fiyat geldiğinde kırıp kırmadığını veya seviyeye saygı gösterip tersine dönüp dönmediğini gözlemleyin.",
+        "strike": {
+            "h": "Breakout (Strike)",
+            "p": "Fiyat S&D seviyesini aşar ve olası devam sinyali verir. Bu hareketler kırılma yönünde işlem yapılabilir."
+        },
+        "boomerang": {
+            "h": "İlk Geri Çekilme (Boomerang)",
+            "p": "Kırılmadan sonra fiyat genellikle kırılan seviyeyi yeniden test eder. Bu ilk geri çekilme gücü teyit edip ikincil giriş sunabilir."
+        },
+        "p2": "Qption'da opsiyon girişleri için strike (breakout) ve ilk geri çekilme (boomerang) fırsatlarını yakalamaya odaklanırız."
+    },
+    "bounce": {
+        "title": "Sıçramaları trade etmek",
+        "p1": "Bir sıçrama küçük bir geri çekilme, derin bir geri çekilme veya tam bir dönüş olabilir. Büyük tepe/dipler ve Fibonacci seviyeleri nadiren bir miktar “saygı” görmeden kırılır.",
+        "p2": "Sıçrama giriş tarzları şunlardır:",
+        "direct": {
+            "h": "Doğrudan",
+            "p": "Girişi tam olarak S&D seviyesinde (ör. Fibonacci seviyesi veya önceki tepe) verin. Avantajı: en erken gerçekleşme. Dezavantajı: fiyat düşük zaman dilimlerinde bölgeyi kısa süreyle aşabilir ve stop'ları zorlaştırabilir."
+        },
+        "confirm": {
+            "h": "Sıçrama Teyidi",
+            "p": "S&D seviyesinde belirgin tepkiyi (duraklama/reddetme) bekleyin, kör limit yerine teyitle giriş yapın."
+        },
+        "breakAfter": {
+            "h": "Sıçrama Sonrası Breakout",
+            "p": "Yapıyı tanımlamak için fraktal gibi araçlar kullanın ve Qption platformunda kademeli giriş/çıkış düşünün."
+        }
+    },
+    "fractals": {
+        "title": "Fraktal kullanarak sıçrama",
+        "lead": "Sıçramayı trade etmenin başka bir yolu da fraktal kullanmaktır. Süreç:",
+        "steps": {
+            "1": "Önemli bir S&D seviyesini öngörün.",
+            "2": "Fiyatın orada tepki verip bir fraktal oluşturmasını bekleyin.",
+            "3": "Fiyatın bu S&D seviyesinden uzaklaşmasını bekleyin.",
+            "4": "Zıt tarafta bir fraktal oluşmasını bekleyin.",
+            "5": "Bu zıt fraktalın kırılmasını trade edin."
+        },
+        "meanTitle": "Bu ne anlama geliyor?",
+        "meanBody": "Fiyata dur–dön–dur–dön imkânı tanıyarak iki “kumda çizgi” elde edersiniz: beklenen S&D ve zıt fraktal. Bu çizgilerden birinin kırılması genellikle muhtemel kazananı ortaya çıkarır."
+    }
+}

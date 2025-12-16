@@ -1,0 +1,51 @@
+{
+    "seo": {
+        "title": "Análisis Gráfico – Gráficos Interactivos y Escáner de Patrones | Qption",
+        "description": "Explora la suite de análisis gráfico de Qption: gráficos multi-activo, detección automática de patrones y herramientas de dibujo en tiempo real para forex, cripto e índices.",
+        "keywords": "análisis gráfico, gráficos interactivos, patrones chartistas, triángulo, hombro-cabeza-hombro, líneas de tendencia, gráficos forex, gráficos cripto, herramientas Qption",
+        "ogTitle": "Análisis Gráfico – Gráficos Interactivos y Escáner de Patrones | Qption",
+        "ogDescription": "Identifica cuñas, canales y rupturas en segundos con el escáner automático de patrones y el kit avanzado de dibujo de Qption.",
+        "url": "https://qption.com/es/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Análisis Gráfico – Gráficos Interactivos y Escáner de Patrones | Qption",
+        "twitterDescription": "Opera lo que ves: utiliza los gráficos en vivo y la IA de reconocimiento de patrones de Qption para confirmar entradas y salidas.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/es/graphical-analysis"
+    },
+    "page": {
+        "title": "Análisis Gráfico",
+        "subtitle": "Descifra la acción del precio con gráficos dinámicos, reconocimiento de patrones y tendencias visuales — opera cada movimiento con claridad y confianza."
+    },
+    "ui": {
+        "learnMore": "Más información"
+    },
+    "cards": {
+        "movingAverage": {
+            "title": "Indicador de Media Móvil"
+        },
+        "fibonacciElliott": {
+            "title": "Retrocesos de Fibonacci y Ondas de Elliott"
+        },
+        "reversal": {
+            "title": "Patrones de Reversión de Tendencia"
+        },
+        "trendContinuation": {
+            "title": "Patrones de Continuación de Tendencia"
+        },
+        "graphicalAnalysis": {
+            "title": "Análisis Gráfico"
+        }
+    },
+    "video": {
+        "aria": "El análisis técnico utiliza gráficos de precios, patrones e indicadores para anticipar movimientos futuros del mercado."
+    },
+    "cta": {
+        "takeQuiz": "Realizar el quiz de análisis gráfico"
+    },
+    "bullets": [
+        "El análisis gráfico estudia el comportamiento del precio mediante gráficos, patrones visuales y herramientas de dibujo para anticipar movimientos probables.",
+        "Hace énfasis en señales visuales — líneas de tendencia, soportes/resistencias, perfiles de volumen y overlays — para detectar cambios de momentum y cronometrar entradas/salidas.",
+        "Los traders aplican el análisis gráfico en acciones, cripto, forex y materias primas para tomar decisiones rápidas y claras."
+    ]
+}

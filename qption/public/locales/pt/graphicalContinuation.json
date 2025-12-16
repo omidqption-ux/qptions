@@ -1,0 +1,190 @@
+{
+    "seo": {
+        "title": "Padrões de Continuação de Tendência – Bandeiras, Flâmulas, Triângulos e Retângulos | Qption",
+        "description": "Entenda os padrões de continuação de tendência na análise gráfica: bandeiras, flâmulas, triângulos ascendentes/descendentes e retângulos. Aprenda formação, confirmação do breakout, benefícios, limitações e como usar o volume para evitar falsos rompimentos.",
+        "keywords": "padrões de continuação, bandeira, flâmula, triângulo ascendente, triângulo descendente, retângulo, confirmação de breakout, confirmação por volume, análise técnica, análise gráfica, seguidor de tendência, Qption",
+        "url": "https://qption.com/pt/graphical-analysis/trend-continuation-patterns",
+        "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+        "ogAlt": "Guia de padrões de continuação de tendência",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Padrões de Continuação de Tendência – Bandeiras, Flâmulas, Triângulos e Retângulos",
+            "description": "Entenda os padrões de continuação de tendência na análise gráfica: bandeiras, flâmulas, triângulos ascendentes/descendentes e retângulos. Aprenda formação, confirmação do breakout, benefícios, limitações e como usar o volume para evitar falsos rompimentos.",
+            "mainEntityOfPage": "https://qption.com/pt/graphical-analysis/trend-continuation-patterns",
+            "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Padrão de continuação de tendência"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bandeira"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Flâmula"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Triângulo ascendente"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Triângulo descendente"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Retângulo"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Breakout"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Confirmação por volume"
+                }
+            ],
+            "articleSection": [
+                "Padrões de continuação na análise gráfica",
+                "Visão geral",
+                "Padrões de continuação mais comuns",
+                "Bandeira",
+                "Flâmula",
+                "Triângulo ascendente",
+                "Triângulo descendente",
+                "Retângulo",
+                "Benefícios do uso de padrões de continuação",
+                "Limitações dos padrões de continuação"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Bandeira",
+                    "value": "Movimento forte (haste) seguido de pequena consolidação em canal paralelo; rompimento na direção da tendência"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Flâmula",
+                    "value": "Curta consolidação entre linhas convergentes; rompimento alinhado à tendência anterior"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Triângulo ascendente",
+                    "value": "Resistência plana com fundos ascendentes; continuação altista ao romper a resistência"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Triângulo descendente",
+                    "value": "Suporte plano com topos descendentes; continuação baixista ao romper o suporte"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Retângulo",
+                    "value": "Consolidação lateral entre suporte/resistência horizontais; rompimento continua a tendência anterior"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Confirmação e risco",
+                    "value": "Usar expansão de volume no rompimento; cuidado com falsos rompimentos; stops fora dos limites do padrão"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Voltar à análise gráfica",
+        "graphicalLink": "Análise gráfica"
+    },
+    "page": {
+        "title": "Padrões de continuação de tendência na análise gráfica"
+    },
+    "cta": {
+        "ready": "Pronto para operar?",
+        "start": "Começar a operar"
+    },
+    "video": {
+        "aria": "Padrões de continuação de tendência são formações gráficas que indicam uma pausa temporária no movimento atual, geralmente seguida pela continuação na mesma direção."
+    },
+    "sections": {
+        "overview": {
+            "h": "Visão geral",
+            "items": [
+                "Padrões de continuação sugerem pausa seguida de retomada na mesma direção.",
+                "Oferecem pontos de entrada após breves consolidações.",
+                "Aparecem em mercados de alta e de baixa, em múltiplos prazos."
+            ]
+        },
+        "patterns": {
+            "h": "Padrões de continuação mais comuns",
+            "list": [
+                {
+                    "h": "1. Bandeira",
+                    "items": [
+                        "Consolidação de curto prazo semelhante a uma bandeira na haste após forte movimento.",
+                        "Formação: movimento direcional intenso (haste) seguido de consolidação em pequeno canal paralelo (bandeira).",
+                        "Rompimento: acima (tendência de alta) ou abaixo (tendência de baixa) confirma a continuação.",
+                        "Interpretação: alta probabilidade de continuidade da tendência após o breakout."
+                    ]
+                },
+                {
+                    "h": "2. Flâmula",
+                    "items": [
+                        "Semelhante à bandeira, mas a consolidação forma um pequeno triângulo convergente (flâmula).",
+                        "Formação: avanço/queda e depois consolidação entre linhas convergentes.",
+                        "Rompimento: na direção do movimento anterior sugere continuação.",
+                        "Interpretação: breve pausa antes da retomada da tendência."
+                    ]
+                },
+                {
+                    "h": "3. Triângulo ascendente",
+                    "items": [
+                        "Padrão altista com resistência horizontal e fundos ascendentes.",
+                        "Formação: fundos mais altos contra nível de resistência horizontal.",
+                        "Rompimento: acima da resistência sinaliza continuação da tendência de alta.",
+                        "Interpretação: pressão compradora crescente, frequentemente culminando em rompimento para cima."
+                    ]
+                },
+                {
+                    "h": "4. Triângulo descendente",
+                    "items": [
+                        "Padrão baixista com suporte horizontal e topos descendentes.",
+                        "Formação: topos mais baixos contra um nível de suporte horizontal.",
+                        "Rompimento: abaixo do suporte sinaliza continuação da tendência de baixa.",
+                        "Interpretação: pressão vendedora crescente, comumente levando ao rompimento para baixo."
+                    ]
+                },
+                {
+                    "h": "5. Retângulo",
+                    "items": [
+                        "Lateralização entre suporte e resistência horizontais.",
+                        "Formação: preço oscila entre níveis horizontais formando um retângulo.",
+                        "Rompimento: para cima (altista) ou para baixo (baixista) continua a tendência anterior.",
+                        "Interpretação: consolidação temporária antes da retomada no sentido do rompimento."
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "h": "Benefícios do uso de padrões de continuação",
+            "items": [
+                "Melhor timing de entrada durante consolidações.",
+                "Fortalece estratégias seguidoras de tendência ao destacar pontos de retomada.",
+                "Particularmente eficaz em tendências fortes e persistentes."
+            ]
+        },
+        "limitations": {
+            "h": "Limitações dos padrões de continuação",
+            "items": [
+                "Podem ocorrer falsos rompimentos, especialmente em mercados voláteis.",
+                "Frequentemente requer confirmação (ex.: aumento de volume) para reduzir sinais falsos.",
+                "Menos confiáveis em mercados laterais e podem exigir confluências adicionais."
+            ]
+        }
+    }
+}

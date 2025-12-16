@@ -1,0 +1,140 @@
+{
+    "seo": {
+        "title": "Programa de Afiliados – Ganhe até 40% de participação nas receitas | Qption",
+        "description": "Associe-se à Qption e transforme o seu público em lucro. Ganhe comissões flexíveis em modelo CPA ou de revenue share, com acompanhamento em tempo real e pagamentos semanais por cada trader indicado.",
+        "keywords": "afiliados Qption, programa de afiliados trading, CPA forex, afiliados cripto, revenue share, programa de parceiros, indicar traders, programa IB, parceria com corretora",
+        "ogTitle": "Programa de Afiliados – Ganhe até 40% de participação nas receitas | Qption",
+        "ogDescription": "Junte-se ao Programa de Afiliados da Qption e receba pagamentos líderes no setor, materiais de marketing e suporte dedicado.",
+        "url": "https://qption.com/affiliate",
+        "image": "https://qption.com/images/og/affiliate-qption.jpg"
+    },
+    "hero": {
+        "title": "Programa de Afiliados",
+        "subtitle": "Participe do nosso programa de afiliados e comece a ganhar comissões indicando traders para a nossa plataforma. Escolha o plano que melhor se adapta aos seus objetivos."
+    },
+    "tabs": {
+        "basic": "Básico",
+        "pro": "Profissional",
+        "elite": "Elite"
+    },
+    "labels": {
+        "commission": "Comissão",
+        "incomePotential": "Potencial de rendimento",
+        "featuresTitle": "Recursos",
+        "benefitsTitle": "Benefícios do programa"
+    },
+    "stats": [
+        {
+            "title": "Afiliados ativos",
+            "value": "10.000+"
+        },
+        {
+            "title": "Pagamentos totais",
+            "value": "$5M+"
+        },
+        {
+            "title": "Taxa de sucesso",
+            "value": "95%"
+        }
+    ],
+    "plans": [
+        {
+            "title": "Plano de Afiliado Básico",
+            "subtitle": "Nível inicial",
+            "description": "Perfeito para iniciantes que desejam começar a ganhar com o mínimo de compromisso. Construa sua rede e obtenha comissões consistentes.",
+            "commission": "5-10%",
+            "income": "$50 - $500/mês",
+            "gradient": "bg-linear-to-br from-green-500/20 to-green-500/5",
+            "features": [
+                {
+                    "title": "Comissão por Indicação Direta",
+                    "description": "Ganhe 5-10% sobre as taxas de negociação geradas por seus indicados diretos."
+                },
+                {
+                    "title": "Bônus Único de Cadastro",
+                    "description": "Receba um pequeno bônus por cada indicado direto que se torne um usuário ativo."
+                },
+                {
+                    "title": "Suporte de Marketing",
+                    "description": "Acesso a materiais básicos de marketing e tutoriais para ajudar na divulgação."
+                }
+            ]
+        },
+        {
+            "title": "Plano de Afiliado Profissional",
+            "subtitle": "Nível intermediário",
+            "description": "Ideal para profissionais de marketing experientes que desejam aumentar seus ganhos. Acesso a ferramentas avançadas e comissões multinível.",
+            "commission": "10-15%",
+            "income": "$500 - $2.000/mês",
+            "gradient": "bg-linear-to-br from-green-500/30 to-green-500/10",
+            "features": [
+                {
+                    "title": "Comissão por Indicação Direta",
+                    "description": "10-15% sobre as taxas de negociação geradas pelos seus indicados diretos."
+                },
+                {
+                    "title": "Comissão de Segundo Nível",
+                    "description": "3-5% sobre as taxas de negociação geradas pelos indicados de seus afiliados diretos."
+                },
+                {
+                    "title": "Bônus de Desempenho",
+                    "description": "Bônus adicionais por atingir metas de indicação."
+                },
+                {
+                    "title": "Recursos de Marketing Avançados",
+                    "description": "Acesso a materiais promocionais aprimorados e sessões estratégicas."
+                }
+            ]
+        },
+        {
+            "title": "Plano de Afiliado Elite",
+            "subtitle": "Nível avançado",
+            "description": "Destinado a afiliados de alto desempenho que buscam maximizar seus ganhos. Acesso a benefícios exclusivos e as maiores taxas de comissão.",
+            "commission": "15-20%",
+            "income": "$2.000 - $10.000/mês",
+            "gradient": "bg-linear-to-br from-green-500/40 to-green-500/15",
+            "features": [
+                {
+                    "title": "Comissão por Indicação Direta",
+                    "description": "15-20% sobre as taxas de negociação geradas pelos seus indicados diretos."
+                },
+                {
+                    "title": "Comissão Multinível",
+                    "description": "5% no segundo nível, 2% no terceiro e 1% no quarto nível."
+                },
+                {
+                    "title": "Pacote VIP de Marketing",
+                    "description": "Materiais de marketing personalizáveis e páginas de destino exclusivas."
+                },
+                {
+                    "title": "Bônus de Liderança",
+                    "description": "Bônus especiais para afiliados que ajudam sua equipe a alcançar o nível Profissional ou Elite."
+                },
+                {
+                    "title": "Suporte Exclusivo",
+                    "description": "Acesso a um gerente de afiliados dedicado e eventos exclusivos."
+                }
+            ]
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Renda Recorrente",
+            "description": "Ganhe comissões contínuas com base na atividade de negociação da sua rede.",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/5"
+        },
+        {
+            "title": "Crescimento Estruturado",
+            "description": "Construa e expanda sua rede com nossa estrutura multinível comprovada.",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/10"
+        },
+        {
+            "title": "Recompensas por Desempenho",
+            "description": "Receba bônus e incentivos ao atingir metas e marcos importantes.",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/15"
+        }
+    ],
+    "cta": {
+        "join": "Participe do Programa de Afiliados"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "seo": {
+        "title": "Social Trading – Folge unseren Top-Tradern | Qption",
+        "description": "Entdecke Qptions Social-Trading-Hub: Abonniere Live-Ideen unserer Lead-Trader, spiegle ihre Strategien und verpasse keine Marktbewegung. Folge uns auf X, Telegram, YouTube und Instagram für Echtzeit-Signale und Education.",
+        "keywords": "Qption Social Trading, Copy Trading, Top-Trader folgen, Tradingsignale, Forex-Signale, Krypto-Signale, Telegram Trading Gruppe, YouTube Trading Kanal, Trading Ausbildung",
+        "ogType": "website",
+        "ogTitle": "Social Trading – Folge unseren Top-Tradern | Qption",
+        "ogDescription": "Tritt der Qption Social-Trading-Community bei: Vernetze dich auf X, Telegram, YouTube und Instagram, kopiere Pro-Strategien und handle mit Vertrauen.",
+        "ogUrl": "https://qption.com/socialTrading",
+        "ogImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "Social Trading – Folge unseren Top-Tradern | Qption",
+        "twitterDescription": "Folge Qptions Lead-Tradern für Echtzeit-Forex- & Krypto-Signale, Marktkommentare und Education-Streams.",
+        "twitterImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "canonical": "https://qption.com/socialTrading",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "Social Trading",
+        "introBullets": [
+            "Sieh anderen Tradern zu und handle in Echtzeit.",
+            "Trade gemeinsam mit Investoren und Freunden.",
+            "Spüre das Selbstvertrauen von VIP-Tradern und lass dich von ihren Ergebnissen inspirieren."
+        ],
+        "video": {
+            "src": "/videos/socialTrading3.mp4",
+            "poster": "/videos/socialTrading.jpg",
+            "aria": "Qption ermöglicht es dir, Strategien führender Trader zu replizieren: Trades werden automatisch gespiegelt, während du Einsatzprozente und persönliche Gewinnziele selbst festlegst. So profitierst du von Experteneinsichten ohne dauerhafte manuelle Arbeit. Nicht warten – Konto eröffnen, 200 % Bonus sichern und mit Top-Experten durchstarten!"
+        },
+        "followUs": "Folge uns auf",
+        "social": {
+            "facebook": {
+                "label": "Facebook",
+                "handle": "facebook/qption",
+                "aria": "Qption auf Facebook"
+            },
+            "twitter": {
+                "label": "Twitter",
+                "handle": "twitter/qption",
+                "aria": "Qption auf Twitter"
+            },
+            "instagram": {
+                "label": "Instagram",
+                "handle": "instagram/qption",
+                "aria": "Qption auf Instagram"
+            },
+            "youtube": {
+                "label": "YouTube",
+                "handle": "youtube/qption",
+                "aria": "Qption auf YouTube"
+            }
+        }
+    }
+}

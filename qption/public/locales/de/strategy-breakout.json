@@ -1,0 +1,132 @@
+{
+    "seo": {
+        "title": "Breakout-Trading-Strategie – Levels, Volumenbestätigung & Risikomanagement | Qption",
+        "description": "Beherrsche die Breakout-Strategie: Schlüssel-Unterstützungen/-Widerstände erkennen, mit Volumen und Indikatoren (RSI, MACD, ATR, Bollinger-Bänder) bestätigen, Fehlausbrüche vermeiden und präzise Ein-/Ausstiege sowie Risiko steuern. Mit Vor-/Nachteilen und Beispiel.",
+        "url": "https://qption.com/trading-strategy/breakout",
+        "image": "https://qption.com/videos/breakout-strategy/breakout-strategy.jpg",
+        "imageAlt": "Breakout-Trading-Strategie",
+        "keywords": "Breakout-Strategie, Ausbrüche, Unterstützung und Widerstand, Volumenbestätigung, Fehlausbruch, RSI, MACD, ATR, Bollinger-Bänder, Momentum-Trading, Risikomanagement, Entry und Exit, Trading-Strategie, Qption",
+        "jsonLd": {
+            "headline": "Breakout-Trading-Strategie – Levels, Volumenbestätigung & Risikomanagement",
+            "about": [
+                "Breakout-Trading",
+                "Unterstützung und Widerstand",
+                "Volumenbestätigung",
+                "Fehlausbrüche",
+                "RSI",
+                "MACD",
+                "ATR",
+                "Bollinger-Bänder",
+                "Momentum",
+                "Risikomanagement"
+            ],
+            "articleSection": [
+                "Breakout-Strategie",
+                "Schlüsselkonzepte der Breakout-Strategie",
+                "Breakout-Strategie anwenden",
+                "Vor- und Nachteile der Breakout-Strategie",
+                "Beispiel für eine Breakout-Strategie"
+            ]
+        }
+    },
+    "breadcrumb": "Handelsstrategie",
+    "title": "Breakout-Strategie",
+    "cta": {
+        "prompt": "Bereit zu handeln?",
+        "button": "Jetzt handeln"
+    },
+    "video": {
+        "aria": "Breakouts entstehen häufig, wenn der Preis wichtige Unterstützungs- oder Widerstandsniveaus durchbricht."
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Schlüsselkonzepte der Breakout-Strategie",
+            "items": {
+                "levels": {
+                    "title": "Unterstützung und Widerstand:",
+                    "desc": "Breakouts entstehen meist beim Durchbruch wichtiger S/R-Zonen. Als psychologische Barrieren sorgen sie nach dem Bruch für Momentum."
+                },
+                "volume": {
+                    "title": "Volumenbestätigung:",
+                    "desc": "Steigendes Volumen während des Ausbruchs erhöht dessen Validität – es zeigt starkes Interesse an der neuen Richtung."
+                },
+                "types": {
+                    "title": "Breakout-Arten:",
+                    "bull": "Bullischer Breakout: Durchbruch über einen Widerstand und Hinweis auf Aufwärtstrend.",
+                    "bear": "Bärischer Breakout: Durchbruch unter eine Unterstützung und Hinweis auf Abwärtstrend."
+                },
+                "indicators": {
+                    "title": "Technische Indikatoren:",
+                    "desc": "MA, Bollinger-Bänder oder ATR bestätigen die Stärke eines Ausbruchs; expandierende Bollinger-Bänder signalisieren z. B. hohe Volatilität."
+                },
+                "false": {
+                    "title": "Fehlausbrüche:",
+                    "desc": "Kurzzeitige Überschreitungen mit sofortiger Umkehr. Zusätzliche Signale wie Volumen oder Schlusskurse helfen, Fehleinstiege zu vermeiden."
+                }
+            }
+        },
+        "howTo": {
+            "title": "Breakout-Strategie anwenden",
+            "items": {
+                "levels": {
+                    "title": "Schlüsselzonen bestimmen:",
+                    "desc": "Chartanalyse nutzen, um markante Hochs/Tiefs, Trendlinien oder runde Marken als S/R zu definieren."
+                },
+                "confirm": {
+                    "title": "Auf Bestätigung warten:",
+                    "desc": "Direkteinstiege sind riskant. Zusätzliche Bestätigung über Volumenanstieg, Close über/unter dem Level oder Indikator-Konsens abwarten."
+                },
+                "indicators": {
+                    "title": "Indikatoren nutzen:",
+                    "desc": "Signals mit RSI, MACD oder Moving Averages kombinieren. RSI > 50 (bullisch) bzw. < 50 (bärisch) unterstützt das Setup."
+                },
+                "entriesExits": {
+                    "title": "Ein- und Ausstieg planen:",
+                    "desc": "Entry: Order knapp über dem Widerstand (bullisch) bzw. unter der Unterstützung (bärisch).\nExit: Ziele anhand der Range zwischen S/R oder via Trailing-Stop festlegen."
+                },
+                "risk": {
+                    "title": "Risiko managen:",
+                    "desc": "Stop-Loss knapp unterhalb (bullisch) bzw. oberhalb (bärisch) des Ausbruchsniveaus setzen, um Umkehrungen abzufangen."
+                }
+            }
+        },
+        "prosCons": {
+            "title": "Vor- und Nachteile der Breakout-Strategie",
+            "pros": {
+                "title": "Vorteile:",
+                "items": {
+                    "reward": {
+                        "title": "Hohes Ertragspotenzial:",
+                        "desc": "Früh erkannte Ausbrüche führen oft zu starken Trends mit großen Gewinnchancen."
+                    },
+                    "momentum": {
+                        "title": "Momentum-Fokus:",
+                        "desc": "Die Strategie nutzt Schwungphasen und erleichtert den Einstieg in neue Trends."
+                    },
+                    "markets": {
+                        "title": "Marktübergreifend einsetzbar:",
+                        "desc": "Funktioniert in Aktien-, Forex- und Rohstoffmärkten."
+                    }
+                }
+            },
+            "cons": {
+                "title": "Nachteile:",
+                "items": {
+                    "falseBreakouts": {
+                        "title": "Fehlausbruchs-Risiko:",
+                        "desc": "Einstiege bei Fehlausbrüchen führen schnell zu Verlusten, wenn der Preis umkehrt."
+                    },
+                    "timing": {
+                        "title": "Timing-Herausforderung:",
+                        "desc": "Echte Breakouts zu identifizieren ist anspruchsvoll; falsches Timing verursacht Verluste oder verpasste Chancen."
+                    }
+                }
+            }
+        },
+        "example": {
+            "title": "Breakout-Strategie in der Praxis",
+            "p1": "Eine Aktie handelt in einer engen Spanne zwischen 95 $ (Support) und 100 $ (Widerstand). Nach mehreren Tests durchbricht sie das 100-$-Level bei hohem Volumen – bullisches Signal.",
+            "p2": "Der Trader legt einen Entry bei 101 $ und einen Stop bei 98 $. Steigt der Kurs weiter, definiert er Ziele anhand der vorigen Range oder nutzt einen Trailing-Stop, um zusätzliche Gewinne mitzunehmen."
+        }
+    }
+}

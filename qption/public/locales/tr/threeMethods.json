@@ -1,0 +1,76 @@
+{
+    "seo": {
+        "title": "Üç Yöntem Trading Stratejisi – Trend, Bant ve Tersine Teknikleri | Qption",
+        "description": "Trend takibi, bant (range) ve tersine yaklaşımı birleştiren Üç Yöntem trading stratejisini keşfedin. Hareketli Ortalamalar, Bollinger Bantları, RSI, MACD ve Fibonacci seviyeleri gibi araçlarla piyasa koşullarını belirlemeyi, sinyalleri filtrelemeyi ve riski yönetmeyi öğrenin.",
+        "keywords": "Üç Yöntem stratejisi, trend takibi, bant işlemi, ortalamaya dönüş, tersine işlem, ADX, MACD, RSI, Bollinger Bantları, Fibonacci, ayrışma, hareketli ortalamalar, risk yönetimi, Qption",
+        "ogAlt": "Trend, bant ve tersine kurulumlarını birleştiren Üç Yöntem trading stratejisi",
+        "ld": {
+            "headline": "Üç Yöntem Trading Stratejisi – Trend, Bant ve Tersine Teknikleri"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading stratejisi"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısınız?",
+        "startTrading": "Ticarete Başla"
+    },
+    "hero": {
+        "title": "Üç Yöntem Stratejisi",
+        "subtitle": "Trend, bant ve tersine işlem tekniklerinde ustalaşın — piyasa koşullarını belirleyin, gürültüyü filtreleyin ve yüksek olasılıklı işlem kurulumlarını hassasiyetle yakalayın."
+    },
+    "trend": {
+        "title": "1. Trend Takip Stratejisi",
+        "items": {
+            "1": "Amaç: Trendin yönüyle birlikte işlem yaparak kâr elde etmek.",
+            "2": "Araçlar: Hareketli Ortalamalar, MACD, ADX.",
+            "3": "Al Sinyali: Kısa vadeli HO'nun uzun vadeli HO'nun üzerine çıkması (boğa kesişimi).",
+            "4": "Sat Sinyali: Kısa vadeli HO'nun uzun vadeli HO'nun altına inmesi (ayı kesişimi).",
+            "5": "Örnek: 50 günlük ve 200 günlük Hareketli Ortalamalar — Golden Cross ve Death Cross kurulumları."
+        }
+    },
+    "range": {
+        "title": "2. Bant (Ortalama Dönüş) Stratejisi",
+        "items": {
+            "1": "Amaç: Destek yakınında alıp direnç yakınında satarak yatay piyasalardan kâr etmek.",
+            "2": "Araçlar: Bollinger Bantları, RSI, destek ve direnç seviyeleri.",
+            "3": "Al Sinyali: Fiyatın desteğe veya alt Bollinger bandına yaklaşması.",
+            "4": "Sat Sinyali: Fiyatın dirence veya üst Bollinger bandına yaklaşması.",
+            "5": "Örnek: Kırılma kayıplarını önlemek için stop-loss'u bant sınırlarının biraz ötesine yerleştirin."
+        }
+    },
+    "reversal": {
+        "title": "3. Tersine Dönüş Stratejisi",
+        "items": {
+            "1": "Amaç: Büyük trend dönüşlerinden kâr elde etmek.",
+            "2": "Araçlar: Mum formasyonları, ayrışma göstergeleri, Fibonacci seviyeleri.",
+            "3": "Al Sinyali: Boğa ayrışmasıyla desteklenen boğa dönüş formasyonu (ör. çekiç).",
+            "4": "Sat Sinyali: Ayı ayrışmasıyla desteklenen ayı dönüş formasyonu (ör. kayan yıldız).",
+            "5": "Örnek: Stop-loss'u boğa formasyonunun dip seviyesinin altına veya ayı formasyonunun tepe seviyesinin üstüne yerleştirin."
+        }
+    },
+    "combine": {
+        "title": "Üç Yöntemi Birleştirmek",
+        "items": {
+            "1": "Piyasa Koşullarını Belirleyin: Piyasanın trend mi yoksa bantta mı olduğunu anlamak için ADX ve Bollinger Bantlarını kullanın.",
+            "2": "Sinyalleri Filtreleyin: Doğruluğu artırmak için işlemleri ikincil göstergelerle teyit edin.",
+            "3": "Risk Yönetimi: Volatilite ve piyasa koşullarına göre stop-loss ve pozisyon büyüklüğünü ayarlayın."
+        }
+    },
+    "pros": {
+        "title": "Artılar",
+        "items": {
+            "1": "Çok Yönlü: Trend, bant ve tersine piyasa koşullarında çalışır.",
+            "2": "Artan Doğruluk: Birden fazla yöntem kullanmak sahte sinyalleri azaltır.",
+            "3": "Kapsamlı: Dengeli işlem için trend takibi, bant ve tersine yaklaşımları bir arada sunar."
+        }
+    },
+    "cons": {
+        "title": "Eksiler",
+        "items": {
+            "1": "Karmaşıklık: Birden fazla işlem tekniği ve göstergenin anlaşılmasını gerektirir.",
+            "2": "Yoğun Takip: Aktif analiz ve düzenli ayarlamalar ister.",
+            "3": "Aşırı İşlem Riski: Disiplinli yönetilmezse gereğinden fazla işlem yapmaya yol açabilir."
+        }
+    }
+}

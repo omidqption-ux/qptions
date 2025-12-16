@@ -1,0 +1,80 @@
+{
+    "seo": {
+        "title": "Strategia Alligator – Analisi Tecnica | Qption",
+        "description": "Apprendi il trading di trend e momentum con l’indicatore Alligator: scopri come funzionano Mascella, Denti e Labbra, impara i punti di ingresso/uscita e riduci i falsi segnali nei mercati laterali.",
+        "keywords": "Alligator, Bill Williams, analisi tecnica, trend following, momentum, medie mobili, strategia di trading, Qption",
+        "ogTitle": "Strategia Alligator – Analisi Tecnica | Qption",
+        "ogDescription": "Una guida pratica al trading con l’indicatore Alligator — dalla struttura ai segnali, con limiti e migliori pratiche.",
+        "url": "https://qption.com/technical-analysis/alligator",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Analisi Tecnica"
+    },
+    "promo": {
+        "text": "Pronto a fare trading con l’Alligator?",
+        "cta": "Inizia a Tradare"
+    },
+    "hero": {
+        "title": "Strategia Alligator",
+        "subtitle": "Padroneggia il trend following e il momentum trading con la nostra analisi completa dell’indicatore Alligator"
+    },
+    "overview": {
+        "title": "Panoramica",
+        "bullets": [
+            "L’indicatore Alligator, creato da Bill Williams, aiuta a identificare le fasi di trend e di consolidamento del mercato.",
+            "È composto da tre medie mobili smussate che rappresentano la Mascella, i Denti e le Labbra dell’Alligator.",
+            "Aiuta i trader a capire se il mercato è in trend o in fase laterale."
+        ]
+    },
+    "how": {
+        "title": "Come Funziona l’Alligator",
+        "items": [
+            {
+                "title": "Mascella (Linea Blu)",
+                "desc": "Media mobile smussata a 13 periodi spostata di 8, che rappresenta il trend di lungo periodo."
+            },
+            {
+                "title": "Denti (Linea Rossa)",
+                "desc": "Media mobile smussata a 8 periodi spostata di 5, che rappresenta il trend di medio periodo."
+            },
+            {
+                "title": "Labbra (Linea Verde)",
+                "desc": "Media mobile smussata a 5 periodi spostata di 3, che rappresenta il trend di breve periodo."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Strategie Chiave",
+        "items": [
+            {
+                "title": "1. Identificazione del Trend",
+                "points": [
+                    "Quando tutte e tre le linee sono allineate e si muovono nella stessa direzione, indica un trend forte.",
+                    "Quando le linee si intrecciano, il mercato è probabilmente in fase di range o consolidamento."
+                ]
+            },
+            {
+                "title": "2. Segnali di Ingresso",
+                "points": [
+                    "Compra quando la Linea delle Labbra incrocia al di sopra dei Denti e della Mascella in un trend rialzista.",
+                    "Vendi quando la Linea delle Labbra incrocia al di sotto dei Denti e della Mascella in un trend ribassista."
+                ]
+            },
+            {
+                "title": "3. Segnali di Uscita",
+                "points": [
+                    "Chiudi le posizioni long quando la Linea delle Labbra incrocia sotto i Denti.",
+                    "Chiudi le posizioni short quando la Linea delle Labbra incrocia sopra i Denti."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitazioni",
+        "bullets": [
+            "Ritardo: a causa della smussatura, i segnali possono arrivare in ritardo nei mercati più veloci.",
+            "Più efficace nei trend: nei mercati laterali può generare falsi segnali."
+        ]
+    }
+}

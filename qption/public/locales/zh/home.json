@@ -1,0 +1,216 @@
+{
+    "hero": {
+        "newsBar": {
+            "title": "最新市场新闻"
+        },
+        "marketBar": {
+            "title": "市场概览"
+        },
+        "slides": [
+            {
+                "title": "<strong>Qption</strong> 交易平台",
+                "subtitle": "让专业交易变得简单",
+                "bullets": [
+                    {
+                        "title": "极速执行",
+                        "desc": "超低延迟"
+                    },
+                    {
+                        "title": "安全平台",
+                        "desc": "银行级安全防护"
+                    },
+                    {
+                        "title": "低手续费",
+                        "desc": "具竞争力的成本"
+                    }
+                ]
+            },
+            {
+                "title": "<strong>AI智能</strong> 交易解决方案",
+                "subtitle": "利用先进的人工智能技术实现智能交易",
+                "bullets": [
+                    {
+                        "title": "AI分析",
+                        "desc": "智能市场洞察"
+                    },
+                    {
+                        "title": "实时数据",
+                        "desc": "实时市场更新"
+                    },
+                    {
+                        "title": "风险管理",
+                        "desc": "智能保护机制"
+                    }
+                ]
+            },
+            {
+                "title": "<strong>全球</strong> 市场通道",
+                "subtitle": "随时随地进行交易",
+                "bullets": [
+                    {
+                        "title": "全球市场",
+                        "desc": "全球范围接入"
+                    },
+                    {
+                        "title": "24/7交易",
+                        "desc": "全天候可用"
+                    },
+                    {
+                        "title": "多元资产",
+                        "desc": "多样化的交易选择"
+                    }
+                ]
+            }
+        ],
+        "images": {
+            "hero1Alt": "交易平台",
+            "hero2Alt": "交易平台 – 斜角视图",
+            "hero3Alt": "交易平台 – 控制面板"
+        }
+    },
+    "benefits": {
+        "heading": "交易<accent>优势</accent>",
+        "sub": "更聪明、更快速、更高效地交易 —— 体验我们的平台。",
+        "cards": [
+            {
+                "title": "5万美元模拟账户",
+                "desc": "使用免费模拟账户测试您的投资策略。",
+                "features": [
+                    "实时市场数据",
+                    "高级交易工具",
+                    "无风险练习",
+                    "完整平台访问"
+                ],
+                "alt": "模拟账户"
+            },
+            {
+                "title": "200%奖金",
+                "desc": "首次入金可获得200%奖金。通过我们的慷慨欢迎优惠提升您的交易潜力。",
+                "features": [
+                    "首次入金200%奖金",
+                    "即时激活奖金",
+                    "使用奖金资金进行交易",
+                    "多种支付方式"
+                ],
+                "alt": "奖金"
+            },
+            {
+                "title": "24/7客服支持",
+                "desc": "专业支持团队全天候为您提供帮助。",
+                "features": [
+                    "实时聊天支持",
+                    "电子邮件协助",
+                    "电话支持",
+                    "多语言团队"
+                ],
+                "alt": "全天候支持"
+            }
+        ]
+    },
+    "simpleStart": {
+        "title": "<accent>简单</accent>开始",
+        "sub": "只需几个简单步骤即可开启您的交易之旅",
+        "steps": [
+            {
+                "title": "注册",
+                "desc": "一分钟内创建您的账户",
+                "alt": "注册"
+            },
+            {
+                "title": "探索平台",
+                "desc": "发现我们的交易工具",
+                "alt": "平台"
+            },
+            {
+                "title": "开始交易",
+                "desc": "开启您的交易旅程",
+                "alt": "交易"
+            },
+            {
+                "title": "提款",
+                "desc": "即时获取您的资金",
+                "alt": "提款"
+            }
+        ]
+    },
+    "foundation": {
+        "title": "让<accent>AI</accent>为您工作",
+        "sub": "通过我们先进的AI驱动社交交易平台，将您的交易提升到新水平。根据您的财务目标和风险偏好选择多种账户方案。",
+        "plans": [
+            {
+                "title": "保守型AI交易方案",
+                "subtitle": "稳健收益 - 低风险",
+                "minDepositLabel": "最低存款：",
+                "returnsLabel": "预期收益：",
+                "strategiesLabel": "策略：",
+                "minDeposit": "500美元",
+                "returns": "5-6%",
+                "strategies": "均值回归（价格修正）、技术分析（形态识别）、风险管理（仓位控制）",
+                "features": [
+                    "低风险策略",
+                    "稳定回报",
+                    "市场分析",
+                    "风险管理"
+                ],
+                "cta": "开始AI交易"
+            },
+            {
+                "title": "中等型AI交易方案",
+                "subtitle": "平衡增长与收益",
+                "minDepositLabel": "最低存款：",
+                "returnsLabel": "预期收益：",
+                "strategiesLabel": "策略：",
+                "minDeposit": "3,000美元",
+                "returns": "12-18%",
+                "strategies": "趋势跟随、加密与外汇市场情绪分析、精选高频交易（HFT）",
+                "features": [
+                    "平衡策略",
+                    "多元化策略",
+                    "市场适应性",
+                    "绩效跟踪"
+                ],
+                "cta": "开始AI交易"
+            },
+            {
+                "title": "激进型AI交易方案",
+                "subtitle": "高风险，高回报",
+                "minDepositLabel": "最低存款：",
+                "returnsLabel": "预期收益：",
+                "strategiesLabel": "策略：",
+                "minDeposit": "10,000美元",
+                "returns": "25-40%",
+                "strategies": "高频交易（HFT）、杠杆趋势跟随、基于情绪与新闻的交易",
+                "features": [
+                    "高级策略",
+                    "高频交易",
+                    "市场机会",
+                    "风险优化"
+                ],
+                "cta": "开始AI交易"
+            }
+        ]
+    },
+    "investment": {
+        "title": "是什么让<accent>Qption</accent>成为明智之选？",
+        "sub": "了解为何交易者选择我们的平台开启他们的投资旅程",
+        "features": [
+            {
+                "title": "行业领先平台",
+                "desc": "屡获殊荣的平台，获得行业专家的认可与推荐"
+            },
+            {
+                "title": "可定制界面",
+                "desc": "从图表类型到颜色主题，随心定制您的交易体验"
+            },
+            {
+                "title": "轻松提款",
+                "desc": "通过多种安全支付方式即时获取资金"
+            },
+            {
+                "title": "全天候支持",
+                "desc": "24/7全时支持，随时为您服务"
+            }
+        ],
+        "cta": "了解更多"
+    }
+}

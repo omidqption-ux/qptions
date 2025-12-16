@@ -1,0 +1,97 @@
+{
+    "nav": {
+        "home": "Início",
+        "trade": "Trade",
+        "education": "Educação",
+        "pricing": "Preços",
+        "dashboard": "Painel",
+        "login": "Entrar",
+        "signup": "Criar conta",
+        "logout": "Sair",
+        "language": "Idioma"
+    },
+    "hero": {
+        "title": "Negocie com mais inteligência na Qption",
+        "subtitle": "Gráficos em tempo real, execução rápida e preços transparentes.",
+        "cta": "Começar"
+    },
+    "auth": {
+        "email": "E-mail",
+        "phone": "Telefone",
+        "password": "Senha",
+        "confirmPassword": "Confirmar senha",
+        "login": "Entrar",
+        "signup": "Criar conta",
+        "forgot": "Esqueceu a senha?",
+        "otp": "Digite o código de verificação",
+        "verify": "Verificar",
+        "or": "ou"
+    },
+    "trade": {
+        "buy": "Compra",
+        "sell": "Venda",
+        "openTrade": "Abrir operação",
+        "closeTrade": "Fechar operação",
+        "amount": "Valor",
+        "balance": "Saldo",
+        "profitLoss": "P/L",
+        "timeframe": "Tempo gráfico",
+        "marketOpen": "Mercado aberto",
+        "marketClosed": "Mercado fechado",
+        "mode": {
+            "live": "Ao vivo",
+            "demo": "Demo",
+            "real": "Real"
+        }
+    },
+    "chart": {
+        "loading": "Carregando gráfico…",
+        "indicators": "Indicadores",
+        "movingAverage": "Média móvel",
+        "bollingerBands": "Bandas de Bollinger",
+        "rsi": "RSI",
+        "alligator": "Alligator"
+    },
+    "wallet": {
+        "deposit": "Depósito",
+        "withdraw": "Saque",
+        "address": "Endereço",
+        "copy": "Copiar",
+        "copied": "Copiado!",
+        "confirmations": "Confirmações",
+        "status": {
+            "waiting": "Aguardando",
+            "confirmed": "Confirmado",
+            "rejected": "Rejeitado"
+        }
+    },
+    "kyc": {
+        "title": "Verificação de conta",
+        "uploadDoc": "Enviar documentos",
+        "pending": "Em análise",
+        "approved": "Aprovado",
+        "rejected": "Rejeitado"
+    },
+    "errors": {
+        "required": "Campo obrigatório",
+        "invalidEmail": "E-mail inválido",
+        "network": "Erro de rede, tente novamente",
+        "unknown": "Algo deu errado"
+    },
+    "common": {
+        "save": "Salvar",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar",
+        "back": "Voltar",
+        "next": "Avançar",
+        "search": "Pesquisar",
+        "loading": "Carregando…",
+        "viewMore": "Ver mais"
+    },
+    "footer": {
+        "rights": "Todos os direitos reservados."
+    },
+    "tryDemo": "Experimentar Demo",
+    "registration": "Registro",
+    "clientCabinet": "Área do Cliente"
+}

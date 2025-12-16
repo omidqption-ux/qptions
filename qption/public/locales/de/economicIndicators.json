@@ -1,0 +1,89 @@
+{
+    "seo": {
+        "title": "Wirtschaftsindikatoren & Marktreaktionen – BIP, VPI, Beschäftigung, PPI & mehr | Qption",
+        "description": "Verstehen Sie die wichtigsten Wirtschaftsindikatoren (BIP, VPI, Beschäftigung, Einzelhandelsumsätze, PPI, Handelsbilanz) und wie Märkte über Aktien, Anleihen, Devisen und Rohstoffe reagieren. Erfahren Sie, was jede Kennzahl signalisiert, typische Reaktionen sowie Vorteile und Einschränkungen für Händler.",
+        "keywords": "Wirtschaftsindikatoren, BIP, VPI, PPI, Beschäftigungsdaten, Nonfarm Payrolls, Einzelhandelsumsätze, Handelsbilanz, Marktreaktionen, Aktien, Anleihen, Devisen, Rohstoffe, Geldpolitik, Fundamentalanalyse, Qption",
+        "ogTitle": "Wirtschaftsindikatoren & Marktreaktionen – BIP, VPI, Beschäftigung, PPI & mehr | Qption",
+        "ogDescription": "Erfahren Sie, wie BIP, VPI, Arbeitsmarkt und PPI Aktien, Anleihen, Devisen und Rohstoffe bewegen – und wie Händler sie nutzen können.",
+        "url": "https://qption.com/de/fundamental-analysis/economic-indicators-market-reactions",
+        "image": "https://qption.com/images/og/economic-indicators-market-reactions.jpg"
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Fundamentalanalyse"
+    },
+    "page": {
+        "title": "Wirtschaftsindikatoren und Marktreaktionen"
+    },
+    "cta": {
+        "ready": "Bereit zum Handeln?",
+        "startTrading": "Jetzt handeln"
+    },
+    "sections": {
+        "overview": {
+            "title": "Überblick",
+            "bullets": [
+                "Wirtschaftsindikatoren sind statistische Kennzahlen, die den Zustand einer Volkswirtschaft widerspiegeln – sie helfen Händlern, Wachstum, Inflation, Beschäftigung und allgemeine Bedingungen zu bewerten.",
+                "Marktreaktionen auf diese Veröffentlichungen können erheblich sein und die Preise über Anlageklassen wie Aktien, Anleihen, Währungen und Rohstoffe bewegen.",
+                "Das Verständnis der wichtigsten Indikatoren hilft Händlern, Bewegungen vorherzusehen und Strategien an makroökonomische Trends anzupassen."
+            ]
+        },
+        "keyIndicators": {
+            "title": "Wichtige Wirtschaftsindikatoren",
+            "items": {
+                "gdp": "Bruttoinlandsprodukt (BIP): Misst die gesamte wirtschaftliche Leistung und gilt als Hauptindikator für die Gesundheit der Wirtschaft. Steigendes BIP signalisiert Wachstum; sinkendes weist auf eine Kontraktion hin.",
+                "cpi": "Verbraucherpreisindex (VPI): Verfolgt die Preisänderungen eines Warenkorbs von Gütern und Dienstleistungen – das wichtigste Maß für Inflation. Ein höherer VPI führt häufig zu einer strafferen Geldpolitik.",
+                "employment": "Beschäftigungsdaten: Umfassen Arbeitslosenquote und Nonfarm Payrolls und bieten Einblicke in den Arbeitsmarkt. Eine starke Beschäftigung unterstützt das Wachstum; schwache Daten signalisieren eine Abkühlung.",
+                "retailSales": "Einzelhandelsumsätze: Ein Indikator für den Verbraucherkonsum, einen Haupttreiber des Wachstums. Höhere Umsätze deuten auf Vertrauen hin; niedrigere können auf Schwäche hindeuten.",
+                "ppi": "Erzeugerpreisindex (PPI): Misst Preisänderungen auf Produzentenebene und kann Trends bei der Verbraucherpreisinflation vorwegnehmen.",
+                "tradeBalance": "Handelsbilanz: Die Differenz zwischen Exporten und Importen beeinflusst die Währungsstärke – Überschüsse stützen, Defizite können belasten."
+            }
+        },
+        "reactions": {
+            "title": "Marktreaktionen auf Wirtschaftsindikatoren",
+            "stocks": {
+                "title": "1. Aktienmärkte",
+                "bullets": [
+                    "Positive Daten (z. B. steigendes BIP oder starke Beschäftigung) können die Risikobereitschaft erhöhen und Aktienmärkte antreiben.",
+                    "Hohe Inflation oder nachlassendes Wachstum können Aktien belasten, da Investoren eine straffere Politik oder eine Rezession einpreisen."
+                ]
+            },
+            "bonds": {
+                "title": "2. Anleihemärkte",
+                "bullets": [
+                    "Starke Daten treiben die Renditen nach oben (Preise nach unten), da die Märkte Zinserhöhungen oder schnelleres Wachstum erwarten.",
+                    "Schwache Daten senken die Renditen (Preise steigen), da Anleger Sicherheit suchen und Zentralbanken lockerer agieren."
+                ]
+            },
+            "fx": {
+                "title": "3. Devisenmärkte (Forex)",
+                "bullets": [
+                    "Starke Indikatoren (z. B. BIP oder Beschäftigung) stützen die Währung über höhere Zinserwartungen und Kapitalzuflüsse.",
+                    "Schwache Daten können die Währung belasten, da niedrigere Zinserwartungen ihre Attraktivität verringern."
+                ]
+            },
+            "cmd": {
+                "title": "4. Rohstoffmärkte",
+                "bullets": [
+                    "Stärkeres Wachstum kann die Nachfrage nach Rohstoffen (z. B. Öl, Metalle) erhöhen und die Preise stützen.",
+                    "Schwächere Daten dämpfen die Nachfrage und drücken die Preise, wenn Produktion und Konsum nachlassen."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Vorteile der Beobachtung von Wirtschaftsindikatoren",
+            "bullets": [
+                "Markttrends vorhersagen: Makrodaten helfen, mögliche Kursbewegungen zu antizipieren und einzuordnen.",
+                "Fundierte Anlageentscheidungen: Unterstützt die Portfolioanpassung durch datengestützte Erkenntnisse.",
+                "Bewertung der wirtschaftlichen Gesundheit: Ein klareres makroökonomisches Bild erleichtert Risikobewertung und Timing."
+            ]
+        },
+        "limitations": {
+            "title": "Einschränkungen bei der Verwendung von Wirtschaftsindikatoren",
+            "bullets": [
+                "Nachlaufende Natur: Einige Indikatoren (wie das BIP) spiegeln die Vergangenheit wider und erfassen aktuelle Bedingungen nicht vollständig.",
+                "Volatilitätsrisiko: Wichtige Veröffentlichungen können starke, unvorhersehbare Marktbewegungen auslösen – insbesondere in Devisen und Aktien.",
+                "Komplexität der Interpretation: Gemischte Signale sind häufig; Erfahrung und zusätzliche Daten sind entscheidend."
+            ]
+        }
+    }
+}

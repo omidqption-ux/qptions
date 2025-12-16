@@ -1,0 +1,103 @@
+{
+    "seo": {
+        "title": "Martingale Trading Stratejisi – Pozisyon katlama & risk kontrolleri | Qption",
+        "description": "Martingale stratejisini anlayın: kayıplar sonrası pozisyon katlama nasıl işler, pratik örnekler, risk kontrolleri ve limitler, artılar/eksiler ile sistematik trader’lar için daha güvenli alternatifler.",
+        "keywords": "Martingale, martingale trading stratejisi, pozisyon boyutlama, katlama, risk yönetimi, kayıp telafisi, anti-martingale, pozisyon limitleri, trading stratejisi, Qption",
+        "ogAlt": "Pozisyon katlama merdiveniyle Martingale stratejisi"
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading stratejisi"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "startTrading": "Ticarete Başla"
+    },
+    "hero": {
+        "title": "Martingale Stratejisi: Genel Bakış",
+        "p1": "İster yeni ister deneyimli olsun, her trader istikrarlı kazanç sağlayan bir strateji arar. 18. yüzyıla dayanan olasılık teorisinden türeyen Martingale stratejisi de bu yöntemlerden biridir. İlk olarak kumar oyunları için geliştirilse de finansal piyasalara uyarlanmış ve hâlâ popülerliğini korumaktadır.",
+        "p2": "Martingale stratejisini hızlıca kavramanız için interaktif bir rehber hazırladık. Qption’da uygulayarak fiyat hareketini analiz etmeyi, giriş/çıkış noktalarını belirlemeyi ve riski etkin yönetmeyi öğrenebilir, böylece daha istikrarlı sonuçlar elde edebilirsiniz."
+    },
+    "video": {
+        "aria": "Martingale, trading ve kumarda yaygın kullanılan bir stratejidir. Birçok Qption trader'ı, kademeli olarak pozisyon artırmayı (ortalama veya scale-in) içermesi nedeniyle aşinadır. Ana fikir, kayıp sonrası pozisyonu iki katına çıkararak kayıpları telafi etmek ve net kâr elde etmektir."
+    },
+    "what": {
+        "title": "Martingale Stratejisi Nedir?",
+        "p1": "Martingale stratejisinde trader, kaybedilen işlemlerden sonra pozisyon boyutunu ikiye katlar. Amaç, nihayetinde gelen bir kazançla tüm önceki kayıpları kapatmak ve küçük de olsa net kâr yazmaktır. Konsepte basit görünse de yanlış uygulama büyük drawdown’lara yol açabilir. Doğru risk yönetimiyle dengeli kullanıldığında güçlü sonuçlar verebilir."
+    },
+    "how": {
+        "title": "Martingale Stratejisi Nasıl Çalışır?",
+        "p1": "Martingale, kökenini rulet gibi 50/50 olasılıklı bahis oyunlarından alır; kaybeden oyuncu bir sonraki bahsi iki katına çıkarır (ör. kırmızı/siyah). 1$ ile başlayıp kaybederseniz sonraki bahsiniz 2$ olur; kazandığınız anda tüm kayıpları telafi edip net 1$ kazanırsınız.",
+        "p2": "Trading tarafında bahislerin yerini alım-satım pozisyonları alır. Fiyat aleyhinize giderse belirli bir fiyat aralığı sonrası daha büyük pozisyon açarak başa baş noktasına ulaşmak için gereken mesafeyi azaltırsınız. Ancak fiyat yanlış yönde gitmeye devam ederse kayıplar katlanır; bu nedenle net limitler ve sermaye kontrolü şarttır."
+    },
+    "apply": {
+        "title": "Qption'da Martingale Uygulaması",
+        "p1": "Qption’da Martingale, fiyat ilk pozisyonunun aleyhine 100 puan giderse daha büyük ikinci pozisyon açarak uygulanabilir. Böylece break-even için daha küçük fiyat hareketi gerekir. Örneğin alım yaptıktan sonra fiyat 100 puan düşerse pozisyonu ikiye katlayıp sadece 50 puanlık geri dönüşle her iki işlemi de kurtarırsınız.",
+        "p2": "Ancak her ek pozisyon maruziyeti ve riski artırır. Martingale’i, trend yönü, yapı ve zamanlamaya odaklanan sağlam piyasa analiziyle mutlaka destekleyin.",
+        "p3": "Strateji küçük düzeltmelerin görüldüğü trend piyasalarda daha iyi çalışır. AUD/USD ve NZD/USD gibi daha pürüzsüz pariteler uygun olabilirken, GBP/JPY gibi yüksek volatiliteye sahip pariteler Martingale’i riskli kılabilir."
+    },
+    "consider": {
+        "title": "Martingale Stratejisi: Önemli Noktalar",
+        "items": {
+            "1": {
+                "h": "Seçici kullanım",
+                "p": "Her piyasa Martingale’e uygun değildir. Dalgalı veya oynak piyasalarda strateji hızla kayıp üretebilir; öngörülebilir trendlerin olduğu yerler tercih edilmelidir."
+            },
+            "2": {
+                "h": "Kontrollü pozisyon boyutları",
+                "p": "Küçük başlangıç işlemiyle başlayın. Çok hızlı katlamak sermayeyi tüketir; yönetilebilir büyüklükler kullanın ve ileri adımlar için rezerv bırakın."
+            },
+            "3": {
+                "h": "Net limitler belirle",
+                "p": "Limit olmadan Martingale büyük kayıplara yol açabilir. Maksimum işlem sayısı veya katı risk yüzdesi tanımlayarak hesabınızı koruyun."
+            },
+            "4": {
+                "h": "Piyasa analiziyle birleştir",
+                "p": "Hareketli ortalama veya destek/direnç gibi teknik araçlar doğruluğu artırır. Ana bölgelerde giriş yapmak, rebound olasılığını artırıp katlama frekansını azaltır."
+            },
+            "5": {
+                "h": "Piyasa koşullarına uyum sağla",
+                "p": "Martingale, stabil trendlerde veya öngörülebilir salınımlarda daha iyi performans verir. Ani dönüşlere yol açan haber/volatilite dönemlerinden kaçının."
+            },
+            "6": {
+                "h": "Stop kullan, duygularını yönet",
+                "p": "Pozisyon katlamak stresli olabilir. Disiplinli kalın — net stop seviyeleri ve çıkış planları belirleyerek duygusal işlemlerden kaçının."
+            }
+        }
+    },
+    "steps": {
+        "title": "Qption'da Martingale Kullanımı İçin Adımlar",
+        "lead": "Martingale stratejisinden verim almak için şu adımları izleyin:",
+        "items": {
+            "1": {
+                "h": "Para çifti seç",
+                "p": "Görece istikrarlı, öngörülebilir hareketleri olan pariteleri tercih et."
+            },
+            "2": {
+                "h": "Trend yönünü belirle",
+                "p": "Hareketli ortalama gibi indikatörlerle baskın trendle hizalan."
+            },
+            "3": {
+                "h": "Giriş noktası bul",
+                "p": "Planına uygun koşulların oluşmasını bekle."
+            },
+            "4": {
+                "h": "Minimum pozisyon boyutu belirle",
+                "p": "Esneklik için küçük başlangıç pozisyonu kullan."
+            },
+            "5": {
+                "h": "Trende paralel işlem aç",
+                "p": "Başarı olasılığını artırmak için baskın trend yönünde trade et."
+            },
+            "6": {
+                "h": "Kayıpta pozisyonu ikiye katla",
+                "p": "İşlem aleyhine gelişirse önceki pozisyonun iki katı büyüklükte yeni işlem aç."
+            },
+            "7": {
+                "h": "Kazançta başlangıç boyutuna dön",
+                "p": "Kazandıktan sonra tekrar temel pozisyon büyüklüğüne resetle."
+            }
+        },
+        "p1": "Disiplinli uygulandığında Martingale, sermaye büyütme açısından sistematik bir yaklaşım olabilir; ancak agresif bir metot olduğu için risk yönetimi kritiktir.",
+        "p2": "Qption’daki kısa videomuzu izleyerek uygulamayı görebilirsiniz. Unutmayın: hiçbir strateji risksiz değildir. Toleransınızı değerlendirin ve maruziyetinizi dikkatle yönetin."
+    }
+}

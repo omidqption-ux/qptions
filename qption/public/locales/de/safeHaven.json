@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Safe-Haven-Assets in Marktturbulenzen: Gold, Treasuries, CHF & JPY | Qption",
+        "description": "Erfahre, wie sichere Häfen wie Gold, US-Staatsanleihen, Schweizer Franken, Japanischer Yen und defensive Aktien sich in Phasen hoher Volatilität verhalten. Entdecke, warum Anleger sie für Kapitalschutz, Diversifikation und Hedging nutzen – inklusive wichtiger Trade-offs.",
+        "url": "https://qption.com/fundamental-analysis/safe-haven-assets-market-turbulence",
+        "keywords": "Safe-Haven-Assets, Gold, US Treasuries, Schweizer Franken CHF, Japanischer Yen JPY, defensive Aktien, Portfoliodiversifikation, Flight to Quality, Marktvolatilität, Inflationsschutz, Risikomanagement, Qption",
+        "ld": {
+            "headline": "Die Rolle von Safe-Haven-Assets in Marktturbulenzen",
+            "about": {
+                "safeHavens": "Sichere Häfen",
+                "gold": "Gold",
+                "treasuries": "US-Staatsanleihen",
+                "chf": "Schweizer Franken (CHF)",
+                "jpy": "Japanischer Yen (JPY)",
+                "defensive": "Defensive Aktien",
+                "volatility": "Marktvolatilität",
+                "f2q": "Flight to Quality",
+                "inflationHedge": "Inflationsschutz"
+            },
+            "props": {
+                "correlation": {
+                    "name": "Korrelationsprofil",
+                    "value": "Sichere Häfen weisen oft eine niedrige oder negative Korrelation zu Aktien auf und senken Portfoliovolatilität in Drawdowns."
+                },
+                "crisis": {
+                    "name": "Krisenverhalten",
+                    "value": "In Risk-off-Phasen fließt Kapital in Gold, erstklassige Staatsanleihen und ausgewählte Währungen (CHF/JPY)."
+                },
+                "tradeoffs": {
+                    "name": "Trade-offs",
+                    "value": "Geringere erwartete Renditen und Überfüllungsrisiken in Krisen können zu Überbewertungen und anschließenden Rücksetzern führen."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Fundamentalanalyse"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln?",
+        "start": "Jetzt handeln"
+    },
+    "page": {
+        "title": "Die Rolle von Safe-Haven-Assets in Marktturbulenzen"
+    },
+    "sections": {
+        "_list": [
+            "Die Rolle von Safe-Haven-Assets in Turbulenzen",
+            "Überblick",
+            "Häufige Safe-Haven-Assets",
+            "Gold",
+            "US-Staatsanleihen",
+            "Schweizer Franken (CHF)",
+            "Japanischer Yen (JPY)",
+            "Defensive Aktien",
+            "Warum Anleger sichere Häfen nutzen",
+            "Kapitalerhalt",
+            "Portfoliodiversifikation",
+            "Hedge gegen Inflation und Währungsrisiken",
+            "Marktreaktionen in turbulenten Zeiten",
+            "Steigende Nachfrage nach sicheren Häfen",
+            "Flight to Quality am Anleihemarkt",
+            "Vorteile von Safe-Haven-Assets im Portfolio",
+            "Grenzen von Safe-Haven-Assets"
+        ],
+        "overview": {
+            "title": "Überblick",
+            "items": [
+                "Safe-Haven-Assets sind Instrumente, die ihren Wert in Phasen von Turbulenzen und Unsicherheit halten oder steigern.",
+                "Anleger nutzen sie, um Kapital zu bewahren, Portfoliorisiken zu senken und Volatilität bei fallenden Risikoassets zu dämpfen.",
+                "Sie sind zentral für Diversifikation und Risikomanagement während Finanzkrisen, geopolitischer Ereignisse oder Rezessionen."
+            ]
+        },
+        "common": {
+            "title": "Typische Safe-Haven-Assets",
+            "items": [
+                {
+                    "label": "Gold:",
+                    "text": "Bewährter Wertspeicher, der in wirtschaftlicher Unsicherheit häufig zulegt."
+                },
+                {
+                    "label": "US-Staatsanleihen:",
+                    "text": "Geringes Risiko und staatlich garantiert; in Risk-off-Phasen steigen die Kurse, Renditen fallen."
+                },
+                {
+                    "label": "Schweizer Franken (CHF):",
+                    "text": "Profitiert von stabiler Wirtschaft und niedriger Inflation und zieht in Stressphasen Kapital an."
+                },
+                {
+                    "label": "Japanischer Yen (JPY):",
+                    "text": "Klassische Safe-Haven-Währung, gestützt durch Japans Leistungsbilanz und tiefe Finanzmärkte."
+                },
+                {
+                    "label": "Defensive Aktien:",
+                    "text": "Sektoren wie Versorger, Gesundheitswesen oder Basiskonsum sind weniger zyklisch und bieten relative Stabilität."
+                }
+            ]
+        },
+        "why": {
+            "title": "Warum Anleger sichere Häfen wählen",
+            "capital": {
+                "title": "Kapitalerhalt",
+                "items": [
+                    "Safe-Haven-Gewichtungen begrenzen Verluste, wenn Aktien stark fallen.",
+                    "Sie schützen Kaufkraft und Portfoliowert in turbulenten Märkten."
+                ]
+            },
+            "diversification": {
+                "title": "Portfoliodiversifikation",
+                "items": [
+                    "Niedrige oder negative Korrelationen senken die Gesamtvolatilität.",
+                    "Die Mischung aus Risikoassets und sicheren Häfen glättet Renditen über Zyklen."
+                ]
+            },
+            "hedge": {
+                "title": "Hedge gegen Inflation und Währungsrisiken",
+                "items": [
+                    "Gold dient häufig als Absicherung gegen Inflation und Währungsabwertung.",
+                    "Sichere Währungen (z. B. CHF) reduzieren FX-Risiken in globalen Portfolios."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Marktreaktionen in turbulenten Zeiten",
+            "demand": {
+                "title": "Mehr Nachfrage nach sicheren Häfen",
+                "items": [
+                    "Volatilitätsspitzen lenken Mittel in Gold, Treasuries und Safe-Haven-FX.",
+                    "Anleger schichten von zyklischen Risikoanlagen in vermeintlich sichere Assets um."
+                ]
+            },
+            "bonds": {
+                "title": "Flight to Quality am Anleihemarkt",
+                "items": [
+                    "In Risk-off-Phasen steigen Staatsanleihekurse, Renditen sinken.",
+                    "Die Flucht in Qualität unterstreicht Staatsanleihen als Stabilitätsanker."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Vorteile von Safe-Haven-Assets im Portfolio",
+            "items": [
+                "Reduziert Portfoliovolatilität und begrenzt Drawdowns.",
+                "Bietet Liquidität und Stabilität bei Marktstress.",
+                "Fördert langfristige Widerstandsfähigkeit über Konjunkturzyklen."
+            ]
+        },
+        "limits": {
+            "title": "Grenzen von Safe-Haven-Assets",
+            "items": [
+                "Niedrigeres Renditepotenzial gegenüber Wachstumswerten.",
+                "Überfüllung kann in Krisen zu Überbewertungen führen.",
+                "Nicht vollständig immun gegen Schwankungen, wenn sich die Stimmung dreht."
+            ]
+        }
+    }
+}

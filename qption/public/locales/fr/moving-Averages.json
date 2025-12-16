@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Stratégie Moving Averages (SMA & EMA) – Analyse technique | Qption",
+        "description": "Maîtrise la trend-following avec les MAs : SMA vs EMA, croisements (Golden/Death Cross), support/résistance dynamiques, rubans de MAs et limites essentielles – le guide complet.",
+        "keywords": "moyennes mobiles, SMA, EMA, crossover, golden cross, death cross, MA ribbon, support dynamique, suivi de tendance, momentum, analyse technique, Qption",
+        "ogAlt": "Stratégie Moving Averages illustrée avec SMA, EMA, croisements et rubans",
+        "ld": {
+            "headline": "Stratégie Moving Averages (SMA & EMA) – Analyse technique"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Stratégie de trading"
+    },
+    "cta": {
+        "ready": "Prêt à trader avec les MAs ?",
+        "startTrading": "Commencer à trader"
+    },
+    "hero": {
+        "title": "Stratégie Moving Averages",
+        "subtitle": "Domine la trend-following et le momentum trading grâce à notre analyse complète des moyennes mobiles."
+    },
+    "video": {
+        "aria": "Les moyennes mobiles lissent les prix pour faciliter l’identification des tendances et des retournements."
+    },
+    "overview": {
+        "title": "Vue d’ensemble",
+        "items": {
+            "1": "Les moyennes mobiles (MA) sont des outils techniques populaires qui lissent les données pour rendre les tendances plus visibles.",
+            "2": "Les deux types les plus utilisés sont la SMA (moyenne simple) et l’EMA (moyenne exponentielle), qui pondèrent différemment les prix récents.",
+            "3": "Elles aident à identifier la direction, générer des signaux et marquer des zones de support/résistance dynamiques."
+        }
+    },
+    "how": {
+        "title": "Fonctionnement des MA",
+        "blocks": {
+            "1": {
+                "title": "Simple Moving Average (SMA)",
+                "desc": "Moyenne arithmétique d’un nombre déterminé de prix récents ; utile pour l’analyse de tendance globale."
+            },
+            "2": {
+                "title": "Exponential Moving Average (EMA)",
+                "desc": "Pondère davantage les derniers prix, réagit plus vite – appréciée sur les marchés rapides."
+            },
+            "3": {
+                "title": "Identification du trend",
+                "desc": "Prix au-dessus de la MA = biais haussier ; en-dessous = biais baissier."
+            }
+        }
+    },
+    "strategies": {
+        "title": "Stratégies clés",
+        "crossover": {
+            "title": "1. Croisement de moyennes",
+            "items": {
+                "1": "Golden Cross : MA courte (p. ex. 50) croise au-dessus d’une MA longue (p. ex. 200) – signal haussier.",
+                "2": "Death Cross : MA courte passe sous la MA longue – signal baissier."
+            }
+        },
+        "dynamicSR": {
+            "title": "2. Support/Résistance dynamiques",
+            "items": {
+                "1": "Support en tendance haussière : la MA agit comme zone où le prix rebondit.",
+                "2": "Résistance en tendance baissière : la MA repousse le prix vers le bas."
+            }
+        },
+        "ribbon": {
+            "title": "3. Ruban de moyennes mobiles",
+            "items": {
+                "1": "Setup : combiner plusieurs MAs (10, 20, 50, 100, 200) pour former un ruban.",
+                "2": "Signal : un alignement cohérent indique un trend fort et durable."
+            }
+        }
+    },
+    "limits": {
+        "title": "Limites",
+        "items": {
+            "1": "Indicateurs retardés : les MA réagissent tard aux mouvements brusques.",
+            "2": "Whipsaws : les marchés erratiques ou en range génèrent des faux signaux."
+        }
+    }
+}

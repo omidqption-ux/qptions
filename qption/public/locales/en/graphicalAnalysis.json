@@ -1,0 +1,51 @@
+{
+    "seo": {
+        "title": "Graphical Analysis – Interactive Charts & Pattern Scanner | Qption",
+        "description": "Dive into Qption’s graphical-analysis suite: multi-asset charts, automatic pattern detection, and real-time drawing tools for forex, crypto, and indices.",
+        "keywords": "graphical analysis, interactive charts, chart patterns, triangle pattern, head and shoulders, trend lines, forex charts, crypto charts, Qption tools",
+        "ogTitle": "Graphical Analysis – Interactive Charts & Pattern Scanner | Qption",
+        "ogDescription": "Spot wedges, channels, and breakouts in seconds with Qption’s automatic pattern scanner and advanced drawing toolkit.",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Graphical Analysis – Interactive Charts & Pattern Scanner | Qption",
+        "twitterDescription": "Trade what you see: use Qption’s live charts and pattern-recognition AI to confirm entries and exits.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/graphical-analysis"
+    },
+    "page": {
+        "title": "Graphical Analysis",
+        "subtitle": "Decode price action with dynamic charts, pattern recognition, and visual trends—trade every move with clarity and confidence."
+    },
+    "ui": {
+        "learnMore": "Learn More"
+    },
+    "cards": {
+        "movingAverage": {
+            "title": "Moving Average Indicator"
+        },
+        "fibonacciElliott": {
+            "title": "Fibonacci Retracements and Elliott Waves"
+        },
+        "reversal": {
+            "title": "Trend Reversal Patterns"
+        },
+        "trendContinuation": {
+            "title": "Trend Continuation Patterns"
+        },
+        "graphicalAnalysis": {
+            "title": "Graphical Analysis"
+        }
+    },
+    "video": {
+        "aria": "Technical analysis uses price charts, patterns, and indicators to anticipate future price movements."
+    },
+    "cta": {
+        "takeQuiz": "Take graphical analysis quiz"
+    },
+    "bullets": [
+        "Graphical analysis studies price behavior through charts, visual patterns, and drawing tools to anticipate likely market moves.",
+        "It emphasizes visual signals—trend lines, support/resistance, volume profiles, and overlays—to spot momentum shifts and time entries/exits.",
+        "Traders apply graphical analysis across assets—stocks, crypto, forex, and commodities—for clear, fast decision-making."
+    ]
+}

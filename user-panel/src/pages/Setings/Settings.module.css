@@ -1,0 +1,698 @@
+/* src/pages/Setings/Settings.module.css */
+
+/* --- Global Container & Tabs --- */
+.container {
+     padding: 16px;
+     /* Consistent padding */
+     width: 100%;
+}
+
+.tabBar {
+     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+     margin-bottom: 24px;
+     background: rgba(255, 255, 255, 0.02);
+     backdrop-filter: blur(10px);
+     border-radius: 8px 8px 0 0;
+     overflow: hidden;
+}
+
+/* --- Settings Tab Grid --- */
+.settingsGrid {
+     width: 100%;
+     display: grid;
+     justify-content: center;
+     justify-items: center;
+     grid-template-columns: repeat(auto-fill,
+               minmax(340px, 1fr));
+     /* Min width */
+     gap: 20px;
+     /* Increased gap */
+}
+
+/* --- Settings Card --- */
+.settingsCard {
+     background-color: #1e293b;
+     /* Match Layout bg */
+     color: #cbd5e1;
+     /* Match Layout text */
+     border-radius: 8px;
+     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+     /* Slightly deeper shadow */
+     border: 1px solid #334155;
+     /* Updated border */
+     display: flex;
+     flex-direction: column;
+     height: 100%;
+}
+
+.settingsCardHeader {
+     display: flex;
+     align-items: center;
+     gap: 10px;
+     /* Increased gap */
+     padding: 14px 18px;
+     /* Increased padding */
+     font-size: 1.05rem;
+     /* Slightly larger */
+     font-weight: 600;
+     border-bottom: 1px solid #334155;
+     background-color: #334155;
+     /* Header background */
+     color: #e2e8f0;
+     /* Header text color */
+     border-top-left-radius: 8px;
+     border-top-right-radius: 8px;
+}
+
+.settingsCardHeader svg {
+     width: 22px;
+     /* Larger icon */
+     height: 22px;
+     color: #60a5fa;
+     /* Brighter icon color */
+}
+
+.settingsCardContent {
+     padding: 18px;
+     /* Increased padding */
+     display: flex;
+     flex-direction: column;
+     gap: 14px;
+     /* Increased gap */
+     flex-grow: 1;
+}
+
+/* --- Setting Row --- */
+.settingRow {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     width: 100%;
+     gap: 16px;
+     min-height: 40px;
+     /* Increased height */
+}
+
+.settingLabelGroup {
+     display: flex;
+     align-items: center;
+     gap: 12px;
+     /* Increased gap */
+     flex-grow: 1;
+     flex-shrink: 1;
+}
+
+.settingLabelGroup svg {
+     width: 20px;
+     /* Larger icon */
+     height: 20px;
+     color: #94a3b8;
+     /* Lighter gray icon */
+     flex-shrink: 0;
+}
+
+.settingLabel {
+     font-size: 0.9rem;
+     /* Standard size */
+     color: #cbd5e1;
+}
+
+.settingDescriptionIcon {
+     color: #64748b;
+     /* Muted info icon */
+     font-size: 1.1rem;
+     cursor: help;
+     margin-left: 6px;
+}
+
+.settingControl {
+     flex-shrink: 0;
+}
+
+/* Style the MUI Switch */
+.settingControl :global(.MuiSwitch-root) {
+     /* Optional: Customize switch track/thumb colors */
+}
+
+.settingControl :global(.MuiSwitch-switchBase.Mui-checked) {
+     color: #3b82f6 !important;
+     /* Blue when checked */
+}
+
+.settingControl :global(.MuiSwitch-switchBase.Mui-checked + .MuiSwitch-track) {
+     background-color: #3b82f6 !important;
+     opacity: 0.7 !important;
+}
+
+.settingDivider {
+     border: none;
+     border-top: 1px solid #334155;
+     /* Match border */
+     margin: 6px 0;
+}
+
+.settingInfoText {
+     font-size: 0.8rem;
+     color: #94a3b8;
+     line-height: 1.5;
+     padding: 10px 14px;
+     background-color: rgba(45, 55, 72, 0.6);
+     border-radius: 6px;
+     margin-top: 10px;
+}
+
+/* --- Security Tab --- */
+.securityGrid {
+     justify-content: center;
+     padding: 4px 25px;
+     display: flex;
+     flex-direction: column;
+     grid-template-columns: repeat(auto-fill,
+               minmax(350px, 1fr));
+     /* Wider min width */
+     gap: 24px;
+     margin-bottom: 24px;
+}
+
+/* --- Security Forms (Password Change/Set) --- */
+/* Inherit .settingsCard styling */
+.formCard {
+     composes: settingsCard;
+}
+
+.formCardHeader {
+     composes: settingsCardHeader;
+}
+
+.formCardContent {
+     padding: 24px;
+     composes: settingsCardContent;
+}
+
+/* More padding */
+
+.form {
+     display: flex;
+     flex-direction: column;
+     gap: 18px;
+}
+
+/* Increased gap */
+
+.fieldGroup {
+     display: flex;
+     flex-direction: column;
+     gap: 5px;
+}
+
+.fieldGroup .inputBase {
+     border-top-right-radius: 0;
+     border-bottom-right-radius: 0;
+     flex-grow: 1;
+     border-right: none;
+     /* Added to prevent double border with suffix */
+}
+
+.label {
+     font-size: 0.875rem;
+     color: #94a3b8;
+     margin-bottom: 3px;
+     font-weight: 500;
+}
+
+.inputBase {
+     background: rgba(255, 255, 255, 0.05);
+     border: 1px solid rgba(255, 255, 255, 0.1);
+     border-radius: 8px;
+     padding: 10px 14px;
+     color: #fff;
+     font-size: 0.9rem;
+     width: 100%;
+     max-width: 100%;
+     box-sizing: border-box;
+}
+
+.inputBase:focus {
+     outline: none;
+     border-color: #00d2ff;
+     box-shadow: 0 0 0 2px rgba(0, 210, 255, 0.2);
+}
+
+.inputBase::placeholder {
+     color: rgba(255, 255, 255, 0.4);
+}
+
+.inputBase:disabled {
+     background-color: #2d3748;
+     /* Keep background similar when disabled */
+     opacity: 0.7;
+     cursor: not-allowed;
+}
+
+.inputErrorState {
+     border-color: #ff6b6b;
+}
+
+.errorMessage {
+     color: #ff6b6b;
+     font-size: 0.8rem;
+     margin-top: 4px;
+}
+
+.inputErrorState:focus {
+     box-shadow: 0 0 0 3px rgba(248, 113, 113, 0.2) !important;
+}
+
+.otpSection {
+     display: flex;
+     align-items: flex-start;
+     gap: 10px;
+     margin-top: 10px;
+}
+
+.codeInput {
+     composes: inputBase;
+     width: 110px;
+     /* Wider code input */
+     text-align: center;
+}
+
+.otpActions {
+     display: flex;
+     align-items: center;
+     gap: 10px;
+     padding-top: 35px;
+     /* Align with input */
+}
+
+.otpActionsNoLabel {
+     composes: otpActions;
+     padding-top: 0;
+}
+
+.otpButton {
+     padding: 8px;
+     min-width: 36px;
+     height: 36px;
+     border-radius: 6px;
+     background-color: rgba(33, 150, 243, 0.1);
+     color: #2196f3;
+     border: 1px solid rgba(33, 150, 243, 0.3);
+     cursor: pointer;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     transition: all 0.2s ease;
+}
+
+.otpButton:hover:not(:disabled) {
+     background-color: rgba(33, 150, 243, 0.2);
+     border-color: rgba(33, 150, 243, 0.5);
+}
+
+.otpButton:disabled {
+     opacity: 0.5;
+     cursor: not-allowed;
+}
+
+.otpButton svg {
+     width: 20px;
+     height: 20px;
+     color: #2196f3;
+}
+
+.formActions {
+     display: flex;
+     justify-content: flex-end;
+     gap: 14px;
+     margin-top: 24px;
+}
+
+.actionButton {
+     border: none;
+     padding: 9px 18px;
+     /* Adjust padding */
+     border-radius: 8px;
+     /* Match input */
+     cursor: pointer;
+     font-size: 0.9rem;
+     font-weight: 600;
+     display: inline-flex;
+     align-items: center;
+     gap: 8px;
+     /* Increased gap */
+     transition: all 0.2s ease;
+     text-transform: none;
+     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.actionButton:disabled {
+     opacity: 0.6;
+     cursor: not-allowed;
+}
+
+.actionButton:hover:not(:disabled) {
+     transform: translateY(-1px);
+}
+
+.cancelButton {
+     composes: actionButton;
+     background-color: #475569;
+     /* Gray background */
+     color: #cbd5e1;
+     border: 1px solid #64748b;
+}
+
+.cancelButton:hover:not(:disabled) {
+     background-color: #64748b;
+     border-color: #94a3b8;
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cancelButton:disabled {
+     opacity: 0.4;
+}
+
+.confirmButton {
+     composes: actionButton;
+     background: linear-gradient(to right,
+               #3b82f6,
+               #2563eb);
+     /* Match layout button */
+     color: white;
+     border: 1px solid #2563eb;
+}
+
+.confirmButton:hover:not(:disabled) {
+     background: linear-gradient(to right, #2563eb, #1d4ed8);
+     box-shadow: 0 2px 5px rgba(59, 130, 246, 0.2);
+}
+
+.confirmButton:disabled {
+     background: #3b82f6;
+     opacity: 0.6;
+}
+
+.spinner {
+     width: 18px !important;
+     height: 18px !important;
+     color: inherit !important;
+}
+
+/* --- Tables (Active Sessions / Login History) --- */
+.tableCard {
+     composes: settingsCard;
+     margin-bottom: 24px;
+}
+
+.tableCardHeader {
+     composes: settingsCardHeader;
+}
+
+.tableCardContent {
+     padding: 0;
+     composes: settingsCardContent;
+}
+
+.tableCardContent:last-child {
+     padding-bottom: 0;
+}
+
+.tableHeader,
+.tableRow {
+     display: grid;
+     /* Keep 7 columns for potential action column */
+     grid-template-columns: repeat(6, 1fr) 100px;
+     /* Fixed width for action */
+     gap: 12px;
+     /* Increased gap */
+     padding: 10px 18px;
+     /* Increased padding */
+     align-items: center;
+     min-height: 44px;
+     font-size: 0.85rem;
+     /* Slightly larger table text */
+}
+
+.tableHeader {
+     background-color: #334155;
+     /* Header background */
+     color: #94a3b8;
+     /* Header text */
+     font-weight: 600;
+     border-bottom: 1px solid #475569;
+     /* Match border */
+}
+
+.tableRow {
+     border-bottom: 1px solid #334155;
+     color: #cbd5e1;
+}
+
+.tableRow:last-child {
+     border-bottom: none;
+}
+
+.tableRow:hover {
+     background-color: rgba(51, 65, 85, 0.5);
+}
+
+/* Slightly darker hover */
+
+/* Column Visibility (Same logic, adjusted selectors) */
+.tableHeader> :nth-child(1),
+.tableRow> :nth-child(1) {
+     display: none;
+}
+
+/* Date/Last Active */
+@media (min-width: 1280px) {
+
+     .tableHeader> :nth-child(1),
+     .tableRow> :nth-child(1) {
+          display: block;
+     }
+}
+
+/* xl */
+.tableHeader> :nth-child(2),
+.tableRow> :nth-child(2) {
+     display: none;
+}
+
+/* IP */
+@media (min-width: 1024px) {
+
+     .tableHeader> :nth-child(2),
+     .tableRow> :nth-child(2) {
+          display: block;
+     }
+}
+
+/* lg */
+/* OS, Browser, Country always visible */
+.tableHeader> :nth-child(6),
+.tableRow> :nth-child(6) {
+     display: none;
+}
+
+/* City */
+@media (min-width: 768px) {
+
+     .tableHeader> :nth-child(6),
+     .tableRow> :nth-child(6) {
+          display: block;
+     }
+}
+
+/* md */
+.tableHeader> :nth-child(7),
+.tableRow> :nth-child(7) {
+     text-align: right;
+     justify-self: end;
+}
+
+/* Action */
+
+.tableRow> :nth-child(1) .currentSessionIndicator {
+     /* Style for green dot */
+     display: inline-block;
+     width: 9px;
+     height: 9px;
+     border-radius: 50%;
+     background-color: #22c55e;
+     /* Brighter green */
+     margin-right: 8px;
+     vertical-align: middle;
+     box-shadow: 0 0 5px #22c55e;
+}
+
+.terminateButton {
+     composes: actionButton;
+     /* Inherit base styles */
+     padding: 5px 10px;
+     font-size: 0.78rem;
+     border: 1px solid #f97316;
+     /* Brighter Orange */
+     color: #f97316;
+     background-color: transparent;
+}
+
+.terminateButton:hover:not(:disabled) {
+     background-color: rgba(249, 115, 22, 0.1);
+     color: #fb923c;
+     border-color: #fb923c;
+}
+
+.terminateButton svg {
+     width: 14px;
+     height: 14px;
+}
+
+.tableLoading {
+     position: relative;
+     min-height: 50px;
+}
+
+.tableLoading :global(.MuiLinearProgress-root) {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     background-color: #334155;
+}
+
+.tableLoading :global(.MuiLinearProgress-bar) {
+     background-color: #60a5fa;
+}
+
+/* Loading bar color */
+
+.tablePagination {
+     display: flex;
+     justify-content: center;
+     padding: 18px;
+     border-top: 1px solid #334155;
+}
+
+.tablePagination :global(.MuiPaginationItem-root) {
+     color: #94a3b8;
+}
+
+.tablePagination :global(.MuiPaginationItem-root.Mui-selected) {
+     background-color: rgba(96, 165, 250, 0.15);
+     color: #93c5fd;
+     font-weight: 600;
+}
+
+.tableEmptyState {
+     padding: 28px;
+     text-align: center;
+     color: #64748b;
+     font-size: 0.95rem;
+}
+
+/* --- Page Actions (Logout / Delete) --- */
+.pageActions {
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     gap: 18px;
+     margin-top: 20px;
+}
+
+.logoutButton {
+     composes: actionButton;
+     border: 1px solid #f97316;
+     /* Match terminate */
+     color: #f97316;
+     background-color: transparent;
+}
+
+.logoutButton:hover:not(:disabled) {
+     background-color: rgba(249, 115, 22, 0.1);
+     color: #fb923c;
+     border-color: #fb923c;
+}
+
+.deleteButton {
+     composes: actionButton;
+     border: 1px solid #f87171;
+     /* Match error */
+     color: #f87171;
+     background-color: transparent;
+}
+
+.deleteButton:hover:not(:disabled) {
+     background-color: rgba(248, 113, 113, 0.1);
+     color: #ef4444;
+     border-color: #ef4444;
+}
+
+.tabsContainer {
+     background-image: linear-gradient(to bottom,
+               rgba(34, 197, 94, 0.10),
+               rgba(34, 197, 94, 0.05));
+     backdrop-filter: blur(10px);
+     border-radius: 12px;
+     padding: 4px;
+     margin: 10px 20px;
+     margin-bottom: 24px;
+     border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+@media (max-width: 600px) {
+     .tabsContainer {
+          padding: 2px;
+          margin-bottom: 16px;
+     }
+
+     .tab {
+          font-size: 0.85rem;
+          padding: 6px 12px;
+     }
+}
+
+.tabs {
+     min-height: 48px;
+     position: relative;
+     display: flex;
+     gap: 4px;
+}
+
+.tab {
+     flex: 1;
+     text-transform: none;
+     font-weight: 500;
+     font-size: 0.95rem;
+     transition: all 0.3s ease;
+     border-radius: 8px;
+     padding: 8px 16px;
+     position: relative;
+     z-index: 1;
+     opacity: 0.7;
+     color: #cecece !important;
+}
+
+.tab:hover {
+     color: #00d2ff !important;
+     opacity: 0.9;
+     background: rgba(255, 255, 255, 0.05);
+}
+
+.tabIndicator {
+     display: none;
+
+}
+
+.activeTab {
+     opacity: 1;
+     background-image: linear-gradient(to bottom,
+               rgba(34, 197, 94, 0.10),
+               rgba(34, 197, 94, 0.05));
+     /* Backdrop blur (use both for Safari support) */
+     backdrop-filter: blur(64px);
+     /* ~ Tailwind *-blur-3xl */
+     -webkit-backdrop-filter: blur(64px);
+     color: #00d2ff !important;
+}

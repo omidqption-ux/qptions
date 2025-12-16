@@ -1,0 +1,52 @@
+{
+    "seo": {
+        "title": "Analisi tecnica – Grafici, indicatori e setup | Qption",
+        "description": "Padroneggia i mercati con l’analisi tecnica Qption: idee su grafici live, guide agli indicatori e setup settimanali per forex, crypto e indici.",
+        "keywords": "analisi tecnica, grafici di trading, price action, indicatori, pattern candlestick, supporto e resistenza, formazione Qption, analisi forex, analisi crypto",
+        "ogTitle": "Analisi tecnica – Grafici, indicatori e setup | Qption",
+        "ogDescription": "Ricevi breakdown operativi e walkthrough sugli indicatori dai nostri analisti, aggiornati quotidianamente per trader forex e crypto.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "hero": {
+        "title": "Analisi tecnica",
+        "subtitle": "Padroneggia l’analisi di mercato con i nostri strumenti tecnici e indicatori completi"
+    },
+    "labels": {
+        "learnMore": "Scopri di più →",
+        "quizCta": "Fai il quiz di analisi tecnica",
+        "videoAria": "L’analisi tecnica è una disciplina di trading che usa grafici, pattern e indicatori per stimare i movimenti futuri dei prezzi."
+    },
+    "strategies": [
+        {
+            "title": "Bande di Bollinger",
+            "link": "/technical-analysis/bollinger",
+            "description": "Bande di volatilità per analizzare la price action"
+        },
+        {
+            "title": "Indicatore Alligator",
+            "link": "/technical-analysis/alligator",
+            "description": "Indicatore trend-following basato su medie smussate"
+        },
+        {
+            "title": "Indicatore RSI",
+            "link": "/technical-analysis/RSIIndicator",
+            "description": "Oscillatore di momentum che misura velocità e variazione dei prezzi"
+        },
+        {
+            "title": "Analisi tecnica",
+            "link": "/technical-analysis/technical",
+            "description": "Analisi di mercato completa con vari strumenti tecnici"
+        },
+        {
+            "title": "Medie mobili",
+            "link": "/technical-analysis/moving-averages",
+            "description": "Identificazione del trend e livelli di supporto/resistenza"
+        }
+    ],
+    "bullets": [
+        "L’analisi tecnica è una disciplina di trading che usa grafici, pattern e indicatori per stimare i movimenti futuri dei prezzi.",
+        "Si basa su dati di prezzo storici, volumi e metriche di mercato per identificare trend e possibili punti di ingresso/uscita.",
+        "È ampiamente utilizzata su mercati azionari, forex, commodity e crypto."
+    ]
+}

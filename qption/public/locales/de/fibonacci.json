@@ -1,0 +1,122 @@
+{
+    "seo": {
+        "title": "Fibonacci-Retracements & Elliott-Wellen – Leitfaden zur grafischen Analyse | Qption",
+        "description": "Erlernen Sie Fibonacci-Retracements und die Elliott-Wellen-Theorie: Schlüsselniveaus (23,6 %, 38,2 %, 50 %, 61,8 %, 78,6 %), Zeichnen, S/R, Fortsetzung vs. Umkehr, Impuls- und Korrekturwellen sowie die Kombination mit gleitenden Durchschnitten und Trendlinien.",
+        "keywords": "Fibonacci-Retracement, Elliott-Wellen-Theorie, grafische Analyse, technische Analyse, Unterstützung und Widerstand, Impulswellen, Korrekturwellen, Fibonacci-Niveaus, gleitende Durchschnitte, Trendlinien, Kursziele, Risikomanagement, Qption",
+        "url": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+        "image": "https://qption.com/videos/fibonacci-elliott-waves/fibonacci-elliott-waves.jpg"
+    },
+    "ui": {
+        "backToGraphical": "Zurück zur grafischen Analyse"
+    },
+    "page": {
+        "title": "Fibonacci-Retracements und Elliott-Wellen in der grafischen Analyse"
+    },
+    "cta": {
+        "ready": "Bereit zum Handeln?",
+        "start": "Jetzt traden"
+    },
+    "video": {
+        "aria": "Fibonacci-Retracements helfen dabei, potenzielle Unterstützungs- und Widerstandszonen anhand von Fibonacci-Verhältnissen zu identifizieren."
+    },
+    "sections": {
+        "fibOverview": {
+            "h": "Überblick über Fibonacci-Retracements",
+            "i1": "Fibonacci-Retracements sind ein beliebtes Werkzeug, um potenzielle Unterstützungs- und Widerstandsebenen anhand von Fibonacci-Verhältnissen zu markieren.",
+            "i2": "Gängige Niveaus: 23,6 %, 38,2 %, 50 %, 61,8 %, 78,6 %.",
+            "i3": "Sie helfen, Ein- und Ausstiegspunkte durch Preisreaktionen an diesen Ebenen zu bestimmen."
+        },
+        "fibHow": {
+            "h": "Wie Fibonacci-Retracements funktionieren",
+            "s1": {
+                "h": "Zeichnen:",
+                "t": "Vom Tief zum Hoch im Aufwärtstrend (oder umgekehrt im Abwärtstrend), wodurch horizontale Linien auf Fibonacci-Niveaus entstehen."
+            },
+            "s2": {
+                "h": "Unterstützung/Widerstand:",
+                "t": "Diese Niveaus dienen häufig als Reaktionszonen, in denen sich der Preis umkehrt oder konsolidiert."
+            },
+            "s3": {
+                "h": "Fortsetzung:",
+                "t": "Wenn der Preis ein Niveau hält, setzt sich der Trend oft fort und bietet Einstiegsmöglichkeiten."
+            },
+            "s4": {
+                "h": "Umkehrsignal:",
+                "t": "Ein klarer Durchbruch über ein Schlüsselniveau kann eine Trendwende anzeigen."
+            }
+        },
+        "fibTech": {
+            "h": "Fibonacci-Retracement-Techniken",
+            "t1": {
+                "h": "1) Fibonacci mit Trendlinien",
+                "i1": "Übereinstimmung mit Trendlinien erhöht die Aussagekraft der Niveaus.",
+                "i2": "Suchen Sie nach Konfluenzzonen für starke Signale."
+            },
+            "t2": {
+                "h": "2) Fibonacci mit gleitenden Durchschnitten",
+                "i1": "Wenn sich ein Niveau mit einem gleitenden Durchschnitt deckt, steigt die Zuverlässigkeit.",
+                "i2": "50/200 MAs in Kombination mit Fibonacci-Niveaus markieren oft starke Reaktionen."
+            }
+        },
+        "fibProsCons": {
+            "h": "Vorteile und Grenzen der Fibonacci-Retracements",
+            "p1": {
+                "h": "Vorteil:",
+                "t": "Klare Niveaus für Ein- und Ausstiege sowie Stopps."
+            },
+            "p2": {
+                "h": "Vorteil:",
+                "t": "Funktioniert gut mit Trendlinien und gleitenden Durchschnitten."
+            },
+            "c1": {
+                "h": "Nachteil:",
+                "t": "Nicht eigenständig; allein verwendet kann es in volatilen Märkten zu Fehlsignalen kommen."
+            }
+        },
+        "ewOverview": {
+            "h": "Überblick über die Elliott-Wellen-Theorie",
+            "i1": "Analysiert Preisbewegungen in Wellen, um Marktzyklen und -richtungen zu verstehen.",
+            "i2": "Besteht aus fünf Impulswellen und drei Korrekturwellen (A-B-C).",
+            "i3": "Wird verwendet, um Fortsetzungen, Umkehrungen und Retracements zu antizipieren."
+        },
+        "ewHow": {
+            "h": "Wie Elliott-Wellen funktionieren",
+            "s1": {
+                "h": "Impulswellen:",
+                "t": "Fünf Wellen in Trendrichtung; 1,3,5 im Trend, 2,4 Korrektur."
+            },
+            "s2": {
+                "h": "Korrekturwellen:",
+                "t": "Drei Wellen (A-B-C) gegen die Haupttrendrichtung."
+            },
+            "s3": {
+                "h": "Wellenidentifikation:",
+                "t": "Ermöglicht das Timing von Trendfortsetzungen oder -enden."
+            },
+            "s4": {
+                "h": "Verhältnisse:",
+                "t": "Fibonacci-Verhältnisse korrelieren häufig mit Wellen (z. B. 2/4-Retracements, 5-Extensionen)."
+            }
+        },
+        "ewTech": {
+            "h": "Elliott-Wellen-Techniken",
+            "t1": {
+                "h": "1) Impuls- und Korrekturwellen zur Trendanalyse nutzen",
+                "i1": "Impulswellen zeigen Richtung und Stärke, Korrekturen zeigen Rückläufe.",
+                "i2": "Eintritt mit Impulsen, Planung von Retracements mit Korrekturen."
+            },
+            "t2": {
+                "h": "2) Elliott-Wellen mit Fibonacci kombinieren",
+                "i1": "Fibonacci-Verhältnisse erscheinen innerhalb der Wellenstruktur.",
+                "i2": "Verwenden Sie beides, um Ziele und Wendepunkte zu bestimmen."
+            }
+        },
+        "ewProsCons": {
+            "h": "Vorteile und Grenzen der Elliott-Wellen-Theorie",
+            "p1": "Vorteil: Strukturierter Blick auf Marktzyklen und Umkehrungen.",
+            "p2": "Vorteil: Funktioniert gut mit Fibonacci für Zielzonen und Stopps.",
+            "c1": "Nachteil: Komplex und subjektiv – Zählungen können variieren.",
+            "c2": "Nachteil: Falsche Wellenzählung führt zu Fehleinschätzungen."
+        }
+    }
+}

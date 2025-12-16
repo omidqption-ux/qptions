@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Analisi tecnica – Grafici, indicatori e setup | Qption",
+        "description": "Padroneggia i mercati con l’analisi tecnica di Qption: idee su grafici live, guide agli indicatori e setup settimanali su forex, crypto e indici.",
+        "keywords": "analisi tecnica, grafici di trading, price action, indicatori, pattern candlestick, supporto e resistenza, formazione Qption, analisi forex, analisi crypto",
+        "ogTitle": "Analisi tecnica – Grafici, indicatori e setup | Qption",
+        "ogDescription": "Ricevi breakdown operativi e walkthrough sugli indicatori dai nostri analisti Qption—aggiornati ogni giorno per i trader forex e crypto.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Analisi tecnica – Grafici, indicatori e setup | Qption",
+        "twitterDescription": "Idee su grafici live e setup settimanali su forex, crypto e indici—powered by Qption.",
+        "twitterImage": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "canonical": "https://qption.com/technical-analysis"
+    },
+    "page": {
+        "title": "Analisi tecnica",
+        "subtitle": "Metti alla prova le tue conoscenze di trading con il nostro quiz interattivo di Analisi Tecnica: testa pattern, indicatori e psicologia di mercato per diventare un trader più sicuro e informato."
+    },
+    "quiz": {
+        "header": "Quiz",
+        "progress": "Domanda {{current}} di {{total}}",
+        "correct": "Corretto ✅",
+        "incorrect": "Non proprio ⚠️",
+        "selectHint": "Seleziona un’opzione e invia la risposta."
+    },
+    "ui": {
+        "previous": "Indietro",
+        "submit": "Invia",
+        "finish": "Termina",
+        "next": "Avanti",
+        "newRandom": "Nuovo set casuale da 10",
+        "loading": "Caricamento del quiz…"
+    },
+    "results": {
+        "score": "Punteggio: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Eccellente! La tua conoscenza di AT è affilata.",
+            "good": "Ottimo lavoro! Continua ad allenarti per salire di livello.",
+            "retry": "Buon inizio—ripassa le lezioni e riprova."
+        }
+    },
+    "pool": [
+        {
+            "q": "Cosa aiuta principalmente a identificare una Simple Moving Average (SMA)?",
+            "options": [
+                "Il prezzo di ingresso più alto possibile",
+                "Il prezzo medio su un periodo definito, attenuando il rumore",
+                "Il punto d’inversione esatto del mercato",
+                "Un livello di breakout di momentum"
+            ],
+            "correct": "Il prezzo medio su un periodo definito, attenuando il rumore",
+            "explain": "Una SMA smussa i prezzi facendo la media di un numero di periodi, aiutando a rivelare il trend sottostante.",
+            "topic": "MA"
+        },
+        {
+            "q": "Quale tipo di media mobile reagisce più velocemente alle variazioni di prezzo recenti?",
+            "options": [
+                "SMA",
+                "WMA",
+                "EMA",
+                "Reagiscono tutte allo stesso modo"
+            ],
+            "correct": "EMA",
+            "explain": "L’EMA assegna più peso ai prezzi recenti, reagendo più rapidamente della SMA e in genere anche della WMA.",
+            "topic": "MA"
+        },
+        {
+            "q": "Un tipico segnale di acquisto da incrocio di medie mobili si verifica quando…",
+            "options": [
+                "Una MA più corta incrocia al rialzo una MA più lunga",
+                "Una MA più lunga incrocia al rialzo una MA più corta",
+                "Il prezzo scende sotto entrambe le MA",
+                "Entrambe le MA restano piatte"
+            ],
+            "correct": "Una MA più corta incrocia al rialzo una MA più lunga",
+            "explain": "Gli incroci short-over-long segnalano spesso momentum rialzista; il contrario può indicare debolezza.",
+            "topic": "MA"
+        },
+        {
+            "q": "Uno svantaggio dell’uso delle medie mobili è che…",
+            "options": [
+                "Anticipano l’azione del prezzo e prevedono top/bottom esatti",
+                "Sono in ritardo rispetto al prezzo e possono generare whipsaw nei range",
+                "Non richiedono alcuna regolazione dei parametri",
+                "Funzionano solo su timeframe giornalieri"
+            ],
+            "correct": "Sono in ritardo rispetto al prezzo e possono generare whipsaw nei range",
+            "explain": "Le MA sono strumenti lagging e possono produrre falsi segnali in mercati irregolari.",
+            "topic": "MA"
+        },
+        {
+            "q": "Qual è lo scopo principale delle Bande di Bollinger?",
+            "options": [
+                "Misurare il valore fondamentale di lungo termine",
+                "Mostrare la volatilità e i livelli relativi di massimo/minimo attorno a una media mobile",
+                "Sostituire completamente le medie mobili",
+                "Disegnare trend line automatiche"
+            ],
+            "correct": "Mostrare la volatilità e i livelli relativi di massimo/minimo attorno a una media mobile",
+            "explain": "Le bande si espandono/contraggono con la volatilità e indicano estremi relativi attorno alla MA.",
+            "topic": "BB"
+        },
+        {
+            "q": "Quando il prezzo tocca o chiude oltre la banda superiore di Bollinger, spesso segnala…",
+            "options": [
+                "Inversione garantita",
+                "Espansione di momentum/volatilità (non sempre ipercomprato)",
+                "Nessun valore informativo",
+                "Crash imminente"
+            ],
+            "correct": "Espansione di momentum/volatilità (non sempre ipercomprato)",
+            "explain": "I tocchi fuori dalle bande possono indicare forte momentum; servono contesto e conferme.",
+            "topic": "BB"
+        },
+        {
+            "q": "Un parametro comune per le Bande di Bollinger è:",
+            "options": [
+                "MA a 20 periodi con ±2 deviazioni standard",
+                "MA a 50 periodi con ±1 deviazione standard",
+                "MA a 14 periodi con ±3 deviazioni standard",
+                "MA a 9 periodi con ±1,5 deviazioni standard"
+            ],
+            "correct": "MA a 20 periodi con ±2 deviazioni standard",
+            "explain": "Il settaggio classico è 20 SMA e bande a ±2σ; adatta al tuo mercato/timeframe.",
+            "topic": "BB"
+        },
+        {
+            "q": "Di quante linee è composto l’indicatore Williams Alligator?",
+            "options": [
+                "Due linee: jaw e teeth",
+                "Tre linee: jaw, teeth e lips",
+                "Quattro linee incluso il “tongue”",
+                "Una sola media smussata"
+            ],
+            "correct": "Tre linee: jaw, teeth e lips",
+            "explain": "Usa tre medie smussate con shift: jaw (lenta), teeth (media), lips (veloce).",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Quando le linee dell’Alligator sono intrecciate (sleeping) indica:",
+            "options": [
+                "È in corso un trend forte",
+                "Una fase laterale o a bassa volatilità",
+                "Un breakout rialzista garantito",
+                "Una rottura ribassista garantita"
+            ],
+            "correct": "Una fase laterale o a bassa volatilità",
+            "explain": "Linee intrecciate suggeriscono consolidamento; molti trader attendono che si aprano.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "L’Alligator è considerato “in alimentazione” (trend) quando:",
+            "options": [
+                "Le tre linee si allargano e si allineano al movimento del prezzo",
+                "Le tre linee rimangono sovrapposte",
+                "Solo il prezzo si muove mentre le linee restano piatte",
+                "Il volume scende a zero"
+            ],
+            "correct": "Le tre linee si allargano e si allineano al movimento del prezzo",
+            "explain": "Linee che si aprono nella stessa direzione del prezzo indicano sviluppo di trend.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Letture RSI sopra ~70 indicano comunemente:",
+            "options": [
+                "Condizioni di ipervenduto",
+                "Condizioni di ipercomprato (possibile rischio di pullback)",
+                "Nessun segnale",
+                "Continuazione di trend garantita"
+            ],
+            "correct": "Condizioni di ipercomprato (possibile rischio di pullback)",
+            "explain": "L’ipercomprato può durare in trend forti; cerca sempre struttura e conferme.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Un valore RSI vicino a 30 suggerisce spesso:",
+            "options": [
+                "Condizioni di ipercomprato",
+                "Condizioni di ipervenduto (possibile rimbalzo)",
+                "Nessun valore informativo",
+                "Breakout sopra la resistenza"
+            ],
+            "correct": "Condizioni di ipervenduto (possibile rimbalzo)",
+            "explain": "Come l’ipercomprato, anche l’ipervenduto può persistere; abbinalo alla price action.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Una divergenza RSI rialzista si verifica quando:",
+            "options": [
+                "Il prezzo fa massimi più alti mentre l’RSI fa massimi più bassi",
+                "Il prezzo fa minimi più bassi mentre l’RSI fa minimi più alti",
+                "L’RSI supera 70",
+                "L’RSI scende sotto 30"
+            ],
+            "correct": "Il prezzo fa minimi più bassi mentre l’RSI fa minimi più alti",
+            "explain": "La perdita di momentum su nuovi minimi di prezzo può anticipare un reversal rialzista.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Il supporto è meglio descritto come:",
+            "options": [
+                "Un livello dove può emergere interesse in acquisto",
+                "Un livello dove deve avvenire la vendita",
+                "Una media mobile",
+                "Una linea fissa che non si rompe mai"
+            ],
+            "correct": "Un livello dove può emergere interesse in acquisto",
+            "explain": "Il supporto è un’area dove storicamente è entrata domanda; può comunque cedere.",
+            "topic": "TA"
+        },
+        {
+            "q": "La resistenza è meglio descritta come:",
+            "options": [
+                "Un livello dove può emergere interesse in vendita",
+                "Un livello che garantisce sempre inversioni",
+                "Un concetto basato solo sul volume",
+                "Un rapporto Fibonacci"
+            ],
+            "correct": "Un livello dove può emergere interesse in vendita",
+            "explain": "La resistenza è l’opposto del supporto: l’offerta tende a prevalere.",
+            "topic": "TA"
+        },
+        {
+            "q": "Quale combinazione aumenta maggiormente l’affidabilità dei segnali?",
+            "options": [
+                "Usare un singolo indicatore su un solo timeframe",
+                "Segnali multipli e non correlati in confluence (es. trend + momentum + struttura)",
+                "Aggiungere molti indicatori dello stesso tipo",
+                "Ignorare la gestione del rischio"
+            ],
+            "correct": "Segnali multipli e non correlati in confluence (es. trend + momentum + struttura)",
+            "explain": "La confluence riduce i falsi positivi; diversifica i segnali e conferma su più timeframe.",
+            "topic": "TA"
+        },
+        {
+            "q": "In un mercato laterale (range-bound) tende a essere più efficace:",
+            "options": [
+                "Solo medie mobili trend-following",
+                "Oscillatori come RSI/Stocastico",
+                "Sistemi di breakout esclusivamente",
+                "Ignorare il mercato"
+            ],
+            "correct": "Oscillatori come RSI/Stocastico",
+            "explain": "Gli oscillatori aiutano a cronometrare i reversal agli estremi del range; le MA possono whipsare.",
+            "topic": "TA"
+        },
+        {
+            "q": "Quale affermazione sugli indicatori è più accurata?",
+            "options": [
+                "Garantiscono profitti se impostati correttamente",
+                "Sono strumenti informativi, non garanzie",
+                "Funzionano solo sui grafici crypto",
+                "Sostituiscono la gestione del rischio"
+            ],
+            "correct": "Sono strumenti informativi, non garanzie",
+            "explain": "Nessun indicatore assicura profitti; va sempre combinato con risk management e disciplina.",
+            "topic": "TA"
+        },
+        {
+            "q": "Perché usare multi-timeframe (MTF) nell’analisi?",
+            "options": [
+                "Per rendere i grafici più complessi",
+                "Per allineare il trend di timeframe superiori con gli ingressi su timeframe inferiori",
+                "Per evitare di impostare stop loss",
+                "Per eliminare la volatilità"
+            ],
+            "correct": "Per allineare il trend di timeframe superiori con gli ingressi su timeframe inferiori",
+            "explain": "L’analisi top-down migliora il contesto e il timing degli ingressi.",
+            "topic": "TA"
+        },
+        {
+            "q": "Qual è un errore comune nel backtest degli indicatori?",
+            "options": [
+                "Tenere conto di slippage e spread",
+                "Usare dati out-of-sample",
+                "Overfittare i parametri sui dati passati",
+                "Considerare i costi di transazione"
+            ],
+            "correct": "Overfittare i parametri sui dati passati",
+            "explain": "L’overfitting raramente si generalizza; valida sempre su dati non visti e includi i costi.",
+            "topic": "TA"
+        }
+    ]
+}

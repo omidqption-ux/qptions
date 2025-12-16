@@ -1,0 +1,216 @@
+{
+    "hero": {
+        "newsBar": {
+            "title": "Dernières actualités de marché"
+        },
+        "marketBar": {
+            "title": "Aperçu du marché"
+        },
+        "slides": [
+            {
+                "title": "<strong>Qption</strong> Trading Platform",
+                "subtitle": "Le trading professionnel, en toute simplicité",
+                "bullets": [
+                    {
+                        "title": "Exécution rapide",
+                        "desc": "Ultra-faible latence"
+                    },
+                    {
+                        "title": "Plateforme sécurisée",
+                        "desc": "Sécurité de niveau bancaire"
+                    },
+                    {
+                        "title": "Frais réduits",
+                        "desc": "Coûts compétitifs"
+                    }
+                ]
+            },
+            {
+                "title": "Solutions de trading <strong>propulsées par l’IA</strong>",
+                "subtitle": "Un trading plus intelligent grâce à une IA avancée",
+                "bullets": [
+                    {
+                        "title": "Analyse IA",
+                        "desc": "Aperçus intelligents du marché"
+                    },
+                    {
+                        "title": "Données en temps réel",
+                        "desc": "Mises à jour de marché en direct"
+                    },
+                    {
+                        "title": "Gestion du risque",
+                        "desc": "Protection intelligente"
+                    }
+                ]
+            },
+            {
+                "title": "Accès <strong>mondial</strong> aux marchés",
+                "subtitle": "Tradez partout, à tout moment",
+                "bullets": [
+                    {
+                        "title": "Marchés mondiaux",
+                        "desc": "Accès dans le monde entier"
+                    },
+                    {
+                        "title": "Trading 24/7",
+                        "desc": "Toujours disponible"
+                    },
+                    {
+                        "title": "Multiples actifs",
+                        "desc": "Options diversifiées"
+                    }
+                ]
+            }
+        ],
+        "images": {
+            "hero1Alt": "Plateforme de trading",
+            "hero2Alt": "Plateforme de trading – vue en angle",
+            "hero3Alt": "Plateforme de trading – tableau de bord"
+        }
+    },
+    "benefits": {
+        "heading": "Vos <accent>avantages</accent> de trading",
+        "sub": "Tradez plus intelligemment, plus vite et mieux — découvrez notre plateforme.",
+        "cards": [
+            {
+                "title": "Compte démo de 50 000 $",
+                "desc": "Testez vos stratégies d’investissement avec un compte démo gratuit.",
+                "features": [
+                    "Données de marché en temps réel",
+                    "Outils de trading avancés",
+                    "Entraînement sans risque",
+                    "Accès complet à la plateforme"
+                ],
+                "alt": "Compte démo"
+            },
+            {
+                "title": "Bonus de 200 %",
+                "desc": "Obtenez un bonus de 200 % sur votre premier dépôt. Boostez votre potentiel de trading avec notre offre de bienvenue.",
+                "features": [
+                    "200 % de bonus sur le premier dépôt",
+                    "Activation instantanée du bonus",
+                    "Tradez avec les fonds bonus",
+                    "Multiples moyens de paiement"
+                ],
+                "alt": "Bonus"
+            },
+            {
+                "title": "Support 24/7",
+                "desc": "Une équipe d’assistance professionnelle disponible 24/7 pour vous aider.",
+                "features": [
+                    "Support par chat en direct",
+                    "Assistance par e-mail",
+                    "Support téléphonique",
+                    "Équipe multilingue"
+                ],
+                "alt": "Support 24/7"
+            }
+        ]
+    },
+    "simpleStart": {
+        "title": "C’est <accent>simple</accent> de démarrer",
+        "sub": "Commencez votre parcours de trading en quelques étapes",
+        "steps": [
+            {
+                "title": "Inscrivez-vous",
+                "desc": "Créez votre compte en une minute",
+                "alt": "Inscription"
+            },
+            {
+                "title": "Explorez la plateforme",
+                "desc": "Découvrez nos outils de trading",
+                "alt": "Plateforme"
+            },
+            {
+                "title": "Commencez à trader",
+                "desc": "Lancez votre parcours de trading",
+                "alt": "Trading"
+            },
+            {
+                "title": "Retirez vos fonds",
+                "desc": "Accédez instantanément à votre argent",
+                "alt": "Retrait"
+            }
+        ]
+    },
+    "foundation": {
+        "title": "Laissez l’<accent>IA</accent> travailler pour vous",
+        "sub": "Passez au niveau supérieur avec notre plateforme de social trading pilotée par l’IA. Choisissez parmi des comptes adaptés à vos objectifs financiers et à votre tolérance au risque.",
+        "plans": [
+            {
+                "title": "Plan de trading IA Conservateur",
+                "subtitle": "Profits réguliers – Risque faible",
+                "minDepositLabel": "Dépôt min. :",
+                "returnsLabel": "Rendements attendus :",
+                "strategiesLabel": "Stratégies :",
+                "minDeposit": "500 $",
+                "returns": "5–6 %",
+                "strategies": "Retour à la moyenne (correction de prix), Analyse technique (reconnaissance de patterns), Gestion du risque (dimensionnement des positions)",
+                "features": [
+                    "Stratégies à faible risque",
+                    "Rendements stables",
+                    "Analyse de marché",
+                    "Gestion du risque"
+                ],
+                "cta": "Démarrer le trading IA"
+            },
+            {
+                "title": "Plan de trading IA Modéré",
+                "subtitle": "Croissance et revenus équilibrés",
+                "minDepositLabel": "Dépôt min. :",
+                "returnsLabel": "Rendements attendus :",
+                "strategiesLabel": "Stratégies :",
+                "minDeposit": "3 000 $",
+                "returns": "12–18 %",
+                "strategies": "Suivi de tendance, Analyse du sentiment sur les marchés crypto et forex, Trading haute fréquence (HFT) sélectif",
+                "features": [
+                    "Approche équilibrée",
+                    "Stratégies diversifiées",
+                    "Adaptation au marché",
+                    "Suivi de performance"
+                ],
+                "cta": "Démarrer le trading IA"
+            },
+            {
+                "title": "Plan de trading IA Agressif",
+                "subtitle": "Risque élevé, rendement élevé",
+                "minDepositLabel": "Dépôt min. :",
+                "returnsLabel": "Rendements attendus :",
+                "strategiesLabel": "Stratégies :",
+                "minDeposit": "10 000 $",
+                "returns": "25–40 %",
+                "strategies": "Trading haute fréquence (HFT), Suivi de tendance avec effet de levier, Trading basé sur le sentiment et les news",
+                "features": [
+                    "Stratégies avancées",
+                    "Trading haute fréquence",
+                    "Opportunités de marché",
+                    "Optimisation du risque"
+                ],
+                "cta": "Démarrer le trading IA"
+            }
+        ]
+    },
+    "investment": {
+        "title": "Pourquoi <accent>Qption</accent> est le bon choix ?",
+        "sub": "Découvrez pourquoi les traders choisissent notre plateforme pour leur parcours d’investissement",
+        "features": [
+            {
+                "title": "Plateforme de référence",
+                "desc": "Une plateforme primée, saluée et recommandée par des experts du secteur"
+            },
+            {
+                "title": "Interface personnalisable",
+                "desc": "Adaptez la plateforme à vos besoins — types de graphiques, thèmes de couleurs, etc."
+            },
+            {
+                "title": "Retraits simplifiés",
+                "desc": "Accédez instantanément à vos fonds via divers moyens de paiement sécurisés"
+            },
+            {
+                "title": "Support 24/7",
+                "desc": "Assistance continue 24/7 pour vous aider à tout moment"
+            }
+        ],
+        "cta": "En savoir plus"
+    }
+}

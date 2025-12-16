@@ -1,0 +1,137 @@
+{
+    "seo": {
+        "title": "AI Trading – One-Click Market Direction | Qption",
+        "description": "Put Qption's AI to work: press one button and instantly see bullish or bearish bias, entry zones and dynamic risk levels across forex and crypto pairs.",
+        "keywords": "Qption AI trading, algorithmic trading, market-direction tool, trading signals, auto analysis, forex AI, crypto AI, smart trading button",
+        "ogTitle": "AI Trading – One-Click Market Direction | Qption",
+        "ogDescription": "Cut through the noise—our AI scans price action and indicators in real time to show you the most probable direction and trade levels.",
+        "url": "https://qption.com/aiTrading",
+        "image": "https://qption.com/images/og/ai-trading-qption.jpg"
+    },
+    "hero": {
+        "title": "AI Trading Strategies",
+        "subtitle": "Choose the perfect trading plan that matches your risk tolerance"
+    },
+    "tabs": {
+        "conservative": "Conservative",
+        "moderate": "Moderate",
+        "aggressive": "Aggressive"
+    },
+    "labels": {
+        "description": "Description",
+        "expectedReturns": "Expected Returns",
+        "riskLevel": "Risk Level",
+        "recommendedFor": "Recommended For",
+        "strategiesUsed": "Strategies Used",
+        "coreTitle": "Core Components of AI Trading",
+        "advantagesTitle": "Advantages of AI Trading"
+    },
+    "plans": [
+        {
+            "title": "Conservative AI Trading Plan",
+            "subtitle": "Capital Preservation with Moderate Returns",
+            "description": "This plan uses low-risk strategies focusing on high-probability setups, aiming for stable returns with minimal drawdown. Typical strategies include trend-following in stable markets and fixed-income investments like bond-based CFDs or low-volatility Forex pairs.",
+            "returns": "5-8%",
+            "risk": "Low",
+            "recommended": "Risk-averse customers who prioritize capital preservation over aggressive growth.",
+            "strategies": [
+                {
+                    "title": "Mean Reversion",
+                    "description": "Captures small profits in price deviations from historical averages, focusing on assets with low volatility."
+                },
+                {
+                    "title": "Arbitrage",
+                    "description": "Utilizes minor price discrepancies between Forex and CFD pairs to earn small, consistent profits."
+                },
+                {
+                    "title": "Sentiment Analysis",
+                    "description": "Analyzes market sentiment in stable assets to anticipate minor price adjustments."
+                }
+            ]
+        },
+        {
+            "title": "Moderate AI Trading Plan",
+            "subtitle": "Balanced Growth and Income",
+            "description": "This plan targets customers seeking moderate income with balanced risk. The AI employs trend-following, sentiment analysis, and selective high-frequency trading strategies across diversified assets like Forex, major crypto, and commodities CFDs.",
+            "returns": "12-18%",
+            "risk": "Moderate",
+            "recommended": "Customers with a moderate risk tolerance looking for a balance between growth and income.",
+            "strategies": [
+                {
+                    "title": "Trend Following",
+                    "description": "Captures profit from established trends in Forex pairs and major cryptos."
+                },
+                {
+                    "title": "Sentiment Analysis in Crypto and Forex Markets",
+                    "description": "Identifies shifts in investor sentiment to adjust positions for higher probability trades."
+                },
+                {
+                    "title": "Selective High-Frequency Trading (HFT)",
+                    "description": "Executes short-term trades in high-liquidity pairs to capture small profits from quick movements."
+                }
+            ]
+        },
+        {
+            "title": "Aggressive AI Trading Plan",
+            "subtitle": "High-Risk, High-Return Strategy",
+            "description": "This plan is designed for high-risk-tolerant customers aiming for high returns. The AI uses high-frequency trading (HFT) and leveraged CFD strategies to maximize potential profit from rapid market movements, especially in crypto and volatile Forex pairs.",
+            "returns": "25-40%",
+            "risk": "Moderate to High",
+            "recommended": "Customers with a high risk tolerance who are comfortable with potential large drawdowns for the possibility of higher returns.",
+            "strategies": [
+                {
+                    "title": "High-Frequency Trading (HFT)",
+                    "description": "Executes numerous trades in volatile pairs to capitalize on rapid price fluctuations."
+                },
+                {
+                    "title": "Leveraged Trend Following",
+                    "description": "Uses leverage on trending Forex and crypto pairs to maximize gains from significant movements."
+                },
+                {
+                    "title": "Sentiment and News-Driven Trading",
+                    "description": "AI quickly reacts to breaking news or sentiment shifts, capturing volatile price swings in real-time."
+                }
+            ]
+        }
+    ],
+    "core": [
+        {
+            "title": "Data Analysis",
+            "description": "AI systems analyze historical and real-time data to detect patterns and correlations, including price trends, market sentiment, economic indicators, and news."
+        },
+        {
+            "title": "Machine Learning Models",
+            "description": "Machine learning models learn from historical data to predict future market movements. Types include supervised learning, unsupervised learning, and reinforcement learning."
+        },
+        {
+            "title": "Natural Language Processing (NLP)",
+            "description": "NLP models analyze text-based data sources, such as news articles, social media posts, and financial reports, to gauge market sentiment and potential impact on asset prices."
+        },
+        {
+            "title": "Backtesting and Optimization",
+            "description": "AI models are tested on historical data to assess effectiveness and fine-tuned for improved performance, allowing for robust and adaptable trading strategies."
+        },
+        {
+            "title": "Automated Execution",
+            "description": "AI trading systems automatically execute buy and sell orders based on preset conditions or learned patterns, minimizing human intervention and reducing emotional decision-making."
+        }
+    ],
+    "advantages": [
+        {
+            "title": "Speed and Efficiency",
+            "description": "AI trading systems can process vast amounts of information and execute trades in milliseconds, capitalizing on fleeting opportunities."
+        },
+        {
+            "title": "Data-Driven Decisions",
+            "description": "AI can analyze multiple data sources simultaneously, making informed decisions based on a comprehensive view of market conditions."
+        },
+        {
+            "title": "Reduced Emotional Bias",
+            "description": "By removing human emotions from trading, AI systems help maintain a consistent strategy, avoiding impulsive or fear-driven decisions."
+        },
+        {
+            "title": "24/7 Trading",
+            "description": "AI systems can operate continuously, which is especially valuable in markets like Forex and crypto that trade around the clock."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "Stratégie des moyennes mobiles (SMA & EMA) – Analyse technique | Qption",
+        "description": "Apprends la différence SMA/EMA, le fonctionnement des croisements (Golden/Death Cross), le rôle des MA comme support/résistance dynamiques et la stratégie du ruban de moyennes pour élever ton trading.",
+        "keywords": "moyennes mobiles, SMA, EMA, crossover MA, golden cross, death cross, ruban de moyennes, support dynamique, suivi de tendance, momentum, analyse technique, Qption",
+        "ogTitle": "Stratégie des moyennes mobiles (SMA & EMA) – Analyse technique | Qption",
+        "ogDescription": "Découvre SMA vs EMA, les crossovers, le S/R dynamique via MA et la stratégie du ruban pour progresser.",
+        "url": "https://qption.com/technical-analysis/moving-averages",
+        "image": "https://qption.com/videos/moving-average/moving-average.png",
+        "imageAlt": "Stratégie des moyennes mobiles illustrée sur un graphique"
+    },
+    "labels": {
+        "backToTechnical": "Analyse technique",
+        "backToGraphical": "Retour à l’analyse graphique"
+    },
+    "promo": {
+        "text": "Prêt à trader avec les moyennes mobiles ?",
+        "cta": "Commencer à trader"
+    },
+    "hero": {
+        "title": "Stratégie Moving Averages",
+        "subtitle": "Maîtrise la trend-following et le momentum trading grâce à notre analyse complète des MAs"
+    },
+    "video": {
+        "aria": "Les moyennes mobiles lissent les prix et aident à repérer tendances et retournements."
+    },
+    "overview": {
+        "title": "Vue d’ensemble",
+        "bullets": [
+            "Les MAs lissent les données pour faciliter la visualisation des tendances et retournements.",
+            "Les deux variantes principales sont la SMA et l’EMA, chacune ayant sa pondération.",
+            "Elles guident les traders sur la direction, fournissent des signaux et indiquent des zones dynamiques de S/R."
+        ]
+    },
+    "how": {
+        "title": "Fonctionnement des MAs",
+        "items": [
+            {
+                "title": "Simple Moving Average (SMA)",
+                "desc": "Moyenne arithmétique des prix récents – efficace pour la lecture générale du trend."
+            },
+            {
+                "title": "Exponential Moving Average (EMA)",
+                "desc": "Pondère davantage les prix récents – réponse plus rapide, idéale en marché nerveux."
+            },
+            {
+                "title": "Identifier la tendance",
+                "desc": "Prix au-dessus de la MA = biais haussier ; en-dessous = biais baissier."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Stratégies clés",
+        "items": [
+            {
+                "title": "Crossover de moyennes",
+                "points": [
+                    "Golden Cross : MA courte (50) passe au-dessus d’une MA longue (200) – signal haussier.",
+                    "Death Cross : MA courte passe sous la MA longue – signal baissier."
+                ]
+            },
+            {
+                "title": "Support/Résistance dynamique",
+                "points": [
+                    "En tendance haussière : la MA sert de support où le prix rebondit souvent.",
+                    "En tendance baissière : la MA agit comme résistance et guide le prix vers le bas."
+                ]
+            },
+            {
+                "title": "Stratégie du ruban de MAs",
+                "points": [
+                    "Empile plusieurs MAs (10, 20, 50, 100, 200) pour créer un ruban.",
+                    "Un ruban aligné dans le même sens indique généralement un trend robuste."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limites",
+        "bullets": [
+            "Les MAs sont retardées : elles réagissent lentement aux renversements soudains.",
+            "En marché erratique ou range, elles peuvent générer des faux signaux."
+        ]
+    }
+}

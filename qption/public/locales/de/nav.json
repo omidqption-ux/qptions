@@ -1,0 +1,94 @@
+{
+    "login": "Anmelden",
+    "cabinet": "Konto",
+    "auth": {
+        "login": "Anmelden",
+        "register": "Registrieren"
+    },
+    "sections": [
+        {
+            "key": "trading",
+            "title": "Handel",
+            "items": [
+                {
+                    "title": "Nachrichten",
+                    "link": "/news"
+                },
+                {
+                    "title": "Kontotypen",
+                    "link": "/Accounttypes"
+                },
+                {
+                    "title": "Social Trading",
+                    "link": "/socialTrading"
+                },
+                {
+                    "title": "KI-Trading",
+                    "link": "/AITrading"
+                },
+                {
+                    "title": "Affiliate-Programm",
+                    "link": "/Affiliate"
+                }
+            ]
+        },
+        {
+            "key": "education",
+            "title": "Bildung",
+            "items": [
+                {
+                    "title": "Technische Analyse",
+                    "link": "/technical-analysis"
+                },
+                {
+                    "title": "Handelsstrategien",
+                    "link": "/trading-strategy"
+                },
+                {
+                    "title": "Grafische Analyse",
+                    "link": "/graphical-analysis"
+                },
+                {
+                    "title": "Fundamentalanalyse",
+                    "link": "/fundamentalanalysis"
+                },
+                {
+                    "title": "Glossary",
+                    "link": "/Glossary"
+                }
+            ]
+        },
+        {
+            "key": "company",
+            "title": "Unternehmen",
+            "items": [
+                {
+                    "title": "Zahlungsrichtlinie",
+                    "link": "/PaymentPolicy"
+                },
+                {
+                    "title": "Rückerstattungsrichtlinie",
+                    "link": "/ReturnPolicy"
+                },
+                {
+                    "title": "AML & KYC",
+                    "link": "/AMLAndKYC"
+                },
+                {
+                    "title": "Datenschutzerklärung",
+                    "link": "/PricvacyPolicy"
+                },
+                {
+                    "title": "Allgemeine Geschäftsbedingungen",
+                    "link": "/TermsAndCondition"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "title": "Kontakt",
+        "email": "contact@qption.com",
+        "phone": "+46 766926599",
+        "location": "Stockholm, Schweden"
+    }
+}

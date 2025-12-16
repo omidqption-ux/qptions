@@ -1,0 +1,50 @@
+{
+    "seo": {
+        "title": "Reversal (Trend Dönüş) Stratejisi | Qption",
+        "description": "Reversal Trading stratejisini öğren: trend tükenişini tanı, destek/direnç, RSI, MACD, diverjans ve mum formasyonlarıyla girişleri teyit et; net stop ve hedeflerle riski yönet.",
+        "keywords": "reversal stratejisi, trend dönüşü, trend tükenişi, destek ve direnç, diverjans, RSI, MACD, mum formasyonları, hammer, engulfing, risk yönetimi, teyit sinyalleri, trading stratejisi, Qption",
+        "url": "https://qption.com/graphical-analysis/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "ogAlt": "Reversal Trading Stratejisi"
+    },
+    "ui": {
+        "backToGraphical": "Grafik Analize Geri Dön",
+        "graphicalLink": "Grafik Analiz"
+    },
+    "page": {
+        "title": "Reversal Trading Stratejisi"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "start": "Ticarete Başla"
+    },
+    "video": {
+        "aria": "Reversal, mevcut trend zayıfladığında ve yön değiştirme ihtimali belirdiğinde görülür. Trader’lar momentumdaki yavaşlama, yükselen trendde daha düşük tepeler veya düşen trendde daha yüksek dipler gibi tükeniş işaretlerini izler."
+    },
+    "sections": {
+        "keyConcepts": {
+            "h": "Reversal Stratejisinin Temel Kavramları",
+            "items": [
+                "Trend Tükenişi: Trend momentum kaybettiğinde ve yön değiştirme sinyalleri verdiğinde reversal oluşabilir.",
+                "Destek & Direnç: Düşüşte güçlü destek, yükselişte direnç seviyeleri dönüşleri tetikleyebilir.",
+                "Teknik Göstergeler: RSI, MACD veya Stokastik aşırı alım/aşırı satım bölgelerini işaret ederek dönüş ihtimaline ışık tutar.",
+                "Mum Formasyonları: Doji, Hammer, Engulfing gibi yapılar olası dönemeçleri görsel olarak gösterir.",
+                "Diverjans: Fiyat ve göstergenin zıt hareketleri (ör. fiyat yeni dip yaparken RSI daha yüksek dip yapması) dönüşü haber verebilir."
+            ]
+        },
+        "apply": {
+            "h": "Reversal Stratejisini Uygulamak",
+            "items": [
+                "Mevcut trendi belirle — güçlü, uzayan trendler sonrası dönüşler daha anlamlıdır.",
+                "Gösterge ekstremleri veya reversal mum oluşumları gibi sinyalleri izle.",
+                "Destek/direnç kırılımları, diverjanslar ya da zıt mum dizileriyle teyit bekle.",
+                "Giriş/çıkış noktalarını destek/direnç ve hareketli ortalamalarla tanımla.",
+                "Katı risk yönetimi uygula — stop-loss’u başarısız reversal bölgelerinin hemen ötesine koy."
+            ]
+        },
+        "example": {
+            "h": "Reversal Stratejisine Örnek",
+            "text": "Haftalarca yükselen bir hissede RSI 70’in üzerindeyken dirençte bearish engulfing görülür ve MACD diverjans gösterir. Trader, stop’u direncin üzerine koyup düşüşten kâr hedefleyerek short pozisyon açar."
+        }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "seo": {
+        "title": "Hisse Senedi – Forex/CFD korelasyonu: tetikleyiciler, kalıplar ve risk rejimleri | Qption",
+        "description": "Hisse senedi ve forex/CFD piyasalarının birlikte (veya ters) hareketini görün. Faizler, büyüme verileri, risk iştahı ve sermaye akımları gibi makro tetikleyicileri, tipik pozitif/negatif pariteleri ve korelasyonları çeşitlendirme ile hedge için nasıl kullanacağınızı öğrenin.",
+        "url": "https://qption.com/fundamental-analysis/forex-cfds",
+        "keywords": "hisse ve forex korelasyonu, CFD korelasyonu, risk-on risk-off, faizler ve FX, sermaye akımları, güvenli liman para birimleri JPY CHF, USD ve hisseler, AUD emtia korelasyonu, portföy hedge, Qption",
+        "ld": {
+            "headline": "Hisse Senedi Piyasaları ile Forex/CFD Korelasyonu",
+            "about": {
+                "equities": "Hisse Senedi Piyasaları",
+                "forex": "Döviz (Forex)",
+                "cfds": "Fark Sözleşmeleri (CFD)",
+                "riskSentiment": "Küresel Risk İştahı",
+                "safeHavens": "Güvenli Liman Para Birimleri",
+                "rates": "Faiz Oranları",
+                "flows": "Sermaye Akımları"
+            },
+            "props": {
+                "regimes": {
+                    "name": "Korelasyon Rejimleri",
+                    "value": "Risk-on/risk-off dönemlerinde ilişkiler değişir; güvenli liman FX (JPY, CHF) küresel hisseler düşerken güçlenir."
+                },
+                "commodity": {
+                    "name": "Emtia Bağlantıları",
+                    "value": "AUD ve kaynak ağırlıklı hisse sektörleri, ticaret şartları ve emtia döngüleri nedeniyle birlikte hareket edebilir."
+                },
+                "practice": {
+                    "name": "Pratik Kullanım",
+                    "value": "Trader’lar korelasyon farkındalığını çeşitlendirme, hedge ve istenmeyen yoğunlaşmayı önlemek için uygular."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısın?",
+        "start": "Ticarete Başla"
+    },
+    "page": {
+        "title": "Hisse Senedi Piyasaları ile Forex/CFD Korelasyonu"
+    },
+    "sections": {
+        "_list": [
+            "Genel Bakış",
+            "Korelasyonun Temel Tetikleyicileri",
+            "Faiz Oranları",
+            "Ekonomik Veriler",
+            "Küresel Risk İştahı",
+            "Sermaye Akımları",
+            "Hisse ve Forex/CFD Arasındaki Yaygın Korelasyonlar",
+            "Pozitif Korelasyonlar",
+            "Negatif Korelasyonlar",
+            "Hisse Piyasalarının Forex/CFD’leri Etkileme Şekli",
+            "Borsa Rallileri ve Para Birimi Gücü",
+            "Borsa Düşüşleri ve Güvenli Liman Para Birimleri",
+            "Hisse/Forex Korelasyonlarını Anlamanın Faydaları",
+            "Korelasyonlara Aşırı Güvenmenin Sınırlamaları"
+        ],
+        "overview": {
+            "title": "Genel Bakış",
+            "items": [
+                "Hisse senedi ve forex/CFD piyasaları çoğu zaman bağlantılı hareket eder; birindeki değişimler diğerini etkileyebilir.",
+                "Bu korelasyon, büyüme beklentileri, faiz oranları, risk iştahı ve küresel sermaye akımları gibi makro etkenlerden kaynaklanır.",
+                "Bu bağlantıları anlamak, yatırımcıların farklı varlık sınıflarında çeşitlendirme ve hedge stratejileri kurmasını kolaylaştırır."
+            ]
+        },
+        "drivers": {
+            "title": "Korelasyonun Temel Tetikleyicileri",
+            "items": [
+                {
+                    "label": "Faiz Oranları:",
+                    "text": "Merkez bankası politikaları hem para birimlerini hem hisseleri etkiler; yükselen faizler para birimini güçlendirirken hisse değerlemelerini baskılayabilir."
+                },
+                {
+                    "label": "Ekonomik Veriler:",
+                    "text": "Güçlü GSYİH, istihdam ve enflasyon verileri her iki piyasada da yatırımcı duyarlılığını etkiler ve yönlerini hizalar."
+                },
+                {
+                    "label": "Küresel Risk İştahı:",
+                    "text": "Risk-off dönemlerinde yatırımcılar hisselerden çıkarak JPY ve CHF gibi güvenli liman FX’e geçer; risk-on evrelerinde bu akış tersine döner."
+                },
+                {
+                    "label": "Sermaye Akımları:",
+                    "text": "Hisse piyasalarına yapılan sınır ötesi yatırımlar yerel para birimine talep getirir; çıkışlar ise para birimini zayıflatabilir."
+                }
+            ]
+        },
+        "common": {
+            "title": "Hisse ve Forex/CFD Arasındaki Yaygın Korelasyonlar",
+            "positive": {
+                "title": "Pozitif Korelasyonlar",
+                "items": [
+                    "USD ve ABD Hisseleri: Güçlü ekonomi beklentisi hem doları hem de borsayı destekleyebilir.",
+                    "AUD ve Emtia Hisseleri: Kaynak ağırlıklı Avustralya para birimi, madencilik/enerji hisseleriyle birlikte hareket etme eğilimindedir."
+                ]
+            },
+            "negative": {
+                "title": "Negatif Korelasyonlar",
+                "items": [
+                    "JPY ve Japon Hisseleri: Riskten kaçınmada sermaye ülkeye döndükçe yen güçlenir, hisse değerleri düşer.",
+                    "CHF ve Küresel Hisseler: İsviçre frangı, küresel hisse düşüşlerinde güvenli liman talebiyle genelde değer kazanır."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Hisse Piyasalarının Forex/CFD’leri Etkileme Şekli",
+            "rallies": {
+                "title": "Borsa Rallileri ve Para Birimi Gücü",
+                "items": [
+                    "Borsalar yükseldiğinde, büyümeye erişmek isteyen yatırımcıların sermaye girişleri yerel para birimini güçlendirebilir.",
+                    "Pozitif hisse performansı güveni artırır, yabancı yatırımı çeker ve para değerlenmesini destekler."
+                ]
+            },
+            "declines": {
+                "title": "Borsa Düşüşleri ve Güvenli Liman Para Birimleri",
+                "items": [
+                    "Piyasa gerilemeleri sırasında USD, JPY ve CHF gibi güvenli limanlara yönelim artar.",
+                    "Kriz dönemlerinde yatırımcılar risklerini azaltmak için fonlarını hisselerden istikrarlı para birimlerine taşırlar."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Hisse/Forex Korelasyonlarını Anlamanın Faydaları",
+            "items": [
+                "Varlık sınıfları arasında riski yöneterek çeşitlendirmeyi güçlendirir.",
+                "Bir piyasanın diğerini nasıl etkilediğini bilmek zamanlamayı iyileştirir.",
+                "Potansiyel kayıpları dengeleyecek hedge fırsatlarını ortaya çıkarır."
+            ]
+        },
+        "limits": {
+            "title": "Korelasyonlara Aşırı Güvenmenin Sınırlamaları",
+            "items": [
+                {
+                    "label": "Öngörülemeyen Değişimler:",
+                    "text": "Politika değişiklikleri veya küresel şoklar korelasyonları hızla bozabilir."
+                },
+                {
+                    "label": "Piyasa-spesifik Faktörler:",
+                    "text": "Şirket kazançları veya siyasi riskler gibi yerel gelişmeler tipik kalıpları bozar."
+                },
+                {
+                    "label": "Karmaşık Bağımlılıklar:",
+                    "text": "Makro ve mikro birçok güç eş zamanlı işlediğinden korelasyonlar dinamiktir ve zamana bağlıdır."
+                }
+            ]
+        }
+    }
+}

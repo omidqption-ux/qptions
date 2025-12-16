@@ -1,0 +1,77 @@
+{
+    "seo": {
+        "title": "Payment Policy | Qption",
+        "description": "Qption’s payment policy covers account balance display, deposit and withdrawal procedures, client verification (KYC), tax obligations, and other key terms.",
+        "keywords": "payment policy, deposit, withdrawal, account balance, KYC, verification, tax, Qption",
+        "ogTitle": "Payment Policy | Qption",
+        "ogDescription": "Learn about Qption’s policies on deposits, withdrawals, balance visibility, KYC, and taxation.",
+        "url": "https://qption.com/payment-policy",
+        "image": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Payment Policy | Qption",
+        "twitterDescription": "Deposit/withdrawal procedures, balance responsibility, KYC, taxation, and more.",
+        "twitterImage": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "canonical": "https://qption.com/payment-policy"
+    },
+    "hero": {
+        "title": "Payment Policy"
+    },
+    "sections": [
+        {
+            "key": "account",
+            "icon": "account",
+            "title": "1. Account Balance Responsibility",
+            "items": [
+                "The Company is responsible for displaying the Client’s account balance at any given time.",
+                "The Company’s responsibility begins once a deposit record is made and extends until a complete withdrawal request is processed by the Client.",
+                "The Client has the right to request funds available in their account at the time of inquiry."
+            ]
+        },
+        {
+            "key": "payments",
+            "icon": "payments",
+            "title": "2. Deposit and Withdrawal Procedures",
+            "items": [
+                "Deposits and withdrawals are conducted through the official methods listed on the Company’s website.",
+                "Clients assume all risks associated with using payment methods, as these providers are not Company affiliates.",
+                "The Company is responsible for funds only once they reach the Company’s bank or payment account."
+            ]
+        },
+        {
+            "key": "registration",
+            "icon": "registration",
+            "title": "3. Client Registration",
+            "items": [
+                "Registration requires providing accurate identity and contact details.",
+                "The verification process requires a government-issued ID.",
+                "The identification process must be completed within 10 business days."
+            ]
+        },
+        {
+            "key": "deposit",
+            "icon": "deposit",
+            "title": "4. Deposit Processes",
+            "items": [
+                "Deposits are initiated from the Client’s personal account on the website.",
+                "Electronic payments may process in seconds or take several days depending on the provider."
+            ]
+        },
+        {
+            "key": "tax",
+            "icon": "tax",
+            "title": "5. Tax Obligations",
+            "items": [
+                "The Company is not a tax agent for the Client; all tax declarations and payments remain the Client’s responsibility."
+            ]
+        },
+        {
+            "key": "misc",
+            "icon": "misc",
+            "title": "6. Miscellaneous Terms",
+            "items": [
+                "By accepting the Contract, the Client confirms that they are of legal age.",
+                "The Client is responsible for ensuring compliance with all applicable local laws and regulations."
+            ]
+        }
+    ]
+}

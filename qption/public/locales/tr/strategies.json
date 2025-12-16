@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "Ticaret Stratejileri – Kanıtlanmış Kurulumlar ve Sinyaller | Qption",
+        "description": "Qption’un seçilmiş ticaret stratejileri kütüphanesini keşfedin — scalping, günlük, swing ve pozisyon stratejileri dahil; giriş kuralları, risk yönetimi ve canlı performans verileriyle birlikte.",
+        "keywords": "ticaret stratejileri, forex stratejileri, kripto stratejileri, scalping, günlük işlem, swing trade, pozisyon ticareti, risk yönetimi, Qption sinyalleri",
+        "ogTitle": "Ticaret Stratejileri – Kanıtlanmış Kurulumlar ve Sinyaller | Qption",
+        "ogDescription": "Momentum kırılmalarından ortalama dönüş stratejilerine kadar — analistlerimizin izlediği tam kuralları öğrenin ve kendi hesabınızda uygulayın.",
+        "url": "https://qption.com/trading-strategies",
+        "image": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Ticaret Stratejileri – Kanıtlanmış Kurulumlar ve Sinyaller | Qption",
+        "twitterDescription": "Forex ve kripto piyasalarında lider traderlarımızın kullandığı adım adım strateji kurallarını öğrenin.",
+        "twitterImage": "https://qption.com/images/og/trading-strategies-qption.jpg",
+        "canonical": "https://qption.com/trading-strategies"
+    },
+    "hero": {
+        "title": "Ticaret Stratejileri",
+        "subtitle": "Hızlı scalplardan uzun vadeli swing’lere kadar kanıtlanmış ticaret stratejilerinde ustalaşın — içgörüyü kararlı eyleme dönüştüren net, kural tabanlı kurulumlarla."
+    },
+    "cta": {
+        "learnMore": "Daha Fazla Bilgi Edin"
+    },
+    "quiz": {
+        "link": "/trading-strategy/quiz-trading-strategy",
+        "cta": "Ticaret stratejisi testini çöz"
+    },
+    "cards": [
+        {
+            "title": "V-Bounce Hacim Sıçraması Ticaret Stratejisi",
+            "link": "/trading-strategy/v-bounce",
+            "icon": "chartBar"
+        },
+        {
+            "title": "Martingale Stratejisi",
+            "link": "/trading-strategy/martingale",
+            "icon": "chartLine"
+        },
+        {
+            "title": "Tersine Dönüş Stratejisi",
+            "link": "/trading-strategy/reversal",
+            "icon": "chartPie"
+        },
+        {
+            "title": "Kırılma (Breakout) Stratejisi",
+            "link": "/trading-strategy/breakout",
+            "icon": "chartArea"
+        },
+        {
+            "title": "Alligator Ticaret Stratejisi",
+            "link": "/trading-strategy/alligator",
+            "icon": "globe"
+        },
+        {
+            "title": "Bollinger Bandı Stratejisi",
+            "link": "/trading-strategy/bollinger",
+            "icon": "bitcoin"
+        },
+        {
+            "title": "Hareketli Ortalama (Moving Average) Stratejisi",
+            "link": "/trading-strategy/moving-average",
+            "icon": "coins"
+        },
+        {
+            "title": "Üç Yöntem Stratejisi",
+            "link": "/trading-strategy/threeMethods",
+            "icon": "chartPie"
+        },
+        {
+            "title": "Cımbız (Tweezers) Stratejisi",
+            "link": "/trading-strategy/tweezersStrategy",
+            "icon": "trophy"
+        },
+        {
+            "title": "Squat Mum Çubuğu Stratejisi",
+            "link": "/trading-strategy/squat-candle-stick",
+            "icon": "exchange"
+        },
+        {
+            "title": "Yutan Mum (Engulfing Candlestick) Stratejisi",
+            "link": "/trading-strategy/engulfing-candlestick",
+            "icon": "dollar"
+        }
+    ]
+}

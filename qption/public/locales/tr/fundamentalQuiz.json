@@ -1,0 +1,268 @@
+{
+    "seo": {
+        "title": "Temel Analiz Quiz’i – Piyasa bilginizi test edin | Qption",
+        "description": "Qption’ın Temel Analiz Quiz’i ile makroekonomi, faizler, enflasyon ve piyasa davranışını sınayın. Öğrenin ve daha akıllı trade edin.",
+        "keywords": "temel analiz quiz, makroekonomi, forex quiz, enflasyon, faiz oranları, merkez bankaları, GSYİH, TÜFE, carry trade, Qption",
+        "ogTitle": "Temel Analiz Quiz’i – Piyasa bilginizi test edin | Qption",
+        "ogDesc": "Ekonomik göstergeler, merkez bankaları, enflasyon ve küresel piyasalar konusunda bilginizi ölçen etkileşimli quiz.",
+        "url": "https://qption.com/fundamental-analysis/quiz",
+        "ogImage": "https://qption.com/images/og/fundamental-analysis-quiz.jpg"
+    },
+    "ui": {
+        "loadingPool": "Quiz soruları yükleniyor…",
+        "preparing": "Quiz hazırlanıyor…",
+        "h1": "Temel Analiz",
+        "intro": "Makro zihniyetini test et! Temel Analiz Quiz’imiz, büyüme & enflasyon verileri, merkez bankası politikası, faiz farkları, mali etkiler ve çapraz varlık dinamikleri hakkındaki hakimiyetini ölçerek daha bilinçli, ikna gücü yüksek bir trader olmanı sağlar.",
+        "quizTitle": "Temel Analiz Quiz’i",
+        "questionOf": "{{current}} / {{total}} soru",
+        "selectPrompt": "Bir seçenek seçip cevabını gönder.",
+        "correct": "Doğru ✅",
+        "notQuite": "Tam değil ⚠️",
+        "learnMore": "Daha fazlası ↗",
+        "prev": "Önceki",
+        "submit": "Gönder",
+        "next": "Sonraki",
+        "finish": "Bitir",
+        "scoreLabel": "Skor: {{score}} / {{total}}",
+        "resultHigh": "Harika! Makro radarın çok keskin.",
+        "resultMid": "İyi iş! Seviye atlamak için pratik yapmaya devam et.",
+        "resultLow": "İyi başlangıç—dersleri gözden geçir ve tekrar dene.",
+        "newRandom": "Yeni rastgele 10"
+    },
+    "pool": [
+        {
+            "q": "Tüketici enflasyonunu ölçmek için en yaygın kullanılan gösterge hangisidir?",
+            "options": [
+                "GSYİH",
+                "TÜFE",
+                "Dış Ticaret Dengesi",
+                "Perakende Satışlar"
+            ],
+            "correctIndex": 1,
+            "explain": "Tüketici Fiyat Endeksi, mal/hizmet sepetindeki fiyat değişimlerini takip eder ve enflasyonun ana göstergesidir.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Ekonomik Göstergeler"
+        },
+        {
+            "q": "GSYİH verisinin artması, diğer koşullar sabitken, en olası olarak neyi gösterir?",
+            "options": [
+                "Ekonomik daralma",
+                "Ekonomik genişleme",
+                "Stagflasyon",
+                "Sadece para birimi değer kaybı"
+            ],
+            "correctIndex": 1,
+            "explain": "GSYİH toplam üretimi ölçer; artış genellikle büyüme ivmesini yansıtır.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Ekonomik Göstergeler"
+        },
+        {
+            "q": "İşgücü piyasası etkileri nedeniyle hangi veri açıklaması FX’te büyük hareketler yaratabilir?",
+            "options": [
+                "Tarım dışı istihdam",
+                "ÜFE",
+                "Perakende Stokları",
+                "Bütçe Dengesi"
+            ],
+            "correctIndex": 0,
+            "explain": "İstihdam verileri, faiz beklentileri ve büyüme görünümünü etkileyerek para birimlerini hareket ettirir.",
+            "source": "https://qption.com/fundamentalanalysis/economic-indicators-market-reactions",
+            "topic": "Ekonomik Göstergeler"
+        },
+        {
+            "q": "Bir merkez bankası politika faizini düşürdüğünde temel amacı genellikle nedir?",
+            "options": [
+                "Aşırı ısınan ekonomiyi soğutmak",
+                "Borçlanma ve harcamayı teşvik etmek",
+                "Para arzını azaltmak",
+                "Para birimini anında güçlendirmek"
+            ],
+            "correctIndex": 1,
+            "explain": "Daha düşük faizler finansman maliyetini azaltarak talep ve yatırımı destekler.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Merkez Bankaları"
+        },
+        {
+            "q": "Tahvil fiyatları faiz oranlarıyla genellikle _____ hareket eder.",
+            "options": [
+                "Ters",
+                "Birebir",
+                "Rastgele",
+                "İlişkisiz"
+            ],
+            "correctIndex": 0,
+            "explain": "Getiriler yükselince mevcut sabit kuponlar cazibesini yitirir, fiyat düşer (ve tersi).",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Merkez Bankaları"
+        },
+        {
+            "q": "Forward guidance (ileri yönlendirme) nedir?",
+            "options": [
+                "Sabit kur rejimi",
+                "Gelecekteki politika niyetlerine dair iletişim",
+                "Sadece QE operasyonları",
+                "Maliye açığı projeksiyonları"
+            ],
+            "correctIndex": 1,
+            "explain": "Merkez bankaları, olası politika patikasına dair rehberlik vererek beklentileri şekillendirir.",
+            "source": "https://qption.com/fundamentalanalysis/central-bank-policies",
+            "topic": "Merkez Bankaları"
+        },
+        {
+            "q": "Yüksek enflasyon, daha yüksek faizlerle dengelenmediği sürece para birimini genellikle _____.",
+            "options": [
+                "Güçlendirir",
+                "Zayıflatır",
+                "Etkilemez",
+                "Kur sabitler"
+            ],
+            "correctIndex": 1,
+            "explain": "Enflasyon alım gücünü aşındırır; faiz artışları daha yüksek getiri sunarak bunu dengeleyebilir.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Enflasyon"
+        },
+        {
+            "q": "Bazı yatırımcılar Bitcoin’i potansiyel enflasyon koruması sayar çünkü:",
+            "options": [
+                "Sınırsız arzı vardır",
+                "Protokolce sınırlandırılmış arzı vardır",
+                "Tasarım gereği TÜFE’yi takip eder",
+                "USD’ye sabitlenmiştir"
+            ],
+            "correctIndex": 1,
+            "explain": "Kıtlık algısı, yüksek enflasyon dönemlerinde BTC’yi koruyucu varlık gibi görmelerine yol açar.",
+            "source": "https://qption.com/fundamentalanalysis/inflation-currency-crypto",
+            "topic": "Enflasyon"
+        },
+        {
+            "q": "Klasik bir carry trade stratejisinin amacı nedir?",
+            "options": [
+                "Yüksek faizli para biriminden borçlanıp düşük faizli olana yatırım yapmak",
+                "Düşük faizli para biriminden borçlanıp yüksek faizli olana yatırım yapmak",
+                "Faiz riskini tamamen kaldırmak",
+                "Sadece nakitte kalmak"
+            ],
+            "correctIndex": 1,
+            "explain": "Pozitif faiz farkı carry getirisi sağlar—ta ki volatilite veya rejim değişimi çarpana dek.",
+            "source": "https://qption.com/fundamentalanalysis/interest-rate-differentials-carry-trades",
+            "topic": "Carry"
+        },
+        {
+            "q": "Jeopolitik stres dönemlerinde yatırımcılar genellikle nereye yönelir?",
+            "options": [
+                "Sadece small-cap büyüme hisselerine",
+                "Daha yüksek beta’lı varlıklara",
+                "Güvenli liman varlıklara (altın, CHF, JPY, Hazine tahvilleri)",
+                "Likitsiz mikro hisselere"
+            ],
+            "correctIndex": 2,
+            "explain": "Belirsizlikte güvenli ve likit varlıklara talep artar.",
+            "source": "https://qption.com/fundamentalanalysis/geopolitical-events-and-markets",
+            "topic": "Jeopolitik"
+        },
+        {
+            "q": "Genişlemeci maliye politikası tipik olarak şunları içerir:",
+            "options": [
+                "Vergileri artırıp harcamaları kısmak",
+                "Vergileri azaltmak ve/veya harcamaları artırmak",
+                "Sadece bütçeyi dengelemek",
+                "Döviz rezervi satmak"
+            ],
+            "correctIndex": 1,
+            "explain": "Amaç; durgunluk dönemlerinde toplam talebi, büyümeyi ve istihdamı desteklemektir.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Maliye"
+        },
+        {
+            "q": "Sürekli bütçe açıklarının başlıca riski nedir?",
+            "options": [
+                "Azalan kamu borcu",
+                "Düşen faiz maliyetleri",
+                "Artan kamu borcu ve faiz yükü",
+                "Otomatik para birimi değerlenmesi"
+            ],
+            "correctIndex": 2,
+            "explain": "Yüksek borç esnekliği azaltır ve diğer öncelikleri dışlayabilir.",
+            "source": "https://qption.com/fundamentalanalysis/fiscal-policy-and-government-spending",
+            "topic": "Maliye"
+        },
+        {
+            "q": "Yüksek borç/GSYİH oranı genellikle neyin işareti olabilir?",
+            "options": [
+                "Düşük borçlanma ihtiyacı",
+                "Sürdürülebilirlik endişeleri",
+                "Garantili büyüme",
+                "Sabit kur"
+            ],
+            "correctIndex": 1,
+            "explain": "Ağır borç yükü, iyi yönetilmezse büyümeyi ve para birimine güveni zedeleyebilir.",
+            "source": "https://qption.com/fundamentalanalysis/global-debt-levels-and-currency-valuation",
+            "topic": "Borç/Para"
+        },
+        {
+            "q": "Emtia fiyatlarını temel olarak ne belirler?",
+            "options": [
+                "Sadece merkez bankası politikası",
+                "Arz/talep dinamikleri ve şoklar",
+                "Yalnızca rastgele yürüyüş",
+                "Sadece vergi politikası"
+            ],
+            "correctIndex": 1,
+            "explain": "Arz kesintileri veya talep artışları (büyüme, hava durumu) fiyatları oynatır.",
+            "source": "https://qption.com/fundamentalanalysis/supply-and-demand-commodities",
+            "topic": "Emtia"
+        },
+        {
+            "q": "Aşağıdakilerden hangisi genelde güvenli liman varlık olarak görülür?",
+            "options": [
+                "Yüksek beta’lı teknoloji hissesi",
+                "Altın",
+                "Small-cap biyotek",
+                "Gelişen ülke carry pozisyonu"
+            ],
+            "correctIndex": 1,
+            "explain": "Çalkantıda sermaye altın, CHF, JPY ve yüksek kaliteli tahvillere kayar.",
+            "source": "https://qption.com/fundamentalanalysis/safe-haven-assets-market-turbulence",
+            "topic": "Güvenli Liman"
+        },
+        {
+            "q": "Hisse senetleri ile FX/CFD’ler birlikte hareket edebilir çünkü ikisi de aşağıdakilerden hangisinden etkilenir?",
+            "options": [
+                "Aynı makro tetikleyiciler (büyüme, enflasyon, faiz, risk iştahı)",
+                "Tamamen ilgisiz güçler",
+                "Sadece hava durumu",
+                "Tek bir kazanç raporu"
+            ],
+            "correctIndex": 0,
+            "explain": "Makro rejimler (risk-on/off) genellikle çapraz varlık korelasyonları yaratır.",
+            "source": "https://qption.com/fundamentalanalysis/forex-cfds",
+            "topic": "Çapraz Varlık"
+        },
+        {
+            "q": "Daha sıkı kripto regülasyonları şunu yapabilir:",
+            "options": [
+                "Sadece fiyatları artırır",
+                "Katılımı etkilemez",
+                "Benimsenme, likidite ve piyasa yapısını etkiler",
+                "Volatiliteyi tamamen ortadan kaldırır"
+            ],
+            "correctIndex": 2,
+            "explain": "Kurallar on/off-ramp’leri, kurumsal erişimi ve davranışı şekillendirir.",
+            "source": "https://qption.com/fundamentalanalysis/crypto-adoption-regulation",
+            "topic": "Kripto Reg."
+        },
+        {
+            "q": "En genel düzeyde blockhainler işlem geçmişini nasıl güvence altına alır?",
+            "options": [
+                "Sadece merkezi defterlerle",
+                "Dağıtık mutabakat ve kriptografiyle",
+                "Kâğıt kayıtlarla",
+                "Tek şirket sunucusuyla"
+            ],
+            "correctIndex": 1,
+            "explain": "Mutabakat (PoW/PoS) ve kriptografik bağlar bütünlüğü korur.",
+            "source": "https://qption.com/fundamentalanalysis/blockchain-fundamental-analysis",
+            "topic": "Blockchain"
+        }
+    ]
+}

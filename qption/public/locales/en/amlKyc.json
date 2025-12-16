@@ -1,0 +1,137 @@
+{
+    "seo": {
+        "title": "AML & CTF Policy | Qption",
+        "description": "Qption’s Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) Policy: definitions, program, employee and client obligations, KYC checks, handling of suspicious activity, and liability.",
+        "keywords": "AML, CTF, KYC, anti-money laundering, counter-terrorist financing, suspicious transactions, compliance, Qption",
+        "ogTitle": "Anti-Money Laundering (AML) & Counter-Terrorist Financing (CTF) Policy | Qption",
+        "ogDescription": "Learn how Qption prevents money laundering and terrorist financing: program governance, verification, monitoring, and client responsibilities.",
+        "url": "https://qption.com/aml-kyc",
+        "image": "https://qption.com/images/og/aml-kyc-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "AML & CTF Policy | Qption",
+        "twitterDescription": "Our AML/CTF standards, KYC checks, suspicious activity handling, and responsibilities.",
+        "twitterImage": "https://qption.com/images/og/aml-kyc-qption.jpg",
+        "canonical": "https://qption.com/aml-kyc"
+    },
+    "hero": {
+        "title": "Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) Policy"
+    },
+    "sections": [
+        {
+            "key": "general",
+            "icon": "general",
+            "title": "1. General Policy",
+            "items": [
+                "The Company prohibits and actively works to prevent money laundering and activities that fund terrorism or other criminal actions. All employees and affiliates must uphold these standards to prevent misuse of the Company’s services for illegal financial activity."
+            ]
+        },
+        {
+            "key": "definition",
+            "icon": "definition",
+            "title": "2. Definition of Money Laundering",
+            "items": [
+                "Money laundering comprises actions designed to disguise the origins of illegally obtained funds, making them appear to come from legitimate sources."
+            ]
+        },
+        {
+            "key": "stages",
+            "icon": "stages",
+            "title": "3. Money Laundering Stages",
+            "items": [
+                "Placement: Cash from criminal activities enters the financial system.",
+                "Layering: Funds are moved between accounts or institutions to further obscure their origin.",
+                "Integration: Funds re-enter the economy to purchase legitimate assets or finance additional activities."
+            ]
+        },
+        {
+            "key": "employees",
+            "icon": "employees",
+            "title": "4. Employee Responsibilities",
+            "items": [
+                "Employees involved in Company services are expected to know and follow applicable laws and regulations related to money laundering prevention."
+            ]
+        },
+        {
+            "key": "program",
+            "icon": "program",
+            "title": "5. AML Compliance Program",
+            "items": [
+                "The Company maintains an ongoing program to ensure legal compliance, minimize exposure to money laundering, and coordinate regulatory requirements across all business units."
+            ]
+        },
+        {
+            "key": "affiliates",
+            "icon": "affiliates",
+            "title": "6. Affiliate Compliance",
+            "items": [
+                "Each Company affiliate must adhere to AML and Know Your Customer (KYC) policies."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "7. Documentation Retention",
+            "items": [
+                "All identification documents and service records are retained for at least the minimum period required by applicable local law."
+            ]
+        },
+        {
+            "key": "training",
+            "icon": "training",
+            "title": "8. Employee Training",
+            "items": [
+                "New employees receive anti-money laundering training during onboarding. Annual AML and KYC training is required for applicable employees."
+            ]
+        },
+        {
+            "key": "obligations",
+            "icon": "obligations",
+            "title": "9. Client Obligations",
+            "items": [
+                "Clients must comply with laws regarding anti-money laundering, fraud prevention, and illegal operations.",
+                "Clients must ensure that funds transferred to their account originate from legitimate sources."
+            ]
+        },
+        {
+            "key": "checks",
+            "icon": "checks",
+            "title": "10. Know Your Customer (KYC) and AML Checks",
+            "items": [
+                "The Company reserves the right to conduct KYC and AML/CTF checks on Clients to comply with regulations and prevent financial crimes.",
+                "Clients are required to provide all requested documents for verification. Failure to comply may result in delays or suspension of account services."
+            ]
+        },
+        {
+            "key": "suspicious",
+            "icon": "suspicious",
+            "title": "11. Handling Suspicious Transactions",
+            "items": [
+                "If suspicious or fraudulent transactions are detected, the Company may suspend account services, block the Client’s account, and cancel any transactions pending investigation."
+            ]
+        },
+        {
+            "key": "docs",
+            "icon": "docs",
+            "title": "12. Documentation Requests During Investigations",
+            "items": [
+                "During investigations, the Company may request identity documentation and proof of source of funds to confirm legality."
+            ]
+        },
+        {
+            "key": "prohibition",
+            "icon": "prohibition",
+            "title": "13. Prohibition on Illegal Activities",
+            "items": [
+                "Use of the Company’s services or software for illegal or fraudulent activities, including money laundering, is strictly prohibited."
+            ]
+        },
+        {
+            "key": "liability",
+            "icon": "liability",
+            "title": "14. Company Liability",
+            "items": [
+                "The Company’s refusal to process suspicious transactions does not create liability to the Client or third parties."
+            ]
+        }
+    ]
+}

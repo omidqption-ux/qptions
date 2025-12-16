@@ -1,0 +1,132 @@
+{
+    "seo": {
+        "title": "Estrategia de Ruptura – Niveles, Confirmación de Volumen y Gestión del Riesgo | Qption",
+        "description": "Domina la estrategia de ruptura: identifica niveles clave de soporte y resistencia, confirma con volumen e indicadores (RSI, MACD, ATR, Bandas de Bollinger), evita falsas rupturas y establece entradas, salidas y controles de riesgo precisos. Incluye ventajas, desventajas y un ejemplo práctico.",
+        "url": "https://qption.com/trading-strategy/breakout",
+        "image": "https://qption.com/videos/breakout-strategy/breakout-strategy.jpg",
+        "imageAlt": "Estrategia de trading de ruptura",
+        "keywords": "estrategia de ruptura, rupturas, soporte y resistencia, confirmación de volumen, falsas rupturas, RSI, MACD, ATR, Bandas de Bollinger, trading de impulso, gestión del riesgo, puntos de entrada y salida, estrategia de trading, Qption",
+        "jsonLd": {
+            "headline": "Estrategia de Ruptura – Niveles, Confirmación de Volumen y Gestión del Riesgo",
+            "about": [
+                "Trading de ruptura",
+                "Soporte y resistencia",
+                "Confirmación de volumen",
+                "Falsas rupturas",
+                "RSI",
+                "MACD",
+                "ATR",
+                "Bandas de Bollinger",
+                "Impulso",
+                "Gestión del riesgo"
+            ],
+            "articleSection": [
+                "Estrategia de ruptura",
+                "Conceptos clave de la estrategia de ruptura",
+                "Cómo utilizar la estrategia de ruptura",
+                "Ventajas y desventajas de la estrategia de ruptura",
+                "Ejemplo práctico de la estrategia de ruptura"
+            ]
+        }
+    },
+    "breadcrumb": "Estrategia de trading",
+    "title": "Estrategia de Ruptura",
+    "cta": {
+        "prompt": "¿Listo para operar?",
+        "button": "Comienza a operar"
+    },
+    "video": {
+        "aria": "Las rupturas suelen ocurrir cuando el precio cruza niveles clave de soporte o resistencia"
+    },
+    "sections": {
+        "keyConcepts": {
+            "title": "Conceptos clave de la Estrategia de Ruptura",
+            "items": {
+                "levels": {
+                    "title": "Niveles de soporte y resistencia:",
+                    "desc": "Las rupturas suelen producirse cuando el precio atraviesa niveles clave de soporte o resistencia. Estos niveles actúan como barreras psicológicas, y cuando se rompen, el precio a menudo gana impulso en la dirección de la ruptura."
+                },
+                "volume": {
+                    "title": "Confirmación de volumen:",
+                    "desc": "Un aumento del volumen durante una ruptura refuerza su validez. Un alto volumen indica un fuerte interés en la nueva dirección del precio, aumentando la probabilidad de continuación de la tendencia."
+                },
+                "types": {
+                    "title": "Tipos de ruptura:",
+                    "bull": "Ruptura alcista: ocurre cuando el precio supera un nivel de resistencia, lo que indica una posible tendencia alcista.",
+                    "bear": "Ruptura bajista: ocurre cuando el precio cae por debajo de un nivel de soporte, lo que indica una posible tendencia bajista."
+                },
+                "indicators": {
+                    "title": "Indicadores técnicos:",
+                    "desc": "Indicadores como las Medias Móviles, las Bandas de Bollinger y el Rango Verdadero Promedio (ATR) pueden ayudar a confirmar la fuerza de una ruptura. Por ejemplo, las Bandas de Bollinger se expanden durante períodos de alta volatilidad, señalando una posible ruptura."
+                },
+                "false": {
+                    "title": "Falsas rupturas:",
+                    "desc": "A veces el precio se mueve brevemente más allá de un nivel de soporte o resistencia solo para revertirse rápidamente. Esto se conoce como falsa ruptura. Los traders deben confirmar las rupturas con señales adicionales (como volumen o cierres de precios) para evitar entradas falsas."
+                }
+            }
+        },
+        "howTo": {
+            "title": "Cómo utilizar la Estrategia de Ruptura",
+            "items": {
+                "levels": {
+                    "title": "Identificar niveles clave:",
+                    "desc": "Usa los gráficos para identificar niveles importantes de soporte y resistencia. Estos niveles pueden ser líneas horizontales formadas por máximos y mínimos históricos, líneas de tendencia o números redondos observados por los traders."
+                },
+                "confirm": {
+                    "title": "Esperar la confirmación:",
+                    "desc": "Entrar inmediatamente en una ruptura puede ser arriesgado, ya que las rupturas falsas son comunes. Espera confirmación adicional como aumento del volumen, un cierre por encima/debajo del nivel o apoyo de indicadores."
+                },
+                "indicators": {
+                    "title": "Usar indicadores técnicos:",
+                    "desc": "Combina las señales de ruptura con indicadores como el RSI, MACD o medias móviles para confirmar la ruptura. Un RSI superior a 50 en una ruptura alcista o inferior a 50 en una bajista refuerza la señal."
+                },
+                "entriesExits": {
+                    "title": "Definir puntos de entrada y salida:",
+                    "desc": "Entrada: coloca una orden ligeramente por encima del nivel de resistencia en una ruptura alcista o por debajo del nivel de soporte en una bajista.\nSalida: define tus objetivos de beneficio según la distancia entre soporte y resistencia (el rango) o utiliza stops móviles para asegurar ganancias a medida que progresa la tendencia."
+                },
+                "risk": {
+                    "title": "Gestionar el riesgo:",
+                    "desc": "Usa órdenes de stop-loss para controlar las pérdidas potenciales. Coloca los stops ligeramente por debajo del nivel de ruptura en rupturas alcistas o por encima en bajistas, para protegerte de retrocesos o rupturas falsas."
+                }
+            }
+        },
+        "prosCons": {
+            "title": "Ventajas y desventajas de la Estrategia de Ruptura",
+            "pros": {
+                "title": "Ventajas:",
+                "items": {
+                    "reward": {
+                        "title": "Alto potencial de beneficio:",
+                        "desc": "Las rupturas pueden generar fuertes tendencias, ofreciendo oportunidades significativas de ganancia si se capturan temprano."
+                    },
+                    "momentum": {
+                        "title": "Basada en el impulso:",
+                        "desc": "Esta estrategia aprovecha el impulso del mercado, facilitando entrar en una tendencia en sus etapas iniciales."
+                    },
+                    "markets": {
+                        "title": "Funciona en múltiples mercados:",
+                        "desc": "Las estrategias de ruptura pueden aplicarse a acciones, divisas, criptomonedas y materias primas."
+                    }
+                }
+            },
+            "cons": {
+                "title": "Desventajas:",
+                "items": {
+                    "falseBreakouts": {
+                        "title": "Riesgo de falsas rupturas:",
+                        "desc": "Entrar en rupturas falsas puede generar pérdidas rápidas si el precio se revierte."
+                    },
+                    "timing": {
+                        "title": "Dificultad en el timing:",
+                        "desc": "Identificar rupturas verdaderas puede ser desafiante; las entradas mal cronometradas pueden provocar pérdidas o oportunidades perdidas."
+                    }
+                }
+            }
+        },
+        "example": {
+            "title": "Ejemplo práctico de la Estrategia de Ruptura",
+            "p1": "Imagina una acción que se ha estado moviendo en un rango estrecho, con resistencia en $100 y soporte en $95. Después de varios intentos fallidos de superar la resistencia, finalmente rompe por encima de $100 con alto volumen. Esta es una señal de ruptura alcista.",
+            "p2": "Un trader podría colocar una orden de entrada en $101 para confirmar la ruptura y un stop-loss en $98 para protegerse de una reversión. Si el precio continúa subiendo, puede establecer un objetivo de beneficio basado en el rango anterior o usar un stop móvil para asegurar ganancias adicionales."
+        }
+    }
+}

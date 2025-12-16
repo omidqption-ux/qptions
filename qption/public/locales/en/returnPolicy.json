@@ -1,0 +1,58 @@
+{
+    "seo": {
+        "title": "Withdrawal Process and Conditions | Qption",
+        "description": "Learn how withdrawals work on Qption: request workflow, sending funds back to the original deposit method, client responsibilities, and account closure rules.",
+        "keywords": "withdrawal policy, withdrawal request, original deposit method, client responsibility, account closure, Qption",
+        "ogTitle": "Withdrawal Process and Conditions | Qption",
+        "ogDescription": "Detailed guidance on withdrawal requests, processing times, payout routes, and compliance conditions.",
+        "url": "https://qption.com/withdrawal-policy",
+        "image": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Withdrawal Process and Conditions | Qption",
+        "twitterDescription": "How to request withdrawals, processing timelines, payout rules, and more.",
+        "twitterImage": "https://qption.com/images/og/withdrawal-policy-qption.jpg",
+        "canonical": "https://qption.com/withdrawal-policy"
+    },
+    "hero": {
+        "title": "Withdrawal Process and Conditions"
+    },
+    "sections": [
+        {
+            "key": "request",
+            "icon": "request",
+            "title": "1. Withdrawal Request Procedure",
+            "items": [
+                "To initiate a withdrawal, the Client must submit a request through their personal zone on the Site, select a withdrawal method, and provide the required information.",
+                "After submission, the request receives a “Requested” status. When processing begins, it changes to “In process,” at which point funds are deducted from the account balance. Upon completion, the status updates to “Processed,” and the funds are transferred to the Client’s payment system wallet.",
+                "Withdrawal requests are processed by the Company’s finance department in the order received. Processing may take up to five (5) business days. The Company reserves the right to extend this timeframe if necessary."
+            ]
+        },
+        {
+            "key": "originalMethod",
+            "icon": "originalMethod",
+            "title": "2. Withdrawal to Original Deposit Method",
+            "items": [
+                "Funds can be withdrawn only to the payment account originally used for the deposit. If this is not technically possible, the Company may choose an alternative withdrawal method, ensuring the Client’s personal details match the payment details.",
+                "If a bank card was used to deposit, withdrawals must be sent to the same card. Other methods may be used only if the withdrawal amount exceeds the initial deposit.",
+                "If the Client submits a withdrawal request without conducting any trading operations after a deposit, the withdrawal must use the same payment credentials and system as the deposit. The Company reserves the right to charge fees for returning funds and covering processing costs."
+            ]
+        },
+        {
+            "key": "accuracy",
+            "icon": "accuracy",
+            "title": "3. Client’s Responsibility and Information Accuracy",
+            "items": [
+                "The Client is fully responsible for the accuracy of all information provided in the withdrawal request."
+            ]
+        },
+        {
+            "key": "closure",
+            "icon": "closure",
+            "title": "4. Account Closure Due to Terms Violation",
+            "items": [
+                "If a Client’s account is closed due to a breach of the Terms and Conditions, the Company reserves the right to withhold and retain any profits earned by the Client.",
+                "At the Company’s discretion, it may return deposited funds to the Client, deducting all applicable fees and charges from the amount."
+            ]
+        }
+    ]
+}

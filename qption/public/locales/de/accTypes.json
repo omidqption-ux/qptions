@@ -1,0 +1,98 @@
+{
+    "seo": {
+        "title": "Kontotypen – Pläne vergleichen | Qption",
+        "description": "Vergleichen Sie die sechs Kontostufen von Qption – Basic, Silver, Gold, Platinum, Diamond und Exclusive – in Bezug auf Mindesteinzahlung, Tools, Support und VIP-Vorteile. Wählen Sie das Konto, das zu Ihren Handelszielen passt.",
+        "keywords": "Qption Kontotypen, Basic Konto, Silver Konto, Gold Konto, Platinum Konto, Diamond Konto, Exclusive Konto, Handelskonten Vergleich, Mindesteinzahlung, Handelswerkzeuge, VIP Trading",
+        "ogTitle": "Kontotypen – Pläne vergleichen | Qption",
+        "ogDescription": "Vergleichen Sie die Funktionen der Qption-Konten Basic, Silver, Gold, Platinum, Diamond und Exclusive – von der Mindesteinzahlung bis zum persönlichen Support.",
+        "ogUrl": "https://qption.com/accounttypes",
+        "ogImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "Kontotypen – Pläne vergleichen | Qption",
+        "twitterDescription": "Finden Sie das perfekte Konto – von Basic bis Exclusive. Entdecken Sie alle Vorteile und Stufen von Qption.",
+        "twitterImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "canonical": "https://qption.com/accounttypes",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "Wählen Sie Ihren Kontotyp",
+        "subtitle": "Wählen Sie das Konto, das Ihren Handelszielen entspricht",
+        "cta": "Jetzt starten",
+        "fromPrefix": "$",
+        "invitationOnly": "Nur auf Einladung"
+    },
+    "plans": {
+        "basic": {
+            "title": "Basic",
+            "desc": "Ideal für den einfachen Einstieg, jederzeit aufrüstbar.",
+            "from": "10",
+            "features": [
+                "Grundlegende Handelswerkzeuge",
+                "E-Mail-Support",
+                "Marktanalyse",
+                "24/7 Support"
+            ]
+        },
+        "silver": {
+            "title": "Silver",
+            "desc": "Mehr als Basic – für Trader, die gleich durchstarten wollen.",
+            "from": "50",
+            "features": [
+                "Alle Basic-Funktionen",
+                "Priorisierter Support",
+                "Erweiterte Charts",
+                "Tägliche Marktupdates"
+            ]
+        },
+        "gold": {
+            "title": "Gold",
+            "desc": "Unser beliebtester Kontotyp – inklusive kostenloser Beratungsgespräche.",
+            "from": "500",
+            "features": [
+                "Alle Silver-Funktionen",
+                "Kostenlose Beratungen",
+                "Persönlicher Account-Manager",
+                "VIP-Webinare"
+            ]
+        },
+        "platinum": {
+            "title": "Platinum",
+            "desc": "Wo kluge Investitionen beginnen – mit exklusiven Vorteilen.",
+            "from": "5000",
+            "features": [
+                "Alle Gold-Funktionen",
+                "24/7 Support",
+                "Individuelle Handelsstrategien",
+                "Exklusive Events"
+            ]
+        },
+        "diamond": {
+            "title": "Diamond",
+            "desc": "Unsere höchste Expertise und maßgeschneiderte Verwaltung für ernsthafte Investoren.",
+            "from": "10000",
+            "features": [
+                "Alle Platinum-Funktionen",
+                "Individuelle Investmentlösungen",
+                "Private Handelssitzungen",
+                "Luxusprämien"
+            ]
+        },
+        "exclusive": {
+            "title": "Exclusive",
+            "desc": "Erkundigen Sie sich bei Ihrem Account-Manager für weitere Informationen.",
+            "from": "Nur auf Einladung",
+            "features": [
+                "Maßgeschneiderte Lösungen",
+                "Private Vermögensverwaltung",
+                "Exklusive Marktanalysen",
+                "Personalisierte Services"
+            ]
+        }
+    },
+    "withdrawal": {
+        "title": "Auszahlungsoptionen",
+        "body1": "Handeln Sie frei und greifen Sie problemlos auf Ihre Gelder zu. Mit über 20 Zahlungsmethoden können Sie auf Visa, MasterCard, Maestro, UnionPay oder digitale Dienste wie Neteller, Skrill, Perfect Money, FasaPay und mehr auszahlen.",
+        "highlight": "Gold-, Platinum- und Exclusive-Konten genießen bevorzugte Auszahlungsbearbeitung."
+    }
+}

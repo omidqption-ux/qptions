@@ -1,0 +1,40 @@
+{
+    "sections": {
+        "home": "Inicio",
+        "trading": "Trading",
+        "education": "Educación",
+        "company": "Empresa"
+    },
+    "links": {
+        "home": "Inicio",
+        "register": "Registrarse",
+        "about": "Acerca de",
+        "contact": "Contacto",
+        "faq": "Preguntas frecuentes",
+        "news": "Noticias",
+        "accountTypes": "Tipos de cuenta",
+        "socialTrading": "Trading social",
+        "aiTrading": "Trading con IA",
+        "affiliate": "Programa de afiliados",
+        "technicalAnalysis": "Análisis técnico",
+        "tradingStrategies": "Estrategias de trading",
+        "graphicalAnalysis": "Análisis gráfico",
+        "fundamentalAnalysis": "Análisis fundamental",
+        "glossary": "Glosario",
+        "paymentPolicy": "Política de pagos",
+        "returnPolicy": "Política de devoluciones",
+        "amlKyc": "AML y KYC",
+        "privacyPolicy": "Política de privacidad",
+        "terms": "Términos y condiciones"
+    },
+    "followUs": "Síguenos:",
+    "riskWarning": "Advertencia de riesgo: los CFD son instrumentos complejos y conllevan un alto riesgo de pérdidas rápidas debido al apalancamiento. El 72% de las cuentas minoristas pierde dinero al operar con CFD con este proveedor. Considere si comprende su funcionamiento y si puede asumir el riesgo.",
+    "recaptcha": {
+        "prefix": "Este sitio está protegido por reCAPTCHA y las políticas de Google:",
+        "privacy": "Política de Privacidad",
+        "and": "y",
+        "terms": "Términos del Servicio",
+        "apply": "se aplican."
+    },
+    "payments": "Pagos"
+}

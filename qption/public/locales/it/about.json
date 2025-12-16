@@ -1,0 +1,62 @@
+{
+    "seo": {
+        "title": "Chi siamo – Qption",
+        "description": "Scopri il team, la missione e la tecnologia dietro Qption — una piattaforma di trading di opzioni progettata per velocità, trasparenza e trader di ogni livello."
+    },
+    "hero": {
+        "title": "Rivoluzionare il trading online",
+        "subtitle": "Fondata da un team di esperti FinTech visionari, Qption sta ridefinendo cosa significa fare trading nel mondo digitale di oggi. Crediamo che il trading debba essere accessibile, innovativo e vantaggioso per tutti."
+    },
+    "box": {
+        "heading": "Informazioni su Qption",
+        "companyRegistration": {
+            "title": "Registrazione dell’azienda",
+            "body": "Qption LLC è registrata a SVG, First Floor, First St. Vincent Bank Ltd Building, James Street Kingstown, Saint Vincent e Grenadine con numero di registrazione 1744 LLC 22."
+        },
+        "globalPresence": {
+            "title": "Presenza globale",
+            "body": "Serviamo trader in tutto il mondo con una piattaforma di trading sicura e affidabile."
+        },
+        "securityFirst": {
+            "title": "Sicurezza prima di tutto",
+            "body": "La tua sicurezza è la nostra priorità. Applichiamo misure leader nel settore per proteggere i tuoi dati e investimenti."
+        },
+        "tradingExcellence": {
+            "title": "Eccellenza nel trading",
+            "body": "Forniamo strumenti e risorse avanzate per aiutarti a ottenere successo nei mercati."
+        }
+    },
+    "stats": {
+        "activeTraders": "Trader attivi",
+        "monthlyVolume": "Volume mensile",
+        "countries": "Paesi",
+        "avgIncome": "Reddito mensile medio"
+    },
+    "values": {
+        "heading": "I nostri valori fondamentali",
+        "innovationFirst": {
+            "title": "Innovazione prima di tutto",
+            "desc": "Spingiamo costantemente i confini con funzionalità all’avanguardia e nuovi standard."
+        },
+        "customerCentric": {
+            "title": "Orientato al cliente",
+            "desc": "Il tuo successo è il nostro. Ci impegniamo per un servizio e un supporto eccezionali."
+        },
+        "communityDriven": {
+            "title": "Guidato dalla comunità",
+            "desc": "La nostra piattaforma prospera grazie all’interazione e al successo condiviso dei trader."
+        },
+        "integrity": {
+            "title": "Integrità",
+            "desc": "Operiamo con trasparenza e forte conformità in tutte le operazioni."
+        },
+        "sustainability": {
+            "title": "Sostenibilità",
+            "desc": "Costruiamo relazioni a lungo termine e una piattaforma stabile e affidabile."
+        },
+        "sharedSuccess": {
+            "title": "Successo condiviso",
+            "desc": "Rendiamo il trading accessibile e redditizio per i trader di tutto il mondo."
+        }
+    }
+}

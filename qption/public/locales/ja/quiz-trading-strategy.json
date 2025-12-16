@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "テクニカル戦略クイズ – 取引知識をチェック | Qption",
+        "description": "V-Bounce、ブレイクアウト、リバーサル、アリゲーター、ボリンジャーバンド、移動平均、スリー・メソッド、ツイザー、スクワット、エンガルフィングなどに関するランダム10問で腕試し。",
+        "keywords": "トレーディングクイズ, テクニカル分析クイズ, V-Bounce, ブレイクアウト, リバーサル, アリゲーター, ボリンジャーバンド, 移動平均, スリーメソッド, ツイザー, スクワット, エンガルフィング, Qption",
+        "ogTitle": "テクニカル戦略クイズ – 取引知識をチェック",
+        "ogDescription": "毎回10問をランダム出題。実践しながら学び、戦略エッジを磨きましょう。",
+        "url": "https://qption.com/ja/tools/technical-quiz",
+        "image": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "テクニカル戦略クイズ – 取引知識をチェック",
+        "twitterDescription": "ブレイクアウトからリバーサルまで—インタラクティブなクイズで実力を証明。",
+        "twitterImage": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "canonical": "https://qption.com/ja/tools/technical-quiz"
+    },
+    "page": {
+        "title": "テクニカル戦略クイズ",
+        "subtitle": "チャートパターン、インジケーター、トレードプランの理解度を確認。各セッションで10問をランダム出題し、選択肢も毎回シャッフルされます。"
+    },
+    "quiz": {
+        "header": "トレーディング戦略クイズ",
+        "progress": "質問 {{current}} / {{total}}",
+        "correct": "正解 ✅",
+        "incorrect": "惜しい ⚠️",
+        "selectHint": "選択肢を選んで、回答を送信してください。",
+        "learnMore": "詳しく見る ↗"
+    },
+    "ui": {
+        "previous": "前へ",
+        "submit": "送信",
+        "next": "次へ",
+        "finish": "終了",
+        "newRandom": "新しいランダム10問",
+        "loading": "クイズを読み込み中…"
+    },
+    "results": {
+        "score": "スコア：{{score}} / {{total}}",
+        "tier": {
+            "excellent": "素晴らしい！戦略知識がとても鋭いです。",
+            "good": "良いですね！さらに練習して磨きをかけましょう。",
+            "retry": "良いスタートです — 記事を復習して再挑戦しましょう。"
+        }
+    },
+    "pool": [
+        {
+            "q": "V-Bounceのセットアップでは、トレーダーは価格の反応をどこで重視しますか？",
+            "options": [
+                "ランダムな価格ポイント",
+                "事前に定義されたサポート／レジスタンスゾーン",
+                "移動平均のクロスオーバーのみ",
+                "フィボナッチ時間拡張のみ"
+            ],
+            "correct": "事前に定義されたサポート／レジスタンスゾーン",
+            "explain": "V-Bounceは重要なS/R領域からの鋭い反発を狙い、素早いエントリーを図ります。",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "V-Bounceの計画でブレイクアウト後、最初の戻り（リテスト）は通常何のために使われますか？",
+            "options": [
+                "直ちに逆張りする",
+                "強さを確認し、継続エントリーを狙う",
+                "市場を無視する",
+                "長期投資に切り替える"
+            ],
+            "correct": "強さを確認し、継続エントリーを狙う",
+            "explain": "リテスト（ブーメラン）はブレイクの有効性を確認し、二次エントリーを提供します。",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "レベルでの「反発か、突破か」の判断は主に何に依存しますか？",
+            "options": [
+                "そのレベルが維持されるか、明確に突破されるか",
+                "曜日",
+                "スプレッドの大きさのみ",
+                "口座タイプのみ"
+            ],
+            "correct": "そのレベルが維持されるか、明確に突破されるか",
+            "explain": "価格がレベルを尊重すれば反発、力強く抜ければブレイクアウトです。",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        }
+    ]
+}

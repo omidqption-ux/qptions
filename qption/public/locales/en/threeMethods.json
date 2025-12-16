@@ -1,0 +1,76 @@
+{
+    "seo": {
+        "title": "Three Methods Trading Strategy – Trend, Range, and Reversal Techniques | Qption",
+        "description": "Discover the Three Methods trading strategy combining trend-following, range-bound, and reversal approaches. Learn how to identify market conditions, filter signals, and manage risk using tools like Moving Averages, Bollinger Bands, RSI, MACD, and Fibonacci levels.",
+        "keywords": "Three Methods strategy, trend-following, range trading, mean reversion, reversal trading, ADX, MACD, RSI, Bollinger Bands, Fibonacci, divergence, moving averages, risk management, Qption",
+        "ogAlt": "Three Methods trading strategy combining trend-following, range, and reversal setups",
+        "ld": {
+            "headline": "Three Methods Trading Strategy – Trend, Range, and Reversal Techniques"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading strategy"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "startTrading": "Start Trading"
+    },
+    "hero": {
+        "title": "Three Methods Strategy",
+        "subtitle": "Master trend, range, and reversal trading techniques — identify market conditions, filter noise, and capture high-probability trade setups with precision and confidence."
+    },
+    "trend": {
+        "title": "1. Trend-Following Strategy",
+        "items": {
+            "1": "Objective: Capture profits by trading with the direction of the trend.",
+            "2": "Tools: Moving Averages, MACD, ADX.",
+            "3": "Buy Signal: Shorter-term MA crosses above longer-term MA (bullish crossover).",
+            "4": "Sell Signal: Shorter-term MA crosses below longer-term MA (bearish crossover).",
+            "5": "Example: 50-day and 200-day Moving Averages — Golden Cross and Death Cross setups."
+        }
+    },
+    "range": {
+        "title": "2. Range-Bound (Mean Reversion) Strategy",
+        "items": {
+            "1": "Objective: Profit within sideways markets by buying near support and selling near resistance.",
+            "2": "Tools: Bollinger Bands, RSI, support and resistance levels.",
+            "3": "Buy Signal: Price near support or lower Bollinger Band.",
+            "4": "Sell Signal: Price near resistance or upper Bollinger Band.",
+            "5": "Example: Place stop-loss just beyond range boundaries to avoid breakout losses."
+        }
+    },
+    "reversal": {
+        "title": "3. Reversal Strategy",
+        "items": {
+            "1": "Objective: Capture profits from major trend reversals.",
+            "2": "Tools: Candlestick patterns, divergence indicators, Fibonacci levels.",
+            "3": "Buy Signal: Bullish reversal pattern (e.g., hammer) with bullish divergence.",
+            "4": "Sell Signal: Bearish reversal pattern (e.g., shooting star) with bearish divergence.",
+            "5": "Example: Place stop-loss below the bullish pattern low or above the bearish pattern high."
+        }
+    },
+    "combine": {
+        "title": "Combining the Three Methods",
+        "items": {
+            "1": "Identify Market Conditions: Use ADX and Bollinger Bands to determine if the market is trending or ranging.",
+            "2": "Filter Signals: Confirm trades using secondary indicators to improve accuracy.",
+            "3": "Risk Management: Adjust stop-losses and position sizing based on volatility and market conditions."
+        }
+    },
+    "pros": {
+        "title": "Pros",
+        "items": {
+            "1": "Versatile: Works in trending, ranging, and reversing market conditions.",
+            "2": "Improved Accuracy: Using multiple methods reduces false signals.",
+            "3": "Comprehensive: Balances trend-following, range, and reversal approaches for well-rounded trading."
+        }
+    },
+    "cons": {
+        "title": "Cons",
+        "items": {
+            "1": "Complexity: Requires understanding of multiple trading techniques and indicators.",
+            "2": "High Monitoring: Demands active analysis and regular adjustments.",
+            "3": "Risk of Overtrading: Can lead to excessive trades if not managed with discipline."
+        }
+    }
+}

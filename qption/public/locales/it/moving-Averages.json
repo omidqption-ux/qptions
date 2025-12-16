@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Strategia delle Medie Mobili (SMA & EMA) – Analisi Tecnica | Qption",
+        "description": "Padroneggia il trend following con le Medie Mobili: confronto tra SMA ed EMA, incroci (Golden/Death Cross), supporti/resistenze dinamici, ribbon di MA e limiti chiave—guida completa per i trader.",
+        "keywords": "medie mobili, SMA, EMA, incrocio medie mobili, golden cross, death cross, ribbon di medie, supporto e resistenza dinamici, trend following, momentum, analisi tecnica, Qption",
+        "ogAlt": "Strategia delle medie mobili spiegata con SMA, EMA, incroci e ribbon di MA",
+        "ld": {
+            "headline": "Strategia delle Medie Mobili (SMA & EMA) – Analisi Tecnica"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Strategie di trading"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading con le Medie Mobili?",
+        "startTrading": "Inizia a fare trading"
+    },
+    "hero": {
+        "title": "Strategia delle Medie Mobili",
+        "subtitle": "Padroneggia il trend following e il momentum trading con la nostra analisi completa sulle Medie Mobili."
+    },
+    "video": {
+        "aria": "Le medie mobili (MA) smussano i dati di prezzo per aiutare a individuare trend e inversioni."
+    },
+    "overview": {
+        "title": "Panoramica",
+        "items": {
+            "1": "Le medie mobili (MA) sono strumenti tecnici popolari che smussano i prezzi, rendendo più semplice individuare trend e inversioni.",
+            "2": "I due tipi più comuni sono la Simple Moving Average (SMA) e la Exponential Moving Average (EMA), che differiscono per la ponderazione dei prezzi più recenti.",
+            "3": "Le MA aiutano i trader a identificare la direzione del trend, generare segnali e mettere in evidenza supporti e resistenze dinamiche."
+        }
+    },
+    "how": {
+        "title": "Come funzionano le Medie Mobili",
+        "blocks": {
+            "1": {
+                "title": "Simple Moving Average (SMA)",
+                "desc": "Calcolata come media aritmetica di un certo numero di prezzi recenti. Utile per l’analisi generale del trend."
+            },
+            "2": {
+                "title": "Exponential Moving Average (EMA)",
+                "desc": "Attribuisce maggiore peso ai prezzi recenti e reagisce più rapidamente ai cambiamenti di mercato, spesso preferita in contesti dinamici."
+            },
+            "3": {
+                "title": "Identificazione del trend",
+                "desc": "Prezzi sopra la MA suggeriscono un trend rialzista; prezzi sotto indicano un trend ribassista."
+            }
+        }
+    },
+    "strategies": {
+        "title": "Strategie principali",
+        "crossover": {
+            "title": "1. Incrocio di Medie Mobili",
+            "items": {
+                "1": "Golden Cross: una MA di breve periodo (es. 50 giorni) incrocia al rialzo una MA di lungo periodo (es. 200 giorni) — segnale rialzista.",
+                "2": "Death Cross: una MA di breve periodo incrocia al ribasso una MA di lungo periodo — segnale ribassista."
+            }
+        },
+        "dynamicSR": {
+            "title": "2. Supporto e Resistenza Dinamici",
+            "items": {
+                "1": "Supporto in trend rialzista: la MA può agire da supporto dinamico da cui il prezzo rimbalza nelle fasi bullish.",
+                "2": "Resistenza in trend ribassista: la MA può fungere da resistenza, accompagnando il prezzo verso il basso nelle fasi bearish."
+            }
+        },
+        "ribbon": {
+            "title": "3. Ribbon di Medie Mobili",
+            "items": {
+                "1": "Setup: utilizza più MA di diverse lunghezze (es. 10, 20, 50, 100, 200) per creare un ribbon.",
+                "2": "Segnale di trend: l’allineamento di tutte le MA nella stessa direzione indica un trend forte e duraturo."
+            }
+        }
+    },
+    "limits": {
+        "title": "Limitazioni",
+        "items": {
+            "1": "Natura ritardata: le MA possono reagire lentamente a movimenti improvvisi del mercato e a inversioni.",
+            "2": "Whipsaw: mercati laterali o irregolari possono generare falsi segnali."
+        }
+    }
+}

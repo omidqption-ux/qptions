@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "Squat Candlestick Trading Strategy – High-Volume Exhaustion & Reversal Signals | Qption",
+        "description": "Learn the Squat Candlestick strategy: spot high-volume, small-body candles with long wicks that signal market exhaustion near key levels. See how to identify squat candles in uptrends/downtrends, confirm with volume, and set entries, exits, and risk controls.",
+        "keywords": "Squat candle, squat candlestick strategy, high volume small body, market exhaustion, reversal signals, support and resistance, confirmation candle, volume analysis, price rejection wicks, risk management, trading strategy, Qption",
+        "ogAlt": "Squat candlestick pattern showing high-volume exhaustion and reversal signals",
+        "ld": {
+            "headline": "Squat Candlestick Trading Strategy – High-Volume Exhaustion & Reversal Signals"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading strategy"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "startTrading": "Start Trading"
+    },
+    "hero": {
+        "title": "Squat Candle Strategy",
+        "subtitle": "The Squat Candle Strategy focuses on identifying candles with strong volume but limited price movement — a sign of a power struggle between buyers and sellers. These candles often appear before sharp breakouts or reversals, helping traders anticipate turning points and improve timing and confirmation."
+    },
+    "video": {
+        "aria": "Appears during an uptrend near resistance with a high-volume, small-body candle, indicating exhaustion and potential reversal."
+    },
+    "overview": {
+        "title": "Overview",
+        "items": {
+            "1": "The Squat Candle Strategy identifies potential reversals or points of market exhaustion.",
+            "2": "It relies on spotting a unique candlestick with high volume but limited price movement.",
+            "3": "Squat candles often form near the end of a trend or around support/resistance levels, signaling indecision and potential reversal."
+        }
+    },
+    "identify": {
+        "title": "1. Identifying a Squat Candle",
+        "items": {
+            "1": "A squat candle has a small body, meaning limited movement between open and close.",
+            "2": "It features long wicks, showing strong price rejection on both ends.",
+            "3": "It has unusually high volume, revealing strong activity or struggle between buyers and sellers.",
+            "4": "It often forms near key support or resistance levels, hinting at possible reversal or breakout."
+        }
+    },
+    "uptrend": {
+        "title": "2. Squat Candle in an Uptrend",
+        "items": {
+            "1": "Formation: Appears during an uptrend near resistance with a small body and high volume.",
+            "2": "Interpretation: Suggests buyer exhaustion as price fails to break resistance.",
+            "3": "Confirmation: A bearish candle following the squat candle confirms potential reversal.",
+            "4": "Trade Execution: Traders may short when the next candle closes below the squat candle’s low."
+        }
+    },
+    "downtrend": {
+        "title": "3. Squat Candle in a Downtrend",
+        "items": {
+            "1": "Formation: Appears during a downtrend near support with a small body and high volume.",
+            "2": "Interpretation: Indicates seller exhaustion as price fails to push lower.",
+            "3": "Confirmation: A bullish candle after the squat candle confirms possible reversal.",
+            "4": "Trade Execution: Traders may go long when the next candle closes above the squat candle’s high."
+        }
+    },
+    "use": {
+        "title": "Using the Squat Candle Strategy",
+        "items": {
+            "1": "Combine squat candles with volume indicators to confirm the strength of the signal.",
+            "2": "Focus on squat candles forming near major support or resistance for higher reversal accuracy.",
+            "3": "Use stop-loss orders just beyond the high or low of the squat candle for risk management."
+        }
+    },
+    "pros": {
+        "title": "Pros",
+        "items": {
+            "1": "Early reversal signal – indicates market exhaustion before trend reverses.",
+            "2": "High-volume confirmation improves signal reliability.",
+            "3": "Works well with other tools like volume, moving averages, and support/resistance zones."
+        }
+    },
+    "cons": {
+        "title": "Cons",
+        "items": {
+            "1": "Requires confirmation – needs a follow-up candle to avoid false signals.",
+            "2": "Less effective in ranging markets – may trigger false reversals in sideways conditions.",
+            "3": "Volume sensitivity – strong volume without price movement can be misleading."
+        }
+    }
+}

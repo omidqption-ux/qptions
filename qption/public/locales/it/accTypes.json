@@ -1,0 +1,98 @@
+{
+    "seo": {
+        "title": "Tipi di conto – Confronta i piani | Qption",
+        "description": "Scopri i sei livelli di conto di Qption — Basic, Silver, Gold, Platinum, Diamond ed Exclusive — confrontando deposito minimo, strumenti, supporto e vantaggi VIP. Scegli il piano che si adatta ai tuoi obiettivi di trading.",
+        "keywords": "tipi di conto Qption, conto Basic, conto Silver, conto Gold, conto Platinum, conto Diamond, conto Exclusive, confronto conti di trading, deposito minimo, strumenti di trading, servizi di trading VIP",
+        "ogTitle": "Tipi di conto – Confronta i piani | Qption",
+        "ogDescription": "Confronta le caratteristiche dei conti Basic, Silver, Gold, Platinum, Diamond ed Exclusive di Qption — dal deposito minimo all’assistenza dedicata.",
+        "ogUrl": "https://qption.com/accounttypes",
+        "ogImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "Tipi di conto – Confronta i piani | Qption",
+        "twitterDescription": "Trova la soluzione perfetta — dal Basic all’Exclusive. Scopri tutti i livelli di conto e i vantaggi di Qption.",
+        "twitterImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "canonical": "https://qption.com/accounttypes",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "Scegli il tuo tipo di conto",
+        "subtitle": "Seleziona il conto perfetto in base ai tuoi obiettivi di trading",
+        "cta": "Inizia ora",
+        "fromPrefix": "€",
+        "invitationOnly": "Solo su invito"
+    },
+    "plans": {
+        "basic": {
+            "title": "Basic",
+            "desc": "Ideale per iniziare facilmente, con la possibilità di passare a un livello superiore in qualsiasi momento.",
+            "from": "10",
+            "features": [
+                "Strumenti di trading di base",
+                "Supporto via email",
+                "Analisi di mercato",
+                "Assistenza 24/7"
+            ]
+        },
+        "silver": {
+            "title": "Silver",
+            "desc": "Più di un conto Basic, pensato per chi vuole un vantaggio iniziale.",
+            "from": "50",
+            "features": [
+                "Tutte le funzioni Basic",
+                "Supporto prioritario",
+                "Grafici avanzati",
+                "Aggiornamenti di mercato giornalieri"
+            ]
+        },
+        "gold": {
+            "title": "Gold",
+            "desc": "Unisciti alla maggior parte dei nostri clienti iniziando con un conto Gold, con consulenze gratuite incluse.",
+            "from": "500",
+            "features": [
+                "Tutte le funzioni Silver",
+                "Consulenze gratuite",
+                "Account manager personale",
+                "Webinar VIP"
+            ]
+        },
+        "platinum": {
+            "title": "Platinum",
+            "desc": "Il conto Platinum è dove iniziano gli investimenti intelligenti — goditi funzionalità privilegiate e un valore superiore.",
+            "from": "5000",
+            "features": [
+                "Tutte le funzioni Gold",
+                "Assistenza dedicata 24/7",
+                "Strategie di trading personalizzate",
+                "Eventi esclusivi"
+            ]
+        },
+        "diamond": {
+            "title": "Diamond",
+            "desc": "La nostra massima esperienza e gestione esclusiva, pensata per investitori seri.",
+            "from": "10000",
+            "features": [
+                "Tutte le funzioni Platinum",
+                "Soluzioni di investimento personalizzate",
+                "Sessioni di trading private",
+                "Ricompense di lusso"
+            ]
+        },
+        "exclusive": {
+            "title": "Exclusive",
+            "desc": "Chiedi maggiori informazioni al tuo account manager.",
+            "from": "Solo su invito",
+            "features": [
+                "Soluzioni personalizzate",
+                "Gestione patrimoniale privata",
+                "Analisi di mercato esclusive",
+                "Servizi personalizzati"
+            ]
+        }
+    },
+    "withdrawal": {
+        "title": "Opzioni di prelievo",
+        "body1": "Trada liberamente e accedi ai tuoi fondi con facilità. Con oltre 20 metodi di pagamento, puoi trasferire fondi direttamente sulla tua carta di debito o credito (Visa, MasterCard, Maestro, UnionPay) oppure scegliere metodi elettronici come Neteller, Skrill, Perfect Money, FasaPay e altri.",
+        "highlight": "I conti Gold, Platinum ed Exclusive beneficiano di un’elaborazione prioritaria dei prelievi."
+    }
+}

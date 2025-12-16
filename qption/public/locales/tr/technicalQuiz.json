@@ -1,0 +1,285 @@
+{
+    "seo": {
+        "title": "Teknik Analiz – Grafikler, Göstergeler ve Kurulumlar | Qption",
+        "description": "Qption’un derinlemesine teknik analiz rehberiyle piyasaları ustalıkla analiz edin: canlı grafik fikirleri, gösterge kılavuzları ve forex, kripto ile endeksler için haftalık işlem kurulumları.",
+        "keywords": "teknik analiz, işlem grafikleri, fiyat hareketi, göstergeler, mum formasyonları, destek ve direnç, Qption eğitimi, forex analizi, kripto analizi",
+        "ogTitle": "Teknik Analiz – Grafikler, Göstergeler ve Kurulumlar | Qption",
+        "ogDescription": "Qption analistlerinden alınan uygulanabilir grafik analizleri ve gösterge anlatımları — forex ve kripto yatırımcıları için günlük güncellemelerle.",
+        "url": "https://qption.com/technical-analysis",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Teknik Analiz – Grafikler, Göstergeler ve Kurulumlar | Qption",
+        "twitterDescription": "Forex, kripto ve endekslerde canlı grafik fikirleri ve haftalık işlem kurulumları — Qption tarafından destekleniyor.",
+        "twitterImage": "https://qption.com/images/og/technical-analysis-qption.jpg",
+        "canonical": "https://qption.com/technical-analysis"
+    },
+    "page": {
+        "title": "Teknik Analiz",
+        "subtitle": "Teknik Analiz Quiz’imizle ticaret bilginizi test edin ve becerilerinizi geliştirin — grafik formasyonları, göstergeler ve piyasa psikolojisi hakkındaki bilginizi ölçün, daha bilinçli ve kendinden emin bir yatırımcı olun."
+    },
+    "quiz": {
+        "header": "Quiz",
+        "progress": "Soru {{current}} / {{total}}",
+        "correct": "Doğru ✅",
+        "incorrect": "Tam değil ⚠️",
+        "selectHint": "Bir seçenek seçin ve cevabınızı gönderin."
+    },
+    "ui": {
+        "previous": "Önceki",
+        "submit": "Gönder",
+        "finish": "Bitir",
+        "next": "Sonraki",
+        "newRandom": "Yeni Rastgele 10",
+        "loading": "Quiz yükleniyor…"
+    },
+    "results": {
+        "score": "Puan: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Mükemmel! Teknik analiz bilginiz çok güçlü.",
+            "good": "Güzel iş! Pratik yaparak daha da gelişebilirsiniz.",
+            "retry": "İyi başlangıç — dersleri gözden geçirip tekrar deneyin."
+        }
+    },
+    "pool": [
+        {
+            "q": "Basit Hareketli Ortalama (SMA) yatırımcılara öncelikle neyi belirlemekte yardımcı olur?",
+            "options": [
+                "En yüksek olası giriş fiyatını",
+                "Belirli bir dönemdeki ortalama fiyatı, gürültüyü azaltarak",
+                "Piyasanın kesin dönüş noktasını",
+                "Bir momentum kırılma seviyesini"
+            ],
+            "correct": "Belirli bir dönemdeki ortalama fiyatı, gürültüyü azaltarak",
+            "explain": "SMA, belirli bir dönem boyunca fiyatların ortalamasını alarak fiyat dalgalanmalarını yumuşatır ve temel trendi ortaya çıkarır.",
+            "topic": "MA"
+        },
+        {
+            "q": "Hangi hareketli ortalama türü, son fiyat değişimlerine en hızlı tepki verir?",
+            "options": [
+                "SMA",
+                "WMA",
+                "EMA",
+                "Hepsi aynı tepkiyi verir"
+            ],
+            "correct": "EMA",
+            "explain": "EMA, son fiyatlara daha fazla ağırlık verir ve bu nedenle SMA ve genellikle WMA’dan daha hızlı tepki verir.",
+            "topic": "MA"
+        },
+        {
+            "q": "Tipik bir hareketli ortalama kesişimi 'alış' sinyali ne zaman oluşur?",
+            "options": [
+                "Kısa vadeli MA uzun vadeli MA’nın üzerine çıktığında",
+                "Uzun vadeli MA kısa vadeli MA’nın üzerine çıktığında",
+                "Fiyat her iki MA’nın altına düştüğünde",
+                "Her iki MA da yatay kaldığında"
+            ],
+            "correct": "Kısa vadeli MA uzun vadeli MA’nın üzerine çıktığında",
+            "explain": "Kısa vadeli ortalamanın uzun vadeli ortalamanın üzerine çıkması genellikle yükseliş momentumu sinyalidir.",
+            "topic": "MA"
+        },
+        {
+            "q": "Hareketli ortalamaların dezavantajlarından biri nedir?",
+            "options": [
+                "Fiyat hareketinden önce davranır ve zirve/dibi tahmin eder",
+                "Fiyatın gerisinde kalır ve yatay piyasalarda yalancı sinyaller verebilir",
+                "Ayarlamaya gerek yoktur",
+                "Sadece günlük grafiklerde çalışır"
+            ],
+            "correct": "Fiyatın gerisinde kalır ve yatay piyasalarda yalancı sinyaller verebilir",
+            "explain": "MA'ler gecikmeli göstergelerdir ve trend olmayan piyasalarda sık sık yanlış sinyal üretebilirler.",
+            "topic": "MA"
+        },
+        {
+            "q": "Bollinger Bantlarının temel amacı nedir?",
+            "options": [
+                "Uzun vadeli temel değeri ölçmek",
+                "Hareketli ortalama etrafında volatiliteyi ve göreceli yüksek/düşük seviyeleri göstermek",
+                "Hareketli ortalamaları tamamen değiştirmek",
+                "Otomatik trend çizgileri çizmek"
+            ],
+            "correct": "Hareketli ortalama etrafında volatiliteyi ve göreceli yüksek/düşük seviyeleri göstermek",
+            "explain": "Bantlar volatiliteye göre genişler veya daralır ve fiyatın göreceli aşırılıklarını gösterir.",
+            "topic": "BB"
+        },
+        {
+            "q": "Fiyat üst Bollinger Bandına değdiğinde veya üzerinde kapandığında genellikle ne anlama gelir?",
+            "options": [
+                "Kesin dönüş sinyali",
+                "Momentum/volatilite artışı (her zaman aşırı alım değildir)",
+                "Bilgi değeri yoktur",
+                "Yaklaşan çöküş"
+            ],
+            "correct": "Momentum/volatilite artışı (her zaman aşırı alım değildir)",
+            "explain": "Bant dışı kapanışlar genellikle güçlü momentumun göstergesidir; bağlam ve onay önemlidir.",
+            "topic": "BB"
+        },
+        {
+            "q": "Bollinger Bantları için yaygın parametre nedir?",
+            "options": [
+                "20 periyot MA ve ±2 standart sapma",
+                "50 periyot MA ve ±1 standart sapma",
+                "14 periyot MA ve ±3 standart sapma",
+                "9 periyot MA ve ±1.5 standart sapma"
+            ],
+            "correct": "20 periyot MA ve ±2 standart sapma",
+            "explain": "Klasik ayar 20 SMA ve ±2σ bantlarıdır; piyasa veya zaman dilimine göre ayarlanabilir.",
+            "topic": "BB"
+        },
+        {
+            "q": "Williams Alligator göstergesi hangi unsurlardan oluşur?",
+            "options": [
+                "İki çizgi: çene ve diş",
+                "Üç çizgi: çene, diş ve dudak",
+                "Dört çizgi (dil dahil)",
+                "Tek bir yumuşatılmış ortalama"
+            ],
+            "correct": "Üç çizgi: çene, diş ve dudak",
+            "explain": "Alligator, üç yumuşatılmış ortalamayı kullanır: çene (yavaş), diş (orta), dudak (hızlı).",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Alligator’un çizgileri birbirine dolanmış (uyuyor) durumdaysa bu genellikle neyi gösterir?",
+            "options": [
+                "Güçlü bir trendin devam ettiğini",
+                "Yatay veya düşük volatilite dönemini",
+                "Kesin bir yukarı kırılmayı",
+                "Kesin bir aşağı kırılmayı"
+            ],
+            "correct": "Yatay veya düşük volatilite dönemini",
+            "explain": "Çizgilerin iç içe geçmiş olması konsolidasyonu gösterir; yatırımcılar genellikle açılmayı bekler.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "Alligator ‘yemek yiyor’ (trendde) olarak ne zaman kabul edilir?",
+            "options": [
+                "Üç çizgi fiyat hareketiyle hizalanıp yayılmaya başladığında",
+                "Üç çizgi birbirine sıkıca geçtiğinde",
+                "Sadece fiyat hareket edip çizgiler sabit kaldığında",
+                "Hacim sıfıra düştüğünde"
+            ],
+            "correct": "Üç çizgi fiyat hareketiyle hizalanıp yayılmaya başladığında",
+            "explain": "Çizgilerin fiyat yönüyle birlikte açılması trend gelişimini gösterir.",
+            "topic": "Alligator"
+        },
+        {
+            "q": "RSI değeri 70’in üzerindeyse genellikle ne anlama gelir?",
+            "options": [
+                "Aşırı satım koşulları",
+                "Aşırı alım koşulları (düzeltme riski)",
+                "Sinyal yok",
+                "Kesin trend devamı"
+            ],
+            "correct": "Aşırı alım koşulları (düzeltme riski)",
+            "explain": "Aşırı alım seviyeleri güçlü trendlerde devam edebilir; yapı ve onayla birlikte kullanılmalıdır.",
+            "topic": "RSI"
+        },
+        {
+            "q": "RSI değeri 30 civarındaysa genellikle ne ifade eder?",
+            "options": [
+                "Aşırı alım koşulları",
+                "Aşırı satım koşulları (yukarı yönlü tepki olasılığı)",
+                "Bilgi değeri yoktur",
+                "Direnç üzerinde kırılma"
+            ],
+            "correct": "Aşırı satım koşulları (yukarı yönlü tepki olasılığı)",
+            "explain": "Aşırı satım seviyeleri uzun sürebilir; fiyat hareketiyle birlikte değerlendirilmeli.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Boğa RSI uyumsuzluğu (divergence) ne zaman meydana gelir?",
+            "options": [
+                "Fiyat daha yüksek zirveler yaparken RSI daha düşük zirveler oluşturduğunda",
+                "Fiyat daha düşük dipler yaparken RSI daha yüksek dipler oluşturduğunda",
+                "RSI 70’in üzerine çıktığında",
+                "RSI 30’un altına indiğinde"
+            ],
+            "correct": "Fiyat daha düşük dipler yaparken RSI daha yüksek dipler oluşturduğunda",
+            "explain": "Fiyat düşerken momentum kaybı yukarı yönlü dönüş potansiyeline işaret edebilir.",
+            "topic": "RSI"
+        },
+        {
+            "q": "Destek en iyi nasıl tanımlanır?",
+            "options": [
+                "Alıcı ilgisinin ortaya çıkabileceği bir fiyat seviyesi",
+                "Satışın gerçekleşmek zorunda olduğu bir seviye",
+                "Bir hareketli ortalama",
+                "Asla kırılmayan sabit bir çizgi"
+            ],
+            "correct": "Alıcı ilgisinin ortaya çıkabileceği bir fiyat seviyesi",
+            "explain": "Destek, geçmişte talebin oluştuğu alandır; ancak kırılabilir.",
+            "topic": "TA"
+        },
+        {
+            "q": "Direnç en iyi nasıl tanımlanır?",
+            "options": [
+                "Satıcı ilgisinin ortaya çıkabileceği bir fiyat seviyesi",
+                "Her zaman dönüş sağlayan bir seviye",
+                "Yalnızca hacim kavramı",
+                "Bir Fibonacci oranı"
+            ],
+            "correct": "Satıcı ilgisinin ortaya çıkabileceği bir fiyat seviyesi",
+            "explain": "Direnç, desteğin tersidir — geçmişte arzın devreye girdiği seviyelerdir.",
+            "topic": "TA"
+        },
+        {
+            "q": "Sinyal güvenilirliğini artıran en etkili kombinasyon hangisidir?",
+            "options": [
+                "Tek zaman diliminde tek gösterge kullanmak",
+                "Birden fazla bağımsız sinyalin ve uyumun (ör. trend + momentum + yapı) birleşimi",
+                "Aynı türde çok sayıda gösterge eklemek",
+                "Risk yönetimini görmezden gelmek"
+            ],
+            "correct": "Birden fazla bağımsız sinyalin ve uyumun (ör. trend + momentum + yapı) birleşimi",
+            "explain": "Uyum, yanlış sinyalleri azaltır; farklı sinyal türlerini birleştirin ve zaman dilimleri arasında onay alın.",
+            "topic": "TA"
+        },
+        {
+            "q": "Yatay (range) piyasada hangi araçlar daha etkilidir?",
+            "options": [
+                "Sadece trend takip eden MA’ler",
+                "RSI/Stokastik gibi osilatörler",
+                "Sadece kırılma sistemleri",
+                "Piyasayı tamamen görmezden gelmek"
+            ],
+            "correct": "RSI/Stokastik gibi osilatörler",
+            "explain": "Osilatörler, yatay aralıklarda dönüşleri zamanlamada etkilidir; MA’ler yalancı sinyaller verebilir.",
+            "topic": "TA"
+        },
+        {
+            "q": "Göstergeler hakkında en doğru ifade hangisidir?",
+            "options": [
+                "Doğru ayarlanırsa garanti kâr sağlarlar",
+                "Kararları destekleyen araçlardır, garanti vermezler",
+                "Sadece kripto grafiklerinde çalışırlar",
+                "Risk yönetimine gerek bırakmazlar"
+            ],
+            "correct": "Kararları destekleyen araçlardır, garanti vermezler",
+            "explain": "Hiçbir gösterge kâr garantisi vermez; risk yönetimi ve disiplinle birlikte kullanılmalıdır.",
+            "topic": "TA"
+        },
+        {
+            "q": "Analizde çoklu zaman dilimlerinin (MTF) kullanılmasının amacı nedir?",
+            "options": [
+                "Grafikleri karmaşık göstermek",
+                "Yüksek zaman dilimi trendini düşük zaman dilimi girişleriyle hizalamak",
+                "Stop-loss kullanmaktan kaçınmak",
+                "Volatiliteyi ortadan kaldırmak"
+            ],
+            "correct": "Yüksek zaman dilimi trendini düşük zaman dilimi girişleriyle hizalamak",
+            "explain": "Üstten alta analiz, bağlamı ve giriş zamanlamasını geliştirir.",
+            "topic": "TA"
+        },
+        {
+            "q": "Göstergeleri geçmiş verilerle test ederken (backtest) yapılan yaygın hata nedir?",
+            "options": [
+                "Slipaj ve spreadleri hesaba katmak",
+                "Testi farklı veri setlerinde yapmak",
+                "Geçmiş verilere aşırı uyum sağlamak (overfitting)",
+                "İşlem maliyetlerini dahil etmek"
+            ],
+            "correct": "Geçmiş verilere aşırı uyum sağlamak (overfitting)",
+            "explain": "Aşırı uyum, gerçek piyasa koşullarında başarısız olur; mutlaka yeni veriyle doğrulama yapılmalı ve maliyetler dahil edilmelidir.",
+            "topic": "TA"
+        }
+    ]
+}

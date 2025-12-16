@@ -1,0 +1,99 @@
+{
+    "seo": {
+        "title": "Estrategia de Pinzas – Patrones de Reversión de Cima y Fondo | Qption",
+        "description": "Domina la estrategia de Pinzas: identifica los patrones de reversión de velas Tweezer Top y Tweezer Bottom, confirma las señales con RSI y soporte/resistencia, y gestiona el riesgo con stops precisos. Aprende reglas, confirmaciones, ventajas y desventajas.",
+        "keywords": "estrategia de pinzas, tweezer top, tweezer bottom, patrones de reversión, análisis técnico, soporte y resistencia, reversión alcista, reversión bajista, RSI, gestión de riesgos, estrategia de trading, Qption",
+        "ogAlt": "Patrones de velas de reversión Tweezer Top y Bottom con confirmaciones técnicas",
+        "ld": {
+            "headline": "Estrategia de Pinzas – Patrones de Reversión de Cima y Fondo"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estrategia de trading"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "startTrading": "Comenzar a operar"
+    },
+    "hero": {
+        "title": "Estrategia de Pinzas",
+        "subtitle": "La estrategia de Pinzas identifica posibles techos y suelos del mercado mediante un patrón de reversión de dos velas. Ofrece una señal temprana cuando el precio rechaza el mismo nivel dos veces consecutivas."
+    },
+    "video": {
+        "aria": "La estrategia de Pinzas es un patrón de velas de reversión que señala posibles techos y suelos en el mercado."
+    },
+    "overview": {
+        "title": "Resumen",
+        "items": {
+            "1": "La estrategia de Pinzas es un patrón de velas de reversión que indica posibles puntos de giro en el mercado.",
+            "2": "Se forma cuando dos velas consecutivas tienen máximos o mínimos casi idénticos, mostrando rechazo fuerte en un nivel clave.",
+            "3": "Existen dos tipos: Pinzas Superiores (reversión bajista) y Pinzas Inferiores (reversión alcista)."
+        }
+    },
+    "top": {
+        "title": "1. Estrategia de Pinzas Superiores",
+        "items": {
+            "1": {
+                "label": "Formación",
+                "text": "Aparece al final de una tendencia alcista con dos velas consecutivas con máximos casi idénticos."
+            },
+            "2": {
+                "label": "Primera Vela",
+                "text": "Normalmente es una vela alcista que muestra fuerza antes del rechazo del precio."
+            },
+            "3": {
+                "label": "Segunda Vela",
+                "text": "Una vela bajista con el mismo máximo, señalando resistencia fuerte en ese nivel."
+            },
+            "4": {
+                "label": "Confirmación",
+                "text": "La reversión se confirma cuando la siguiente vela cierra por debajo del mínimo del patrón de Pinzas."
+            }
+        }
+    },
+    "bottom": {
+        "title": "2. Estrategia de Pinzas Inferiores",
+        "items": {
+            "1": {
+                "label": "Formación",
+                "text": "Aparece al final de una tendencia bajista con dos velas consecutivas con mínimos casi idénticos."
+            },
+            "2": {
+                "label": "Primera Vela",
+                "text": "Generalmente es una vela bajista que continúa la tendencia antes de la entrada de compradores."
+            },
+            "3": {
+                "label": "Segunda Vela",
+                "text": "Una vela alcista con el mismo mínimo, mostrando soporte y presión compradora."
+            },
+            "4": {
+                "label": "Confirmación",
+                "text": "La reversión se confirma cuando la siguiente vela cierra por encima del máximo del patrón de Pinzas."
+            }
+        }
+    },
+    "use": {
+        "title": "Cómo usar la Estrategia de Pinzas",
+        "items": {
+            "1": "Busca patrones de Pinzas cerca de niveles clave de soporte o resistencia para obtener señales más fiables.",
+            "2": "Combínala con indicadores como RSI para confirmar condiciones de sobrecompra o sobreventa.",
+            "3": "Coloca el stop-loss justo por encima del Pinzas Superior o por debajo del Pinzas Inferior para una gestión de riesgos efectiva."
+        }
+    },
+    "pros": {
+        "title": "Ventajas",
+        "items": {
+            "1": "Patrón simple y fácil de identificar con solo dos velas.",
+            "2": "Señal fiable de reversión en zonas importantes del mercado.",
+            "3": "Funciona bien con herramientas de confirmación como RSI, MACD o líneas de tendencia."
+        }
+    },
+    "cons": {
+        "title": "Desventajas",
+        "items": {
+            "1": "Requiere confirmación adicional para evitar señales falsas.",
+            "2": "Menos fiable en mercados laterales o con bajo volumen.",
+            "3": "Puede ser engañoso si se usa sin otros indicadores técnicos."
+        }
+    }
+}

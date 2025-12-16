@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Safe-Haven Assets in Market Turbulence: Gold, Treasuries, CHF & JPY | Qption",
+        "description": "Learn how safe-haven assets like gold, US Treasuries, the Swiss franc, Japanese yen, and defensive stocks behave during volatility. See why investors use them for capital preservation, diversification, and hedging—plus key trade-offs.",
+        "url": "https://qption.com/fundamental-analysis/safe-haven-assets-market-turbulence",
+        "keywords": "safe haven assets, gold, US Treasuries, Swiss franc CHF, Japanese yen JPY, defensive stocks, portfolio diversification, flight to quality, market volatility, inflation hedge, risk management, Qption",
+        "ld": {
+            "headline": "The Role of Safe-Haven Assets in Market Turbulence",
+            "about": {
+                "safeHavens": "Safe-Haven Assets",
+                "gold": "Gold",
+                "treasuries": "US Treasuries",
+                "chf": "Swiss franc (CHF)",
+                "jpy": "Japanese yen (JPY)",
+                "defensive": "Defensive Stocks",
+                "volatility": "Market Volatility",
+                "f2q": "Flight to Quality",
+                "inflationHedge": "Inflation Hedge"
+            },
+            "props": {
+                "correlation": {
+                    "name": "Correlation Profile",
+                    "value": "Safe-havens often exhibit low or negative correlation with equities, reducing portfolio volatility in drawdowns."
+                },
+                "crisis": {
+                    "name": "Crisis Behavior",
+                    "value": "During risk-off episodes, flows shift toward gold, top-rated sovereign bonds, and select currencies (CHF/JPY)."
+                },
+                "tradeoffs": {
+                    "name": "Trade-offs",
+                    "value": "Lower expected returns and crowding risk during crises can lead to overvaluation and subsequent reversals."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Fundamental Analysis"
+    },
+    "cta": {
+        "ready": "Ready to trade?",
+        "start": "Start Trading"
+    },
+    "page": {
+        "title": "The Role of Safe-Haven Assets in Market Turbulence"
+    },
+    "sections": {
+        "_list": [
+            "The Role of Safe-Haven Assets in Market Turbulence",
+            "Overview",
+            "Common Safe-Haven Assets",
+            "Gold",
+            "US Treasury Bonds",
+            "Swiss Franc (CHF)",
+            "Japanese Yen (JPY)",
+            "Defensive Stocks",
+            "Why Investors Turn to Safe-Haven Assets",
+            "Capital Preservation",
+            "Portfolio Diversification",
+            "Hedge Against Inflation and Currency Risks",
+            "Market Reactions During Times of Turbulence",
+            "Increased Demand for Safe-Havens",
+            "Flight to Quality in Bond Markets",
+            "Benefits of Including Safe-Haven Assets in a Portfolio",
+            "Limitations of Safe-Haven Assets"
+        ],
+        "overview": {
+            "title": "Overview",
+            "items": [
+                "Safe-haven assets are instruments that tend to retain or increase value during periods of market turbulence and uncertainty.",
+                "Investors turn to safe-havens to preserve capital, reduce portfolio risk, and cushion volatility when risk assets decline.",
+                "They play a key role in diversification and risk management during financial crises, geopolitical events, or recessions."
+            ]
+        },
+        "common": {
+            "title": "Common Safe-Haven Assets",
+            "items": [
+                {
+                    "label": "Gold:",
+                    "text": "A long-standing store of value that often rises during economic instability."
+                },
+                {
+                    "label": "US Treasury Bonds:",
+                    "text": "Considered low risk and backed by the US government; prices typically rise and yields fall in risk-off periods."
+                },
+                {
+                    "label": "Swiss Franc (CHF):",
+                    "text": "Benefits from Switzerland’s stable economy and low inflation, attracting flows in stress episodes."
+                },
+                {
+                    "label": "Japanese Yen (JPY):",
+                    "text": "A classic safe-haven currency supported by Japan’s external balance and deep financial markets."
+                },
+                {
+                    "label": "Defensive Stocks:",
+                    "text": "Sectors like utilities, healthcare, and staples are less cyclical and can provide relative stability."
+                }
+            ]
+        },
+        "why": {
+            "title": "Why Investors Turn to Safe-Haven Assets",
+            "capital": {
+                "title": "Capital Preservation",
+                "items": [
+                    "Safe-haven allocations can limit drawdowns when equities fall sharply.",
+                    "They help protect purchasing power and portfolio value in turbulent markets."
+                ]
+            },
+            "diversification": {
+                "title": "Portfolio Diversification",
+                "items": [
+                    "Low or negative correlations reduce overall portfolio volatility.",
+                    "Balancing risk assets with safe-havens can smooth returns across cycles."
+                ]
+            },
+            "hedge": {
+                "title": "Hedge Against Inflation and Currency Risks",
+                "items": [
+                    "Gold is commonly used to hedge inflation and currency debasement.",
+                    "Safe-haven currencies (e.g., CHF) can mitigate FX risk in global portfolios."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Market Reactions During Times of Turbulence",
+            "demand": {
+                "title": "Increased Demand for Safe-Havens",
+                "items": [
+                    "Volatility spikes often trigger flows into gold, Treasuries, and safe-haven FX.",
+                    "Investors rotate out of cyclicals and risk assets toward perceived safety."
+                ]
+            },
+            "bonds": {
+                "title": "Flight to Quality in Bond Markets",
+                "items": [
+                    "Government bond prices typically rise as yields compress in risk-off regimes.",
+                    "Flight-to-quality underscores the role of sovereign debt as a stabilizer."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefits of Including Safe-Haven Assets in a Portfolio",
+            "items": [
+                "Reduces portfolio volatility and mitigates drawdowns.",
+                "Provides liquidity and stability during market stress.",
+                "Supports long-term resilience across economic cycles."
+            ]
+        },
+        "limits": {
+            "title": "Limitations of Safe-Haven Assets",
+            "items": [
+                "Lower long-run return potential versus growth assets.",
+                "Crowding risk can lead to overvaluation during crises.",
+                "Not fully immune to price swings as sentiment shifts."
+            ]
+        }
+    }
+}

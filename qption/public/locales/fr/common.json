@@ -1,0 +1,96 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "trade": "Trader",
+        "education": "Formation",
+        "pricing": "Tarifs",
+        "dashboard": "Tableau de bord",
+        "login": "Se connecter",
+        "signup": "S’inscrire",
+        "logout": "Se déconnecter",
+        "language": "Langue"
+    },
+    "hero": {
+        "title": "Tradez plus intelligemment avec Qption",
+        "subtitle": "Graphiques en temps réel, exécution rapide et tarification transparente.",
+        "cta": "Commencer"
+    },
+    "auth": {
+        "email": "E-mail",
+        "phone": "Téléphone",
+        "password": "Mot de passe",
+        "confirmPassword": "Confirmer le mot de passe",
+        "login": "Se connecter",
+        "signup": "Créer un compte",
+        "forgot": "Mot de passe oublié ?",
+        "otp": "Saisissez le code de vérification",
+        "verify": "Vérifier",
+        "or": "ou"
+    },
+    "trade": {
+        "buy": "Acheter",
+        "sell": "Vendre",
+        "openTrade": "Ouvrir une position",
+        "closeTrade": "Clore la position",
+        "amount": "Montant",
+        "balance": "Solde",
+        "profitLoss": "P/L",
+        "timeframe": "Unité de temps",
+        "marketOpen": "Le marché est ouvert",
+        "marketClosed": "Le marché est fermé",
+        "mode": {
+            "live": "Live",
+            "demo": "Démo",
+            "real": "Réel"
+        }
+    },
+    "chart": {
+        "loading": "Chargement du graphique…",
+        "indicators": "Indicateurs",
+        "movingAverage": "Moyenne Mobile",
+        "bollingerBands": "Bandes de Bollinger",
+        "rsi": "RSI",
+        "alligator": "Alligator"
+    },
+    "wallet": {
+        "deposit": "Dépôt",
+        "withdraw": "Retrait",
+        "address": "Adresse",
+        "copy": "Copier",
+        "copied": "Copié !",
+        "confirmations": "Confirmations",
+        "status": {
+            "waiting": "En attente",
+            "confirmed": "Confirmé",
+            "rejected": "Rejeté"
+        }
+    },
+    "kyc": {
+        "title": "Vérification du compte",
+        "uploadDoc": "Télécharger des documents",
+        "pending": "En cours d’examen",
+        "approved": "Approuvé",
+        "rejected": "Rejeté"
+    },
+    "errors": {
+        "required": "Ce champ est requis",
+        "invalidEmail": "E-mail invalide",
+        "network": "Erreur réseau, veuillez réessayer",
+        "unknown": "Une erreur s’est produite"
+    },
+    "common": {
+        "save": "Enregistrer",
+        "cancel": "Annuler",
+        "confirm": "Confirmer",
+        "back": "Retour",
+        "next": "Suivant",
+        "search": "Rechercher",
+        "loading": "Chargement…",
+        "viewMore": "Voir plus"
+    },
+    "footer": {
+        "rights": "Tous droits réservés."
+    },
+    "tryDemo": "Essayer la démo",
+    "registration": "Inscription"
+}

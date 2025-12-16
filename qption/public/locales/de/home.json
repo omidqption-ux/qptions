@@ -1,0 +1,216 @@
+{
+    "hero": {
+        "newsBar": {
+            "title": "Aktuelle Marktnews"
+        },
+        "marketBar": {
+            "title": "Marktüberblick"
+        },
+        "slides": [
+            {
+                "title": "<strong>Qption</strong> Trading-Plattform",
+                "subtitle": "Professionelles Trading einfach gemacht",
+                "bullets": [
+                    {
+                        "title": "Schnelle Ausführung",
+                        "desc": "Ultrageringe Latenz"
+                    },
+                    {
+                        "title": "Sichere Plattform",
+                        "desc": "Sicherheitsniveau wie bei Banken"
+                    },
+                    {
+                        "title": "Niedrige Gebühren",
+                        "desc": "Wettbewerbsfähige Kosten"
+                    }
+                ]
+            },
+            {
+                "title": "<strong>KI-gestützte</strong> Trading-Lösungen",
+                "subtitle": "Smartes Trading mit fortschrittlicher KI-Technologie",
+                "bullets": [
+                    {
+                        "title": "KI-Analyse",
+                        "desc": "Intelligente Markteinblicke"
+                    },
+                    {
+                        "title": "Echtzeit-Daten",
+                        "desc": "Live-Marktdaten"
+                    },
+                    {
+                        "title": "Risikomanagement",
+                        "desc": "Intelligenter Schutz"
+                    }
+                ]
+            },
+            {
+                "title": "<strong>Globaler</strong> Marktzugang",
+                "subtitle": "Handle jederzeit und überall",
+                "bullets": [
+                    {
+                        "title": "Weltweite Märkte",
+                        "desc": "Zugang rund um den Globus"
+                    },
+                    {
+                        "title": "24/7 Trading",
+                        "desc": "Immer verfügbar"
+                    },
+                    {
+                        "title": "Vielfältige Assets",
+                        "desc": "Breites Spektrum"
+                    }
+                ]
+            }
+        ],
+        "images": {
+            "hero1Alt": "Trading-Plattform",
+            "hero2Alt": "Trading-Plattform – schräg",
+            "hero3Alt": "Trading-Plattform – Dashboard"
+        }
+    },
+    "benefits": {
+        "heading": "Trading-<accent>Vorteile</accent>",
+        "sub": "Handle smarter, schneller und besser – erlebe unsere Plattform.",
+        "cards": [
+            {
+                "title": "50.000 $ Demokonto",
+                "desc": "Teste deine Investmentstrategien mit einem kostenlosen Demokonto.",
+                "features": [
+                    "Realtime-Marktdaten",
+                    "Erweiterte Trading-Tools",
+                    "Risikofreies Üben",
+                    "Voller Plattformzugang"
+                ],
+                "alt": "Demokonto"
+            },
+            {
+                "title": "200 % Bonus",
+                "desc": "Erhalte 200 % Bonus auf deine erste Einzahlung und steigere dein Trading-Potenzial.",
+                "features": [
+                    "200 % Bonus auf die erste Einzahlung",
+                    "Sofortige Aktivierung",
+                    "Mit Bonusmitteln handeln",
+                    "Vielfältige Zahlungsmethoden"
+                ],
+                "alt": "Bonus"
+            },
+            {
+                "title": "24/7 Support",
+                "desc": "Professionelles Support-Team rund um die Uhr für dich erreichbar.",
+                "features": [
+                    "Live-Chat-Support",
+                    "E-Mail-Betreuung",
+                    "Telefonischer Support",
+                    "Mehrsprachiges Team"
+                ],
+                "alt": "24/7 Support"
+            }
+        ]
+    },
+    "simpleStart": {
+        "title": "So <accent>einfach</accent> startest du",
+        "sub": "Beginne deine Trading-Reise in wenigen Schritten",
+        "steps": [
+            {
+                "title": "Registrieren",
+                "desc": "In einer Minute ein Konto eröffnen",
+                "alt": "Registrieren"
+            },
+            {
+                "title": "Plattform entdecken",
+                "desc": "Unsere Trading-Tools kennenlernen",
+                "alt": "Plattform"
+            },
+            {
+                "title": "Trading starten",
+                "desc": "Deine Trading-Reise beginnen",
+                "alt": "Trading"
+            },
+            {
+                "title": "Auszahlen",
+                "desc": "Sofortiger Zugriff auf deine Mittel",
+                "alt": "Auszahlung"
+            }
+        ]
+    },
+    "foundation": {
+        "title": "Lass <accent>KI</accent> für dich arbeiten",
+        "sub": "Bring dein Trading mit unserer KI-gestützten Social-Trading-Plattform auf das nächste Level. Wähle aus Kontotypen, die zu deinen Zielen und Risikoprofilen passen.",
+        "plans": [
+            {
+                "title": "Konservativer KI-Plan",
+                "subtitle": "Stabile Profite – geringes Risiko",
+                "minDepositLabel": "Mindesteinzahlung:",
+                "returnsLabel": "Erwartete Rendite:",
+                "strategiesLabel": "Strategien:",
+                "minDeposit": "500 $",
+                "returns": "5–6 %",
+                "strategies": "Mean Reversion (Korrekturen), Technische Analyse (Pattern Recognition), Risikomanagement (Positionsgröße)",
+                "features": [
+                    "Niedrigrisikostrategien",
+                    "Stabile Renditen",
+                    "Marktanalyse",
+                    "Risikokontrolle"
+                ],
+                "cta": "KI-Trading starten"
+            },
+            {
+                "title": "Moderater KI-Plan",
+                "subtitle": "Ausgewogenes Wachstum und Ertrag",
+                "minDepositLabel": "Mindesteinzahlung:",
+                "returnsLabel": "Erwartete Rendite:",
+                "strategiesLabel": "Strategien:",
+                "minDeposit": "3.000 $",
+                "returns": "12–18 %",
+                "strategies": "Trendfolge, Sentiment-Analyse in Krypto & Forex, selektives High-Frequency-Trading",
+                "features": [
+                    "Ausgewogener Ansatz",
+                    "Diversifizierte Strategien",
+                    "Marktanpassung",
+                    "Performance-Tracking"
+                ],
+                "cta": "KI-Trading starten"
+            },
+            {
+                "title": "Aggressiver KI-Plan",
+                "subtitle": "Hohes Risiko, hohe Rendite",
+                "minDepositLabel": "Mindesteinzahlung:",
+                "returnsLabel": "Erwartete Rendite:",
+                "strategiesLabel": "Strategien:",
+                "minDeposit": "10.000 $",
+                "returns": "25–40 %",
+                "strategies": "High-Frequency-Trading, gehebelte Trendfolge, Sentiment- & News-getriebenes Trading",
+                "features": [
+                    "Erweiterte Strategien",
+                    "High-Frequency-Trading",
+                    "Marktchancen nutzen",
+                    "Risikoptimierung"
+                ],
+                "cta": "KI-Trading starten"
+            }
+        ]
+    },
+    "investment": {
+        "title": "Warum ist <accent>Qption</accent> die smarte Wahl?",
+        "sub": "Entdecke, warum Trader unsere Plattform für ihre Investments nutzen",
+        "features": [
+            {
+                "title": "Branchenführende Plattform",
+                "desc": "Ausgezeichnete Lösung, anerkannt und empfohlen von Top-Experten"
+            },
+            {
+                "title": "Anpassbare Oberfläche",
+                "desc": "Passe Charts, Layouts und Farbthemen an deine Wünsche an"
+            },
+            {
+                "title": "Mühelose Auszahlungen",
+                "desc": "Greife sofort über sichere Zahlungsmethoden auf dein Kapital zu"
+            },
+            {
+                "title": "Support rund um die Uhr",
+                "desc": "24/7 erreichbar, wann immer du Hilfe brauchst"
+            }
+        ],
+        "cta": "Mehr erfahren"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Estrategia de Medias Móviles (SMA y EMA) – Análisis Técnico | Qption",
+        "description": "Domina el seguimiento de tendencias con las Medias Móviles: diferencia entre SMA y EMA, cruces (Cruz Dorada y Cruz de la Muerte), soporte/resistencia dinámica, cintas MA y limitaciones clave — guía completa para traders.",
+        "keywords": "medias móviles, SMA, EMA, cruce de medias móviles, cruz dorada, cruz de la muerte, cinta de medias móviles, soporte y resistencia dinámica, seguimiento de tendencia, momentum, análisis técnico, Qption",
+        "ogAlt": "Estrategia de medias móviles explicada en un gráfico con SMA y EMA",
+        "ld": {
+            "headline": "Estrategia de Medias Móviles (SMA y EMA) – Análisis Técnico"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estrategia de trading"
+    },
+    "cta": {
+        "ready": "¿Listo para operar con Medias Móviles?",
+        "startTrading": "Comenzar a operar"
+    },
+    "hero": {
+        "title": "Estrategia de Medias Móviles",
+        "subtitle": "Domina el seguimiento de tendencias y el trading por impulso con nuestro análisis completo de Medias Móviles."
+    },
+    "video": {
+        "aria": "Las medias móviles (MA) suavizan los datos de precios para facilitar la identificación de tendencias y reversiones."
+    },
+    "overview": {
+        "title": "Resumen general",
+        "items": {
+            "1": "Las medias móviles (MA) son herramientas populares de análisis técnico que suavizan los datos de precios para identificar tendencias y reversiones.",
+            "2": "Los dos tipos más comunes son la Media Móvil Simple (SMA) y la Media Móvil Exponencial (EMA), que difieren en la forma de ponderar los precios recientes.",
+            "3": "Las medias móviles ayudan a los traders a identificar la dirección de la tendencia, generar señales de entrada/salida y detectar niveles dinámicos de soporte y resistencia."
+        }
+    },
+    "how": {
+        "title": "Cómo funcionan las Medias Móviles",
+        "blocks": {
+            "1": {
+                "title": "Media Móvil Simple (SMA)",
+                "desc": "Promedio aritmético de un número determinado de precios recientes, utilizado para un análisis general de tendencias."
+            },
+            "2": {
+                "title": "Media Móvil Exponencial (EMA)",
+                "desc": "Da mayor peso a los precios más recientes, reaccionando más rápido a los cambios del mercado. Ideal para mercados volátiles."
+            },
+            "3": {
+                "title": "Identificación de tendencias",
+                "desc": "Cuando el precio está por encima de la media móvil, indica una tendencia alcista; cuando está por debajo, una tendencia bajista."
+            }
+        }
+    },
+    "strategies": {
+        "title": "Estrategias clave",
+        "crossover": {
+            "title": "1. Estrategia de Cruce de Medias Móviles",
+            "items": {
+                "1": "Cruz Dorada: ocurre cuando una media móvil de corto plazo (por ejemplo, de 50 días) cruza por encima de una media de largo plazo (por ejemplo, de 200 días), indicando una señal alcista.",
+                "2": "Cruz de la Muerte: ocurre cuando una media móvil de corto plazo cruza por debajo de una media de largo plazo, señal de una tendencia bajista."
+            }
+        },
+        "dynamicSR": {
+            "title": "2. Soporte y Resistencia Dinámica",
+            "items": {
+                "1": "Soporte en tendencia alcista: la media móvil actúa como soporte dinámico, donde el precio suele rebotar durante la tendencia.",
+                "2": "Resistencia en tendencia bajista: la media móvil actúa como resistencia dinámica, empujando los precios hacia abajo."
+            }
+        },
+        "ribbon": {
+            "title": "3. Estrategia de Cinta de Medias Móviles",
+            "items": {
+                "1": "Configuración: utiliza múltiples medias móviles de diferentes longitudes (por ejemplo, 10, 20, 50, 100, 200) para formar un efecto de 'cinta'.",
+                "2": "Señal de tendencia: cuando todas las medias móviles están alineadas en la misma dirección, indica una tendencia fuerte y clara."
+            }
+        }
+    },
+    "limits": {
+        "title": "Limitaciones",
+        "items": {
+            "1": "Indicadores rezagados: las medias móviles reaccionan lentamente a los movimientos bruscos del mercado.",
+            "2": "Señales falsas: pueden generar señales engañosas en mercados laterales o con poca volatilidad."
+        }
+    }
+}

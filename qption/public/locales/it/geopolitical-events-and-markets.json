@@ -1,0 +1,131 @@
+{
+    "seo": {
+        "title": "Glossario di Trading – Termini chiave e concetti fondamentali | Qption",
+        "description": "Definizioni chiare e concise dei principali termini di trading: bid/ask, mercati toro e orso, volatilità, liquidità, supporto/resistenza, linee di tendenza, correlazione e altro.",
+        "keywords": "glossario di trading, termini di trading, bid, ask, mercato toro, mercato orso, volatilità, liquidità, supporto, resistenza, correlazione, linea di tendenza, Qption",
+        "ogTitle": "Glossario di Trading – Termini chiave e concetti fondamentali | Qption",
+        "ogDescription": "Impara il linguaggio dei mercati con il glossario di Qption: definizioni e esempi chiari per i principali concetti di trading.",
+        "url": "https://qption.com/glossary",
+        "image": "https://qption.com/images/og/glossary-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Glossario di Trading – Termini chiave e concetti fondamentali | Qption",
+        "twitterDescription": "Definizioni essenziali di trading spiegate in modo semplice per un apprendimento più rapido e decisioni migliori.",
+        "twitterImage": "https://qption.com/images/og/glossary-qption.jpg",
+        "canonical": "https://qption.com/glossary"
+    },
+    "hero": {
+        "title": "Termini e concetti chiave del trading"
+    },
+    "terms": [
+        {
+            "key": "ask",
+            "title": "Ask",
+            "desc": "Il prezzo di mercato corrente al quale puoi acquistare un asset."
+        },
+        {
+            "key": "bull",
+            "title": "Toro",
+            "desc": "Un trader o investitore che si aspetta un aumento dei prezzi e acquista con l’obiettivo di vendere in seguito a un prezzo più alto."
+        },
+        {
+            "key": "bullMarket",
+            "title": "Mercato Toro",
+            "desc": "Un ambiente di mercato caratterizzato da prezzi in crescita e sentiment positivo — spesso rappresentato da un movimento ascendente nei grafici."
+        },
+        {
+            "key": "return",
+            "title": "Rendimento",
+            "desc": "Il pagamento o la percentuale che ricevi da una posizione. Su piattaforme come Qption, i trader possono ricevere fino al 45% dell’importo investito anche in caso di trade perdente (a seconda dell’asset). Il tasso di rendimento è impostato al momento dell’acquisto."
+        },
+        {
+            "key": "volatility",
+            "title": "Volatilità",
+            "desc": "Il grado di fluttuazione del prezzo in un determinato periodo. Una maggiore volatilità indica movimenti di prezzo più ampi e rapidi."
+        },
+        {
+            "key": "deposit",
+            "title": "Deposito",
+            "desc": "Fondi disponibili su un conto di trading che possono essere utilizzati per aprire e gestire posizioni."
+        },
+        {
+            "key": "diversification",
+            "title": "Diversificazione",
+            "desc": "Un approccio di gestione del rischio che consiste nel distribuire il capitale su diversi asset o mercati per ridurre l’esposizione a una singola posizione."
+        },
+        {
+            "key": "indicator",
+            "title": "Indicatore",
+            "desc": "Uno strumento di analisi tecnica derivato da dati di prezzo/volume, utilizzato per valutare trend, momentum o volatilità e supportare le decisioni di trading."
+        },
+        {
+            "key": "bid",
+            "title": "Bid",
+            "desc": "Il prezzo di mercato corrente al quale puoi vendere un asset."
+        },
+        {
+            "key": "priceCorridor",
+            "title": "Corridoio di Prezzo",
+            "desc": "Un intervallo di prezzo delimitato da supporto (limite inferiore) e resistenza (limite superiore) entro il quale l’asset viene scambiato."
+        },
+        {
+            "key": "correction",
+            "title": "Correzione",
+            "desc": "Un movimento temporaneo contro-trend che ritraccia parte di un forte rialzo o ribasso prima che il trend precedente possa riprendere."
+        },
+        {
+            "key": "correlation",
+            "title": "Correlazione",
+            "desc": "Una misura di come due asset si muovono l’uno rispetto all’altro, da −1 (inversa) a +1 (diretta). Esempio: EUR/USD e GBP/USD spesso si muovono in direzioni simili."
+        },
+        {
+            "key": "liquidity",
+            "title": "Liquidità",
+            "desc": "La facilità con cui un asset può essere acquistato o venduto senza muovere significativamente il suo prezzo. Un volume di scambi più alto implica solitamente maggiore liquidità."
+        },
+        {
+            "key": "supportLine",
+            "title": "Linea di Supporto",
+            "desc": "Un’area di prezzo in cui storicamente emerge interesse all’acquisto e che aiuta a prevenire ulteriori ribassi."
+        },
+        {
+            "key": "resistanceLine",
+            "title": "Linea di Resistenza",
+            "desc": "Un’area di prezzo in cui storicamente emerge interesse alla vendita e che tende a limitare ulteriori rialzi."
+        },
+        {
+            "key": "trendLine",
+            "title": "Linea di Tendenza",
+            "desc": "Una linea che collega minimi crescenti in un trend rialzista (supporto) o massimi decrescenti in un trend ribassista (resistenza) per illustrare la direzione del trend."
+        },
+        {
+            "key": "bear",
+            "title": "Orso",
+            "desc": "Un trader o investitore che si aspetta un calo dei prezzi e cerca di trarre profitto dai ribassi."
+        },
+        {
+            "key": "bearMarket",
+            "title": "Mercato Orso",
+            "desc": "Un periodo prolungato di cali generalizzati dei prezzi e sentiment negativo — spesso rappresentato da trend discendenti persistenti nei grafici."
+        },
+        {
+            "key": "bearRaid",
+            "title": "Attacco Ribassista (Bear Raid)",
+            "desc": "Un’azione coordinata da parte di trader volta a spingere il prezzo di un asset al ribasso, solitamente attraverso vendite concentrate."
+        },
+        {
+            "key": "traderSentiment",
+            "title": "Sentimento del Trader",
+            "desc": "Un indicatore che riflette il bias complessivo dei partecipanti al mercato (es. la proporzione di posizioni long vs short)."
+        },
+        {
+            "key": "bar",
+            "title": "Barra",
+            "desc": "Un elemento grafico che mostra apertura, massimo, minimo e chiusura (OHLC) per un periodo specifico; utilizzato nei grafici a barre."
+        },
+        {
+            "key": "bonus",
+            "title": "Bonus",
+            "desc": "Fondi extra accreditati dalla piattaforma (es. come promozione o incentivo al deposito) che possono essere utilizzati per fare trading secondo termini specifici."
+        }
+    ]
+}

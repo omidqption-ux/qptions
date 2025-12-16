@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "Strategia delle Medie Mobili (SMA & EMA) – Analisi Tecnica | Qption",
+        "description": "Apprendi il trend following con le Medie Mobili: SMA vs EMA, incroci (Golden/Death Cross), supporto/resistenza dinamico, nastri MA e principali limitazioni — guida completa per trader.",
+        "keywords": "medie mobili, SMA, EMA, incrocio media mobile, golden cross, death cross, media mobile a nastro, supporto e resistenza dinamici, trend following, momentum, analisi tecnica, Qption",
+        "ogTitle": "Strategia delle Medie Mobili (SMA & EMA) – Analisi Tecnica | Qption",
+        "ogDescription": "Scopri SMA vs EMA, come funzionano gli incroci, il supporto/resistenza dinamico e i nastri di medie mobili per migliorare il tuo trading.",
+        "url": "https://qption.com/technical-analysis/moving-averages",
+        "image": "https://qption.com/videos/moving-average/moving-average.png",
+        "imageAlt": "Strategia delle Medie Mobili illustrata su un grafico"
+    },
+    "labels": {
+        "backToTechnical": "Analisi Tecnica",
+        "backToGraphical": "Torna all'Analisi Grafica"
+    },
+    "promo": {
+        "text": "Pronto a fare trading con le Medie Mobili?",
+        "cta": "Inizia a fare trading"
+    },
+    "hero": {
+        "title": "Strategia delle Medie Mobili",
+        "subtitle": "Padroneggia il trend following e il trading di momentum con la nostra analisi completa delle Medie Mobili"
+    },
+    "video": {
+        "aria": "Le medie mobili (MA) sono strumenti popolari di analisi tecnica utilizzati per levigare i dati di prezzo e aiutare a identificare trend e inversioni."
+    },
+    "overview": {
+        "title": "Panoramica",
+        "bullets": [
+            "Le medie mobili (MA) levigano i dati di prezzo per rendere più visibili i trend e le inversioni.",
+            "I due tipi più comuni sono la Media Mobile Semplice (SMA) e la Media Mobile Esponenziale (EMA), che utilizzano pesi diversi.",
+            "Le MA aiutano i trader a identificare la direzione del trend, generare segnali di trading e individuare supporti e resistenze dinamiche."
+        ]
+    },
+    "how": {
+        "title": "Come Funzionano le Medie Mobili",
+        "items": [
+            {
+                "title": "Media Mobile Semplice (SMA)",
+                "desc": "Una media dei prezzi recenti con ponderazione uguale — ottima per l’analisi generale del trend."
+            },
+            {
+                "title": "Media Mobile Esponenziale (EMA)",
+                "desc": "Pesa maggiormente i prezzi recenti — risponde più rapidamente ai cambiamenti di mercato; preferita nei mercati veloci."
+            },
+            {
+                "title": "Identificazione del Trend",
+                "desc": "Prezzo sopra la MA → trend rialzista; prezzo sotto la MA → trend ribassista."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Strategie Chiave",
+        "items": [
+            {
+                "title": "Incrocio delle Medie Mobili",
+                "points": [
+                    "Golden Cross: una MA a breve termine (es. 50 giorni) incrocia verso l’alto una MA a lungo termine (es. 200 giorni) — segnale rialzista.",
+                    "Death Cross: una MA a breve termine incrocia verso il basso una MA a lungo termine — segnale ribassista."
+                ]
+            },
+            {
+                "title": "Supporto e Resistenza Dinamici",
+                "points": [
+                    "Trend rialzisti: le MA spesso fungono da supporto dinamico dove il prezzo rimbalza.",
+                    "Trend ribassisti: le MA possono fungere da resistenza dinamica, spingendo il prezzo verso il basso."
+                ]
+            },
+            {
+                "title": "Strategia del Nastro di Medie Mobili",
+                "points": [
+                    "Imposta più MA (es. 10, 20, 50, 100, 200) per creare un nastro.",
+                    "Quando il nastro è allineato in un’unica direzione, spesso segnala un trend forte."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitazioni",
+        "bullets": [
+            "Le medie mobili sono indicatori ritardati e possono reagire lentamente a cambiamenti improvvisi del mercato.",
+            "Possono generare falsi segnali in mercati laterali o senza direzione."
+        ]
+    }
+}

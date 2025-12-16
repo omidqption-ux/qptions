@@ -1,0 +1,229 @@
+.footer {
+  backdrop-filter: blur(12px);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  width: 100%;
+  margin-top: auto;
+  /* Push footer to bottom */
+  padding-bottom: 1rem;
+  /* Added padding to ensure background covers all content */
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  overflow-y: auto;
+}
+
+@media (min-width: 768px) {
+  .container {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.sectionTitle {
+  color: #ffffff;
+  font-size: 1.125rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  position: relative;
+  padding-bottom: 0.25rem;
+}
+
+.sectionTitle::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 40px;
+  height: 2px;
+  background: linear-gradient(90deg, #21b474 0%, rgba(33, 180, 116, 0.5) 100%);
+  transition: width 0.3s ease;
+}
+
+.section:hover .sectionTitle::after {
+  width: 60px;
+}
+
+.link {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.875rem;
+  font-weight: 300;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  position: relative;
+  padding: 0.125rem 0;
+}
+
+.link::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: linear-gradient(90deg, #21b474 0%, rgba(33, 180, 116, 0.5) 100%);
+  transition: width 0.3s ease;
+}
+
+.link:hover {
+  color: #21b474;
+  transform: translateX(5px);
+}
+
+.link:hover::before {
+  width: 100%;
+}
+
+.paymentSection {
+  grid-column: span 2;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+
+.riskWarning {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.75rem;
+  line-height: 1.4;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  margin-top: 1rem;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.riskWarningLogo {
+  position: relative;
+  opacity: 1;
+  z-index: 1;
+  width: 60px;
+  height: 60px;
+  filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.3));
+  margin-top: 0;
+}
+
+.riskWarningContent {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .riskWarning {
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 2.5rem 1rem;
+    gap: 2rem;
+  }
+
+  .riskWarningLogo {
+    width: 70px;
+    height: 70px;
+    margin-top: -0.5rem;
+  }
+
+  .riskWarningContent {
+    text-align: left;
+  }
+}
+
+@keyframes logoFloat {
+  0% {
+    transform: scale(1) rotate(0deg);
+  }
+
+  50% {
+    transform: scale(1.05) rotate(2deg);
+  }
+
+  100% {
+    transform: scale(1) rotate(0deg);
+  }
+}
+
+.bottomLinks {
+  max-width: 1280px;
+  margin: 1.5rem auto 0;
+  /* Changed bottom margin to 0 */
+  padding: 0 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.bottomLink {
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  position: relative;
+  padding: 0.5rem 0;
+}
+
+.bottomLink::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #21b474 0%, rgba(33, 180, 116, 0.5) 100%);
+  transition: width 0.3s ease;
+}
+
+.bottomLink:hover {
+  color: #21b474;
+  transform: translateY(-2px);
+}
+
+.bottomLink:hover::after {
+  width: 100%;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.footer {
+  animation: fadeIn 0.8s ease-out;
+}
+
+.socialIcon {
+  color: white;
+  transition: all 0.3s ease;
+  transform: scale(1);
+}
+
+.socialIcon:hover {
+  color: #21b474;
+  transform: scale(1.1);
+}

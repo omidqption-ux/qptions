@@ -1,0 +1,140 @@
+{
+    "seo": {
+        "title": "アフィリエイトプログラム – 収益の最大40％を獲得 | Qption",
+        "description": "Qptionと提携して、あなたのオーディエンスを収益源に変えましょう。柔軟なCPAまたはレベニューシェア報酬を獲得し、リアルタイムでトラッキング、紹介したトレーダーごとに毎週支払いを受け取れます。",
+        "keywords": "Qption アフィリエイト, トレーディング アフィリエイト プログラム, CPA フォレックス, 暗号通貨 アフィリエイト, レベニューシェア, パートナープログラム, トレーダー紹介, IB プログラム, ブローカー提携",
+        "ogTitle": "アフィリエイトプログラム – 収益の最大40％を獲得 | Qption",
+        "ogDescription": "Qptionのアフィリエイトプログラムに参加して、業界トップクラスの報酬、マーケティングリソース、専任サポートを手に入れましょう。",
+        "url": "https://qption.com/affiliate",
+        "image": "https://qption.com/images/og/affiliate-qption.jpg"
+    },
+    "hero": {
+        "title": "アフィリエイトプログラム",
+        "subtitle": "Qptionのアフィリエイトプログラムに参加して、トレーダーを紹介することで報酬を獲得しましょう。目標に合った最適なプランをお選びください。"
+    },
+    "tabs": {
+        "basic": "ベーシック",
+        "pro": "プロ",
+        "elite": "エリート"
+    },
+    "labels": {
+        "commission": "コミッション",
+        "incomePotential": "収益ポテンシャル",
+        "featuresTitle": "特徴",
+        "benefitsTitle": "プログラムのメリット"
+    },
+    "stats": [
+        {
+            "title": "アクティブアフィリエイト",
+            "value": "10,000+"
+        },
+        {
+            "title": "総支払額",
+            "value": "$5M+"
+        },
+        {
+            "title": "成功率",
+            "value": "95%"
+        }
+    ],
+    "plans": [
+        {
+            "title": "ベーシックアフィリエイトプラン",
+            "subtitle": "入門レベル",
+            "description": "最小限のコミットメントで収益化を始めたい初心者に最適です。ネットワークを構築し、安定したコミッションを得ましょう。",
+            "commission": "5-10%",
+            "income": "$50 - $500/月",
+            "gradient": "bg-linear-to-br from-green-500/20 to-green-500/5",
+            "features": [
+                {
+                    "title": "直接紹介コミッション",
+                    "description": "紹介したトレーダーによる取引手数料の5〜10％を獲得。"
+                },
+                {
+                    "title": "ワンタイム登録ボーナス",
+                    "description": "アクティブユーザーになった直接紹介ごとに小額ボーナスを獲得。"
+                },
+                {
+                    "title": "マーケティングサポート",
+                    "description": "基本的なマーケティング資料やチュートリアルにアクセスできます。"
+                }
+            ]
+        },
+        {
+            "title": "プロアフィリエイトプラン",
+            "subtitle": "中級レベル",
+            "description": "経験豊富なマーケター向け。収益を拡大し、上級ツールやマルチレベル報酬にアクセスできます。",
+            "commission": "10-15%",
+            "income": "$500 - $2,000/月",
+            "gradient": "bg-linear-to-br from-green-500/30 to-green-500/10",
+            "features": [
+                {
+                    "title": "直接紹介コミッション",
+                    "description": "紹介したトレーダーによる取引手数料の10〜15％を獲得。"
+                },
+                {
+                    "title": "セカンドレベルコミッション",
+                    "description": "直接紹介者が招待したトレーダーによる取引手数料の3〜5％を獲得。"
+                },
+                {
+                    "title": "パフォーマンスボーナス",
+                    "description": "紹介目標を達成すると追加ボーナスを獲得。"
+                },
+                {
+                    "title": "高度なマーケティングリソース",
+                    "description": "強化されたプロモーション資料や戦略セッションにアクセス可能。"
+                }
+            ]
+        },
+        {
+            "title": "エリートアフィリエイトプラン",
+            "subtitle": "上級レベル",
+            "description": "高収益を目指すトップパフォーマー向け。独自の特典と最高レベルのコミッション率を提供します。",
+            "commission": "15-20%",
+            "income": "$2,000 - $10,000/月",
+            "gradient": "bg-linear-to-br from-green-500/40 to-green-500/15",
+            "features": [
+                {
+                    "title": "直接紹介コミッション",
+                    "description": "紹介したトレーダーによる取引手数料の15〜20％を獲得。"
+                },
+                {
+                    "title": "マルチレベルコミッション",
+                    "description": "第2レベルで5％、第3レベルで2％、第4レベルで1％を獲得。"
+                },
+                {
+                    "title": "VIPマーケティングパッケージ",
+                    "description": "カスタマイズ可能なマーケティング資料と専用ランディングページ。"
+                },
+                {
+                    "title": "リーダーシップボーナス",
+                    "description": "チームメンバーがプロまたはエリートレベルに到達するのを支援した場合の特別ボーナス。"
+                },
+                {
+                    "title": "専用サポート",
+                    "description": "専任のアフィリエイトマネージャーと限定イベントへのアクセス。"
+                }
+            ]
+        }
+    ],
+    "benefits": [
+        {
+            "title": "継続的な収益",
+            "description": "ネットワークの取引活動から継続的にコミッションを獲得します。",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/5"
+        },
+        {
+            "title": "体系的な成長",
+            "description": "実績のあるマルチレベル構造でネットワークを構築・拡大します。",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/10"
+        },
+        {
+            "title": "成果報酬",
+            "description": "目標やマイルストーンを達成すると、ボーナスやインセンティブを獲得。",
+            "gradient": "bg-linear-to-br from-green-500/5 to-green-500/15"
+        }
+    ],
+    "cta": {
+        "join": "アフィリエイトプログラムに参加する"
+    }
+}

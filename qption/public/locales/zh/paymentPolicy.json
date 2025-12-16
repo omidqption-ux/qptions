@@ -1,0 +1,77 @@
+{
+    "seo": {
+        "title": "支付政策 | Qption",
+        "description": "Qption 的支付政策涵盖账户余额展示、充值与提现流程、身份验证（KYC）、税务义务及其他相关条款。",
+        "keywords": "支付政策, 充值, 提现, 账户余额, KYC, 身份验证, 税务, Qption",
+        "ogTitle": "支付政策 | Qption",
+        "ogDescription": "了解 Qption 关于充值、提现、余额展示、KYC 和税务责任的规定。",
+        "url": "https://qption.com/payment-policy",
+        "image": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "支付政策 | Qption",
+        "twitterDescription": "充值/提现、账户余额、KYC、税务与其他条款说明。",
+        "twitterImage": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "canonical": "https://qption.com/payment-policy"
+    },
+    "hero": {
+        "title": "支付政策"
+    },
+    "sections": [
+        {
+            "key": "account",
+            "icon": "account",
+            "title": "1. 账户余额责任",
+            "items": [
+                "公司有责任在任何时间显示客户账户的余额。",
+                "公司的责任自存款记录创建时开始，并持续到客户的提款申请完全处理完成为止。",
+                "客户有权在查询时要求提取其账户中可用的资金。"
+            ]
+        },
+        {
+            "key": "payments",
+            "icon": "payments",
+            "title": "2. 存款与提款程序",
+            "items": [
+                "存款和提款应通过公司网站上列出的官方方式进行。",
+                "客户自行承担使用支付服务提供商的风险，这些提供商与公司无隶属关系。",
+                "公司仅在资金到达公司银行或支付账户后承担责任。"
+            ]
+        },
+        {
+            "key": "registration",
+            "icon": "registration",
+            "title": "3. 客户注册",
+            "items": [
+                "注册需提供准确的身份和联系方式。",
+                "验证过程需要提供由政府机构签发的身份证明文件。",
+                "身份验证程序必须在10个工作日内完成。"
+            ]
+        },
+        {
+            "key": "deposit",
+            "icon": "deposit",
+            "title": "4. 存款流程",
+            "items": [
+                "客户可通过其网站个人账户发起存款。",
+                "电子支付的处理时间可能从几秒到几天不等。"
+            ]
+        },
+        {
+            "key": "tax",
+            "icon": "tax",
+            "title": "5. 税务义务",
+            "items": [
+                "公司不是客户的税务代理；税务申报与缴纳义务由客户自行负责。"
+            ]
+        },
+        {
+            "key": "misc",
+            "icon": "misc",
+            "title": "6. 其他条款",
+            "items": [
+                "通过接受本协议，客户确认其已达到法定年龄。",
+                "客户有责任遵守其所在地的相关法律法规。"
+            ]
+        }
+    ]
+}

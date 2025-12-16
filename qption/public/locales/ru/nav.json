@@ -1,0 +1,94 @@
+{
+    "login": "Войти",
+    "cabinet": "Личный кабинет",
+    "auth": {
+        "login": "Войти",
+        "register": "Регистрация"
+    },
+    "sections": [
+        {
+            "key": "trading",
+            "title": "Торговля",
+            "items": [
+                {
+                    "title": "Новости",
+                    "link": "/news"
+                },
+                {
+                    "title": "Типы счетов",
+                    "link": "/Accounttypes"
+                },
+                {
+                    "title": "Социальная торговля",
+                    "link": "/socialTrading"
+                },
+                {
+                    "title": "AI-торговля",
+                    "link": "/AITrading"
+                },
+                {
+                    "title": "Партнёрская программа",
+                    "link": "/Affiliate"
+                }
+            ]
+        },
+        {
+            "key": "education",
+            "title": "Обучение",
+            "items": [
+                {
+                    "title": "Технический анализ",
+                    "link": "/technical-analysis"
+                },
+                {
+                    "title": "Торговые стратегии",
+                    "link": "/trading-strategy"
+                },
+                {
+                    "title": "Графический анализ",
+                    "link": "/graphical-analysis"
+                },
+                {
+                    "title": "Фундаментальный анализ",
+                    "link": "/fundamentalanalysis"
+                },
+                {
+                    "title": "Глоссарий",
+                    "link": "/Glossary"
+                }
+            ]
+        },
+        {
+            "key": "company",
+            "title": "О компании",
+            "items": [
+                {
+                    "title": "Политика платежей",
+                    "link": "/PaymentPolicy"
+                },
+                {
+                    "title": "Политика возвратов",
+                    "link": "/ReturnPolicy"
+                },
+                {
+                    "title": "AML и KYC",
+                    "link": "/AMLAndKYC"
+                },
+                {
+                    "title": "Политика конфиденциальности",
+                    "link": "/PricvacyPolicy"
+                },
+                {
+                    "title": "Условия и положения",
+                    "link": "/TermsAndCondition"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "title": "Свяжитесь с нами",
+        "email": "contact@qption.com",
+        "phone": "+46 766926599",
+        "location": "Стокгольм, Швеция"
+    }
+}

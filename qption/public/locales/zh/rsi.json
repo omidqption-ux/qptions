@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "相对强弱指标 (RSI) – 技术分析 | Qption",
+        "description": "学习如何在技术分析中使用RSI：计算方法、识别超买/超卖区域、分析背离信号，并根据不同市场优化参数设置。",
+        "keywords": "RSI, 相对强弱指标, 技术分析, 动量振荡器, 超买, 超卖, 背离, 交易策略, Qption",
+        "ogTitle": "相对强弱指标 (RSI) – 技术分析 | Qption",
+        "ogDescription": "完整的RSI指南：如何计算、如何利用超买超卖和背离信号进行交易，以及何时RSI最有效。",
+        "url": "https://qption.com/technical-analysis/RSIIndicator",
+        "image": "https://qption.com/videos/og/rsi-indicator/rsi-indicator.png"
+    },
+    "labels": {
+        "backToTechnical": "技术分析",
+        "videoAria": "RSI（相对强弱指标）是一种动量振荡器，用于衡量价格变动的速度和幅度。"
+    },
+    "promo": {
+        "text": "准备好用 RSI 开始交易了吗？",
+        "cta": "开始交易"
+    },
+    "hero": {
+        "title": "RSI 指标策略",
+        "subtitle": "通过我们全面的RSI分析掌握动量交易的艺术"
+    },
+    "overview": {
+        "title": "概述",
+        "bullets": [
+            "RSI 是一种动量振荡器，用于衡量价格变动的速度和强度。",
+            "其范围在 0 到 100 之间，RSI 高于 70 表示超买，低于 30 表示超卖。",
+            "RSI 帮助交易者识别潜在的趋势反转和超买/超卖的市场状况。"
+        ]
+    },
+    "how": {
+        "title": "RSI 的工作原理",
+        "items": [
+            {
+                "title": "计算方法",
+                "desc": "RSI 根据一定周期（通常为14期）内的平均涨幅和平均跌幅计算得出。"
+            },
+            {
+                "title": "超买/超卖",
+                "desc": "当 RSI 高于 70 时，市场可能处于超买状态；当 RSI 低于 30 时，市场可能处于超卖状态。"
+            },
+            {
+                "title": "背离信号",
+                "desc": "当价格创新高/新低而 RSI 未确认时，可能预示趋势反转。"
+            }
+        ]
+    },
+    "strategies": {
+        "title": "主要交易策略",
+        "items": [
+            {
+                "title": "1. 超买/超卖交易",
+                "points": [
+                    "当 RSI 从 30 以下上穿时买入（超卖反弹）；当 RSI 从 70 以上下穿时卖出（超买回调）。",
+                    "可结合价格行为或其他指标进行确认。"
+                ]
+            },
+            {
+                "title": "2. RSI 背离",
+                "points": [
+                    "看涨背离：价格创更低的低点，而 RSI 创更高的低点。",
+                    "看跌背离：价格创更高的高点，而 RSI 创更低的高点。"
+                ]
+            },
+            {
+                "title": "3. RSI 趋势线",
+                "points": [
+                    "在 RSI 上绘制趋势线以识别潜在的突破或跌破。",
+                    "结合价格结构使用这些信号进行入场或离场。"
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "局限性",
+        "bullets": [
+            "在强劲趋势中，RSI 可能长时间保持在超买或超卖区域。",
+            "在震荡或无趋势市场中，RSI 可能产生错误信号。"
+        ]
+    }
+}

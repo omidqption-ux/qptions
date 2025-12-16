@@ -1,0 +1,97 @@
+{
+    "nav": {
+        "home": "Главная",
+        "trade": "Торговля",
+        "education": "Обучение",
+        "pricing": "Тарифы",
+        "dashboard": "Панель",
+        "login": "Войти",
+        "signup": "Регистрация",
+        "logout": "Выйти",
+        "language": "Язык"
+    },
+    "hero": {
+        "title": "Торгуйте умнее с Qption",
+        "subtitle": "Онлайн-графики, быстрая исполнение и прозрачные цены.",
+        "cta": "Начать"
+    },
+    "auth": {
+        "email": "Эл. почта",
+        "phone": "Телефон",
+        "password": "Пароль",
+        "confirmPassword": "Подтвердите пароль",
+        "login": "Войти",
+        "signup": "Создать аккаунт",
+        "forgot": "Забыли пароль?",
+        "otp": "Введите код подтверждения",
+        "verify": "Подтвердить",
+        "or": "или"
+    },
+    "trade": {
+        "buy": "Покупка",
+        "sell": "Продажа",
+        "openTrade": "Открыть сделку",
+        "closeTrade": "Закрыть сделку",
+        "amount": "Сумма",
+        "balance": "Баланс",
+        "profitLoss": "P/L",
+        "timeframe": "Таймфрейм",
+        "marketOpen": "Рынок открыт",
+        "marketClosed": "Рынок закрыт",
+        "mode": {
+            "live": "Лайв",
+            "demo": "Демо",
+            "real": "Реал"
+        }
+    },
+    "chart": {
+        "loading": "Загрузка графика…",
+        "indicators": "Индикаторы",
+        "movingAverage": "SMA/EMA (скользящая)",
+        "bollingerBands": "Полосы Боллинджера",
+        "rsi": "RSI",
+        "alligator": "Аллигатор"
+    },
+    "wallet": {
+        "deposit": "Депозит",
+        "withdraw": "Вывод",
+        "address": "Адрес",
+        "copy": "Копировать",
+        "copied": "Скопировано!",
+        "confirmations": "Подтверждения",
+        "status": {
+            "waiting": "Ожидание",
+            "confirmed": "Подтверждено",
+            "rejected": "Отклонено"
+        }
+    },
+    "kyc": {
+        "title": "Верификация аккаунта",
+        "uploadDoc": "Загрузить документы",
+        "pending": "На проверке",
+        "approved": "Одобрено",
+        "rejected": "Отклонено"
+    },
+    "errors": {
+        "required": "Обязательное поле",
+        "invalidEmail": "Неверный email",
+        "network": "Ошибка сети, попробуйте позже",
+        "unknown": "Произошла ошибка"
+    },
+    "common": {
+        "save": "Сохранить",
+        "cancel": "Отмена",
+        "confirm": "Подтвердить",
+        "back": "Назад",
+        "next": "Далее",
+        "search": "Поиск",
+        "loading": "Загрузка…",
+        "viewMore": "Показать ещё"
+    },
+    "footer": {
+        "rights": "Все права защищены."
+    },
+    "tryDemo": "Попробовать демо",
+    "registration": "Регистрация",
+    "clientCabinet": "Личный кабинет"
+}

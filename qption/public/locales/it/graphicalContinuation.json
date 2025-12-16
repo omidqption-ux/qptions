@@ -1,0 +1,190 @@
+{
+    "seo": {
+        "title": "Pattern di Continuazione del Trend – Flag, Pennant, Triangoli e Rettangoli | Qption",
+        "description": "Comprendi i pattern di continuazione del trend nell’analisi grafica: flag, pennant, triangoli ascendenti/discendenti e rettangoli. Scopri la loro formazione, la conferma del breakout, i vantaggi, i limiti e come usare il volume per evitare falsi segnali.",
+        "keywords": "pattern di continuazione del trend, pattern flag, pattern pennant, triangolo ascendente, triangolo discendente, pattern rettangolo, conferma breakout, conferma volume, analisi tecnica, analisi grafica, trend following, Qption",
+        "url": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+        "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+        "ogAlt": "Guida ai pattern di continuazione del trend",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Pattern di Continuazione del Trend – Flag, Pennant, Triangoli e Rettangoli",
+            "description": "Comprendi i pattern di continuazione del trend nell’analisi grafica: flag, pennant, triangoli ascendenti/discendenti e rettangoli. Scopri la loro formazione, la conferma del breakout, i vantaggi, i limiti e come usare il volume per evitare falsi breakout.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "image": "https://qption.com/videos/trend-continuation-patterns/trend-continuation-patterns.png",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Pattern di Continuazione del Trend"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Pattern Flag"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Pattern Pennant"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Triangolo Ascendente"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Triangolo Discendente"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Pattern Rettangolo"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Breakout"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Conferma del Volume"
+                }
+            ],
+            "articleSection": [
+                "Pattern di Continuazione del Trend nell’Analisi Grafica",
+                "Panoramica",
+                "Pattern di Continuazione Comuni",
+                "Pattern Flag",
+                "Pattern Pennant",
+                "Triangolo Ascendente",
+                "Triangolo Discendente",
+                "Pattern Rettangolo",
+                "Vantaggi dei Pattern di Continuazione",
+                "Limiti dei Pattern di Continuazione"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Pattern Flag",
+                    "value": "Movimento deciso (asta) seguito da una piccola consolidazione a canale parallelo; breakout nella direzione del trend"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Pattern Pennant",
+                    "value": "Breve consolidazione all’interno di linee convergenti; breakout allineato con il trend precedente"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Triangolo Ascendente",
+                    "value": "Resistenza piatta con minimi crescenti; continuazione rialzista al superamento della resistenza"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Triangolo Discendente",
+                    "value": "Supporto piatto con massimi decrescenti; continuazione ribassista alla rottura del supporto"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Pattern Rettangolo",
+                    "value": "Consolidamento laterale tra supporto e resistenza orizzontali; il breakout continua il trend precedente"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Conferma e Rischio",
+                    "value": "Usa l’espansione del volume sul breakout; attenzione ai falsi segnali; combina con stop sopra/sotto i limiti del pattern"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Torna all’Analisi Grafica",
+        "graphicalLink": "Analisi Grafica"
+    },
+    "page": {
+        "title": "Pattern di Continuazione del Trend nell’Analisi Grafica"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "start": "Inizia a Fare Trading"
+    },
+    "video": {
+        "aria": "I pattern di continuazione del trend sono formazioni grafiche che segnalano una pausa temporanea nel trend corrente, seguita da una probabile continuazione nella stessa direzione."
+    },
+    "sections": {
+        "overview": {
+            "h": "Panoramica",
+            "items": [
+                "I pattern di continuazione del trend sono formazioni grafiche che suggeriscono una pausa nel movimento seguita dalla ripresa nella stessa direzione.",
+                "Offrono potenziali punti di ingresso per partecipare alla ripresa del trend dopo brevi consolidamenti.",
+                "Si manifestano in mercati rialzisti e ribassisti su più timeframe."
+            ]
+        },
+        "patterns": {
+            "h": "Pattern di Continuazione Comuni",
+            "list": [
+                {
+                    "h": "1. Pattern Flag",
+                    "items": [
+                        "Una breve fase di consolidamento che ricorda una bandiera su un’asta, spesso dopo un forte movimento di prezzo.",
+                        "Formazione: un forte movimento direzionale (asta) seguito da una consolidazione in un piccolo canale parallelo (bandiera).",
+                        "Breakout: rottura al rialzo (trend rialzista) o al ribasso (trend ribassista) che prosegue nella direzione del trend principale.",
+                        "Interpretazione: suggerisce una probabile continuazione nella direzione originale dopo il breakout."
+                    ]
+                },
+                {
+                    "h": "2. Pattern Pennant",
+                    "items": [
+                        "Simile alla flag, ma con un piccolo triangolo convergente (pennant) durante la fase di consolidamento.",
+                        "Formazione: il prezzo sale (o scende) e poi consolida tra linee di tendenza convergenti formando un pennant.",
+                        "Breakout: la rottura nella direzione del movimento precedente indica la continuazione del trend.",
+                        "Interpretazione: breve pausa prima della ripresa del trend."
+                    ]
+                },
+                {
+                    "h": "3. Triangolo Ascendente",
+                    "items": [
+                        "Un pattern di continuazione rialzista con resistenza piatta e minimi crescenti.",
+                        "Formazione: minimi crescenti che si sviluppano contro un livello di resistenza orizzontale all’interno del triangolo.",
+                        "Breakout: la rottura al di sopra della resistenza segnala la continuazione del trend rialzista.",
+                        "Interpretazione: crescente pressione rialzista che spesso porta a un breakout verso l’alto."
+                    ]
+                },
+                {
+                    "h": "4. Triangolo Discendente",
+                    "items": [
+                        "Un pattern di continuazione ribassista con supporto piatto e massimi decrescenti.",
+                        "Formazione: massimi decrescenti che si formano contro un livello di supporto orizzontale all’interno del triangolo.",
+                        "Breakout: la rottura al di sotto del supporto indica la continuazione del trend ribassista.",
+                        "Interpretazione: pressione ribassista crescente, che spesso porta a un breakout verso il basso."
+                    ]
+                },
+                {
+                    "h": "5. Pattern Rettangolo",
+                    "items": [
+                        "Una fase di consolidamento laterale tra livelli di supporto e resistenza orizzontali.",
+                        "Formazione: il prezzo oscilla tra livelli orizzontali formando un rettangolo.",
+                        "Breakout: una rottura al rialzo (bullish) o al ribasso (bearish) del rettangolo continua il trend precedente.",
+                        "Interpretazione: consolidamento temporaneo prima della ripresa del trend nella direzione del breakout."
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "h": "Vantaggi dei Pattern di Continuazione del Trend",
+            "items": [
+                "Forniscono un timing d’ingresso più chiaro durante le fasi di consolidamento.",
+                "Migliorano le strategie di trend-following evidenziando probabili punti di ripresa.",
+                "Particolarmente efficaci durante trend forti e persistenti."
+            ]
+        },
+        "limitations": {
+            "h": "Limiti dei Pattern di Continuazione del Trend",
+            "items": [
+                "I falsi breakout possono verificarsi, soprattutto in mercati volatili o laterali.",
+                "Spesso richiedono conferma (es. aumento del volume) per ridurre i falsi segnali.",
+                "Meno affidabili in mercati laterali e necessitano di ulteriori elementi di convalida."
+            ]
+        }
+    }
+}

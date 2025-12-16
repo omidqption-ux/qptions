@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Domanda e offerta su commodity e crypto – Driver, shock, segnali | Qption",
+        "description": "Comprendi come produzione, geopolitica, meteo, halving, adozione e flussi di mining/staking plasmano domanda e offerta per commodity e criptovalute. Scopri le reazioni tipiche del mercato, i benefici del monitoraggio S&D e i limiti principali.",
+        "url": "https://qption.com/fundamental-analysis/supply-and-demand-commodities",
+        "keywords": "domanda e offerta, commodity, crypto, Bitcoin halving, livelli di produzione, rischio geopolitico, shock climatici, adozione, reward di mining, reward di staking, sentiment di mercato, elasticità dei prezzi, Qption",
+        "ld": {
+            "headline": "Domanda e offerta su commodity e crypto – Driver, shock, segnali",
+            "about": {
+                "supplyDemand": "Domanda e offerta",
+                "commodities": "Commodity",
+                "crypto": "Criptovalute",
+                "halving": "Bitcoin halving",
+                "mining": "Reward di mining",
+                "staking": "Staking",
+                "geopolitics": "Geopolitica",
+                "weather": "Rischio meteo",
+                "sentiment": "Sentiment di mercato"
+            },
+            "props": {
+                "scarcity": {
+                    "name": "Dinamiche di scarsità",
+                    "value": "Supply limitata (es. BTC) e emissioni in calo amplificano i movimenti trainati dalla domanda."
+                },
+                "shock": {
+                    "name": "Sensibilità agli shock",
+                    "value": "Le commodity reagiscono con forza a shock esogeni (meteo, conflitti) che limitano l’output."
+                },
+                "flowstock": {
+                    "name": "Flusso vs stock",
+                    "value": "Per le crypto, nuova emissione (flusso) vs supply esistente (stock) e comportamento degli holder determinano la liquidità."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analisi fondamentale"
+    },
+    "page": {
+        "title": "Domanda e offerta nei mercati di commodity e crypto"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "start": "Inizia a fare trading"
+    },
+    "sections": {
+        "_list": [
+            "Domanda e offerta nei mercati di commodity e crypto",
+            "Panoramica",
+            "Fattori che influenzano domanda e offerta sul mercato delle commodity",
+            "Livelli di produzione",
+            "Eventi geopolitici",
+            "Condizioni meteo",
+            "Crescita economica globale",
+            "Energie alternative e tecnologie",
+            "Fattori che influenzano domanda e offerta nel mercato crypto",
+            "Supply fissa e halving",
+            "Sentiment e adozione",
+            "Ricompense di mining e staking",
+            "Reazioni del mercato agli squilibri di domanda e offerta",
+            "Mercati delle commodity",
+            "Mercati crypto",
+            "Benefici di conoscere domanda e offerta nel trading",
+            "Limitazioni dell’analisi domanda/offerta"
+        ],
+        "overview": {
+            "title": "Panoramica",
+            "items": [
+                "Domanda e offerta sono forze centrali che determinano prezzi e quantità per asset, incluse commodity e criptovalute.",
+                "La supply delle commodity dipende da produzione, meteo e geopolitica, mentre la domanda segue l’attività globale e le esigenze industriali.",
+                "La supply crypto è spesso limitata o programmata; la domanda segue adozione, regolamentazione e sentiment degli investitori."
+            ]
+        },
+        "commodityFactors": {
+            "title": "Fattori che influenzano domanda e offerta nelle commodity",
+            "items": [
+                {
+                    "label": "Livelli di produzione:",
+                    "text": "Un output maggiore aumenta l’offerta e, se la domanda resta invariata, può comprimere i prezzi."
+                },
+                {
+                    "label": "Eventi geopolitici:",
+                    "text": "Conflitti, sanzioni e policy commerciali possono interrompere le catene di fornitura, soprattutto per energia e metalli."
+                },
+                {
+                    "label": "Condizioni meteo:",
+                    "text": "Siccità, gelate e tempeste impattano rese agricole e logistica, stringendo l’offerta e spingendo i prezzi."
+                },
+                {
+                    "label": "Crescita economica globale:",
+                    "text": "Le fasi espansive aumentano la domanda industriale e dei consumatori; i rallentamenti la deprimono."
+                },
+                {
+                    "label": "Energie alternative & tecnologie:",
+                    "text": "Le rinnovabili e i cambi tecnologici possono ridurre la domanda di carburanti tradizionali e modificare i prezzi di lungo periodo."
+                }
+            ]
+        },
+        "cryptoFactors": {
+            "title": "Fattori che influenzano domanda e offerta nelle crypto",
+            "fixed": {
+                "title": "1. Supply fissa e halving",
+                "items": [
+                    "Molte reti (es. Bitcoin) hanno supply limitata, aumentando la scarsità nel tempo.",
+                    "Gli halving riducono la nuova emissione, stringendo il flusso e supportando i prezzi se la domanda regge."
+                ]
+            },
+            "sentiment": {
+                "title": "2. Sentiment di mercato e adozione",
+                "items": [
+                    "News, regolamentazione e opinioni influenti spostano rapidamente il sentiment e la domanda.",
+                    "L’adozione da parte di aziende e istituzioni aumenta l’utilità reale e la domanda di lungo periodo."
+                ]
+            },
+            "rewards": {
+                "title": "3. Reward di mining e staking",
+                "items": [
+                    "I reward generano nuova supply che può pesare sul prezzo se la domanda non la assorbe.",
+                    "Cambi di difficoltà o rendimento modificano il ritmo di emissione e lo stock disponibile."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Reazioni del mercato agli shock di domanda/offerta",
+            "commodity": {
+                "title": "1. Mercati delle commodity",
+                "items": [
+                    "Interruzioni di supply alzano i prezzi perché le scorte si assottigliano.",
+                    "Domanda in crescita durante le espansioni spinge i prezzi degli input industriali."
+                ]
+            },
+            "crypto": {
+                "title": "2. Mercati crypto",
+                "items": [
+                    "Float limitato più domanda crescente può produrre rally importanti.",
+                    "Riduzioni di emissione (es. halving) sono spesso supportive se l’adozione prosegue."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefici nel comprendere domanda e offerta",
+            "items": [
+                "Timing migliore anticipando squilibri e cicli di scorte.",
+                "Allocazione più efficiente su asset sensibili ai regimi di S&D.",
+                "Visione di lungo termine più chiara laddove la supply è strutturalmente limitata."
+            ]
+        },
+        "limits": {
+            "title": "Limitazioni dell’analisi domanda/offerta",
+            "items": [
+                "Alta volatilità può oscurare i fondamentali nel breve periodo.",
+                "Speculazione e leva possono distorcere i segnali osservati.",
+                "Shock esogeni (policy, tecnologia, geopolitica) possono cambiare lo scenario all’improvviso."
+            ]
+        }
+    }
+}

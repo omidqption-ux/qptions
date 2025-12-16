@@ -1,0 +1,90 @@
+{
+    "seo": {
+        "title": "Bollinger Bands Strategy – Technical Analysis | Qption",
+        "description": "Master volatility-based trading with Bollinger Bands: squeeze setups, overbought/oversold reversals, and trend-following “riding the bands” — complete guide on Qption.",
+        "keywords": "Bollinger Bands, technical analysis, squeeze, overbought, oversold, trend following, volatility, trading strategy, Qption",
+        "ogTitle": "Bollinger Bands Strategy – Technical Analysis | Qption",
+        "ogDescription": "A practical guide to using Bollinger Bands for squeezes, reversals, and trend continuation setups.",
+        "url": "https://qption.com/technical-analysis/bollinger",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading Strategy"
+    },
+    "labels": {
+        "backToTechnical": "Technical Analysis",
+        "videoAria": "Bollinger Bands are a popular technical analysis tool used to measure market volatility and identify overbought or oversold conditions."
+    },
+    "promo": {
+        "text": "Ready to trade with Bollinger Bands?",
+        "cta": "Start Trading"
+    },
+    "hero": {
+        "title": "Bollinger Bands Strategy",
+        "subtitle": "Master the art of volatility-based trading with our comprehensive Bollinger Bands analysis"
+    },
+    "overview": {
+        "title": "Overview",
+        "bullets": [
+            "Bollinger Bands are a popular technical analysis tool used to measure market volatility and identify overbought or oversold conditions.",
+            "The indicator comprises three lines: a middle band (typically a 20-period moving average) and upper/lower bands set a number of standard deviations from the middle.",
+            "They help traders anticipate potential price moves by examining the relationship between price and volatility."
+        ]
+    },
+    "how": {
+        "title": "How Bollinger Bands Work",
+        "items": [
+            {
+                "title": "Middle Band",
+                "desc": "A moving average (usually 20 periods) that smooths price data and helps identify the prevailing trend."
+            },
+            {
+                "title": "Upper Band",
+                "desc": "Typically set 2 standard deviations above the middle band; price reaching it may indicate potential overbought conditions."
+            },
+            {
+                "title": "Lower Band",
+                "desc": "Typically set 2 standard deviations below the middle band; price approaching it may indicate potential oversold conditions."
+            },
+            {
+                "title": "Volatility Interpretation",
+                "desc": "Bands widen during high volatility and contract during low volatility, which can precede trend changes or breakouts."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Key Strategies",
+        "items": [
+            {
+                "title": "1. Bollinger Band Squeeze",
+                "points": [
+                    "Formation: Bands contract, indicating low volatility that may precede a significant move.",
+                    "Interpretation: Breakout above the upper band suggests bullish continuation; breakdown below the lower band suggests bearish continuation.",
+                    "Confirmation: Use volume or complementary indicators to validate breakout direction."
+                ]
+            },
+            {
+                "title": "2. Overbought & Oversold Reversals",
+                "points": [
+                    "Overbought: Price touching or moving outside the upper band may precede a downward reversal.",
+                    "Oversold: Price touching or moving outside the lower band may precede an upward reversal.",
+                    "Use Confirmation: RSI or similar oscillators can improve reliability."
+                ]
+            },
+            {
+                "title": "3. Riding the Bands (Trend Following)",
+                "points": [
+                    "Trend Signal: Price hugging the upper band indicates a strong uptrend; hugging the lower band indicates a strong downtrend.",
+                    "Entry/Exit: Trade in the trend direction, using the middle band as a trailing stop or dynamic exit."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitations",
+        "bullets": [
+            "Lagging Indicator: Derived from historical prices, so it may react slowly to abrupt market changes.",
+            "False Signals: In choppy markets, bands can generate misleading overbought/oversold signals."
+        ]
+    }
+}

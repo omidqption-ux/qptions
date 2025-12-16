@@ -1,0 +1,21 @@
+{
+    "seo": {
+        "title": "联系我们 – Qption",
+        "description": "需要帮助？Qption 客服团队通过聊天、邮箱或电话 24/7 为您服务。",
+        "keywords": "Qption 联系方式, 客服支持, 交易帮助, Qption 电话, Qption 邮箱",
+        "ogDescription": "关于交易、合作或平台的问题？Qption 团队全天候为您解答。",
+        "twitterDescription": "Qption 7×24 小时客服—立即联系。",
+        "url": "https://qption.com/contact",
+        "ogImage": "https://qption.com/images/og/contact-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "联系我们",
+        "support": "客户支持",
+        "supportHours": "全天候，全年无休",
+        "email": "电子邮箱",
+        "phone": "电话号码",
+        "address": "地址",
+        "cityCountry": "斯德哥尔摩，瑞典"
+    }
+}

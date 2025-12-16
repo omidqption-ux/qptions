@@ -1,0 +1,106 @@
+{
+    "seo": {
+        "title": "Stratégie Martingale – Doublement des positions & contrôle du risque | Qption",
+        "description": "Comprenez la stratégie Martingale : mécanisme de doublement après perte, exemples pratiques, garde-fous, avantages/risques et alternatives plus sûres pour les traders systématiques.",
+        "keywords": "Martingale, stratégie Martingale, money management, double down, gestion du risque, récupération des pertes, anti-martingale, limite de positions, stratégie de trading, Qption",
+        "ogAlt": "Stratégie Martingale illustrée par une échelle de doublement",
+        "ld": {
+            "headline": "Stratégie Martingale – Doublement des positions & contrôles du risque"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Stratégie de trading"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "startTrading": "Commencer à trader"
+    },
+    "hero": {
+        "title": "La stratégie Martingale en un coup d’œil",
+        "p1": "Chaque trader rêve d’une méthode générant des gains réguliers. La Martingale, issue de la théorie des probabilités du XVIIIᵉ siècle, en est un exemple. D’abord pensée pour les jeux de hasard, elle a été adaptée aux marchés financiers et reste populaire.",
+        "p2": "Pour t’aider à la maîtriser rapidement, nous avons créé un guide interactif. En l’appliquant sur Qption, tu apprendras à analyser les mouvements de prix, à définir entrées/sorties et à gérer ton risque pour viser plus de constance."
+    },
+    "video": {
+        "aria": "La Martingale est utilisée aussi bien en trading qu’au casino. Beaucoup de traders Qption la connaissent car elle consiste à accroître une position (moyennage, scaling). L’idée centrale : doubler la taille après une perte pour rattraper les pertes et dégager un gain net."
+    },
+    "what": {
+        "title": "Qu’est-ce que la Martingale ?",
+        "p1": "La Martingale consiste à doubler sa position après chaque trade perdant. Ainsi, lorsqu’un gain finit par arriver, il récupère toutes les pertes précédentes plus un petit profit. Concept simple, mais mal appliqué il peut entraîner de lourds drawdowns. Avec une gestion stricte, il peut devenir puissant."
+    },
+    "how": {
+        "title": "Comment fonctionne la Martingale ?",
+        "p1": "Le principe vient de jeux comme la roulette : après chaque perte sur un pari 50/50, on double la mise. Exemple : tu mises 1 $, tu perds, tu mises 2 $ ; quand tu gagnes, tu regagnes tes pertes et 1 $ net.",
+        "p2": "En trading, on remplace les paris par positions d’achat/vente. Si le prix va contre toi, tu ouvres une position plus grosse après un certain écart, réduisant la distance au point mort. Mais si le marché continue contre toi, les pertes gonflent très vite : il faut donc des limites claires et une bonne discipline."
+    },
+    "apply": {
+        "title": "Utiliser la Martingale sur Qption",
+        "p1": "Sur Qption, c’est simple : si le prix se déplace de 100 points contre ta position initiale, ouvre une seconde position plus large. Une correction plus petite suffit alors pour revenir au break-even. Exemple : tu achètes, le prix baisse de 100 points, tu doubles ; un rebond de 50 points couvre les deux trades.",
+        "p2": "Chaque position ajoutée augmente l’exposition et le risque. Combine donc Martingale avec une solide analyse de marché – tendance, structure, timing.",
+        "p3": "Elle fonctionne mieux dans des marchés tendanciels avec de petits retracements. Des paires comme AUD/USD ou NZD/USD sont plus fluides ; GBP/JPY, très volatile, peut rendre la Martingale dangereuse."
+    },
+    "consider": {
+        "title": "Points clés avant d’utiliser la Martingale",
+        "items": {
+            "1": {
+                "h": "Application sélective",
+                "p": "Tous les marchés ne s’y prêtent pas. En phase agitée, les pertes s’enchaînent vite. Concentre-toi sur des trends stables avec rebonds prévisibles."
+            },
+            "2": {
+                "h": "Maîtriser la taille de position",
+                "p": "Commence petit. Doubler trop vite épuise le capital ; garde des réserves pour de futurs ajouts."
+            },
+            "3": {
+                "h": "Fixer des limites",
+                "p": "Sans plafond, les pertes explosent. Défini un nombre maxi de doubles ou un pourcentage de risque strict."
+            },
+            "4": {
+                "h": "Coupler avec l’analyse",
+                "p": "Utilise moyennes mobiles, supports/résistances pour des entrées précises. Les zones clés réduisent le besoin de doubler."
+            },
+            "5": {
+                "h": "Adapter aux conditions",
+                "p": "La Martingale performe mieux dans les tendances régulières. Évite les annonces et périodes de forte volatilité."
+            },
+            "6": {
+                "h": "Stops & gestion émotionnelle",
+                "p": "Doubler ses positions est stressant. Reste discipliné, place des stops et suis ton plan pour éviter le trading émotionnel."
+            }
+        }
+    },
+    "steps": {
+        "title": "Guide pas-à-pas sur Qption",
+        "lead": "Pour appliquer la Martingale efficacement, suis ces étapes :",
+        "items": {
+            "1": {
+                "h": "Choisir la paire",
+                "p": "Préférer une paire aux mouvements stables et prévisibles."
+            },
+            "2": {
+                "h": "Identifier la tendance",
+                "p": "Utilise des MAs ou autres indicateurs pour rester dans le sens du marché."
+            },
+            "3": {
+                "h": "Trouver l’entrée",
+                "p": "Attends que le contexte correspond à ton plan (niveaux, timing)."
+            },
+            "4": {
+                "h": "Définir la taille minimale",
+                "p": "Commencer petit pour garder de la marge de manœuvre."
+            },
+            "5": {
+                "h": "Trader dans le sens du trend",
+                "p": "Suivre la tendance dominante augmente la probabilité de réussite."
+            },
+            "6": {
+                "h": "Doubler après une perte",
+                "p": "Si le trade part contre toi, ouvre une nouvelle position deux fois plus grosse."
+            },
+            "7": {
+                "h": "Revenir à la taille initiale après un gain",
+                "p": "Une fois le trade gagnant clôturé, reviens à ta taille de base."
+            }
+        },
+        "p1": "Même avec discipline, la Martingale reste agressive : le money management est vital.",
+        "p2": "Regarde notre courte vidéo pour la voir en action. Souviens-toi : aucune stratégie n’est sans risque. Jauge ta tolérance et pilote ton exposition."
+    }
+}

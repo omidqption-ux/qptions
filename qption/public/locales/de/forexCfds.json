@@ -1,0 +1,150 @@
+{
+    "seo": {
+        "title": "Aktien–Forex/CFD-Korrelation: Treiber, Muster & Risikoregime | Qption",
+        "description": "Erfahre, wie Aktien- und Forex/CFD-Märkte gemeinsam (oder gegensätzlich) verlaufen. Lerne die Makrotreiber – Zinsen, Wachstumsdaten, Risikosentiment und Kapitalflüsse – sowie typische positive/negative Paare und wie Korrelationen Diversifikation und Hedging unterstützen.",
+        "url": "https://qption.com/fundamental-analysis/forex-cfds",
+        "keywords": "Aktien- und Forex-Korrelation, CFD-Korrelation, Risk-on Risk-off, Zinsen und FX, Kapitalflüsse, Safe-Haven-Währungen JPY CHF, USD und Aktien, AUD-Rohstoffkorrelation, Portfolio-Hedging, Qption",
+        "ld": {
+            "headline": "Korrelation zwischen Aktienmärkten und Forex/CFDs",
+            "about": {
+                "equities": "Aktienmärkte",
+                "forex": "Devisenmarkt (Forex)",
+                "cfds": "Contracts for Difference (CFDs)",
+                "riskSentiment": "Globales Risikosentiment",
+                "safeHavens": "Sichere Währungen",
+                "rates": "Zinssätze",
+                "flows": "Kapitalflüsse"
+            },
+            "props": {
+                "regimes": {
+                    "name": "Korrelationsregime",
+                    "value": "Beziehungen wechseln im Risk-on/Risk-off-Modus; Safe-Haven-FX (JPY, CHF) gewinnen häufig, wenn globale Aktien fallen."
+                },
+                "commodity": {
+                    "name": "Rohstoff-Verknüpfungen",
+                    "value": "AUD und rohstofflastige Aktiensektoren können sich gemeinsam bewegen – getragen von Terms-of-Trade und Rohstoffzyklen."
+                },
+                "practice": {
+                    "name": "Praxisnutzen",
+                    "value": "Trader nutzen Korrelationen für Diversifikation, Hedging und zur Vermeidung ungewollter Klumpenrisiken."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Fundamentalanalyse"
+    },
+    "cta": {
+        "ready": "Bereit zu handeln?",
+        "start": "Jetzt handeln"
+    },
+    "page": {
+        "title": "Korrelation zwischen Aktienmärkten und Forex/CFDs"
+    },
+    "sections": {
+        "_list": [
+            "Überblick",
+            "Haupttreiber der Korrelation",
+            "Zinsen",
+            "Konjunkturdaten",
+            "Globales Risikosentiment",
+            "Kapitalflüsse",
+            "Typische Korrelationen zwischen Aktien- und Forex/CFD-Märkten",
+            "Positive Korrelationen",
+            "Negative Korrelationen",
+            "Wie Aktienmärkte Forex/CFD-Märkte beeinflussen",
+            "Aktienrallys und Währungsstärke",
+            "Aktienrückgänge und Safe-Haven-Währungen",
+            "Vorteile des Verständnisses von Aktien- und Forex/CFD-Korrelationen",
+            "Grenzen der Korrelation"
+        ],
+        "overview": {
+            "title": "Überblick",
+            "items": [
+                "Aktienmärkte und Forex/CFD-Märkte bewegen sich häufig miteinander – Veränderungen in einem Markt wirken sich auf den anderen aus.",
+                "Die Korrelation beruht auf makroökonomischen Faktoren wie Wachstumserwartungen, Zinsen, Risikoappetit und globalen Kapitalflüssen.",
+                "Wer diese Verknüpfungen versteht, kann bessere Strategien für Diversifikation und Hedging über Assetklassen hinweg entwickeln."
+            ]
+        },
+        "drivers": {
+            "title": "Haupttreiber der Korrelation",
+            "items": [
+                {
+                    "label": "Zinssätze:",
+                    "text": "Notenbankpolitik beeinflusst Währungen wie Aktien – steigende Zinsen stützen Währungen, können aber Aktienbewertungen belasten."
+                },
+                {
+                    "label": "Konjunkturdaten:",
+                    "text": "Starke BIP-, Beschäftigungs- und Inflationszahlen prägen die Stimmung in beiden Märkten und richten ihre Richtung aus."
+                },
+                {
+                    "label": "Globales Risikosentiment:",
+                    "text": "In Risk-off-Phasen fliehen Anleger aus Aktien in sichere Währungen wie JPY und CHF; Risk-on-Phasen kehren dieses Muster um."
+                },
+                {
+                    "label": "Kapitalflüsse:",
+                    "text": "Grenzüberschreitende Aktieninvestments erhöhen die Nachfrage nach der lokalen Währung, während Abflüsse sie schwächen können."
+                }
+            ]
+        },
+        "common": {
+            "title": "Typische Korrelationen zwischen Aktien und Forex/CFDs",
+            "positive": {
+                "title": "Positive Korrelationen",
+                "items": [
+                    "USD und US-Aktien: Eine robuste Wirtschaft kann gleichzeitig den Dollar und Aktienmärkte heben, da Anleger starkes Wachstum erwarten.",
+                    "AUD und Rohstoffaktien: Die rohstoffgebundene australische Währung läuft häufig im Gleichklang mit Minen- und Energieaktien."
+                ]
+            },
+            "negative": {
+                "title": "Negative Korrelationen",
+                "items": [
+                    "JPY und japanische Aktien: Der Yen wertet oft auf, wenn japanische Aktien fallen, weil Kapital in Phasen der Risikoaversion heimkehrt.",
+                    "CHF und globale Aktien: Der Schweizer Franken steigt typischerweise, wenn globale Aktien fallen – Ausdruck eines Flight-to-Safety."
+                ]
+            }
+        },
+        "impact": {
+            "title": "So beeinflussen Aktienmärkte Forex/CFD-Märkte",
+            "rallies": {
+                "title": "Aktienrallys und Währungsstärke",
+                "items": [
+                    "Steigende Aktienmärkte ziehen Kapitalzuflüsse an, was die lokale Währung stärkt, da Anleger Wachstumsexponierung suchen.",
+                    "Positive Aktienperformance erhöht das Vertrauen, lockt ausländische Investoren an und unterstützt eine Aufwertung."
+                ]
+            },
+            "declines": {
+                "title": "Aktienrückgänge und Safe-Haven-Währungen",
+                "items": [
+                    "Abschwünge lösen Umschichtungen in sichere Währungen wie USD, JPY und CHF aus und treiben sie nach oben.",
+                    "In Krisen reduzieren Anleger Risiko und verschieben Mittel von Aktien in stabile Währungen, um Kapital zu schützen."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Vorteile des Verständnisses von Korrelationen",
+            "items": [
+                "Verbessert Diversifikation, indem Risiken über Assetklassen gesteuert werden.",
+                "Unterstützt besseres Timing, weil klar ist, wie sich Märkte gegenseitig beeinflussen.",
+                "Hilft, Hedging-Chancen zu erkennen und potenzielle Verluste auszugleichen."
+            ]
+        },
+        "limits": {
+            "title": "Grenzen von Korrelationen",
+            "items": [
+                {
+                    "label": "Unvorhersehbare Veränderungen:",
+                    "text": "Korrelationen können sich durch Politikwechsel oder globale Schocks rasch verschieben und damit unzuverlässig werden."
+                },
+                {
+                    "label": "Marktspezifische Faktoren:",
+                    "text": "Lokale Ereignisse wie Quartalszahlen oder politische Risiken können typische Muster verfälschen."
+                },
+                {
+                    "label": "Komplexe Wechselwirkungen:",
+                    "text": "Vielzahl makro- und mikroökonomischer Kräfte macht Korrelationen dynamisch und zeitabhängig."
+                }
+            ]
+        }
+    }
+}

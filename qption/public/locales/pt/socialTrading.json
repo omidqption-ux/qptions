@@ -1,0 +1,55 @@
+{
+    "seo": {
+        "title": "Social Trading – Siga Nossos Melhores Traders | Qption",
+        "description": "Descubra o hub de social trading da Qption: inscreva-se em ideias de negociação ao vivo dos nossos principais traders, espelhe suas estratégias e nunca perca um movimento do mercado. Siga-nos no X, Telegram, YouTube e Instagram para receber sinais e educação em tempo real.",
+        "keywords": "Qption social trading, copy trading, seguir traders, sinais de trading, sinais forex, sinais cripto, grupo Telegram trading, canal YouTube trading, educação em trading",
+        "ogType": "website",
+        "ogTitle": "Social Trading – Siga Nossos Melhores Traders | Qption",
+        "ogDescription": "Junte-se à comunidade de social trading da Qption: conecte-se no X, Telegram, YouTube e Instagram, copie estratégias de profissionais e negocie com confiança.",
+        "ogUrl": "https://qption.com/socialTrading",
+        "ogImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "Social Trading – Siga Nossos Melhores Traders | Qption",
+        "twitterDescription": "Siga os principais traders da Qption para sinais em tempo real de forex e cripto, comentários de mercado e transmissões educativas.",
+        "twitterImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "canonical": "https://qption.com/socialTrading",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "Social Trading",
+        "introBullets": [
+            "Assista outros traders e negocie em tempo real.",
+            "Negocie com outros investidores e amigos.",
+            "Sinta a confiança dos traders VIP e deixe seus resultados inspirarem seu crescimento."
+        ],
+        "video": {
+            "src": "/videos/socialTrading3.mp4",
+            "poster": "/videos/socialTrading.jpg",
+            "aria": "A Qption permite que você replique as estratégias dos principais traders, igualando automaticamente suas negociações enquanto controla a porcentagem de investimento e define metas de lucro personalizadas para seu portfólio. Assim, você aproveita o conhecimento dos especialistas sem esforço constante. Abra sua conta agora e receba um bônus de 200% para turbinar suas primeiras operações com os melhores do mercado!"
+        },
+        "followUs": "Siga-nos em",
+        "social": {
+            "facebook": {
+                "label": "Facebook",
+                "handle": "facebook/qption",
+                "aria": "Qption no Facebook"
+            },
+            "twitter": {
+                "label": "Twitter",
+                "handle": "twitter/qption",
+                "aria": "Qption no Twitter/X"
+            },
+            "instagram": {
+                "label": "Instagram",
+                "handle": "instagram/qption",
+                "aria": "Qption no Instagram"
+            },
+            "youtube": {
+                "label": "YouTube",
+                "handle": "youtube/qption",
+                "aria": "Qption no YouTube"
+            }
+        }
+    }
+}

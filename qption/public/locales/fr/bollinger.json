@@ -1,0 +1,90 @@
+{
+    "seo": {
+        "title": "Stratégie des Bandes de Bollinger – Analyse Technique | Qption",
+        "description": "Maîtrisez le trading basé sur la volatilité avec les Bandes de Bollinger : configurations squeeze, renversements de surachat/survente et suivi de tendance — guide complet sur Qption.",
+        "keywords": "Bandes de Bollinger, analyse technique, squeeze, surachat, survente, suivi de tendance, volatilité, stratégie de trading, Qption",
+        "ogTitle": "Stratégie des Bandes de Bollinger – Analyse Technique | Qption",
+        "ogDescription": "Guide pratique pour utiliser les Bandes de Bollinger dans les configurations de squeeze, de renversement et de tendance continue.",
+        "url": "https://qption.com/technical-analysis/bollinger",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Stratégie de Trading"
+    },
+    "labels": {
+        "backToTechnical": "Analyse Technique",
+        "videoAria": "Les Bandes de Bollinger sont un outil d’analyse technique populaire pour mesurer la volatilité et détecter les conditions de surachat ou de survente."
+    },
+    "promo": {
+        "text": "Prêt à trader avec les Bandes de Bollinger ?",
+        "cta": "Commencer à Trader"
+    },
+    "hero": {
+        "title": "Stratégie des Bandes de Bollinger",
+        "subtitle": "Maîtrisez le trading basé sur la volatilité avec notre analyse complète des Bandes de Bollinger"
+    },
+    "overview": {
+        "title": "Aperçu",
+        "bullets": [
+            "Les Bandes de Bollinger mesurent la volatilité et identifient les conditions de surachat/survente.",
+            "Elles se composent d’une bande centrale (moyenne mobile sur 20 périodes) et de bandes supérieures/inférieures à plusieurs écarts-types.",
+            "Elles aident les traders à anticiper les mouvements de prix en analysant la relation entre prix et volatilité."
+        ]
+    },
+    "how": {
+        "title": "Comment Fonctionnent les Bandes de Bollinger",
+        "items": [
+            {
+                "title": "Bande Centrale",
+                "desc": "Une moyenne mobile (généralement 20 périodes) qui lisse les données de prix et indique la tendance dominante."
+            },
+            {
+                "title": "Bande Supérieure",
+                "desc": "Située 2 écarts-types au-dessus ; son franchissement peut indiquer une zone de surachat."
+            },
+            {
+                "title": "Bande Inférieure",
+                "desc": "Située 2 écarts-types en dessous ; son approche peut signaler une zone de survente."
+            },
+            {
+                "title": "Volatilité",
+                "desc": "Les bandes s’élargissent en forte volatilité et se contractent en période calme, souvent avant un changement de tendance."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Stratégies Clés",
+        "items": [
+            {
+                "title": "1. Squeeze des Bandes de Bollinger",
+                "points": [
+                    "Formation : Contraction des bandes → faible volatilité.",
+                    "Interprétation : Cassure haussière → continuation haussière ; cassure baissière → continuation baissière.",
+                    "Confirmation : Validez avec le volume ou d’autres indicateurs."
+                ]
+            },
+            {
+                "title": "2. Renversements Surachat/Survente",
+                "points": [
+                    "Surachat : Prix au-dessus de la bande supérieure → possible retournement baissier.",
+                    "Survente : Prix au-dessous de la bande inférieure → possible retournement haussier.",
+                    "Confirmation : Utilisez RSI ou oscillateurs similaires."
+                ]
+            },
+            {
+                "title": "3. Suivi de Tendance (« Riding the Bands »)",
+                "points": [
+                    "Signal : Prix longeant la bande supérieure = forte tendance haussière ; inférieure = tendance baissière.",
+                    "Entrée/Sortie : Utilisez la bande médiane comme stop dynamique."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limites",
+        "bullets": [
+            "Indicateur Retardé : Basé sur les prix passés.",
+            "Faux Signaux : Possible en marché instable ou sans tendance."
+        ]
+    }
+}

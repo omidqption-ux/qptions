@@ -1,0 +1,97 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "trade": "Trading",
+        "education": "Formación",
+        "pricing": "Precios",
+        "dashboard": "Panel",
+        "login": "Iniciar sesión",
+        "signup": "Crear cuenta",
+        "logout": "Cerrar sesión",
+        "language": "Idioma"
+    },
+    "hero": {
+        "title": "Opera de forma más inteligente con Qption",
+        "subtitle": "Gráficos en tiempo real, ejecución rápida y precios transparentes.",
+        "cta": "Empezar"
+    },
+    "auth": {
+        "email": "Correo electrónico",
+        "phone": "Teléfono",
+        "password": "Contraseña",
+        "confirmPassword": "Confirmar contraseña",
+        "login": "Iniciar sesión",
+        "signup": "Crear cuenta",
+        "forgot": "¿Olvidaste tu contraseña?",
+        "otp": "Ingresa el código de verificación",
+        "verify": "Verificar",
+        "or": "o"
+    },
+    "trade": {
+        "buy": "Comprar",
+        "sell": "Vender",
+        "openTrade": "Abrir operación",
+        "closeTrade": "Cerrar operación",
+        "amount": "Monto",
+        "balance": "Saldo",
+        "profitLoss": "P/G",
+        "timeframe": "Marco temporal",
+        "marketOpen": "El mercado está abierto",
+        "marketClosed": "El mercado está cerrado",
+        "mode": {
+            "live": "En vivo",
+            "demo": "Demo",
+            "real": "Real"
+        }
+    },
+    "chart": {
+        "loading": "Cargando gráfico…",
+        "indicators": "Indicadores",
+        "movingAverage": "Media móvil",
+        "bollingerBands": "Bandas de Bollinger",
+        "rsi": "RSI",
+        "alligator": "Alligator"
+    },
+    "wallet": {
+        "deposit": "Depósito",
+        "withdraw": "Retiro",
+        "address": "Dirección",
+        "copy": "Copiar",
+        "copied": "¡Copiado!",
+        "confirmations": "Confirmaciones",
+        "status": {
+            "waiting": "En espera",
+            "confirmed": "Confirmado",
+            "rejected": "Rechazado"
+        }
+    },
+    "kyc": {
+        "title": "Verificación de cuenta",
+        "uploadDoc": "Subir documentos",
+        "pending": "En revisión",
+        "approved": "Aprobado",
+        "rejected": "Rechazado"
+    },
+    "errors": {
+        "required": "Este campo es obligatorio",
+        "invalidEmail": "Correo no válido",
+        "network": "Error de red, inténtalo de nuevo",
+        "unknown": "Algo salió mal"
+    },
+    "common": {
+        "save": "Guardar",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar",
+        "back": "Atrás",
+        "next": "Siguiente",
+        "search": "Buscar",
+        "loading": "Cargando…",
+        "viewMore": "Ver más"
+    },
+    "footer": {
+        "rights": "Todos los derechos reservados."
+    },
+    "tryDemo": "Probar demo",
+    "registration": "Registro",
+    "clientCabinet": "Panel del cliente"
+}

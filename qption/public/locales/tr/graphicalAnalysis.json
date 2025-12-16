@@ -1,0 +1,51 @@
+{
+    "seo": {
+        "title": "Grafik Analiz – Etkileşimli grafikler ve formasyon tarayıcı | Qption",
+        "description": "Qption’ın grafik analiz paketine dal: çoklu varlık grafikleri, otomatik formasyon tespiti ve forex, kripto, endeksler için gerçek zamanlı çizim araçları.",
+        "keywords": "grafik analiz, interaktif grafikler, grafik formasyonları, üçgen formasyonu, omuz baş omuz, trend çizgileri, forex grafikleri, kripto grafikleri, Qption araçları",
+        "ogTitle": "Grafik Analiz – Etkileşimli grafikler ve formasyon tarayıcı | Qption",
+        "ogDescription": "Qption’ın otomatik formasyon tarayıcısı ve gelişmiş çizim araçlarıyla wedge, kanal, breakout’ları saniyeler içinde yakalayın.",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Grafik Analiz – Etkileşimli grafikler ve formasyon tarayıcı | Qption",
+        "twitterDescription": "Gördüğünü trade et: Qption’ın canlı grafikleri ve pattern tanıyan yapay zekâsıyla giriş/çıkışlarını teyit et.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/graphical-analysis"
+    },
+    "page": {
+        "title": "Grafik Analiz",
+        "subtitle": "Dinamik grafikler, formasyon tanıma ve görsel trendlerle fiyat aksiyonunu çöz; her hareketi netlik ve özgüvenle trade et."
+    },
+    "ui": {
+        "learnMore": "Daha Fazla Bilgi"
+    },
+    "cards": {
+        "movingAverage": {
+            "title": "Hareketli Ortalama Göstergesi"
+        },
+        "fibonacciElliott": {
+            "title": "Fibonacci Düzeltmeleri ve Elliott Dalga"
+        },
+        "reversal": {
+            "title": "Trend Tersine Dönüş Formasyonları"
+        },
+        "trendContinuation": {
+            "title": "Trend Devam Formasyonları"
+        },
+        "graphicalAnalysis": {
+            "title": "Grafik Analiz"
+        }
+    },
+    "video": {
+        "aria": "Teknik analiz, fiyat grafiklerini, formasyonları ve göstergeleri kullanarak gelecekteki fiyat hareketlerini öngörür."
+    },
+    "cta": {
+        "takeQuiz": "Grafik analiz quiz’ini çöz"
+    },
+    "bullets": [
+        "Grafik analiz, fiyat davranışını grafikler, görsel formasyonlar ve çizim araçlarıyla inceleyip olası piyasa hareketlerini öngörür.",
+        "Trend çizgileri, destek/direnç, hacim profilleri ve overlay’ler gibi görsel sinyalleri vurgular; momentum değişimini ve giriş/çıkış zamanlamasını netleştirir.",
+        "Trader’lar grafik analizi hisse, kripto, forex ve emtialarda hızlı ve net kararlar için uygular."
+    ]
+}

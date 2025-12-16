@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Resumen de Análisis Técnico | Qption",
+        "description": "Domina el arte del análisis de mercado con nuestra guía completa de análisis técnico — conceptos clave, indicadores populares y sus limitaciones.",
+        "keywords": "análisis técnico, acción del precio, indicadores, tendencia, soporte y resistencia, RSI, medias móviles, bandas de Bollinger, educación en trading, Qption",
+        "ogTitle": "Resumen de Análisis Técnico | Qption",
+        "ogDescription": "Guía práctica sobre análisis técnico: tendencias, soporte y resistencia, y principales indicadores.",
+        "url": "https://qption.com/es/technical-analysis/technical",
+        "image": "https://qption.com/images/og/technical-overview-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Análisis Técnico"
+    },
+    "promo": {
+        "text": "¿Listo para dominar el análisis técnico?",
+        "cta": "Comienza a aprender"
+    },
+    "hero": {
+        "title": "Resumen de Análisis Técnico",
+        "subtitle": "Aprende a analizar los mercados con nuestra guía completa de análisis técnico"
+    },
+    "overview": {
+        "title": "Resumen",
+        "bullets": [
+            "El análisis técnico es una disciplina de trading que utiliza gráficos, patrones e indicadores para predecir movimientos futuros de precios.",
+            "Se centra en los datos históricos de precios y volúmenes para identificar tendencias y puntos de entrada/salida.",
+            "Es ampliamente utilizado en los mercados de acciones, forex, criptomonedas y materias primas."
+        ]
+    },
+    "core": {
+        "title": "Conceptos Fundamentales",
+        "items": [
+            {
+                "title": "Tendencias de Precios",
+                "desc": "Los precios se mueven en tendencias — alcistas, bajistas o laterales — hasta que ocurre una reversión."
+            },
+            {
+                "title": "Soporte y Resistencia",
+                "desc": "Niveles clave donde el precio puede detenerse o revertir. El soporte es el piso y la resistencia es el techo del precio."
+            },
+            {
+                "title": "Ciclos de Mercado",
+                "desc": "Los precios se mueven en ciclos impulsados por la psicología de los inversores y las condiciones del mercado."
+            }
+        ]
+    },
+    "indicators": {
+        "title": "Indicadores Populares",
+        "items": [
+            {
+                "title": "Medias Móviles",
+                "points": [
+                    "Suavizan los datos de precios para identificar la dirección de la tendencia y posibles puntos de reversión.",
+                    "Incluyen la media móvil simple (SMA) y la media móvil exponencial (EMA)."
+                ]
+            },
+            {
+                "title": "Índice de Fuerza Relativa (RSI)",
+                "points": [
+                    "El RSI mide la velocidad y el cambio de los movimientos de precios.",
+                    "Valores por encima de 70 indican sobrecompra; por debajo de 30 indican sobreventa."
+                ]
+            },
+            {
+                "title": "Bandas de Bollinger",
+                "points": [
+                    "Usan una media móvil con bandas superior e inferior para medir la volatilidad.",
+                    "Cuando las bandas se amplían, la volatilidad es alta; cuando se estrechan, es baja."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitaciones",
+        "bullets": [
+            "Se basa en datos históricos que pueden no reflejar con precisión los movimientos futuros.",
+            "Puede generar señales falsas en mercados laterales.",
+            "Requiere experiencia para interpretar correctamente los indicadores contradictorios."
+        ]
+    }
+}

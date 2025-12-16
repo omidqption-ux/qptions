@@ -1,0 +1,106 @@
+{
+    "seo": {
+        "title": "Strategia Martingale – Raddoppio della Posizione & Controlli di Rischio | Qption",
+        "description": "Comprendi la strategia Martingale: come funziona il raddoppio dopo le perdite, esempi pratici, controlli e limiti di rischio, pro/contro e alternative più sicure per trader sistematici.",
+        "keywords": "Martingale, strategia martingale, dimensionamento posizione, raddoppio, gestione del rischio, recupero perdite, anti-martingale, limiti di posizione, strategia di trading, Qption",
+        "ogAlt": "Strategia Martingale con scala di raddoppio della posizione",
+        "ld": {
+            "headline": "Strategia Martingale – Raddoppio della Posizione & Controlli di Rischio"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Strategia di trading"
+    },
+    "cta": {
+        "ready": "Pronto per fare trading?",
+        "startTrading": "Inizia a fare trading"
+    },
+    "hero": {
+        "title": "La Strategia Martingale: Panoramica",
+        "p1": "Ogni trader, principiante o esperto, sogna una strategia che generi profitti in modo costante. Un metodo, radicato nella teoria della probabilità e risalente al XVIII secolo, è la strategia Martingale. Pur nata per i giochi d’azzardo, è stata adattata ai mercati finanziari e rimane popolare tra i trader.",
+        "p2": "Per aiutarti a comprendere rapidamente la Martingale, abbiamo creato una guida interattiva. Applicandola su Qption, imparerai ad analizzare i movimenti di prezzo, individuare punti di ingresso/uscita e gestire il rischio in modo efficace — puntando a profitti più consistenti."
+    },
+    "video": {
+        "aria": "La strategia Martingale è ampiamente usata sia nel trading sia nel gioco d’azzardo. Molti trader su Qption la conoscono perché prevede l’aumento progressivo delle posizioni (mediazione o scalata). L’idea centrale è raddoppiare la dimensione dopo una perdita per recuperare le perdite e ottenere un profitto netto."
+    },
+    "what": {
+        "title": "Che cos’è la Strategia Martingale?",
+        "p1": "La Martingale è un sistema in cui il trader raddoppia la dimensione della posizione dopo un’operazione in perdita. L’idea è che, quando arriva una operazione vincente, il profitto recuperi tutte le perdite precedenti e aggiunga un piccolo guadagno. Sebbene semplice, un’applicazione errata può portare a forti drawdown. Usata con saggezza e con una corretta gestione del rischio, può risultare potente."
+    },
+    "how": {
+        "title": "Come Funziona la Strategia Martingale",
+        "p1": "Il concetto Martingale nasce dai giochi come la roulette, dove si raddoppia la puntata dopo ogni perdita su un esito 50/50 (es. rosso/nero). Per esempio, se inizi con 1 $ e perdi, la puntata successiva diventa 2 $. Quando vinci, recuperi tutte le perdite precedenti e ottieni 1 $ netto.",
+        "p2": "Nel trading, le puntate diventano posizioni long/short. Se il prezzo va contro di te, apri una posizione più grande dopo un determinato scarto di prezzo, riducendo la distanza necessaria al break-even. Tuttavia, se il prezzo continua nella direzione opposta, le perdite crescono in modo esponenziale: servono quindi limiti chiari e controllo del capitale."
+    },
+    "apply": {
+        "title": "Applicare la Martingale su Qption",
+        "p1": "Su Qption, la Martingale si implementa facilmente: se il prezzo si muove di 100 punti contro la posizione iniziale, apri una seconda posizione più grande. A quel punto sarà sufficiente un movimento più piccolo per tornare in pareggio. Ad esempio, se acquisti e il prezzo scende di 100 punti, raddoppia la posizione: un rimbalzo di 50 punti può recuperare entrambe le operazioni.",
+        "p2": "Ogni posizione aggiuntiva aumenta l’esposizione e il rischio. Combina sempre la Martingale con un’analisi di mercato solida — concentrati su direzione del trend, struttura e timing per limitare le perdite.",
+        "p3": "Questa strategia rende meglio in mercati in trend con piccoli pullback. Coppie come AUD/USD e NZD/USD spesso offrono condizioni più regolari, mentre coppie molto volatili come GBP/JPY possono generare movimenti ampi e rapidi che rendono la Martingale rischiosa."
+    },
+    "consider": {
+        "title": "Strategia Martingale: Considerazioni e Spunti Chiave",
+        "items": {
+            "1": {
+                "h": "Applicazione Selettiva",
+                "p": "Non tutti i mercati sono adatti alla Martingale. In fasi laterali o molto volatili può generare perdite rapide. Focalizzati su mercati in trend con rimbalzi/pullback prevedibili."
+            },
+            "2": {
+                "h": "Dimensionamento Controllato",
+                "p": "Parti con una posizione iniziale piccola. Raddoppiare troppo in fretta può esaurire il capitale: usa size gestibili e conserva riserve per ingressi successivi."
+            },
+            "3": {
+                "h": "Definisci Limiti Chiari",
+                "p": "Senza limiti, la Martingale può produrre perdite elevate. Stabilisci un numero massimo di trade o una percentuale di rischio rigorosa per proteggere il conto."
+            },
+            "4": {
+                "h": "Combina con l’Analisi di Mercato",
+                "p": "Usa strumenti tecnici come medie mobili o supporti/resistenze per migliorare la precisione. Entrare su zone chiave aumenta le probabilità di rimbalzo e riduce la frequenza dei raddoppi."
+            },
+            "5": {
+                "h": "Adatta alle Condizioni di Mercato",
+                "p": "La Martingale performa meglio in trend stabili o oscillazioni prevedibili. Evita release macro o eventi di alta volatilità che possono produrre inversioni brusche."
+            },
+            "6": {
+                "h": "Usa Stop e Gestisci l’Emotività",
+                "p": "Raddoppiare le posizioni è stressante. Mantieni disciplina — imposta stop e piani di uscita per evitare decisioni emotive."
+            }
+        }
+    },
+    "steps": {
+        "title": "Guida Step-by-Step all’Uso della Martingale su Qption",
+        "lead": "Per usare efficacemente la Martingale, segui questi passaggi:",
+        "items": {
+            "1": {
+                "h": "Scegli una Coppia Valutaria",
+                "p": "Seleziona una coppia con movimenti relativamente stabili e prevedibili."
+            },
+            "2": {
+                "h": "Identifica la Direzione del Trend",
+                "p": "Usa indicatori come le Medie Mobili per allinearti al trend prevalente."
+            },
+            "3": {
+                "h": "Trova il Punto di Ingresso",
+                "p": "Attendi condizioni favorevoli in linea con il tuo piano di trading."
+            },
+            "4": {
+                "h": "Imposta la Size Minima",
+                "p": "Parti in piccolo per mantenere flessibilità negli incrementi successivi."
+            },
+            "5": {
+                "h": "Entra in Direzione del Trend",
+                "p": "Opera con il trend dominante per aumentare la probabilità di successo."
+            },
+            "6": {
+                "h": "Raddoppia dopo le Perdite",
+                "p": "Se un trade va contro, apri una nuova posizione con size doppia rispetto alla precedente."
+            },
+            "7": {
+                "h": "Torna alla Size Minima dopo le Vittorie",
+                "p": "Dopo un’operazione vincente, reimposta la size iniziale di base."
+            }
+        },
+        "p1": "Applicata con disciplina, la Martingale può essere un modo strutturato per far crescere il capitale, ma la gestione del rischio resta critica — è un approccio aggressivo.",
+        "p2": "Guarda il nostro breve video dimostrativo su Qption. Ricorda sempre: nessuna strategia è priva di rischio. Valuta la tua tolleranza e gestisci con cura l’esposizione."
+    }
+}

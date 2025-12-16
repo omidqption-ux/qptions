@@ -1,0 +1,293 @@
+{
+    "seo": {
+        "title": "Quiz de Análise Gráfica – Tendências, Suporte e Resistência, Padrões e Velas | Qption",
+        "description": "Teste suas habilidades de leitura de gráficos com o Quiz de Análise Gráfica da Qption. Avalie seu entendimento sobre tendências, suporte e resistência, Fibonacci, Ondas de Elliott e padrões de continuação e reversão.",
+        "keywords": "quiz análise gráfica, análise técnica, padrões gráficos, suporte e resistência, Fibonacci, ondas de Elliott, cabeça e ombros, bandeiras, triângulos, continuação de tendência, reversão, Qption",
+        "ogTitle": "Quiz de Análise Gráfica – Tendências, Suporte e Resistência, Padrões e Velas | Qption",
+        "ogDescription": "Desafie-se com perguntas interativas sobre tendências, S/R, Fibonacci, Elliott e padrões de continuação e reversão.",
+        "url": "https://qption.com/pt/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Quiz de Análise Gráfica – Qption",
+        "twitterDescription": "Coloque à prova suas habilidades de leitura de gráficos com o Quiz de Análise Gráfica da Qption.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/pt/graphical-analysis"
+    },
+    "page": {
+        "title": "Análise Gráfica",
+        "subtitle": "Desafie suas habilidades de leitura de gráficos com o Quiz Interativo de Análise Gráfica — teste seu conhecimento sobre linhas de tendência, suporte/resistência, conceitos de Fibonacci e Elliott, e padrões de continuação e reversão para se tornar um trader mais confiante e visual."
+    },
+    "quiz": {
+        "header": "Quiz de Análise Gráfica",
+        "progress": "Pergunta {{current}} de {{total}}",
+        "correct": "Correto ✅",
+        "incorrect": "Não exatamente ⚠️",
+        "selectHint": "Selecione uma opção e envie sua resposta.",
+        "learnMore": "Saiba mais ↗"
+    },
+    "ui": {
+        "previous": "Anterior",
+        "submit": "Enviar",
+        "finish": "Finalizar",
+        "next": "Próxima",
+        "newRandom": "Novo Quiz Aleatório (10)",
+        "loading": "Carregando perguntas…"
+    },
+    "results": {
+        "score": "Pontuação: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Excelente! Suas habilidades de leitura de gráficos são excepcionais.",
+            "good": "Bom trabalho! Continue praticando para melhorar ainda mais.",
+            "retry": "Bom começo — revise as lições e tente novamente."
+        }
+    },
+    "pool": [
+        {
+            "q": "Na análise gráfica, uma média móvel ascendente normalmente indica:",
+            "options": [
+                "Condições de consolidação",
+                "Tendência de baixa",
+                "Tendência de alta",
+                "Sem sinal"
+            ],
+            "correct": "Tendência de alta",
+            "explain": "A inclinação e a posição do preço em relação à média ajudam a definir a direção geral do mercado rapidamente.",
+            "source": "https://qption.com/pt/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Uma maneira comum de usar médias móveis como suporte/resistência dinâmico é:",
+            "options": [
+                "Esperar o preço ignorá-las",
+                "Buscar recuos até a média na direção da tendência para continuação",
+                "Operar contra cada toque na média, sem contexto",
+                "Usá-las apenas em gráficos anuais"
+            ],
+            "correct": "Buscar recuos até a média na direção da tendência para continuação",
+            "explain": "Recuos até as médias durante uma tendência oferecem estrutura para entradas de continuação com risco controlado.",
+            "source": "https://qption.com/pt/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Comparada a uma SMA, uma EMA é geralmente:",
+            "options": [
+                "Mais lenta para reagir",
+                "Com a mesma velocidade",
+                "Mais rápida para reagir",
+                "Não é uma média móvel"
+            ],
+            "correct": "Mais rápida para reagir",
+            "explain": "As EMAs dão mais peso aos dados recentes, reagindo mais rapidamente às mudanças de preço do que as SMAs.",
+            "source": "https://qption.com/pt/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Um cruzamento de alta básico ocorre quando:",
+            "options": [
+                "A média mais longa cruza acima da média curta",
+                "A média curta cruza acima da média longa",
+                "O preço cai abaixo de ambas as médias",
+                "Ambas as médias estão planas"
+            ],
+            "correct": "A média curta cruza acima da média longa",
+            "explain": "O cruzamento da média curta sobre a longa pode indicar mudança de momento (ainda que seja um sinal atrasado).",
+            "source": "https://qption.com/pt/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Uma faixa de retração de Fibonacci amplamente observada é:",
+            "options": [
+                "5%–10%",
+                "23.6%–33.3%",
+                "38.2%–50%–61.8%",
+                "70%–80%"
+            ],
+            "correct": "38.2%–50%–61.8%",
+            "explain": "Esses níveis de Fibonacci são usados para identificar possíveis áreas de reação dentro das tendências.",
+            "source": "https://qption.com/pt/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "Confluência de Fibonacci significa:",
+            "options": [
+                "Um único nível de um único período gráfico",
+                "Vários níveis/estruturas de Fibonacci se sobrepondo na mesma área",
+                "Ignorar estrutura e volume",
+                "Usar apenas extensões"
+            ],
+            "correct": "Vários níveis/estruturas de Fibonacci se sobrepondo na mesma área",
+            "explain": "A confluência (por exemplo, 61.8% + suporte anterior + média móvel) reforça a importância de uma zona.",
+            "source": "https://qption.com/pt/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "Em uma estrutura clássica de impulso de Elliott, a contagem típica é:",
+            "options": [
+                "3 de alta, 2 de baixa",
+                "5 ondas de impulso e 3 de correção",
+                "7 ondas aleatórias",
+                "Apenas 2 ondas"
+            ],
+            "correct": "5 ondas de impulso e 3 de correção",
+            "explain": "Estrutura padrão: cinco ondas na direção da tendência (1–5) seguidas por uma correção ABC.",
+            "source": "https://qption.com/pt/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "Uma diretriz comum de Elliott é que em um impulso:",
+            "options": [
+                "A onda 3 é geralmente a mais curta",
+                "A onda 4 normalmente se sobrepõe à onda 1",
+                "A onda 3 é geralmente a mais longa (não a mais curta)",
+                "As ondas devem ter a mesma duração"
+            ],
+            "correct": "A onda 3 é geralmente a mais longa (não a mais curta)",
+            "explain": "A terceira onda normalmente carrega o maior impulso e não deve ser a mais curta entre 1, 3 e 5.",
+            "source": "https://qption.com/pt/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "Um padrão de Topo de Cabeça e Ombros geralmente é confirmado quando:",
+            "options": [
+                "O ombro direito é formado",
+                "O preço rompe a linha do pescoço com confirmação",
+                "O volume cai no ombro esquerdo",
+                "Aparece um doji qualquer"
+            ],
+            "correct": "O preço rompe a linha do pescoço com confirmação",
+            "explain": "Rompimentos da linha do pescoço (idealmente com volume) confirmam a estrutura de reversão.",
+            "source": "https://qption.com/pt/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Fundos duplos são mais confiáveis quando:",
+            "options": [
+                "Se formam apenas em fortes tendências de alta",
+                "Vêm acompanhados de divergência de alta ou recuperação forte",
+                "Acontecem sem movimento de queda anterior",
+                "Ignoram completamente o volume"
+            ],
+            "correct": "Vêm acompanhados de divergência de alta ou recuperação forte",
+            "explain": "A confirmação de momentum ou a recuperação estrutural aumenta a probabilidade de reversão.",
+            "source": "https://qption.com/pt/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Um sinal de reversão de baixa em resistência pode ser:",
+            "options": [
+                "Rompimento para baixo de um wedge ascendente",
+                "Rompimento de bandeira de alta",
+                "Continuação de triângulo ascendente",
+                "Recuo até a média móvel em tendência de alta"
+            ],
+            "correct": "Rompimento para baixo de um wedge ascendente",
+            "explain": "Wedges próximos da resistência que rompem para baixo podem antecipar correções mais profundas ou reversões.",
+            "source": "https://qption.com/pt/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Bandeiras e flâmulas são geralmente consideradas:",
+            "options": [
+                "Padrões de fundo",
+                "Padrões de topo",
+                "Padrões de continuação",
+                "Indicadores de volume"
+            ],
+            "correct": "Padrões de continuação",
+            "explain": "Consolidações curtas que geralmente continuam na direção do impulso anterior.",
+            "source": "https://qption.com/pt/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Um triângulo ascendente tende a romper:",
+            "options": [
+                "Para baixo",
+                "Para cima, com compradores pressionando uma resistência horizontal",
+                "Lateralmente para sempre",
+                "De forma aleatória"
+            ],
+            "correct": "Para cima, com compradores pressionando uma resistência horizontal",
+            "explain": "Mínimos ascendentes contra resistência plana indicam pressão de compra crescente para um rompimento para cima.",
+            "source": "https://qption.com/pt/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Uma consolidação retangular (faixa) geralmente se resolve:",
+            "options": [
+                "Apenas para baixo",
+                "Apenas para cima",
+                "Em qualquer direção — observe o rompimento e o reteste",
+                "Sempre em reversão"
+            ],
+            "correct": "Em qualquer direção — observe o rompimento e o reteste",
+            "explain": "As faixas são estruturas neutras; o contexto, o volume e o comportamento do rompimento determinam o viés.",
+            "source": "https://qption.com/pt/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Um alvo de movimento medido em uma bandeira/flâmula é frequentemente estimado por:",
+            "options": [
+                "Altura do impulso anterior projetada a partir do rompimento",
+                "Número aleatório de pips",
+                "Apenas tempo de Fibonacci",
+                "Valor da SMA"
+            ],
+            "correct": "Altura do impulso anterior projetada a partir do rompimento",
+            "explain": "A altura do mastro é frequentemente projetada a partir do ponto de rompimento como alvo inicial.",
+            "source": "https://qption.com/pt/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "A análise gráfica enfatiza:",
+            "options": [
+                "Estruturas visuais como tendências, S/R, padrões e níveis",
+                "Apenas matemática de indicadores",
+                "Notícias exclusivamente",
+                "Ignorar múltiplos períodos de tempo"
+            ],
+            "correct": "Estruturas visuais como tendências, S/R, padrões e níveis",
+            "explain": "Prioriza a estrutura do gráfico, o contexto e o comportamento do preço para orientar decisões.",
+            "source": "https://qption.com/pt/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Uma boa prática é alinhar as entradas com:",
+            "options": [
+                "A tendência e os níveis-chave de um período superior",
+                "Um horário aleatório do dia",
+                "A leitura de um único indicador",
+                "Sem stop loss"
+            ],
+            "correct": "A tendência e os níveis-chave de um período superior",
+            "explain": "A confluência de múltiplos períodos aumenta as chances de sucesso e clareza na execução.",
+            "source": "https://qption.com/pt/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "O que ajuda a reduzir falsos rompimentos em padrões?",
+            "options": [
+                "Entrar no primeiro toque do nível sempre",
+                "Esperar fechamento/confirmação além do nível e/ou reteste",
+                "Ignorar volume e contexto",
+                "Operar sem invalidação"
+            ],
+            "correct": "Esperar fechamento/confirmação além do nível e/ou reteste",
+            "explain": "Rompimentos confirmados e retestes oferecem evidências mais fortes do que movimentos momentâneos.",
+            "source": "https://qption.com/pt/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Stops são melhor posicionados:",
+            "options": [
+                "Dentro da estrutura que você está operando",
+                "Além da estrutura de invalidação (acima/abaixo dos extremos do padrão)",
+                "Exatamente em números redondos",
+                "Em lugar nenhum — stops não são necessários"
+            ],
+            "correct": "Além da estrutura de invalidação (acima/abaixo dos extremos do padrão)",
+            "explain": "Stops baseados em estrutura definem o risco e esclarecem quando a ideia está errada.",
+            "source": "https://qption.com/pt/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        }
+    ]
+}

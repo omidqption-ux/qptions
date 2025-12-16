@@ -1,0 +1,131 @@
+{
+    "seo": {
+        "title": "Trading Sözlüğü – Temel terimler ve kavramlar | Qption",
+        "description": "Bid/ask, boğa & ayı piyasaları, volatilite, likidite, destek/direnç, trend çizgileri, korelasyon ve daha fazlası için açık, anlaşılır tanımlar.",
+        "keywords": "trading sözlük, trading terimleri, alış, satış, boğa piyasası, ayı piyasası, volatilite, likidite, destek, direnç, korelasyon, trend çizgisi, Qption",
+        "ogTitle": "Trading Sözlüğü – Temel terimler ve kavramlar | Qption",
+        "ogDescription": "Qption’ın sözlüğü ile piyasa dilini öğrenin: temel trading kavramları için sade tanımlar ve örnekler.",
+        "url": "https://qption.com/glossary",
+        "image": "https://qption.com/images/og/glossary-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Trading Sözlüğü – Temel terimler ve kavramlar | Qption",
+        "twitterDescription": "Temel trading tanımları, hızlı öğrenim ve daha iyi kararlar için basitçe açıklanıyor.",
+        "twitterImage": "https://qption.com/images/og/glossary-qption.jpg",
+        "canonical": "https://qption.com/glossary"
+    },
+    "hero": {
+        "title": "Temel Trading Terimleri ve Kavramları"
+    },
+    "terms": [
+        {
+            "key": "ask",
+            "title": "Ask (Satış fiyatı)",
+            "desc": "Bir varlığı şu an satın alabileceğiniz piyasa fiyatı."
+        },
+        {
+            "key": "bull",
+            "title": "Boğa",
+            "desc": "Fiyatların yükseleceğini düşünen ve ileride daha yüksekten satmak için alan trader/yatırımcı."
+        },
+        {
+            "key": "bullMarket",
+            "title": "Boğa Piyasası",
+            "desc": "Genel fiyat artışları ve pozitif hissiyatla karakterize piyasa ortamı; grafiklerde yukarı yönlü hareket olarak görülür."
+        },
+        {
+            "key": "return",
+            "title": "Getiri",
+            "desc": "Bir pozisyondan elde ettiğiniz ödeme veya yüzde. Qption gibi platformlarda, kaybedilen işlemde bile varlık başına konfigüre edildiği ölçüde yatırılan tutarın %45’ine kadar iade alınabilir. Getiri oranı satın alım anında belirlenir."
+        },
+        {
+            "key": "volatility",
+            "title": "Volatilite",
+            "desc": "Belirli bir dönemdeki fiyat dalgalanma derecesi. Yüksek volatilite daha büyük ve hızlı fiyat hareketleri demektir."
+        },
+        {
+            "key": "deposit",
+            "title": "Teminat (Deposit)",
+            "desc": "İşlem hesabında bulunan ve pozisyon açıp yönetmek için kullanılabilen fonlar."
+        },
+        {
+            "key": "diversification",
+            "title": "Çeşitlendirme",
+            "desc": "Sermayeyi farklı varlık veya piyasalara yayarak tek bir pozisyona olan maruziyeti azaltmayı amaçlayan risk yönetimi yaklaşımı."
+        },
+        {
+            "key": "indicator",
+            "title": "Gösterge (Indicator)",
+            "desc": "Fiyat/hacim verilerinden türetilen teknik analiz aracı; trend, momentum veya volatiliteyi değerlendirerek işlem kararlarına yardımcı olur."
+        },
+        {
+            "key": "bid",
+            "title": "Bid (Alış fiyatı)",
+            "desc": "Bir varlığı şu an satabileceğiniz piyasa fiyatı."
+        },
+        {
+            "key": "priceCorridor",
+            "title": "Fiyat Koridoru",
+            "desc": "Destek (alt sınır) ve direnç (üst sınır) tarafından belirlenen ve fiyatın bu aralıkta hareket ettiği grafik bölgesi."
+        },
+        {
+            "key": "correction",
+            "title": "Düzeltme",
+            "desc": "Güçlü bir yükseliş veya düşüşün bir kısmını geri alan geçici karşıt hareket; ardından önceki trend yeniden devam edebilir."
+        },
+        {
+            "key": "correlation",
+            "title": "Korelasyon",
+            "desc": "İki varlığın birbirine göre nasıl hareket ettiğini ölçer; −1 (ters), +1 (aynı yönde). Örnek: EUR/USD ve GBP/USD genellikle benzer yönlerde hareket eder."
+        },
+        {
+            "key": "liquidity",
+            "title": "Likidite",
+            "desc": "Bir varlığın fiyatı önemli ölçüde hareket ettirilmeden ne kadar kolay alınıp satılabildiği. Yüksek işlem hacmi genelde daha fazla likidite demektir."
+        },
+        {
+            "key": "supportLine",
+            "title": "Destek Çizgisi",
+            "desc": "Geçmişte alıcı ilgisinin ortaya çıktığı ve düşüşleri sınırlamaya yardımcı olan fiyat bölgesi."
+        },
+        {
+            "key": "resistanceLine",
+            "title": "Direnç Çizgisi",
+            "desc": "Satıcı ilgisinin belirdiği ve yükselişleri sınırlamaya yardımcı olan fiyat bölgesi."
+        },
+        {
+            "key": "trendLine",
+            "title": "Trend Çizgisi",
+            "desc": "Yükselen trendde ardışık daha yüksek dipleri (destek), düşen trendde daha düşük tepeleri (direnç) birleştirerek trend yönünü gösteren çizgi."
+        },
+        {
+            "key": "bear",
+            "title": "Ayı",
+            "desc": "Fiyatların düşeceğini düşünen ve gerilemelerden kazanç arayan trader/yatırımcı."
+        },
+        {
+            "key": "bearMarket",
+            "title": "Ayı Piyasası",
+            "desc": "Uzun süreli genel fiyat düşüşü ve negatif hissiyatla karakterize piyasa; grafiklerde kalıcı düşüş trendleri olarak görülür."
+        },
+        {
+            "key": "bearRaid",
+            "title": "Ayı Baskını",
+            "desc": "Tüccarların yoğun satışla bir varlığın fiyatını aşağı itmeye yönelik koordineli girişimi."
+        },
+        {
+            "key": "traderSentiment",
+            "title": "Trader Duyarlılığı",
+            "desc": "Piyasa katılımcılarının genel eğilimini (ör. long vs short oranları) yansıtan gösterge."
+        },
+        {
+            "key": "bar",
+            "title": "Bar",
+            "desc": "Belirli bir zaman dilimi için açılış, yüksek, düşük ve kapanış (OHLC) değerlerini gösteren grafik elemanı; bar grafiklerinde kullanılır."
+        },
+        {
+            "key": "bonus",
+            "title": "Bonus",
+            "desc": "Platform tarafından (promosyon veya depozito teşviki olarak) tanımlı koşullarla verilen ek fon; belirli şartlar altında trade için kullanılabilir."
+        }
+    ]
+}

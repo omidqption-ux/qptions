@@ -1,0 +1,89 @@
+{
+    "seo": {
+        "title": "Indicatori economici e reazioni di mercato – PIL, CPI, occupazione, PPI e altro | Qption",
+        "description": "Comprendi i principali indicatori economici (PIL, CPI, occupazione, vendite al dettaglio, PPI, bilancia commerciale) e come i mercati reagiscono su azioni, obbligazioni, valute e materie prime.",
+        "keywords": "indicatori economici, PIL, CPI, PPI, occupazione, vendite al dettaglio, bilancia commerciale, reazioni di mercato, azioni, obbligazioni, forex, materie prime, politica monetaria, analisi fondamentale, Qption",
+        "ogTitle": "Indicatori economici e reazioni di mercato – PIL, CPI, occupazione, PPI e altro | Qption",
+        "ogDescription": "Scopri come PIL, CPI, occupazione e PPI influenzano azioni, obbligazioni, valute e materie prime — e come i trader li utilizzano.",
+        "url": "https://qption.com/it/fundamental-analysis/economic-indicators-market-reactions",
+        "image": "https://qption.com/images/og/economic-indicators-market-reactions.jpg"
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analisi fondamentale"
+    },
+    "page": {
+        "title": "Indicatori economici e reazioni di mercato"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "startTrading": "Inizia a fare trading"
+    },
+    "sections": {
+        "overview": {
+            "title": "Panoramica",
+            "bullets": [
+                "Gli indicatori economici sono misure statistiche che riflettono lo stato dell’economia, aiutando i trader a valutare crescita, inflazione e occupazione.",
+                "Le reazioni di mercato a queste pubblicazioni possono essere significative, muovendo prezzi su azioni, obbligazioni, valute e materie prime.",
+                "Conoscere gli indicatori chiave aiuta i trader ad anticipare i movimenti e allineare le strategie alle tendenze macroeconomiche."
+            ]
+        },
+        "keyIndicators": {
+            "title": "Principali indicatori economici",
+            "items": {
+                "gdp": "Prodotto Interno Lordo (PIL): Misura la produzione totale di un’economia; un aumento indica crescita, una diminuzione indica contrazione.",
+                "cpi": "Indice dei Prezzi al Consumo (CPI): Misura i cambiamenti nei prezzi di beni e servizi — principale indicatore dell’inflazione.",
+                "employment": "Dati sull’occupazione: includono tasso di disoccupazione e buste paga non agricole, fornendo informazioni sul mercato del lavoro.",
+                "retailSales": "Vendite al dettaglio: Indicatore della spesa dei consumatori; vendite elevate mostrano fiducia, vendite basse segnalano debolezza.",
+                "ppi": "Indice dei Prezzi alla Produzione (PPI): Misura le variazioni dei prezzi alla produzione e può anticipare l’inflazione dei consumatori.",
+                "tradeBalance": "Bilancia commerciale: La differenza tra esportazioni e importazioni influenza la forza della valuta — gli avanzi la rafforzano, i disavanzi la indeboliscono."
+            }
+        },
+        "reactions": {
+            "title": "Reazioni del mercato agli indicatori economici",
+            "stocks": {
+                "title": "1. Mercati azionari",
+                "bullets": [
+                    "Dati positivi (come PIL in crescita o forte occupazione) aumentano l’appetito per il rischio e sostengono i mercati azionari.",
+                    "Alta inflazione o crescita in rallentamento possono pesare sulle azioni a causa di aspettative di politiche restrittive."
+                ]
+            },
+            "bonds": {
+                "title": "2. Mercati obbligazionari",
+                "bullets": [
+                    "Dati forti fanno salire i rendimenti (e scendere i prezzi) poiché i mercati anticipano rialzi dei tassi.",
+                    "Dati deboli fanno scendere i rendimenti (e salire i prezzi) poiché gli investitori cercano sicurezza e le banche centrali diventano più accomodanti."
+                ]
+            },
+            "fx": {
+                "title": "3. Mercati valutari (Forex)",
+                "bullets": [
+                    "Indicatori forti (PIL o occupazione) sostengono la valuta grazie a tassi attesi più elevati e afflussi di capitale.",
+                    "Dati deboli indeboliscono la valuta riducendone l’attrattiva."
+                ]
+            },
+            "cmd": {
+                "title": "4. Mercati delle materie prime",
+                "bullets": [
+                    "Una crescita più forte aumenta la domanda di materie prime come petrolio e metalli.",
+                    "Dati deboli riducono la domanda e fanno scendere i prezzi."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Vantaggi del monitoraggio degli indicatori economici",
+            "bullets": [
+                "Anticipare le tendenze di mercato: Utilizzare le condizioni macro per prevedere i movimenti dei prezzi.",
+                "Decisioni d’investimento più informate: Basare le scelte su dati concreti e aggiornati.",
+                "Valutare la salute economica: Un quadro macro più chiaro aiuta a gestire meglio il rischio."
+            ]
+        },
+        "limitations": {
+            "title": "Limiti dell’affidarsi agli indicatori economici",
+            "bullets": [
+                "Natura ritardata: Alcuni indicatori (come il PIL) riflettono il passato e non lo stato attuale.",
+                "Rischio di volatilità: Le pubblicazioni chiave possono provocare movimenti forti e improvvisi.",
+                "Complessità interpretativa: I segnali misti sono comuni; è necessaria esperienza e analisi complementare."
+            ]
+        }
+    }
+}

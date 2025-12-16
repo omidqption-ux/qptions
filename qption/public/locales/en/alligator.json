@@ -1,0 +1,80 @@
+{
+    "seo": {
+        "title": "Alligator Strategy – Technical Analysis | Qption",
+        "description": "Master trend-following and momentum trading with the Alligator indicator: understand Jaw, Teeth, and Lips, learn entries/exits, and reduce false signals in ranging markets.",
+        "keywords": "Alligator, Bill Williams, technical analysis, trend following, momentum, moving averages, trading strategy, Qption",
+        "ogTitle": "Alligator Strategy – Technical Analysis | Qption",
+        "ogDescription": "A practical guide to trading with the Alligator indicator — from structure and signals to limitations and best practices.",
+        "url": "https://qption.com/technical-analysis/alligator",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Technical Analysis"
+    },
+    "promo": {
+        "text": "Ready to trade with Alligator?",
+        "cta": "Start Trading"
+    },
+    "hero": {
+        "title": "Alligator Strategy",
+        "subtitle": "Master trend following and momentum trading with our comprehensive Alligator analysis"
+    },
+    "overview": {
+        "title": "Overview",
+        "bullets": [
+            "The Alligator indicator, created by Bill Williams, helps identify market trends and periods of consolidation.",
+            "It consists of three smoothed moving averages representing the Alligator’s Jaw, Teeth, and Lips.",
+            "It helps traders determine whether the market is trending or ranging."
+        ]
+    },
+    "how": {
+        "title": "How Alligator Works",
+        "items": [
+            {
+                "title": "Jaw (Blue Line)",
+                "desc": "A 13-period smoothed moving average shifted by 8 periods, representing the long-term trend."
+            },
+            {
+                "title": "Teeth (Red Line)",
+                "desc": "An 8-period smoothed moving average shifted by 5 periods, representing the medium-term trend."
+            },
+            {
+                "title": "Lips (Green Line)",
+                "desc": "A 5-period smoothed moving average shifted by 3 periods, representing the short-term trend."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Key Strategies",
+        "items": [
+            {
+                "title": "1. Trend Identification",
+                "points": [
+                    "When all three lines align and move in the same direction, it indicates a strong trend.",
+                    "When the lines intertwine, it suggests a ranging or consolidating market."
+                ]
+            },
+            {
+                "title": "2. Entry Signals",
+                "points": [
+                    "Buy when the Lips cross above the Teeth and Jaw in an uptrend.",
+                    "Sell when the Lips cross below the Teeth and Jaw in a downtrend."
+                ]
+            },
+            {
+                "title": "3. Exit Signals",
+                "points": [
+                    "Exit long positions when the Lips cross below the Teeth.",
+                    "Exit short positions when the Lips cross above the Teeth."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitations",
+        "bullets": [
+            "Lag: Due to smoothing, signals can be late in fast-moving markets.",
+            "Best in trends: Performance degrades in ranging markets and may produce false signals."
+        ]
+    }
+}

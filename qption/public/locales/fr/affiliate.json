@@ -1,0 +1,137 @@
+{
+    "seo": {
+        "title": "Programme d’affiliation – Gagnez jusqu’à 40% de partage de revenus | Qption",
+        "description": "Devenez partenaire de Qption et transformez votre audience en profit. Gagnez des commissions CPA ou de partage de revenus flexibles, profitez d’un suivi en temps réel et recevez des paiements hebdomadaires pour chaque trader référé.",
+        "keywords": "Qption affiliation, programme d’affiliation trading, CPA forex, affiliation crypto, partage de revenus, programme partenaire, parrainer traders, programme IB, partenariat courtier",
+        "ogTitle": "Programme d’affiliation – Gagnez jusqu’à 40% de partage de revenus | Qption",
+        "ogDescription": "Rejoignez le programme d’affiliation Qption et bénéficiez de commissions élevées, de supports marketing et d’un gestionnaire dédié.",
+        "url": "https://qption.com/affiliate",
+        "image": "https://qption.com/images/og/affiliate-qption.jpg"
+    },
+    "hero": {
+        "title": "Programme d’affiliation",
+        "subtitle": "Rejoignez notre programme d’affiliation et commencez à gagner des commissions en recommandant des traders sur notre plateforme. Choisissez le plan qui correspond à vos objectifs."
+    },
+    "tabs": {
+        "basic": "Basic",
+        "pro": "Pro",
+        "elite": "Élite"
+    },
+    "labels": {
+        "commission": "Commission",
+        "incomePotential": "Potentiel de revenu",
+        "featuresTitle": "Fonctionnalités",
+        "benefitsTitle": "Avantages du programme"
+    },
+    "stats": [
+        {
+            "title": "Affiliés actifs",
+            "value": "10 000+"
+        },
+        {
+            "title": "Paiements totaux",
+            "value": "5 M$+"
+        },
+        {
+            "title": "Taux de réussite",
+            "value": "95%"
+        }
+    ],
+    "plans": [
+        {
+            "title": "Programme d’affiliation Basic",
+            "subtitle": "Niveau débutant",
+            "description": "Parfait pour les débutants souhaitant démarrer avec un engagement minimal. Développez votre réseau et gagnez des commissions régulières.",
+            "commission": "5-10%",
+            "income": "50 $ - 500 $/mois",
+            "gradient": "bg-linear-to-br from-green-500/20 to-green-500/5",
+            "features": [
+                {
+                    "title": "Commission directe",
+                    "description": "5-10% sur les frais de trading générés par les clients référés."
+                },
+                {
+                    "title": "Prime d’inscription unique",
+                    "description": "Petit bonus pour chaque utilisateur direct devenu actif."
+                },
+                {
+                    "title": "Support marketing",
+                    "description": "Accès à des supports marketing de base et des tutoriels pour la promotion."
+                }
+            ]
+        },
+        {
+            "title": "Programme d’affiliation Pro",
+            "subtitle": "Niveau intermédiaire",
+            "description": "Pour les marketeurs expérimentés cherchant à augmenter leurs gains. Accédez à des outils avancés et à des commissions multi-niveaux.",
+            "commission": "10-15%",
+            "income": "500 $ - 2 000 $/mois",
+            "gradient": "bg-linear-to-br from-green-500/30 to-green-500/10",
+            "features": [
+                {
+                    "title": "Commission directe",
+                    "description": "10-15% sur les frais générés par les clients référés."
+                },
+                {
+                    "title": "Commission de deuxième niveau",
+                    "description": "3-5% sur les frais provenant des clients de vos affiliés."
+                },
+                {
+                    "title": "Bonus de performance",
+                    "description": "Bonus supplémentaire pour l’atteinte des objectifs de parrainage."
+                },
+                {
+                    "title": "Ressources marketing avancées",
+                    "description": "Accès à des supports promotionnels et stratégies approfondis."
+                }
+            ]
+        },
+        {
+            "title": "Programme d’affiliation Élite",
+            "subtitle": "Niveau avancé",
+            "description": "Pour les meilleurs performeurs souhaitant maximiser leurs gains. Accédez à des avantages exclusifs et aux plus hauts taux de commission.",
+            "commission": "15-20%",
+            "income": "2 000 $ - 10 000 $/mois",
+            "gradient": "bg-linear-to-br from-green-500/40 to-green-500/15",
+            "features": [
+                {
+                    "title": "Commission directe",
+                    "description": "15-20% sur les frais des clients référés."
+                },
+                {
+                    "title": "Commissions multi-niveaux",
+                    "description": "5% au deuxième niveau, 2% au troisième et 1% au quatrième."
+                },
+                {
+                    "title": "Pack marketing VIP",
+                    "description": "Matériels marketing personnalisés et pages d’atterrissage dédiées."
+                },
+                {
+                    "title": "Bonus de leadership",
+                    "description": "Bonus pour les affiliés aidant leurs recrues à atteindre le niveau Pro ou Élite."
+                },
+                {
+                    "title": "Support exclusif",
+                    "description": "Accès à un gestionnaire d’affiliation personnel et à des événements exclusifs."
+                }
+            ]
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Revenus récurrents",
+            "description": "Gagnez des commissions continues sur l’activité de votre réseau."
+        },
+        {
+            "title": "Croissance structurée",
+            "description": "Développez et faites évoluer votre réseau grâce à notre structure multi-niveaux."
+        },
+        {
+            "title": "Récompenses de performance",
+            "description": "Recevez des bonus et incitations pour chaque objectif atteint."
+        }
+    ],
+    "cta": {
+        "join": "Rejoindre le programme d’affiliation"
+    }
+}

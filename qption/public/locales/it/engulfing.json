@@ -1,0 +1,74 @@
+{
+    "seo": {
+        "title": "Strategia Engulfing (Ingolbante) – Pattern di inversione rialzisti & ribassisti | Qption",
+        "description": "Impara la strategia dei candele Engulfing: individua inversioni rialziste e ribassiste, conferma con supporti/resistenze e volumi, gestisci il rischio con stop-loss precisi. Include regole di identificazione, conferme, pro e contro.",
+        "keywords": "candela engulfing, bullish engulfing, bearish engulfing, pattern di inversione, price action, supporto e resistenza, conferma dei volumi, risk management, analisi tecnica, strategia di trading, Qption",
+        "ogAlt": "Strategia Engulfing illustrata su un grafico di trading",
+        "ld": {
+            "headline": "Strategia Engulfing – Pattern di inversione rialzisti & ribassisti"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Strategia di trading"
+    },
+    "hero": {
+        "title": "Strategia Engulfing"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "startTrading": "Inizia a fare trading"
+    },
+    "video": {
+        "aria": "La strategia Engulfing è un popolare pattern di inversione che segnala un possibile cambio di trend."
+    },
+    "overview": {
+        "title": "Panoramica",
+        "items": {
+            "1": "La strategia Engulfing è un pattern di inversione ampiamente usato che indica un potenziale cambio di tendenza.",
+            "2": "Si identifica quando una candela di dimensioni maggiori „ingloba“ completamente il corpo della candela precedente.",
+            "3": "Due tipi principali: Bullish Engulfing (inversione al rialzo) e Bearish Engulfing (inversione al ribasso)."
+        }
+    },
+    "bullish": {
+        "title": "1. Bullish Engulfing",
+        "items": {
+            "1": "Formazione: Si verifica in un trend ribassista; una grande candela rialzista copre completamente il corpo della candela ribassista precedente.",
+            "2": "Prima candela: Piccola candela ribassista che riflette la continuazione del downtrend.",
+            "3": "Seconda candela: Grande candela rialzista che apre sotto la chiusura precedente e chiude sopra l’apertura precedente.",
+            "4": "Conferma: Una candela rialzista successiva al pattern conferma l’inversione."
+        }
+    },
+    "bearish": {
+        "title": "2. Bearish Engulfing",
+        "items": {
+            "1": "Formazione: Appare in un trend rialzista; una grande candela ribassista copre completamente il corpo della candela rialzista precedente.",
+            "2": "Prima candela: Piccola candela rialzista che riflette la continuazione del movimento al rialzo.",
+            "3": "Seconda candela: Grande candela ribassista che apre sopra la chiusura precedente e chiude sotto l’apertura precedente.",
+            "4": "Conferma: Una candela ribassista successiva al pattern conferma l’inversione."
+        }
+    },
+    "using": {
+        "title": "Come usare la Strategia Engulfing",
+        "items": {
+            "1": "Combinala con livelli di supporto e resistenza per aumentare l’affidabilità del segnale.",
+            "2": "Usa indicatori di volume per confermare la forza nella direzione della candela engolfante.",
+            "3": "Imposta stop-loss sotto il minimo (Bullish) o sopra il massimo (Bearish) della candela engolfante per gestire il rischio."
+        }
+    },
+    "pros": {
+        "title": "Vantaggi",
+        "items": {
+            "1": "Segnale di inversione chiaro: Indica con chiarezza possibili cambi di trend.",
+            "2": "Valida su più timeframe: Utile dal breve al lungo periodo.",
+            "3": "Riconoscimento semplice: Facile da individuare con basi sui candelstick."
+        }
+    },
+    "cons": {
+        "title": "Svantaggi",
+        "items": {
+            "1": "Richiede conferma: Necessaria per evitare falsi segnali.",
+            "2": "Meno affidabile con bassi volumi: Aumentano i falsi positivi in mercati poco liquidi.",
+            "3": "Può fuorviare se usata da sola: Meglio combinarla con altri indicatori per una validazione robusta."
+        }
+    }
+}

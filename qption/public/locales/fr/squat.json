@@ -1,0 +1,84 @@
+{
+    "seo": {
+        "title": "Stratégie de chandeliers Squat – Volume élevé & signaux de retournement | Qption",
+        "description": "Découvre la stratégie Squat : repérer des chandeliers à fort volume mais petit corps, avec longues mèches indiquant un épuisement près de niveaux clés. Apprends à les identifier en tendance haussière/baissière, confirmer via le volume, définir entrées/sorties et gérer le risque.",
+        "keywords": "chandelle squat, stratégie chandeliers squat, fort volume petit corps, épuisement du marché, signaux de retournement, support et résistance, chandelle de confirmation, analyse de volume, mèches de rejet, gestion du risque, stratégie de trading, Qption",
+        "ogAlt": "Chandelier Squat illustrant volume élevé et signaux de retournement",
+        "ld": {
+            "headline": "Stratégie de chandeliers Squat – Volume élevé & signaux de retournement"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Stratégie de trading"
+    },
+    "cta": {
+        "ready": "Prêt à trader ?",
+        "startTrading": "Commencer à trader"
+    },
+    "hero": {
+        "title": "Stratégie des chandelles Squat",
+        "subtitle": "Cette approche cible des chandeliers à volume puissant mais amplitude limitée – signe d’un bras de fer entre acheteurs et vendeurs. Ils précèdent souvent des breakouts ou retournements brusques, permettant d’anticiper les points de bascule et d’améliorer timing et confirmation."
+    },
+    "video": {
+        "aria": "Apparaît en tendance haussière près d’une résistance via une bougie à fort volume et petit corps, indiquant un essoufflement et un possible retournement."
+    },
+    "overview": {
+        "title": "Vue d’ensemble",
+        "items": {
+            "1": "La stratégie Squat identifie les retournements ou zones d’épuisement.",
+            "2": "Elle repose sur la détection d’une bougie unique présentant fort volume mais faible déplacement.",
+            "3": "Les squats apparaissent souvent en fin de tendance ou sur S/R, signalant indécision et renversement potentiel."
+        }
+    },
+    "identify": {
+        "title": "1. Identifier une chandelle Squat",
+        "items": {
+            "1": "Petit corps : variation limitée entre ouverture et clôture.",
+            "2": "Longues mèches : rejet marqué des prix aux deux extrémités.",
+            "3": "Volume inhabituellement élevé : témoigne d’une forte activité ou d’un bras de fer acheteurs/vendeurs.",
+            "4": "Souvent proche d’un support/résistance majeur, suggérant breakout ou retournement."
+        }
+    },
+    "uptrend": {
+        "title": "2. Squat en tendance haussière",
+        "items": {
+            "1": "Formation : surgit près d’une résistance avec petit corps et volume important.",
+            "2": "Interprétation : fatigue acheteuse, incapacité à franchir la résistance.",
+            "3": "Confirmation : une bougie baissière suivant le squat valide le retournement.",
+            "4": "Execution : short si la bougie suivante clôture sous le plus bas du squat."
+        }
+    },
+    "downtrend": {
+        "title": "3. Squat en tendance baissière",
+        "items": {
+            "1": "Formation : apparaît près d’un support avec petit corps et volume élevé.",
+            "2": "Interprétation : essoufflement vendeur, incapacité à pousser plus bas.",
+            "3": "Confirmation : une bougie haussière après le squat confirme le rebond.",
+            "4": "Execution : entrée long si la bougie suivante clôture au-dessus du plus haut du squat."
+        }
+    },
+    "use": {
+        "title": "Utilisation pratique",
+        "items": {
+            "1": "Associe les squats à des indicateurs de volume pour valider la force du signal.",
+            "2": "Privilégie ceux qui se forment sur des supports/résistances majeurs pour une meilleure précision.",
+            "3": "Place des stop-loss juste au-delà du plus haut/bas du squat pour cadrer le risque."
+        }
+    },
+    "pros": {
+        "title": "Atouts",
+        "items": {
+            "1": "Signal précoce : indique l’épuisement avant le retournement.",
+            "2": "Le volume élevé renforce la fiabilité.",
+            "3": "Complémentaire d’autres outils (volume, MAs, S/R)."
+        }
+    },
+    "cons": {
+        "title": "Limites",
+        "items": {
+            "1": "Nécessite confirmation pour éviter les faux signaux.",
+            "2": "Moins efficace en marché range : risque de faux retournements.",
+            "3": "Sensibilité au volume : un volume fort sans déplacement peut induire en erreur."
+        }
+    }
+}

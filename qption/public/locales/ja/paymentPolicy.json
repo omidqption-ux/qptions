@@ -1,0 +1,77 @@
+{
+    "seo": {
+        "title": "お支払いポリシー | Qption",
+        "description": "入出金方法、口座残高の表示責任、本人確認（KYC）手続き、税務上の責任、その他の規定についてのQptionお支払いポリシー。",
+        "keywords": "支払いポリシー, 入金, 出金, 口座残高, KYC, 本人確認, 税務, Qption",
+        "ogTitle": "お支払いポリシー | Qption",
+        "ogDescription": "Qptionの入出金・口座残高・KYC・税務に関する基本規定を確認できます。",
+        "url": "https://qption.com/payment-policy",
+        "image": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "お支払いポリシー | Qption",
+        "twitterDescription": "入出金、口座残高の表示責任、本人確認、税務、その他規定について。",
+        "twitterImage": "https://qption.com/images/og/payment-policy-qption.jpg",
+        "canonical": "https://qption.com/payment-policy"
+    },
+    "hero": {
+        "title": "お支払いポリシー"
+    },
+    "sections": [
+        {
+            "key": "account",
+            "icon": "account",
+            "title": "1. 口座残高の責任",
+            "items": [
+                "当社は、任意の時点におけるお客様の口座残高を表示する責任を負います。",
+                "当社の責任は、入金記録が作成された時点から開始し、お客様による出金依頼が完全に処理されるまで継続します。",
+                "お客様は、照会時点で口座に利用可能な資金の払い戻しを請求する権利を有します。"
+            ]
+        },
+        {
+            "key": "payments",
+            "icon": "payments",
+            "title": "2. 入金および出金手続き",
+            "items": [
+                "入金および出金は、当社ウェブサイトに記載された正式な方法を通じて行われます。",
+                "決済手段の利用に伴う一切のリスクはお客様が負うものとし、これらの決済提供者は当社の関連会社ではありません。",
+                "資金が当社の銀行口座または決済口座に着金した後に限り、当社は当該資金に対して責任を負います。"
+            ]
+        },
+        {
+            "key": "registration",
+            "icon": "registration",
+            "title": "3. お客様の登録",
+            "items": [
+                "登録にあたっては、正確な本人情報および連絡先情報の提供が必要です。",
+                "本人確認（KYC）プロセスでは、公的機関が発行した身分証明書の提出が求められます。",
+                "本人確認手続きは、原則として10営業日以内に完了する必要があります。"
+            ]
+        },
+        {
+            "key": "deposit",
+            "icon": "deposit",
+            "title": "4. 入金プロセス",
+            "items": [
+                "入金は、当社ウェブサイト上のお客様専用ページから開始されます。",
+                "電子決済の処理時間は、数秒から数日まで場合により異なることがあります。"
+            ]
+        },
+        {
+            "key": "tax",
+            "icon": "tax",
+            "title": "5. 税務上の義務",
+            "items": [
+                "当社はお客様の税務代理人ではありません。税務申告および納税義務はお客様ご自身の責任となります。"
+            ]
+        },
+        {
+            "key": "misc",
+            "icon": "misc",
+            "title": "6. その他の条項",
+            "items": [
+                "本契約の承諾により、お客様は法定年齢に達していることを確認するものとします。",
+                "お客様は、居住国・地域の適用法令を遵守する責任を負います。"
+            ]
+        }
+    ]
+}

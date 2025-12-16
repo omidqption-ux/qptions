@@ -1,0 +1,157 @@
+{
+    "seo": {
+        "title": "Asset rifugio nelle turbolenze di mercato: oro, Treasury, CHF & JPY | Qption",
+        "description": "Scopri come asset rifugio come oro, Treasury USA, franco svizzero, yen giapponese e azioni difensive si comportano durante la volatilità. Perché gli investitori li usano per preservare capitale, diversificare e coprirsi—con i compromessi principali.",
+        "url": "https://qption.com/fundamental-analysis/safe-haven-assets-market-turbulence",
+        "keywords": "asset rifugio, oro, Treasury USA, franco svizzero CHF, yen giapponese JPY, azioni difensive, diversificazione di portafoglio, flight to quality, volatilità di mercato, copertura dall’inflazione, gestione del rischio, Qption",
+        "ld": {
+            "headline": "Il ruolo degli asset rifugio nelle turbolenze di mercato",
+            "about": {
+                "safeHavens": "Asset rifugio",
+                "gold": "Oro",
+                "treasuries": "Treasury USA",
+                "chf": "Franco svizzero (CHF)",
+                "jpy": "Yen giapponese (JPY)",
+                "defensive": "Azioni difensive",
+                "volatility": "Volatilità di mercato",
+                "f2q": "Flight to quality",
+                "inflationHedge": "Copertura dall’inflazione"
+            },
+            "props": {
+                "correlation": {
+                    "name": "Profilo di correlazione",
+                    "value": "Gli asset rifugio mostrano spesso correlazione bassa o negativa con l’azionario, riducendo la volatilità del portafoglio nei drawdown."
+                },
+                "crisis": {
+                    "name": "Comportamento in crisi",
+                    "value": "Durante i periodi risk-off, i flussi si spostano verso oro, titoli sovrani di alta qualità e alcune valute (CHF/JPY)."
+                },
+                "tradeoffs": {
+                    "name": "Compromessi",
+                    "value": "Rendimenti attesi inferiori e rischio di affollamento nelle crisi possono portare a sopravvalutazioni e successive correzioni."
+                }
+            }
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analisi fondamentale"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "start": "Inizia a fare trading"
+    },
+    "page": {
+        "title": "Il ruolo degli asset rifugio nelle turbolenze di mercato"
+    },
+    "sections": {
+        "_list": [
+            "Il ruolo degli asset rifugio nelle turbolenze di mercato",
+            "Panoramica",
+            "Asset rifugio più comuni",
+            "Oro",
+            "Titoli del Tesoro USA",
+            "Franco svizzero (CHF)",
+            "Yen giapponese (JPY)",
+            "Azioni difensive",
+            "Perché gli investitori ricorrono agli asset rifugio",
+            "Protezione del capitale",
+            "Diversificazione del portafoglio",
+            "Copertura contro inflazione e rischio valutario",
+            "Reazioni di mercato nei momenti turbolenti",
+            "Domanda in aumento per gli asset rifugio",
+            "Flight to quality nel mercato obbligazionario",
+            "Benefici dell’inclusione di asset rifugio in portafoglio",
+            "Limitazioni degli asset rifugio"
+        ],
+        "overview": {
+            "title": "Panoramica",
+            "items": [
+                "Gli asset rifugio tendono a mantenere o aumentare valore durante periodi di turbolenza e incertezza sui mercati.",
+                "Gli investitori li utilizzano per preservare il capitale, ridurre il rischio di portafoglio e attenuare la volatilità quando gli asset rischiosi calano.",
+                "Sono fondamentali per la diversificazione e la gestione del rischio durante crisi finanziarie, eventi geopolitici o recessioni."
+            ]
+        },
+        "common": {
+            "title": "Asset rifugio più comuni",
+            "items": [
+                {
+                    "label": "Oro:",
+                    "text": "Riserva di valore storica che spesso sale nelle fasi di instabilità economica."
+                },
+                {
+                    "label": "Titoli del Tesoro USA:",
+                    "text": "Considerati a basso rischio e garantiti dal governo USA; in fasi risk-off i prezzi salgono e i rendimenti scendono."
+                },
+                {
+                    "label": "Franco svizzero (CHF):",
+                    "text": "Beneficia della stabilità economica e della bassa inflazione della Svizzera, attirando flussi nei periodi di stress."
+                },
+                {
+                    "label": "Yen giapponese (JPY):",
+                    "text": "Valuta rifugio classica supportata dal saldo estero del Giappone e da mercati finanziari profondi."
+                },
+                {
+                    "label": "Azioni difensive:",
+                    "text": "Settori come utility, healthcare e beni di prima necessità sono meno ciclici e offrono relativa stabilità."
+                }
+            ]
+        },
+        "why": {
+            "title": "Perché gli investitori ricorrono agli asset rifugio",
+            "capital": {
+                "title": "Protezione del capitale",
+                "items": [
+                    "Le allocazioni in asset rifugio limitano i drawdown quando le azioni crollano.",
+                    "Aiutano a preservare potere d’acquisto e valore del portafoglio nei mercati turbolenti."
+                ]
+            },
+            "diversification": {
+                "title": "Diversificazione del portafoglio",
+                "items": [
+                    "Correlazioni basse o negative riducono la volatilità complessiva del portafoglio.",
+                    "Bilanciare asset rischiosi con rifugi può rendere i rendimenti più regolari lungo il ciclo."
+                ]
+            },
+            "hedge": {
+                "title": "Copertura contro inflazione e rischio valutario",
+                "items": [
+                    "L’oro è spesso usato come copertura contro inflazione e svalutazione monetaria.",
+                    "Valute rifugio (es. CHF) possono mitigare il rischio FX in portafogli globali."
+                ]
+            }
+        },
+        "reactions": {
+            "title": "Reazioni di mercato nei momenti turbolenti",
+            "demand": {
+                "title": "Domanda in aumento per gli asset rifugio",
+                "items": [
+                    "Gli spike di volatilità scatenano spesso flussi verso oro, Treasury e FX rifugio.",
+                    "Gli investitori ruotano fuori dai ciclici e dagli asset rischiosi verso la percepita sicurezza."
+                ]
+            },
+            "bonds": {
+                "title": "Flight to quality nel mercato obbligazionario",
+                "items": [
+                    "I prezzi dei bond governativi salgono mentre i rendimenti si comprimono nei regimi risk-off.",
+                    "Il flight-to-quality evidenzia il ruolo del debito sovrano come stabilizzatore."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Benefici dell’inclusione di asset rifugio in portafoglio",
+            "items": [
+                "Riduce la volatilità del portafoglio e attenua i drawdown.",
+                "Offre liquidità e stabilità durante le fasi di stress di mercato.",
+                "Supporta la resilienza di lungo termine nei vari cicli economici."
+            ]
+        },
+        "limits": {
+            "title": "Limitazioni degli asset rifugio",
+            "items": [
+                "Potenziale di rendimento di lungo periodo inferiore rispetto agli asset growth.",
+                "Il rischio di affollamento può portare a sopravvalutazioni nelle crisi.",
+                "Non sono completamente immuni alle oscillazioni di prezzo quando cambia il sentiment."
+            ]
+        }
+    }
+}

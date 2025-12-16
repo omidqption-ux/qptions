@@ -1,0 +1,40 @@
+{
+    "sections": {
+        "home": "Home",
+        "trading": "Trading",
+        "education": "Education",
+        "company": "Company"
+    },
+    "links": {
+        "home": "Home",
+        "register": "Register",
+        "about": "About",
+        "contact": "Contact us",
+        "faq": "FAQ",
+        "news": "News",
+        "accountTypes": "Account types",
+        "socialTrading": "Social Trading",
+        "aiTrading": "AI Trading",
+        "affiliate": "Affiliate Program",
+        "technicalAnalysis": "Technical analysis",
+        "tradingStrategies": "Trading strategies",
+        "graphicalAnalysis": "Graphical analysis",
+        "fundamentalAnalysis": "Fundamentals analysis",
+        "glossary": "Glossary",
+        "paymentPolicy": "Payment policy",
+        "returnPolicy": "Return policy",
+        "amlKyc": "AML & KYC",
+        "privacyPolicy": "Privacy Policy",
+        "terms": "Terms & Condition"
+    },
+    "followUs": "Follow Us:",
+    "riskWarning": "Risk Warning: CFDs are complex instruments and carry a high risk of rapid money loss due to leverage. 72% of retail investor accounts lose money when trading CFDs with this provider. Consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. Qption LLC is registered in St. Vincent and the Grenadines (No. 1744 LLC 22).",
+    "recaptcha": {
+        "prefix": "This site is protected by reCAPTCHA and the Google",
+        "privacy": "Privacy Policy",
+        "and": "and",
+        "terms": "Terms of Service",
+        "apply": "apply."
+    },
+    "payments": "Payments"
+}

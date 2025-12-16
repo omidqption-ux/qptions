@@ -1,0 +1,98 @@
+{
+    "seo": {
+        "title": "Account Types – Compare Plans | Qption",
+        "description": "See how Qption’s six account levels—Basic, Silver, Gold, Platinum, Diamond and Exclusive—stack up on minimum deposit, tools, support and VIP perks. Choose the plan that fits your trading ambitions.",
+        "keywords": "Qption account types, Basic account, Silver account, Gold account, Platinum account, Diamond account, Exclusive account, trading account comparison, minimum deposit, trading tools, VIP trading services",
+        "ogTitle": "Account Types – Compare Plans | Qption",
+        "ogDescription": "Compare the features of Qption’s Basic, Silver, Gold, Platinum, Diamond and Exclusive accounts—everything from minimum funding to dedicated support.",
+        "ogUrl": "https://qption.com/accounttypes",
+        "ogImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "Account Types – Compare Plans | Qption",
+        "twitterDescription": "Find your perfect fit—from Basic to Exclusive. View Qption’s full range of account levels and benefits.",
+        "twitterImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "canonical": "https://qption.com/accounttypes",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "Choose Your Account Type",
+        "subtitle": "Select the perfect account that matches your trading goals",
+        "cta": "Get Started",
+        "fromPrefix": "$",
+        "invitationOnly": "Invitation only"
+    },
+    "plans": {
+        "basic": {
+            "title": "Basic",
+            "desc": "Ideal for an easy start, with the option to elevate your status anytime.",
+            "from": "10",
+            "features": [
+                "Basic trading tools",
+                "Email support",
+                "Market analysis",
+                "24/7 dedicated support"
+            ]
+        },
+        "silver": {
+            "title": "Silver",
+            "desc": "More than a Basic account, crafted for those who want a head start.",
+            "from": "50",
+            "features": [
+                "All Basic features",
+                "Priority support",
+                "Advanced charts",
+                "Daily market updates"
+            ]
+        },
+        "gold": {
+            "title": "Gold",
+            "desc": "Join the majority of our clients by starting with a Gold account, featuring free consultations.",
+            "from": "500",
+            "features": [
+                "All Silver features",
+                "Free consultations",
+                "Personal account manager",
+                "VIP webinars"
+            ]
+        },
+        "platinum": {
+            "title": "Platinum",
+            "desc": "A Platinum account is where savvy investments begin—enjoy privileged features and enhanced value.",
+            "from": "5000",
+            "features": [
+                "All Gold features",
+                "24/7 dedicated support",
+                "Custom trading strategies",
+                "Exclusive events"
+            ]
+        },
+        "diamond": {
+            "title": "Diamond",
+            "desc": "Our finest expertise and exclusive management, tailored for serious investors.",
+            "from": "10000",
+            "features": [
+                "All Platinum features",
+                "Tailored investment solutions",
+                "Private trading sessions",
+                "Luxury rewards"
+            ]
+        },
+        "exclusive": {
+            "title": "Exclusive",
+            "desc": "Ask your account manager for additional information.",
+            "from": "Invitation only",
+            "features": [
+                "Custom solutions",
+                "Private wealth management",
+                "Exclusive market insights",
+                "Personalized services"
+            ]
+        }
+    },
+    "withdrawal": {
+        "title": "Withdrawal Options",
+        "body1": "Trade freely and access your funds with ease. With more than 20 payment options, you can transfer funds directly to your debit or credit card (Visa, MasterCard, Maestro, UnionPay) or choose electronic methods such as Neteller, Skrill, Perfect Money, FasaPay, and others.",
+        "highlight": "Gold, Platinum, and Exclusive accounts benefit from prioritized withdrawal processing."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "seo": {
+        "title": "社交交易 – 跟随我们的顶级交易员 | Qption",
+        "description": "探索 Qption 的社交交易中心：订阅顶级交易员的实时交易思路，复制他们的策略，抓住每一个市场机会。关注我们在 X、Telegram、YouTube 和 Instagram 上的频道，获取实时信号和教育内容。",
+        "keywords": "Qption 社交交易, 复制交易, 跟随顶级交易员, 交易信号, 外汇信号, 加密货币信号, Telegram 交易群, YouTube 交易频道, 交易教育",
+        "ogType": "website",
+        "ogTitle": "社交交易 – 跟随我们的顶级交易员 | Qption",
+        "ogDescription": "加入 Qption 社交交易社区：在 X、Telegram、YouTube 和 Instagram 上与我们连接，复制专业交易策略，自信交易。",
+        "ogUrl": "https://qption.com/socialTrading",
+        "ogImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "社交交易 – 跟随我们的顶级交易员 | Qption",
+        "twitterDescription": "关注 Qption 顶级交易员，获取实时外汇和加密货币信号、市场评论和教育直播。",
+        "twitterImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "canonical": "https://qption.com/socialTrading",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "社交交易",
+        "introBullets": [
+            "观看其他交易员的操作并实时交易。",
+            "与其他投资者或朋友一起交易。",
+            "体验 VIP 交易员的信心，并从他们的成果中获得启发。"
+        ],
+        "video": {
+            "src": "/videos/socialTrading3.mp4",
+            "poster": "/videos/socialTrading.jpg",
+            "aria": "Qption 允许您复制顶级交易员的策略，自动匹配他们的交易，同时您可以控制投资比例并设置个性化的盈利目标。这让您无需持续操作即可受益于专家见解。立即开设账户，获取 200% 奖金，与顶级市场专家一起开启交易之旅！"
+        },
+        "followUs": "关注我们",
+        "social": {
+            "facebook": {
+                "label": "Facebook",
+                "handle": "facebook/qption",
+                "aria": "Qption 在 Facebook"
+            },
+            "twitter": {
+                "label": "Twitter",
+                "handle": "twitter/qption",
+                "aria": "Qption 在 Twitter/X"
+            },
+            "instagram": {
+                "label": "Instagram",
+                "handle": "instagram/qption",
+                "aria": "Qption 在 Instagram"
+            },
+            "youtube": {
+                "label": "YouTube",
+                "handle": "youtube/qption",
+                "aria": "Qption 在 YouTube"
+            }
+        }
+    }
+}

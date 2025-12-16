@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Strategie mit gleitenden Durchschnitten (SMA & EMA) – Technische Analyse | Qption",
+        "description": "Meistere Trendfolge mit Moving Averages: SMA vs. EMA, Crossovers (Golden/Death Cross), dynamische S/R, MA-Ribbons und zentrale Grenzen – der komplette Leitfaden für Trader.",
+        "keywords": "Gleitende Durchschnitte, SMA, EMA, Moving-Average-Crossover, Golden Cross, Death Cross, MA-Ribbon, dynamische Unterstützung und Widerstand, Trendfolge, Momentum, technische Analyse, Qption",
+        "ogAlt": "Moving-Averages-Strategie mit SMA, EMA, Crossovers und MA-Ribbons erklärt",
+        "ld": {
+            "headline": "Strategie mit gleitenden Durchschnitten (SMA & EMA) – Technische Analyse"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Trading-Strategie"
+    },
+    "cta": {
+        "ready": "Bereit, mit MAs zu handeln?",
+        "startTrading": "Jetzt handeln"
+    },
+    "hero": {
+        "title": "Strategie mit gleitenden Durchschnitten",
+        "subtitle": "Beherrsche Trendfolge und Momentum-Trading mit unserer umfassenden MA-Analyse."
+    },
+    "video": {
+        "aria": "Gleitende Durchschnitte glätten Preisdaten, um Trends und potenzielle Umkehrungen leichter zu erkennen."
+    },
+    "overview": {
+        "title": "Überblick",
+        "items": {
+            "1": "Gleitende Durchschnitte (MAs) sind beliebte Tools, die Preisreihen glätten und Trends/Umkehrpunkte sichtbarer machen.",
+            "2": "Die zwei gängigsten Typen sind Simple Moving Average (SMA) und Exponential Moving Average (EMA), die aktuelle Preise unterschiedlich stark gewichten.",
+            "3": "MAs helfen Tradern, Trendrichtung zu erkennen, Signale zu generieren und dynamische S/R-Bereiche zu definieren."
+        }
+    },
+    "how": {
+        "title": "Funktionsweise von Moving Averages",
+        "blocks": {
+            "1": {
+                "title": "Simple Moving Average (SMA)",
+                "desc": "Arithmetischer Durchschnitt einer definierten Anzahl jüngster Preise – gut für generelle Trendbetrachtung."
+            },
+            "2": {
+                "title": "Exponential Moving Average (EMA)",
+                "desc": "Gewichtet jüngste Kurse stärker, reagiert schneller – beliebt in schnellen Märkten."
+            },
+            "3": {
+                "title": "Trenderkennung",
+                "desc": "Preis über dem MA deutet einen Aufwärtstrend an, darunter einen Abwärtstrend."
+            }
+        }
+    },
+    "strategies": {
+        "title": "Kernstrategien",
+        "crossover": {
+            "title": "1. Moving-Average-Crossover",
+            "items": {
+                "1": "Golden Cross: Kurzfristiger MA (z. B. 50er) kreuzt über langfristigen MA (z. B. 200er) – bullisches Signal.",
+                "2": "Death Cross: Kurzfristiger MA fällt unter langfristigen MA – bärisches Signal."
+            }
+        },
+        "dynamicSR": {
+            "title": "2. Dynamische Unterstützung/Widerstand",
+            "items": {
+                "1": "Support im Aufwärtstrend: Der MA dient als dynamische Unterstützung, an der der Preis oft prallt.",
+                "2": "Widerstand im Abwärtstrend: Der MA wirkt als Widerstand und drückt den Kurs tiefer."
+            }
+        },
+        "ribbon": {
+            "title": "3. Moving-Average-Ribbon",
+            "items": {
+                "1": "Setup: Mehrere MAs unterschiedlicher Länge (z. B. 10, 20, 50, 100, 200) bilden ein Ribbon.",
+                "2": "Trendsignal: Ausgerichtete MAs in eine Richtung signalisieren starke, anhaltende Trends."
+            }
+        }
+    },
+    "limits": {
+        "title": "Grenzen",
+        "items": {
+            "1": "Nachlaufende Natur: MAs reagieren verzögert auf plötzliche Bewegungen und Umkehrungen.",
+            "2": "Whipsaws: In erratischen oder seitwärts laufenden Märkten häufen sich Fehlsignale."
+        }
+    }
+}

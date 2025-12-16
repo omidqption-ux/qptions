@@ -1,0 +1,76 @@
+{
+    "seo": {
+        "title": "Strategia Three Methods – Tecniche di trend, range e reversal | Qption",
+        "description": "Scopri la strategia Three Methods che combina approcci trend-following, range-bound e reversal. Impara a riconoscere le condizioni di mercato, filtrare i segnali e gestire il rischio con strumenti come Medie Mobili, Bande di Bollinger, RSI, MACD e livelli Fibonacci.",
+        "keywords": "strategia Three Methods, trend-following, range trading, mean reversion, trading reversal, ADX, MACD, RSI, Bande di Bollinger, Fibonacci, divergenza, medie mobili, gestione del rischio, Qption",
+        "ogAlt": "Strategia Three Methods che combina setup trend, range e reversal",
+        "ld": {
+            "headline": "Strategia Three Methods – Tecniche di trend, range e reversal"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Strategia di trading"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "startTrading": "Inizia a fare trading"
+    },
+    "hero": {
+        "title": "Strategia Three Methods",
+        "subtitle": "Padroneggia tecniche di trend, range e reversal: riconosci le condizioni di mercato, filtra il rumore e intercetta setup ad alta probabilità con precisione e sicurezza."
+    },
+    "trend": {
+        "title": "1. Strategia trend-following",
+        "items": {
+            "1": "Obiettivo: catturare profitti operando nella direzione del trend.",
+            "2": "Strumenti: Medie Mobili, MACD, ADX.",
+            "3": "Segnale long: la MA di breve incrocia al rialzo la MA di lungo (bullish crossover).",
+            "4": "Segnale short: la MA di breve incrocia al ribasso la MA di lungo (bearish crossover).",
+            "5": "Esempio: Medie Mobili a 50 e 200 giorni — setup Golden Cross e Death Cross."
+        }
+    },
+    "range": {
+        "title": "2. Strategia range-bound (mean reversion)",
+        "items": {
+            "1": "Obiettivo: trarre profitto nei mercati laterali comprando vicino al supporto e vendendo vicino alla resistenza.",
+            "2": "Strumenti: Bande di Bollinger, RSI, livelli di supporto e resistenza.",
+            "3": "Segnale long: prezzo vicino al supporto o alla banda inferiore.",
+            "4": "Segnale short: prezzo vicino alla resistenza o alla banda superiore.",
+            "5": "Esempio: posiziona lo stop-loss appena oltre i confini del range per evitare perdite da breakout."
+        }
+    },
+    "reversal": {
+        "title": "3. Strategia di reversal",
+        "items": {
+            "1": "Obiettivo: catturare profitti dalle inversioni di trend principali.",
+            "2": "Strumenti: pattern candlestick, indicatori di divergenza, livelli Fibonacci.",
+            "3": "Segnale long: pattern di inversione rialzista (es. hammer) con divergenza bullish.",
+            "4": "Segnale short: pattern di inversione ribassista (es. shooting star) con divergenza bearish.",
+            "5": "Esempio: posiziona lo stop-loss sotto il minimo del pattern rialzista o sopra il massimo del pattern ribassista."
+        }
+    },
+    "combine": {
+        "title": "Combinare le tre metodologie",
+        "items": {
+            "1": "Identifica le condizioni di mercato: usa ADX e Bande di Bollinger per capire se il mercato è in trend o in range.",
+            "2": "Filtra i segnali: conferma le operazioni con indicatori secondari per aumentare l’accuratezza.",
+            "3": "Gestione del rischio: adatta stop-loss e dimensione della posizione in base a volatilità e contesto."
+        }
+    },
+    "pros": {
+        "title": "Vantaggi",
+        "items": {
+            "1": "Versatilità: funziona in mercati trend, range e reversal.",
+            "2": "Maggiore accuratezza: l’uso di più metodi riduce i falsi segnali.",
+            "3": "Completezza: bilancia approcci di trend-following, range e reversal per un trading più solido."
+        }
+    },
+    "cons": {
+        "title": "Svantaggi",
+        "items": {
+            "1": "Complessità: richiede padronanza di più tecniche e indicatori.",
+            "2": "Monitoraggio elevato: necessita analisi attiva e aggiustamenti continui.",
+            "3": "Rischio di overtrading: può portare a operare troppo se non si mantiene disciplina."
+        }
+    }
+}

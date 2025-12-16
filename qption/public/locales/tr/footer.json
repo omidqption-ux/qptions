@@ -1,0 +1,40 @@
+{
+    "sections": {
+        "home": "Ana sayfa",
+        "trading": "Trading",
+        "education": "Eğitim",
+        "company": "Şirket"
+    },
+    "links": {
+        "home": "Ana sayfa",
+        "register": "Kayıt ol",
+        "about": "Hakkımızda",
+        "contact": "Bize ulaşın",
+        "faq": "SSS",
+        "news": "Haberler",
+        "accountTypes": "Hesap türleri",
+        "socialTrading": "Sosyal Trading",
+        "aiTrading": "Yapay Zeka Trading",
+        "affiliate": "Ortaklık Programı",
+        "technicalAnalysis": "Teknik analiz",
+        "tradingStrategies": "Trading stratejileri",
+        "graphicalAnalysis": "Grafik analiz",
+        "fundamentalAnalysis": "Temel analiz",
+        "glossary": "Sözlük",
+        "paymentPolicy": "Ödeme politikası",
+        "returnPolicy": "İade politikası",
+        "amlKyc": "AML & KYC",
+        "privacyPolicy": "Gizlilik Politikası",
+        "terms": "Şartlar ve Koşullar"
+    },
+    "followUs": "Bizi takip edin:",
+    "riskWarning": "Risk Uyarısı: CFD’ler karmaşık enstrümanlardır ve kaldıraç nedeniyle paranızı hızla kaybetme riski yüksektir. Bu sağlayıcıyla CFD işlemi yapan bireysel yatırımcı hesaplarının %72’si para kaybediyor. CFD’lerin nasıl çalıştığını anlayıp anlamadığınızı ve paranızı kaybetme riskini göze alıp alamayacağınızı değerlendirin. Qption LLC, St. Vincent ve Grenadinler’de kayıtlıdır (No. 1744 LLC 22).",
+    "recaptcha": {
+        "prefix": "Bu site reCAPTCHA ve Google",
+        "privacy": "Gizlilik Politikası",
+        "and": "ve",
+        "terms": "Hizmet Şartları",
+        "apply": "koruması altındadır."
+    },
+    "payments": "Ödemeler"
+}

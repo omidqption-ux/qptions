@@ -1,0 +1,174 @@
+{
+    "seo": {
+        "title": "Análise Gráfica no Trading Técnico – Tendências, S/R, Padrões e Velas | Qption",
+        "description": "Guia prático de Análise Gráfica: identifique tendências, trace suportes/resistências, leia padrões de gráfico e velas e use MMs, Bandas de Bollinger, RSI e Fibonacci. Inclui benefícios, limitações e como aplicar visuais para decisões orientadas a dados.",
+        "keywords": "análise gráfica, análise técnica, tendências de preço, suporte e resistência, padrões gráficos, velas, médias móveis, Bandas de Bollinger, RSI, retrações de Fibonacci, linhas de tendência, estratégia de trading, Qption",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "ogAlt": "Análise gráfica com linhas de tendência, padrões e indicadores em um gráfico de trading",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Análise Gráfica no Trading Técnico – Tendências, S/R, Padrões e Velas",
+            "description": "Guia prático de análise gráfica e suas principais ferramentas.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Análise Gráfica"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Tendências de Preço"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Suporte e Resistência"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Padrões Gráficos"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Análise de Velas"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Médias Móveis"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bandas de Bollinger"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "RSI"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Retrações de Fibonacci"
+                }
+            ],
+            "articleSection": [
+                "Análise Gráfica no Trading Técnico",
+                "Visão Geral",
+                "Conceitos-chave",
+                "Técnicas Comuns",
+                "Linhas de Tendência",
+                "Níveis de Suporte e Resistência",
+                "Padrões Gráficos",
+                "Análise de Velas",
+                "Ferramentas Utilizadas",
+                "Benefícios",
+                "Limitações"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Ferramentas centrais",
+                    "value": "Linhas de tendência, S/R, padrões e velas"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Indicadores",
+                    "value": "MMs, Bandas de Bollinger, RSI, Fibonacci"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Casos de uso",
+                    "value": "Identificação de tendência, rompimentos, reversões, alvos, controle de risco"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Voltar para Análise Gráfica"
+    },
+    "page": {
+        "title": "Análise Gráfica no Trading Técnico"
+    },
+    "cta": {
+        "ready": "Pronto para negociar?",
+        "start": "Começar a negociar"
+    },
+    "sections": {
+        "overview": {
+            "h": "Visão Geral",
+            "items": [
+                "A análise gráfica interpreta gráficos e padrões para projetar movimentos futuros com base histórica.",
+                "Apoia-se em ferramentas visuais: padrões, linhas de tendência, níveis S/R e indicadores.",
+                "Usada em ações, forex, cripto e commodities para decisões orientadas a dados."
+            ]
+        },
+        "key": {
+            "h": "Conceitos-chave da Análise Gráfica",
+            "items": {
+                "trends": "Tendências: alta, baixa ou lateral — podem ser identificadas e negociadas.",
+                "sr": "Suporte/Resistência: zonas onde o preço costuma pausar ou reverter.",
+                "patterns": "Padrões gráficos: OCO, triângulos, bandeiras — sugerem continuação ou reversão.",
+                "volume": "Análise de volume: aumento confirma tendências e rompimentos; baixo volume indica fraqueza."
+            }
+        },
+        "tech": {
+            "h": "Técnicas Comuns em Análise Gráfica",
+            "trend": {
+                "h": "1. Linhas de Tendência",
+                "items": [
+                    "Conecte fundos em tendência de alta ou topos em baixa para visualizar a direção.",
+                    "Use como S/R dinâmicos para entradas e saídas."
+                ]
+            },
+            "sr": {
+                "h": "2. Níveis de Suporte e Resistência",
+                "items": [
+                    "Trace horizontais em topos/fundos relevantes onde o preço já reagiu.",
+                    "Use as zonas para entradas/saídas e stops."
+                ]
+            },
+            "patterns": {
+                "h": "3. Padrões Gráficos",
+                "items": [
+                    "Triângulos, bandeiras, topos/fundos duplos e OCO fornecem sinais visuais.",
+                    "Movimento medido projeta alvos pela altura/intervalo do padrão."
+                ]
+            },
+            "candles": {
+                "h": "4. Análise de Velas",
+                "items": [
+                    "Velas mostram A/M/B/F (abertura, máxima, mínima, fechamento) para ler sentimento e momentum.",
+                    "Doji, martelo e engolfo podem sinalizar reversões ou continuações."
+                ]
+            }
+        },
+        "tools": {
+            "h": "Ferramentas Utilizadas",
+            "items": {
+                "ma": "Médias Móveis (SMA/EMA): suavizam o preço e indicam S/R dinâmicos.",
+                "bb": "Bandas de Bollinger: volatilidade; ‘squeezes’ precedem expansões/rompimentos.",
+                "rsi": "RSI: oscilador de momentum para sobrecompra/sobrevenda e divergências.",
+                "fib": "Retrações de Fibonacci: S/R potenciais em 23,6%, 38,2%, 50%, 61,8%, 78,6%."
+            }
+        },
+        "benefits": {
+            "h": "Benefícios da Análise Gráfica",
+            "items": [
+                "Ajuda a identificar tendências e padrões para ideias mais claras.",
+                "Flexível em vários timeframes — scalping, swing e posição.",
+                "Visual e intuitiva — reduz dependência de matemática complexa."
+            ]
+        },
+        "limitations": {
+            "h": "Limitações da Análise Gráfica",
+            "items": [
+                "Subjetividade: traders desenham níveis/padrões de modo diferente.",
+                "Desempenho passado não garante resultados futuros.",
+                "Costuma exigir confirmação por volume/indicadores para reduzir falsos sinais."
+            ]
+        }
+    }
+}

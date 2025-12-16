@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "RSI (Relative Strength Index) – Analyse technique | Qption",
+        "description": "Découvre comment utiliser le RSI : calcul, niveaux surachetés/survendus, lecture des divergences et réglages optimaux selon les marchés.",
+        "keywords": "RSI, Relative Strength Index, analyse technique, oscillateur de momentum, surachat, survente, divergence, stratégie de trading, Qption",
+        "ogTitle": "RSI (Relative Strength Index) – Analyse technique | Qption",
+        "ogDescription": "Guide clair du RSI : calcul, trading des signaux OB/OS, divergences, points forts et limites.",
+        "url": "https://qption.com/technical-analysis/RSIIndicator",
+        "image": "https://qption.com/videos/og/rsi-indicator/rsi-indicator.png"
+    },
+    "labels": {
+        "backToTechnical": "Analyse technique",
+        "videoAria": "Le RSI est un oscillateur de momentum qui mesure la vitesse et l’amplitude des mouvements de prix."
+    },
+    "promo": {
+        "text": "Prêt à trader avec le RSI ?",
+        "cta": "Commencer à trader"
+    },
+    "hero": {
+        "title": "Stratégie RSI",
+        "subtitle": "Maîtrise le trading de momentum avec notre analyse complète du RSI"
+    },
+    "overview": {
+        "title": "Vue d’ensemble",
+        "bullets": [
+            "Le RSI mesure la vitesse et le changement des cours pour détecter momentum et retournements.",
+            "Il oscille entre 0 et 100 — au-dessus de 70 on considère un surachat, en dessous de 30 un survente.",
+            "Il aide à repérer des retournements potentiels et les zones OB/OS sur différents marchés."
+        ]
+    },
+    "how": {
+        "title": "Fonctionnement du RSI",
+        "items": [
+            {
+                "title": "Calcul",
+                "desc": "Basé sur la moyenne des gains/pertes sur une période (généralement 14)."
+            },
+            {
+                "title": "Surachat/Survente",
+                "desc": "Au-dessus de 70 = surachat possible ; en dessous de 30 = survente potentielle."
+            },
+            {
+                "title": "Divergence",
+                "desc": "Si le prix fait de nouveaux extrêmes et pas le RSI, un retournement est possible."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Stratégies clés",
+        "items": [
+            {
+                "title": "1. Trading sur surachat/survente",
+                "points": [
+                    "Acheter quand le RSI repasse au-dessus de 30, vendre lorsqu’il repasse sous 70.",
+                    "Combiner avec Price Action ou autres indicateurs pour confirmer."
+                ]
+            },
+            {
+                "title": "2. Divergences RSI",
+                "points": [
+                    "Divergence haussière : prix en creux plus bas, RSI en creux plus haut.",
+                    "Divergence baissière : prix en sommets plus hauts, RSI en sommets plus bas."
+                ]
+            },
+            {
+                "title": "3. Lignes de tendance sur RSI",
+                "points": [
+                    "Tracer des trendlines directement sur le RSI pour repérer breaks/breakdowns.",
+                    "Associer ces cassures à la structure de marché pour l’entrée/sortie."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limites",
+        "bullets": [
+            "En forte tendance, le RSI peut rester suracheté/survendu longtemps.",
+            "Les marchés hachés ou en range génèrent des signaux erronés."
+        ]
+    }
+}

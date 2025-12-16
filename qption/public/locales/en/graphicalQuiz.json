@@ -1,0 +1,293 @@
+{
+    "seo": {
+        "title": "Graphical Analysis Quiz – Trends, S/R, Patterns & Candlesticks | Qption",
+        "description": "Test your chart-reading skills with Qption’s Graphical Analysis Quiz. Assess your understanding of trends, support/resistance, Fibonacci & Elliott Waves, and continuation/reversal patterns.",
+        "keywords": "graphical analysis quiz, technical analysis quiz, chart patterns, support and resistance, Fibonacci, Elliott Waves, head and shoulders, flags, pennants, trend continuation, reversals, Qption",
+        "ogTitle": "Graphical Analysis Quiz – Trends, S/R, Patterns & Candlesticks | Qption",
+        "ogDescription": "Challenge yourself with interactive questions on trends, S/R, Fibonacci & Elliott, and continuation/reversal patterns.",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Graphical Analysis Quiz – Qption",
+        "twitterDescription": "Put your chart skills to the test with Qption’s Graphical Analysis Quiz.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/graphical-analysis"
+    },
+    "page": {
+        "title": "Graphical Analysis",
+        "subtitle": "Challenge your chart-reading skills with our interactive Graphical Analysis Quiz — test your understanding of trend lines, support/resistance, Fibonacci & Elliott concepts, and continuation/reversal patterns to become a more confident, visually-driven trader."
+    },
+    "quiz": {
+        "header": "Graphical Analysis Quiz",
+        "progress": "Question {{current}} of {{total}}",
+        "correct": "Correct ✅",
+        "incorrect": "Not quite ⚠️",
+        "selectHint": "Select an option and submit your answer.",
+        "learnMore": "Learn more ↗"
+    },
+    "ui": {
+        "previous": "Previous",
+        "submit": "Submit",
+        "finish": "Finish",
+        "next": "Next",
+        "newRandom": "New Random 10",
+        "loading": "Loading quiz…"
+    },
+    "results": {
+        "score": "Score: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Excellent! Your chart-reading is sharp.",
+            "good": "Nice work! Keep practicing to level up.",
+            "retry": "Good start—review the lessons and try again."
+        }
+    },
+    "pool": [
+        {
+            "q": "In graphical analysis, a rising moving average most often suggests:",
+            "options": [
+                "Range conditions",
+                "Downtrend bias",
+                "Uptrend bias",
+                "No signal"
+            ],
+            "correct": "Uptrend bias",
+            "explain": "Slope and price position relative to the MA help define directional bias at a glance.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "A common way to use moving averages as dynamic S/R is to:",
+            "options": [
+                "Wait for price to ignore them",
+                "Look for pullbacks to the MA in trend for continuation",
+                "Fade every MA touch regardless of context",
+                "Use only on yearly charts"
+            ],
+            "correct": "Look for pullbacks to the MA in trend for continuation",
+            "explain": "Pullbacks to MAs during trends can offer structure for risk placement and continuation entries.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Compared to an SMA, an EMA is typically:",
+            "options": [
+                "Slower to react",
+                "The same speed",
+                "Faster to react",
+                "Not a moving average"
+            ],
+            "correct": "Faster to react",
+            "explain": "EMAs weight recent data more, turning quicker than SMAs—useful for faster trend cues.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "A basic bullish crossover cue occurs when:",
+            "options": [
+                "Longer MA crosses above shorter MA",
+                "Shorter MA crosses above longer MA",
+                "Price gaps below both MAs",
+                "Both MAs are flat"
+            ],
+            "correct": "Shorter MA crosses above longer MA",
+            "explain": "Short-over-long crossovers can highlight momentum shifts (still lagging—seek confluence).",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "A widely watched retracement cluster for pullbacks is:",
+            "options": [
+                "5%–10%",
+                "23.6%–33.3%",
+                "38.2%–50%–61.8%",
+                "70%–80%"
+            ],
+            "correct": "38.2%–50%–61.8%",
+            "explain": "These Fibonacci zones are popular for identifying potential reaction areas within trends.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "Fibonacci confluence means:",
+            "options": [
+                "One level from one timeframe",
+                "Multiple Fib levels/structures aligning in the same area",
+                "Ignoring structure and volume",
+                "Only using extensions"
+            ],
+            "correct": "Multiple Fib levels/structures aligning in the same area",
+            "explain": "Confluence (e.g., 61.8% + prior S/R + MA) strengthens the significance of a zone.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "In a classic Elliott impulse, the wave count is typically:",
+            "options": [
+                "3 up, 2 down",
+                "5-wave impulse, then 3-wave correction",
+                "7 random waves",
+                "Only 2 waves"
+            ],
+            "correct": "5-wave impulse, then 3-wave correction",
+            "explain": "Standard structure: five waves with the trend (1–5) followed by ABC correction.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "A common Elliott guideline is that in an impulse:",
+            "options": [
+                "Wave 3 is often the shortest",
+                "Wave 4 commonly overlaps wave 1 in standard impulses",
+                "Wave 3 is often the longest (not the shortest)",
+                "Waves must be equal in time"
+            ],
+            "correct": "Wave 3 is often the longest (not the shortest)",
+            "explain": "Wave 3 frequently carries strongest momentum and should not be the shortest among 1,3,5.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "A Head & Shoulders top typically confirms when:",
+            "options": [
+                "The right shoulder forms",
+                "Price breaks the neckline with acceptance",
+                "Volume decreases on the left shoulder",
+                "Any doji appears"
+            ],
+            "correct": "Price breaks the neckline with acceptance",
+            "explain": "Neckline breaks (ideally with volume/confirmation) validate the reversal structure.",
+            "source": "https://qption.com/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Double bottoms are more reliable when:",
+            "options": [
+                "They form in strong uptrends only",
+                "They’re accompanied by bullish divergence or strong reclaim",
+                "They occur without any prior down move",
+                "They ignore volume completely"
+            ],
+            "correct": "They’re accompanied by bullish divergence or strong reclaim",
+            "explain": "Momentum confirmation or structure reclaim strengthens reversal probability.",
+            "source": "https://qption.com/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "A bearish reversal clue at resistance can be:",
+            "options": [
+                "Rising wedge break down",
+                "Bull flag breakout",
+                "Ascending triangle continuation",
+                "MA pullback in uptrend"
+            ],
+            "correct": "Rising wedge break down",
+            "explain": "Wedges near resistance that break down can precede deeper pullbacks or trend shifts.",
+            "source": "https://qption.com/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Flags and pennants are usually considered:",
+            "options": [
+                "Bottom patterns",
+                "Top patterns",
+                "Continuation patterns",
+                "Volume indicators"
+            ],
+            "correct": "Continuation patterns",
+            "explain": "Brief consolidations that typically resolve in the direction of the prior impulse.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "An ascending triangle often breaks:",
+            "options": [
+                "Down, by definition",
+                "Up, as buyers press a horizontal ceiling",
+                "Sideways forever",
+                "Randomly"
+            ],
+            "correct": "Up, as buyers press a horizontal ceiling",
+            "explain": "Higher lows into flat resistance suggest building pressure for an upward break (confirmation needed).",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "A rectangle consolidation (range) commonly resolves:",
+            "options": [
+                "Only down",
+                "Only up",
+                "Either direction—watch the breakout + retest",
+                "Into a reversal every time"
+            ],
+            "correct": "Either direction—watch the breakout + retest",
+            "explain": "Ranges are neutral containers; context, volume, and breakout behavior guide bias.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "A ‘measured move’ target for a flag/pennant is often estimated by:",
+            "options": [
+                "Prior impulse height projected from the breakout",
+                "Random pip count",
+                "Fibonacci time only",
+                "SMA value"
+            ],
+            "correct": "Prior impulse height projected from the breakout",
+            "explain": "The pole height is often projected from the breakout point as a pragmatic first target.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Graphical analysis emphasizes:",
+            "options": [
+                "Visual structures like trends, S/R, patterns, and levels",
+                "Only indicator math",
+                "News headlines exclusively",
+                "Ignoring multi-timeframe context"
+            ],
+            "correct": "Visual structures like trends, S/R, patterns, and levels",
+            "explain": "It prioritizes chart structure, context, and price behavior to guide decisions.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "A best practice is to align entries with:",
+            "options": [
+                "Higher timeframe trend and key levels",
+                "Random time of day",
+                "A single indicator reading",
+                "No stop loss"
+            ],
+            "correct": "Higher timeframe trend and key levels",
+            "explain": "Top-down confluence improves probabilities and clarity for execution.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Which helps reduce false breakouts in patterns?",
+            "options": [
+                "Entering on first tick through the level always",
+                "Waiting for close/acceptance beyond level and/or retest",
+                "Ignoring volume and context",
+                "Trading without invalidation"
+            ],
+            "correct": "Waiting for close/acceptance beyond level and/or retest",
+            "explain": "Confirmed breaks and retests provide stronger evidence than intrabar pokes.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Stops are often best placed:",
+            "options": [
+                "Inside the structure you're trading",
+                "Beyond invalidation structure (e.g., above/below pattern extremes)",
+                "At exact whole numbers only",
+                "Nowhere—stops aren’t needed"
+            ],
+            "correct": "Beyond invalidation structure (e.g., above/below pattern extremes)",
+            "explain": "Structure-based stops define risk and clarify when the idea is wrong.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        }
+    ]
+}

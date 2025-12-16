@@ -1,0 +1,94 @@
+{
+    "login": "ログイン",
+    "cabinet": "マイページ",
+    "auth": {
+        "login": "ログイン",
+        "register": "登録"
+    },
+    "sections": [
+        {
+            "key": "trading",
+            "title": "トレーディング",
+            "items": [
+                {
+                    "title": "ニュース",
+                    "link": "/news"
+                },
+                {
+                    "title": "アカウントタイプ",
+                    "link": "/Accounttypes"
+                },
+                {
+                    "title": "ソーシャルトレーディング",
+                    "link": "/socialTrading"
+                },
+                {
+                    "title": "AIトレーディング",
+                    "link": "/AITrading"
+                },
+                {
+                    "title": "アフィリエイトプログラム",
+                    "link": "/Affiliate"
+                }
+            ]
+        },
+        {
+            "key": "education",
+            "title": "教育",
+            "items": [
+                {
+                    "title": "テクニカル分析",
+                    "link": "/technical-analysis"
+                },
+                {
+                    "title": "トレーディング戦略",
+                    "link": "/trading-strategy"
+                },
+                {
+                    "title": "グラフィカル分析",
+                    "link": "/graphical-analysis"
+                },
+                {
+                    "title": "ファンダメンタル分析",
+                    "link": "/fundamentalanalysis"
+                },
+                {
+                    "title": "用語集",
+                    "link": "/Glossary"
+                }
+            ]
+        },
+        {
+            "key": "company",
+            "title": "会社情報",
+            "items": [
+                {
+                    "title": "支払いポリシー",
+                    "link": "/PaymentPolicy"
+                },
+                {
+                    "title": "返金ポリシー",
+                    "link": "/ReturnPolicy"
+                },
+                {
+                    "title": "AMLおよびKYC",
+                    "link": "/AMLAndKYC"
+                },
+                {
+                    "title": "プライバシーポリシー",
+                    "link": "/PricvacyPolicy"
+                },
+                {
+                    "title": "利用規約",
+                    "link": "/TermsAndCondition"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "title": "お問い合わせ",
+        "email": "contact@qption.com",
+        "phone": "+46 766926599",
+        "location": "スウェーデン・ストックホルム"
+    }
+}

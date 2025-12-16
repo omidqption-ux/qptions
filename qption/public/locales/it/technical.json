@@ -1,0 +1,81 @@
+{
+    "seo": {
+        "title": "Panoramica di analisi tecnica | Qption",
+        "description": "Padroneggia l’analisi di mercato con la nostra guida completa all’analisi tecnica: concetti chiave, indicatori più usati e limiti comuni.",
+        "keywords": "analisi tecnica, price action, indicatori, trend, supporto resistenza, RSI, medie mobili, Bande di Bollinger, formazione trading, Qption",
+        "ogTitle": "Panoramica di analisi tecnica | Qption",
+        "ogDescription": "Guida pratica e concisa all’analisi tecnica: cos’è, come funziona e quali strumenti usano i trader.",
+        "url": "https://qption.com/technical-analysis/technical",
+        "image": "https://qption.com/images/og/technical-overview-qption.jpg"
+    },
+    "labels": {
+        "backToTechnical": "Analisi tecnica"
+    },
+    "promo": {
+        "text": "Pronto a padroneggiare l’analisi tecnica?",
+        "cta": "Inizia a imparare"
+    },
+    "hero": {
+        "title": "Panoramica di analisi tecnica",
+        "subtitle": "Padroneggia l’arte dell’analisi di mercato con la nostra guida completa"
+    },
+    "overview": {
+        "title": "Panoramica",
+        "bullets": [
+            "L’analisi tecnica usa grafici, pattern e indicatori per anticipare i movimenti futuri dei prezzi.",
+            "Si concentra su dati storici di prezzo, volumi e metriche di mercato per identificare trend e possibili punti di ingresso/uscita.",
+            "È ampiamente utilizzata su azioni, forex, crypto e commodity."
+        ]
+    },
+    "core": {
+        "title": "Concetti chiave",
+        "items": [
+            {
+                "title": "Trend di prezzo",
+                "desc": "I prezzi tendono a muoversi in trend—rialzisti, ribassisti o laterali—che spesso persistono finché non avviene un’inversione."
+            },
+            {
+                "title": "Supporto e resistenza",
+                "desc": "Livelli chiave dove il prezzo può fermarsi o invertire. Il supporto è un pavimento con interesse in acquisto; la resistenza è un soffitto con interesse in vendita."
+            },
+            {
+                "title": "Cicli di mercato",
+                "desc": "I prezzi spesso seguono cicli influenzati da psicologia, condizioni macro e sentiment."
+            }
+        ]
+    },
+    "indicators": {
+        "title": "Indicatori popolari",
+        "items": [
+            {
+                "title": "Medie mobili",
+                "points": [
+                    "Smussano il prezzo per evidenziare la direzione del trend e possibili zone di inversione.",
+                    "Tipologie comuni: SMA (Simple) ed EMA (Exponential)."
+                ]
+            },
+            {
+                "title": "Relative Strength Index (RSI)",
+                "points": [
+                    "Oscillatore di momentum che misura velocità e ampiezza delle variazioni di prezzo.",
+                    "Letture sopra 70 indicano spesso ipercomprato; sotto 30 suggeriscono ipervenduto."
+                ]
+            },
+            {
+                "title": "Bande di Bollinger",
+                "points": [
+                    "Media mobile con bande superiore/inferiore per valutare la volatilità.",
+                    "Le bande si allargano con volatilità alta e si stringono con volatilità bassa."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitazioni",
+        "bullets": [
+            "Si basa su dati passati, che potrebbero non prevedere accuratamente i movimenti futuri.",
+            "Soggetta a falsi segnali in mercati laterali o irregolari.",
+            "Richiede esperienza nell’interpretazione: indicatori diversi possono dare segnali confliggenti, quindi servono letture in confluence e conferme multiple."
+        ]
+    }
+}

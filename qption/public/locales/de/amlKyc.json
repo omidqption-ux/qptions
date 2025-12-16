@@ -1,0 +1,133 @@
+{
+    "seo": {
+        "title": "AML- & CTF-Richtlinie | Qption",
+        "description": "Qptions Richtlinie zur Bekämpfung von Geldwäsche (AML) und Terrorismusfinanzierung (CTF): Definitionen, Programm, Pflichten von Mitarbeitern und Kunden, KYC-Prüfungen, Umgang mit verdächtigen Aktivitäten und Haftung.",
+        "keywords": "AML, CTF, KYC, Geldwäsche, Terrorismusfinanzierung, verdächtige Transaktionen, Compliance, Qption",
+        "ogTitle": "Richtlinie zur Bekämpfung von Geldwäsche (AML) und Terrorismusfinanzierung (CTF) | Qption",
+        "ogDescription": "Erfahren Sie, wie Qption Geldwäsche und Terrorismusfinanzierung verhindert: Programmverwaltung, Überprüfung, Monitoring und Kundenpflichten.",
+        "url": "https://qption.com/aml-kyc",
+        "image": "https://qption.com/images/og/aml-kyc-qption.jpg",
+        "canonical": "https://qption.com/aml-kyc"
+    },
+    "hero": {
+        "title": "Richtlinie zur Bekämpfung von Geldwäsche (AML) und Terrorismusfinanzierung (CTF)"
+    },
+    "sections": [
+        {
+            "key": "general",
+            "icon": "general",
+            "title": "1. Allgemeine Richtlinie",
+            "items": [
+                "Das Unternehmen verbietet und arbeitet aktiv daran, Geldwäsche sowie Aktivitäten zur Finanzierung von Terrorismus oder anderen kriminellen Handlungen zu verhindern. Alle Mitarbeiter und Partner müssen diese Standards einhalten, um eine missbräuchliche Nutzung der Unternehmensdienste zu vermeiden."
+            ]
+        },
+        {
+            "key": "definition",
+            "icon": "definition",
+            "title": "2. Definition von Geldwäsche",
+            "items": [
+                "Geldwäsche umfasst Handlungen, die darauf abzielen, die Herkunft illegal erworbener Gelder zu verschleiern und sie als legale Einnahmen erscheinen zu lassen."
+            ]
+        },
+        {
+            "key": "stages",
+            "icon": "stages",
+            "title": "3. Phasen der Geldwäsche",
+            "items": [
+                "Platzierung: Illegale Gelder werden in das Finanzsystem eingebracht.",
+                "Verschleierung: Gelder werden zwischen Konten oder Institutionen bewegt, um ihre Herkunft weiter zu verbergen.",
+                "Integration: Gelder werden in die Wirtschaft zurückgeführt, um legitime Vermögenswerte zu erwerben oder Aktivitäten zu finanzieren."
+            ]
+        },
+        {
+            "key": "employees",
+            "icon": "employees",
+            "title": "4. Verantwortung der Mitarbeiter",
+            "items": [
+                "Mitarbeiter, die an Unternehmensdienstleistungen beteiligt sind, müssen die geltenden Gesetze und Vorschriften zur Bekämpfung von Geldwäsche kennen und befolgen."
+            ]
+        },
+        {
+            "key": "program",
+            "icon": "program",
+            "title": "5. AML-Compliance-Programm",
+            "items": [
+                "Das Unternehmen unterhält ein fortlaufendes Programm, um die rechtliche Konformität sicherzustellen, das Risiko von Geldwäsche zu minimieren und die regulatorischen Anforderungen in allen Geschäftsbereichen zu koordinieren."
+            ]
+        },
+        {
+            "key": "affiliates",
+            "icon": "affiliates",
+            "title": "6. Compliance der Partner",
+            "items": [
+                "Jeder Unternehmenspartner muss die AML- und Know-Your-Customer-(KYC)-Richtlinien einhalten."
+            ]
+        },
+        {
+            "key": "retention",
+            "icon": "retention",
+            "title": "7. Aufbewahrung von Dokumenten",
+            "items": [
+                "Alle Identifikationsdokumente und Servicedaten werden für mindestens den gesetzlich vorgeschriebenen Zeitraum aufbewahrt."
+            ]
+        },
+        {
+            "key": "training",
+            "icon": "training",
+            "title": "8. Schulung der Mitarbeiter",
+            "items": [
+                "Neue Mitarbeiter erhalten während der Einarbeitung eine Schulung zur Geldwäscheprävention. Eine jährliche AML- und KYC-Schulung ist für relevante Mitarbeiter verpflichtend."
+            ]
+        },
+        {
+            "key": "obligations",
+            "icon": "obligations",
+            "title": "9. Pflichten der Kunden",
+            "items": [
+                "Kunden müssen die Gesetze zur Bekämpfung von Geldwäsche, Betrug und illegalen Aktivitäten einhalten.",
+                "Kunden müssen sicherstellen, dass die auf ihr Konto überwiesenen Gelder aus legalen Quellen stammen."
+            ]
+        },
+        {
+            "key": "checks",
+            "icon": "checks",
+            "title": "10. KYC- und AML-Prüfungen",
+            "items": [
+                "Das Unternehmen behält sich das Recht vor, KYC- und AML/CTF-Prüfungen an Kunden durchzuführen, um gesetzliche Anforderungen zu erfüllen und Finanzkriminalität zu verhindern.",
+                "Kunden sind verpflichtet, alle angeforderten Unterlagen zur Verifizierung bereitzustellen. Die Nichteinhaltung kann zu Verzögerungen oder zur Sperrung von Diensten führen."
+            ]
+        },
+        {
+            "key": "suspicious",
+            "icon": "suspicious",
+            "title": "11. Umgang mit Verdächtigen Transaktionen",
+            "items": [
+                "Wenn verdächtige oder betrügerische Transaktionen festgestellt werden, kann das Unternehmen den Kontozugang sperren, Dienstleistungen aussetzen und Transaktionen bis zum Abschluss der Untersuchung stornieren."
+            ]
+        },
+        {
+            "key": "docs",
+            "icon": "docs",
+            "title": "12. Dokumentenanfragen Während Untersuchungen",
+            "items": [
+                "Während der Untersuchungen kann das Unternehmen Identitätsnachweise und Belege für die Herkunft der Gelder anfordern."
+            ]
+        },
+        {
+            "key": "prohibition",
+            "icon": "prohibition",
+            "title": "13. Verbot Illegaler Aktivitäten",
+            "items": [
+                "Die Nutzung der Unternehmensdienste oder -software für illegale oder betrügerische Aktivitäten, einschließlich Geldwäsche, ist strengstens untersagt."
+            ]
+        },
+        {
+            "key": "liability",
+            "icon": "liability",
+            "title": "14. Haftung des Unternehmens",
+            "items": [
+                "Die Weigerung des Unternehmens, verdächtige Transaktionen zu bearbeiten, begründet keine Haftung gegenüber dem Kunden oder Dritten."
+            ]
+        }
+    ]
+}

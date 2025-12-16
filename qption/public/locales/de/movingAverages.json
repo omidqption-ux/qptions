@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "Strategie der gleitenden Durchschnitte (SMA & EMA) – Technische Analyse | Qption",
+        "description": "Meistere das Trendfolgen mit gleitenden Durchschnitten: SMA vs. EMA, Kreuzungen (Golden/Death Cross), dynamische Unterstützung/Widerstände, MA-Bänder und wichtige Einschränkungen – der vollständige Leitfaden für Trader.",
+        "keywords": "gleitender Durchschnitt, SMA, EMA, Moving Average Crossover, Golden Cross, Death Cross, MA Ribbon, dynamische Unterstützung, Widerstand, Trendfolge, Momentum, technische Analyse, Qption",
+        "ogTitle": "Strategie der gleitenden Durchschnitte (SMA & EMA) – Technische Analyse | Qption",
+        "ogDescription": "Lerne SMA vs. EMA, wie Kreuzungen funktionieren, dynamische Unterstützungen/Widerstände und MA-Bänder, um dein Trading zu verbessern.",
+        "url": "https://qption.com/technical-analysis/moving-averages",
+        "image": "https://qption.com/videos/moving-average/moving-average.png",
+        "imageAlt": "Strategie der gleitenden Durchschnitte auf einem Diagramm erklärt"
+    },
+    "labels": {
+        "backToTechnical": "Technische Analyse",
+        "backToGraphical": "Zurück zur grafischen Analyse"
+    },
+    "promo": {
+        "text": "Bereit, mit gleitenden Durchschnitten zu handeln?",
+        "cta": "Jetzt handeln"
+    },
+    "hero": {
+        "title": "Strategie der gleitenden Durchschnitte",
+        "subtitle": "Meistere Trendfolge und Momentum-Trading mit unserer umfassenden Analyse der gleitenden Durchschnitte"
+    },
+    "video": {
+        "aria": "Gleitende Durchschnitte (MAs) sind beliebte Werkzeuge der technischen Analyse, die Preisdaten glätten und helfen, Trends und Umkehrungen zu erkennen."
+    },
+    "overview": {
+        "title": "Überblick",
+        "bullets": [
+            "Gleitende Durchschnitte (MAs) glätten Preisdaten, um Trends und Umkehrungen leichter zu erkennen.",
+            "Die beiden gebräuchlichsten Arten sind der einfache gleitende Durchschnitt (SMA) und der exponentielle gleitende Durchschnitt (EMA), die unterschiedliche Gewichtungsmethoden verwenden.",
+            "MAs helfen Tradern, die Trendrichtung zu erkennen, Handelssignale zu generieren und dynamische Unterstützungs- und Widerstandsbereiche zu finden."
+        ]
+    },
+    "how": {
+        "title": "Wie gleitende Durchschnitte funktionieren",
+        "items": [
+            {
+                "title": "Einfacher gleitender Durchschnitt (SMA)",
+                "desc": "Ein Durchschnitt der letzten Preise mit gleicher Gewichtung – ideal für allgemeine Trendanalysen."
+            },
+            {
+                "title": "Exponentieller gleitender Durchschnitt (EMA)",
+                "desc": "Gewichtet aktuelle Preise stärker – reagiert schneller auf Marktveränderungen und wird in schnellen Märkten bevorzugt."
+            },
+            {
+                "title": "Trenderkennung",
+                "desc": "Ein Preis über dem gleitenden Durchschnitt deutet auf einen Aufwärtstrend hin; ein Preis darunter auf einen Abwärtstrend."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Wichtige Strategien",
+        "items": [
+            {
+                "title": "Kreuzungsstrategie (Moving Average Crossover)",
+                "points": [
+                    "Golden Cross: Ein kurzfristiger gleitender Durchschnitt (z. B. 50 Tage) kreuzt einen langfristigen (z. B. 200 Tage) von unten nach oben – bullisches Signal.",
+                    "Death Cross: Ein kurzfristiger gleitender Durchschnitt kreuzt den langfristigen von oben nach unten – bärisches Signal."
+                ]
+            },
+            {
+                "title": "Dynamische Unterstützung und Widerstände",
+                "points": [
+                    "In Aufwärtstrends dienen gleitende Durchschnitte oft als dynamische Unterstützung, an der der Preis abprallt.",
+                    "In Abwärtstrends können sie als dynamischer Widerstand fungieren, der den Preis nach unten drückt."
+                ]
+            },
+            {
+                "title": "Strategie der gleitenden Durchschnittsbänder (MA Ribbon)",
+                "points": [
+                    "Mehrere gleitende Durchschnitte (z. B. 10, 20, 50, 100, 200) werden kombiniert, um ein Band zu bilden.",
+                    "Wenn das Band in eine Richtung ausgerichtet ist, signalisiert es oft einen starken Trend."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Einschränkungen",
+        "bullets": [
+            "Gleitende Durchschnitte sind nachlaufende Indikatoren und können bei plötzlichen Marktveränderungen verzögert reagieren.",
+            "Sie können in volatilen oder seitwärts verlaufenden Märkten falsche Signale liefern."
+        ]
+    }
+}

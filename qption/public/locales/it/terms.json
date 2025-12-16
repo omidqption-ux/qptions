@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Termini e condizioni | Qption",
+        "description": "Consulta i Termini e condizioni di Qption: disclosure dei rischi, creazione e verifica del conto, depositi e prelievi, protezione dei dati, AML, forza maggiore e cessazione.",
+        "keywords": "termini e condizioni, disclosure dei rischi, verifica del conto, depositi, prelievi, AML, protezione dei dati, forza maggiore, cessazione, Qption",
+        "ogTitle": "Termini e condizioni | Qption",
+        "ogDescription": "I principali termini che regolano l’uso di Qption: conti, verifiche, pagamenti, sicurezza, AML e altro.",
+        "url": "https://qption.com/terms-and-conditions",
+        "image": "https://qption.com/images/og/terms-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Termini e condizioni | Qption",
+        "twitterDescription": "Comprendi le regole e le tutele applicabili quando utilizzi Qption.",
+        "twitterImage": "https://qption.com/images/og/terms-qption.jpg",
+        "canonical": "https://qption.com/terms-and-conditions"
+    },
+    "hero": {
+        "title": "Termini e condizioni"
+    },
+    "sections": [
+        {
+            "icon": "intro",
+            "title": "1. Introduzione",
+            "items": [
+                "Qption fornisce i servizi di intermediazione specificati nei presenti Termini e Condizioni.",
+                "Questi Termini e Condizioni si aggiungono a qualsiasi altro accordo tra te e Qption.",
+                "Il Cliente è responsabile di consultare regolarmente i presenti Termini; l’uso continuato del sito implica l’accettazione di eventuali modifiche.",
+                "La lingua ufficiale di Qption è l’inglese. Traduzioni o informazioni in altre lingue sono fornite solo per comodità."
+            ]
+        },
+        {
+            "icon": "risk",
+            "title": "2. Disclosure dei rischi",
+            "items": [
+                "I CFD sono prodotti a leva e comportano un livello di rischio elevato. È possibile perdere l’intero capitale investito.",
+                "Questi prodotti potrebbero non essere adatti a tutti. Il Cliente deve assicurarsi di comprendere i rischi coinvolti.",
+                "Il Cliente riconosce che il valore degli investimenti può aumentare o diminuire."
+            ]
+        },
+        {
+            "icon": "definitions",
+            "title": "3. Definizioni",
+            "items": [
+                "Conto: qualsiasi conto creato per un Cliente per operare con Qption.",
+                "Cliente: qualsiasi persona fisica o giuridica cui Qption fornisce servizi.",
+                "Deposito: fondi che il Cliente versa o trasferisce sul proprio conto Qption.",
+                "Prelievo: fondi che il Cliente preleva o trasferisce dal proprio conto Qption."
+            ]
+        },
+        {
+            "icon": "account",
+            "title": "4. Conto del Cliente",
+            "items": [
+                "Per usare i servizi Qption, il Cliente deve aprire un conto con informazioni accurate.",
+                "Il Cliente deve comunicare immediatamente a Qption eventuali variazioni dei dati forniti.",
+                "Le informazioni del conto vengono conservate in conformità con l’Informativa Privacy di Qption."
+            ]
+        },
+        {
+            "icon": "verification",
+            "title": "5. Verifica del conto",
+            "items": [
+                "Qption richiede informazioni e documenti di identità validi per la verifica.",
+                "La Società può richiedere in qualsiasi momento prova di identità e prova di indirizzo.",
+                "Il Cliente deve avere almeno 18 anni per instaurare un rapporto contrattuale con Qption."
+            ]
+        },
+        {
+            "icon": "payments",
+            "title": "6. Depositi e prelievi",
+            "items": [
+                "Il Cliente può depositare fondi in qualsiasi momento tramite metodi di pagamento approvati.",
+                "I prelievi vengono elaborati in conformità al metodo di pagamento usato per i depositi.",
+                "Qption si riserva il diritto di richiedere documentazione che confermi la provenienza dei fondi."
+            ]
+        },
+        {
+            "icon": "dataProtection",
+            "title": "7. Protezione dei dati",
+            "items": [
+                "Qption tutela le informazioni personali dei Clienti usando tecnologia di crittografia SSL.",
+                "La Società utilizza firewall, sistemi di autenticazione e meccanismi di controllo degli accessi.",
+                "Il Cliente deve informare Qption di eventuali modifiche alle proprie informazioni personali."
+            ]
+        },
+        {
+            "icon": "aml",
+            "title": "8. Anti-riciclaggio (AML)",
+            "items": [
+                "Qption si impegna a prevenire il riciclaggio di denaro e il finanziamento del terrorismo.",
+                "La Società mantiene policy allineate alle normative AML.",
+                "Qption si riserva il diritto di rifiutare transazioni connesse ad attività di riciclaggio."
+            ]
+        },
+        {
+            "icon": "forceMajeure",
+            "title": "9. Forza maggiore",
+            "items": [
+                "Qption non sarà responsabile per ritardi o mancata esecuzione causati da eventi fuori dal proprio ragionevole controllo.",
+                "Tali eventi includono, a titolo esemplificativo, cause di forza maggiore, guerra, incendio, alluvioni, guasti di rete e malfunzionamenti hardware o software."
+            ]
+        },
+        {
+            "icon": "termination",
+            "title": "10. Cessazione",
+            "items": [
+                "Ciascuna parte può risolvere il presente accordo con un preavviso scritto di cinque (5) giorni lavorativi.",
+                "Qption può risolvere l’accordo in caso di violazione dei Termini.",
+                "Alla cessazione, eventuali fondi presenti sul conto del Cliente saranno rimborsati al netto delle trattenute applicabili."
+            ]
+        }
+    ]
+}

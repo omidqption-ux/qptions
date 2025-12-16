@@ -1,0 +1,51 @@
+{
+    "seo": {
+        "title": "Grafische Analyse – Interaktive Charts & Pattern-Scanner | Qption",
+        "description": "Erkunde Qptions Suite für grafische Analyse: Multi-Asset-Charts, automatische Mustererkennung und Echtzeit-Zeichenwerkzeuge für Forex, Krypto und Indizes.",
+        "keywords": "grafische Analyse, interaktive Charts, Chartmuster, Dreiecksmuster, Kopf-Schulter, Trendlinien, Forex-Charts, Krypto-Charts, Qption Tools",
+        "ogTitle": "Grafische Analyse – Interaktive Charts & Pattern-Scanner | Qption",
+        "ogDescription": "Erkenne Keile, Kanäle und Breakouts in Sekunden mit Qptions automatischem Pattern-Scanner und den erweiterten Zeichen-Tools.",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Grafische Analyse – Interaktive Charts & Pattern-Scanner | Qption",
+        "twitterDescription": "Handle, was du siehst: Nutze Qptions Live-Charts und Pattern-Recognition-AI für bestätigte Einstiege und Ausstiege.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/graphical-analysis"
+    },
+    "page": {
+        "title": "Grafische Analyse",
+        "subtitle": "Entschlüssele Price Action mit dynamischen Charts, Mustererkennung und visuellen Trends – handle jede Bewegung klar und selbstbewusst."
+    },
+    "ui": {
+        "learnMore": "Mehr erfahren"
+    },
+    "cards": {
+        "movingAverage": {
+            "title": "Gleitender-Durchschnitt-Indikator"
+        },
+        "fibonacciElliott": {
+            "title": "Fibonacci-Retracements & Elliott-Wellen"
+        },
+        "reversal": {
+            "title": "Trendwende-Muster"
+        },
+        "trendContinuation": {
+            "title": "Trendfortsetzungs-Muster"
+        },
+        "graphicalAnalysis": {
+            "title": "Grafische Analyse"
+        }
+    },
+    "video": {
+        "aria": "Technische Analyse nutzt Preis-Charts, Muster und Indikatoren, um zukünftige Bewegungen abzuschätzen."
+    },
+    "cta": {
+        "takeQuiz": "Grafik-Quiz starten"
+    },
+    "bullets": [
+        "Grafische Analyse untersucht das Kursverhalten via Charts, visuelle Muster und Zeichenwerkzeuge, um wahrscheinliche Marktbewegungen zu antizipieren.",
+        "Sie fokussiert visuelle Signale – Trendlinien, Unterstützung/Widerstand, Volumenprofile und Overlays – um Momentumwechsel zu erkennen und Einstiege/Ausstiege zu timen.",
+        "Trader nutzen grafische Analyse über Assets hinweg – Aktien, Krypto, Forex, Rohstoffe – für klare und schnelle Entscheidungen."
+    ]
+}

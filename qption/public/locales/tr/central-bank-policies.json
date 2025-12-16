@@ -1,0 +1,206 @@
+{
+    "seo": {
+        "title": "Merkez Bankası Politikaları & Faiz Oranları – Hisse Senetleri, FX, Tahviller & Emtialar Üzerindeki Etkisi | Qption",
+        "description": "Merkez bankası politikalarının — oranlar, QE/QT ve yönlendirme rehberliği — piyasaları nasıl şekillendirdiğini anlayın. Temel kavramları öğrenin, hisseler, döviz, tahviller ve emtialar üzerindeki tipik tepkileri inceleyin, izlenecek göstergeleri ve yatırımcı/treyderler için avantajları ve sınırlamaları keşfedin.",
+        "keywords": "merkez bankası politikası, faiz oranları, para politikası, nicel genişleme, nicel sıkılaştırma, ileriye dönük yönlendirme, enflasyon hedeflemesi, tahvil getirileri, FX döviz gücü, hisse senedi piyasa etkisi, emtia fiyatları, GSYİH, istihdam, TÜFE, temel analiz, Qption",
+        "ogTitle": "Merkez Bankası Politikaları & Faiz Oranları – Hisse Senetleri, FX, Tahviller & Emtialar Üzerindeki Etkisi | Qption",
+        "ogDescription": "Oranlar, QE/QT ve yönlendirme piyasaları hareket ettirir. Çap-varlık kılavuzunu ve en önemli göstergeleri görün.",
+        "url": "https://qption.com/fundamental-analysis/central-bank-policies-interest-rates",
+        "image": "https://qption.com/images/og/central-bank-policies-interest-rates.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Merkez Bankası Politikaları & Faiz Oranları | Qption",
+        "twitterDescription": "Politika oranları, QE/QT ve rehberliğin hisse senetleri, FX, tahviller ve emtiaları nasıl yönlendirdiğini — treyderlere yönelik çıkarımlarla birlikte.",
+        "twitterImage": "https://qption.com/images/og/central-bank-policies-interest-rates.jpg",
+        "canonical": "https://qption.com/fundamental-analysis/central-bank-policies-interest-rates",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Merkez Bankası Politikaları & Faiz Oranları – Hisse Senetleri, FX, Tahviller & Emtialar Üzerindeki Etkisi",
+            "description": "Para politikasının başlıca varlık sınıflarına nasıl dalga halinde yayıldığına dair pratik rehber, önemli veriler ve tipik piyasa tepkileriyle.",
+            "mainEntityOfPage": "https://qption.com/fundamental-analysis/central-bank-policies-interest-rates",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Monetary Policy"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Interest Rates"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Quantitative Easing (QE)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Quantitative Tightening (QT)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Forward Guidance"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Inflation"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Stocks"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bonds"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Foreign Exchange (Forex)"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Commodities"
+                }
+            ],
+            "articleSection": [
+                "Merkez Bankası Politikalarının ve Faiz Oranlarının Temel Analize Etkisi",
+                "Genel Bakış",
+                "Merkez Bankası Politikaları ve Faiz Oranlarında Temel Kavramlar",
+                "Farklı Piyasalara Etkisi",
+                "Hisse Senedi Piyasaları",
+                "Döviz (Forex) Piyasaları",
+                "Tahvil Piyasaları",
+                "Emtia Piyasaları",
+                "İzlenecek Göstergeler",
+                "Merkez Bankası Politikalarını Anlamanın Avantajları",
+                "Merkez Bankası Politikalarına Güvenmenin Sınırlamaları"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Rate Changes",
+                    "value": "Düşük oranlar → daha ucuz kredi, risk-on; yüksek oranlar → sıkı koşullar, risk-off."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "QE / QT",
+                    "value": "QE likidite ekler ve getirileri bastırır; QT likidite çeker ve getirileri yukarı yönlü hareket ettirebilir."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Forward Guidance",
+                    "value": "Gelecekteki politika yolu için beklentileri yönlendiren iletişim."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Typical Cross-Asset Reactions",
+                    "value": "Kolaylaştırıcı politika: hisseler↑, getiriler↓ (tahviller↑), yerel döviz↓, büyümeye bağımlı emtialar↑. Sıkı politika: hisseler↓, getiriler↑ (tahviller↓), yerel döviz↑, emtialar karışık."
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Key Releases to Watch",
+                    "value": "Faiz kararı, TÜFE/PCE, istihdam/NFP, GSYİH, tutanaklar ve basın toplantıları."
+                }
+            ]
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Temel Analiz"
+    },
+    "page": {
+        "title": "Merkez Bankası Politikaları & Faiz Oranları"
+    },
+    "cta": {
+        "ready": "Ticarete hazır mısınız?",
+        "startTrading": "Ticarete Başla"
+    },
+    "sections": {
+        "overview": {
+            "title": "Genel Bakış",
+            "bullets": [
+                "Merkez bankası politikası — özellikle politika oranı değişimleri — enflasyonu kontrol etmek, para birimlerini stabilize etmek ve büyümeyi etkilemek için birincil araçtır.",
+                "Politika oranları borçlanma maliyetleri, tüketici talebi, yatırım kararlarını ve nihayetinde tüm piyasalar üzerindeki varlık fiyatlarını etkiler.",
+                "Temel analizde, kararları ve yönlendirmeleri takip etmek, traderların makro koşullardaki ve piyasa eğilimlerindeki değişimleri öngörmesine yardımcı olur."
+            ]
+        },
+        "keyConcepts": {
+            "title": "Merkez Bankası Politikaları ve Faiz Oranlarında Öne Çıkan Kavramlar",
+            "items": {
+                "monetaryPolicy": "Para Politikası: Para arzı ve faiz oranları yoluyla ekonominin yönetimi. Genişletici (faiz indirimi) ve daraltıcı (faiz artışı) duruşları içerir.",
+                "interestRates": "Faiz Oranları: Merkez bankaları tarafından belirlenen veya hedeflenen referans oranlar. Düşük oranlar krediyi ucuzlatır ve harcamayı teşvik eder; yüksek oranlar talebi sınırlayabilir.",
+                "qe": "Nicel Genişleme (QE): Likiditeyi enjekte etmek ve getirileri düşürmek amacıyla geniş ölçüde varlık alımları yapılması, genellikle durgunluk dönemlerinde.",
+                "guidance": "İleriye Dönük Yönlendirme (Forward Guidance): Piyasa beklentilerini şekillendiren, muhtemel gelecekteki politika yoluna işaret eden iletişim."
+            }
+        },
+        "impact": {
+            "title": "Farklı Piyasalar Üzerindeki Etki",
+            "stocks": {
+                "title": "1. Hisse Senedi Piyasaları",
+                "bullets": [
+                    "Düşük faiz oranları genellikle finansman maliyetlerini düşürerek ve risk iştahını artırarak hisse senetlerini destekler.",
+                    "Yüksek faiz oranları, daha pahalı kredi ve zayıf tüketici talebi nedeniyle değerlemeler ve karlar üzerinde baskı oluşturabilir."
+                ]
+            },
+            "fx": {
+                "title": "2. Döviz (Forex) Piyasaları",
+                "bullets": [
+                    "Yüksek yerel faiz oranları sermaye girişlerini çekme eğilimindedir ve para birimini güçlendirir.",
+                    "Düşük faiz oranları genellikle para birimini zayıflatır, çünkü getiriler daha iyi başka yerlerde aranmaktadır."
+                ]
+            },
+            "bonds": {
+                "title": "3. Tahvil Piyasaları",
+                "bullets": [
+                    "Tahvil fiyatları getirilerle ters hareket eder; faiz artışları mevcut tahvil fiyatlarına baskı yaparken, düşüşler genellikle fiyatları artırır.",
+                    "Politika yönü, devlet ve şirket tahvili getirilerini şekillendirir ve sabit gelir getirisini doğrudan etkiler."
+                ]
+            },
+            "commodities": {
+                "title": "4. Emtia Piyasaları",
+                "bullets": [
+                    "Düşük faiz oranları büyümeyi teşvik edebilir ve petrol, metaller ve diğer döngüsel emtialar için talebi artırabilir.",
+                    "Yüksek faiz oranları genellikle daha yavaş faaliyetle beraber talebi ve fiyatları zayıflatır."
+                ]
+            }
+        },
+        "indicators": {
+            "title": "İzlenecek Göstergeler",
+            "items": [
+                {
+                    "label": "Faiz Kararları",
+                    "text": "Politika veya referans faiz oranındaki değişikliklerle ilgili düzenli açıklamalar."
+                },
+                {
+                    "label": "Enflasyon Verileri",
+                    "text": "TÜFE/PCE hedeflerin dışında kaldığında sıkılaşma veya gevşeme yönünde ipucu verir."
+                },
+                {
+                    "label": "İstihdam Verileri",
+                    "text": "Güçlü işgücü piyasası faiz artışını tetikleyebilir; zayıf veriler indirim veya QE’ye yol açabilir."
+                },
+                {
+                    "label": "GSYİH Büyümesi",
+                    "text": "Daha hızlı büyüme, aşırı ısınmayı önlemek için yüksek faizlere yol açabilir; yavaşlama ise gevşeme getirir."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Merkez Bankası Politikalarını Anlamanın Avantajları",
+            "bullets": [
+                "Politika döngülerine göre hareket şekille zamanlama yaparak piyasa hareketlerini öngörmeye yardımcı olur.",
+                "Varlık sınıfları boyunca geçerlidir — hisse senetleri, FX, tahviller ve emtialar için önemlidir.",
+                "Makro döngünün okunmasını netleştirerek uzun vadeli pozisyonlama için bilgi verir."
+            ]
+        },
+        "limitations": {
+            "title": "Merkez Bankası Politikalarına Güvenmenin Sınırlamaları",
+            "bullets": [
+                "Öngörülemezlik: Politikalar kriz hâlinde veya veri değişimiyle ani değişebilir.",
+                "Gecikmiş etkiler: Faiz değişiklikleri gerçek ekonomiye yansımakta zaman alır.",
+                "Küresel yayılma etkisi: Diğer ülkelerin politikaları ve sınır ötesi sermaye akımları yerel hareketleri nötralize edebilir veya şiddetlendirebilir."
+            ]
+        }
+    }
+}

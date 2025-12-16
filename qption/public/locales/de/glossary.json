@@ -1,0 +1,131 @@
+{
+    "seo": {
+        "title": "Trading-Glossar – Wichtige Begriffe & Kernkonzepte | Qption",
+        "description": "Klare, kompakte Definitionen der wichtigsten Trading-Begriffe: Bid/Ask, Bullen- & Bärenmärkte, Volatilität, Liquidität, Unterstützung/Widerstand, Trendlinien, Korrelation und mehr.",
+        "keywords": "Trading-Glossar, Trading-Begriffe, Bid, Ask, Bullenmarkt, Bärenmarkt, Volatilität, Liquidität, Unterstützung, Widerstand, Korrelation, Trendlinie, Qption",
+        "ogTitle": "Trading-Glossar – Wichtige Begriffe & Kernkonzepte | Qption",
+        "ogDescription": "Lerne die Sprache der Märkte mit Qptions Glossar: einfache Definitionen und Beispiele zu zentralen Trading-Konzepten.",
+        "url": "https://qption.com/glossary",
+        "image": "https://qption.com/images/og/glossary-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Trading-Glossar – Wichtige Begriffe & Kernkonzepte | Qption",
+        "twitterDescription": "Essenzielle Trading-Definitionen, verständlich erklärt für schnelleres Lernen und bessere Entscheidungen.",
+        "twitterImage": "https://qption.com/images/og/glossary-qption.jpg",
+        "canonical": "https://qption.com/glossary"
+    },
+    "hero": {
+        "title": "Schlüsselbegriffe und Konzepte im Trading"
+    },
+    "terms": [
+        {
+            "key": "ask",
+            "title": "Ask",
+            "desc": "Aktueller Marktpreis, zu dem du ein Asset kaufen kannst."
+        },
+        {
+            "key": "bull",
+            "title": "Bulle",
+            "desc": "Trader oder Investor, der steigende Kurse erwartet und kauft, um später teurer zu verkaufen."
+        },
+        {
+            "key": "bullMarket",
+            "title": "Bullenmarkt",
+            "desc": "Marktumfeld mit überwiegend steigenden Kursen und positiver Stimmung – auf Charts als Aufwärtstrend sichtbar."
+        },
+        {
+            "key": "return",
+            "title": "Rendite",
+            "desc": "Auszahlung bzw. Prozentsatz einer Position. Auf Plattformen wie Qption können Trader – je nach Asset – selbst bei Verlusttrades bis zu 45 % des Einsatzes zurückerhalten. Die Rendite wird beim Kauf festgelegt."
+        },
+        {
+            "key": "volatility",
+            "title": "Volatilität",
+            "desc": "Ausmaß der Kursschwankung in einem Zeitraum. Höhere Volatilität bedeutet größere und schnellere Bewegungen."
+        },
+        {
+            "key": "deposit",
+            "title": "Einzahlung",
+            "desc": "Kapital im Tradingkonto, das zum Eröffnen und Verwalten von Positionen bereitsteht."
+        },
+        {
+            "key": "diversification",
+            "title": "Diversifikation",
+            "desc": "Risikostreuung über verschiedene Assets oder Märkte, um die Abhängigkeit von einer einzelnen Position zu senken."
+        },
+        {
+            "key": "indicator",
+            "title": "Indikator",
+            "desc": "Technisches Analysewerkzeug auf Basis von Preis-/Volumendaten zur Beurteilung von Trend, Momentum oder Volatilität."
+        },
+        {
+            "key": "bid",
+            "title": "Bid",
+            "desc": "Aktueller Marktpreis, zu dem du ein Asset verkaufen kannst."
+        },
+        {
+            "key": "priceCorridor",
+            "title": "Preiskorridor",
+            "desc": "Kursband auf dem Chart, begrenzt durch Unterstützung (unten) und Widerstand (oben), innerhalb dessen ein Asset handelt."
+        },
+        {
+            "key": "correction",
+            "title": "Korrektur",
+            "desc": "Temporäre Gegenbewegung, die einen Teil eines starken Auf- oder Abwärtsimpulses zurücknimmt, bevor der Trend ggf. weiterläuft."
+        },
+        {
+            "key": "correlation",
+            "title": "Korrelation",
+            "desc": "Maß dafür, wie zwei Assets sich zueinander bewegen: von −1 (gegenläufig) bis +1 (gleichläufig). Beispiel: EUR/USD und GBP/USD laufen oft ähnlich."
+        },
+        {
+            "key": "liquidity",
+            "title": "Liquidität",
+            "desc": "Wie leicht sich ein Asset kaufen oder verkaufen lässt, ohne den Preis stark zu bewegen. Höheres Volumen bedeutet meist mehr Liquidität."
+        },
+        {
+            "key": "supportLine",
+            "title": "Unterstützungslinie",
+            "desc": "Preisbereich, in dem historisch Kaufinteresse auftritt und weitere Rückgänge bremst."
+        },
+        {
+            "key": "resistanceLine",
+            "title": "Widerstandslinie",
+            "desc": "Preisbereich, in dem historisch Verkaufsinteresse einsetzt und weitere Anstiege begrenzt."
+        },
+        {
+            "key": "trendLine",
+            "title": "Trendlinie",
+            "desc": "Linie, die in Aufwärtstrends steigende Tiefs (Support) oder in Abwärtstrends fallende Hochs (Widerstand) verbindet und die Trendrichtung visualisiert."
+        },
+        {
+            "key": "bear",
+            "title": "Bär",
+            "desc": "Trader oder Investor, der fallende Kurse erwartet und von Rückgängen profitieren will."
+        },
+        {
+            "key": "bearMarket",
+            "title": "Bärenmarkt",
+            "desc": "Längere Phase sinkender Kurse und negativer Stimmung – auf Charts als anhaltende Abwärtstrends sichtbar."
+        },
+        {
+            "key": "bearRaid",
+            "title": "Bärenangriff",
+            "desc": "Abgestimmter Versuch von Tradern, den Preis eines Assets durch konzentriertes Verkaufen zu drücken."
+        },
+        {
+            "key": "traderSentiment",
+            "title": "Trader-Sentiment",
+            "desc": "Indikator für die Gesamtstimmung der Marktteilnehmer (z. B. Anteil Long vs. Short)."
+        },
+        {
+            "key": "bar",
+            "title": "Bar",
+            "desc": "Chart-Element, das Open, High, Low, Close (OHLC) eines Zeitabschnitts zeigt; Basis von Barcharts."
+        },
+        {
+            "key": "bonus",
+            "title": "Bonus",
+            "desc": "Zusätzliche Mittel, die die Plattform z. B. als Promotion oder Einzahlungsanreiz gutschreibt und die unter bestimmten Bedingungen handelbar sind."
+        }
+    ]
+}

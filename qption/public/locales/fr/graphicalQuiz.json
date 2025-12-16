@@ -1,0 +1,293 @@
+{
+    "seo": {
+        "title": "Quiz d’analyse graphique – Tendances, S/R, Figures et Chandeliers | Qption",
+        "description": "Testez vos compétences de lecture de graphiques avec le Quiz d’analyse graphique de Qption. Évaluez votre compréhension des tendances, supports/résistances, Fibonacci & vagues d’Elliott, et des figures de continuation/inversion.",
+        "keywords": "quiz analyse graphique, quiz analyse technique, figures chartistes, support et résistance, Fibonacci, vagues d’Elliott, épaule-tête-épaule, drapeaux, fanions, continuation de tendance, renversements, Qption",
+        "ogTitle": "Quiz d’analyse graphique – Tendances, S/R, Figures et Chandeliers | Qption",
+        "ogDescription": "Mettez-vous au défi avec des questions interactives sur les tendances, S/R, Fibonacci & Elliott, et les figures de continuation/inversion.",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Quiz d’analyse graphique – Qption",
+        "twitterDescription": "Mettez vos compétences de lecture de graphiques à l’épreuve avec le Quiz d’analyse graphique de Qption.",
+        "twitterImage": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "canonical": "https://qption.com/graphical-analysis"
+    },
+    "page": {
+        "title": "Analyse graphique",
+        "subtitle": "Mettez au défi vos compétences de lecture de graphiques avec notre Quiz d’analyse graphique — testez votre compréhension des lignes de tendance, des zones de support/résistance, des concepts Fibonacci & Elliott, et des figures de continuation/inversion pour devenir un trader plus confiant et guidé par le visuel."
+    },
+    "quiz": {
+        "header": "Quiz d’analyse graphique",
+        "progress": "Question {{current}} sur {{total}}",
+        "correct": "Correct ✅",
+        "incorrect": "Pas tout à fait ⚠️",
+        "selectHint": "Choisissez une option et validez votre réponse.",
+        "learnMore": "En savoir plus ↗"
+    },
+    "ui": {
+        "previous": "Précédent",
+        "submit": "Valider",
+        "finish": "Terminer",
+        "next": "Suivant",
+        "newRandom": "Nouveau 10 aléatoires",
+        "loading": "Chargement du quiz…"
+    },
+    "results": {
+        "score": "Score : {{score}} / {{total}}",
+        "tier": {
+            "excellent": "Excellent ! Votre lecture des graphiques est affûtée.",
+            "good": "Beau travail ! Continuez à pratiquer pour progresser.",
+            "retry": "Bon début — révisez les leçons et réessayez."
+        }
+    },
+    "pool": [
+        {
+            "q": "En analyse graphique, une moyenne mobile ascendante suggère le plus souvent :",
+            "options": [
+                "Des conditions de range",
+                "Un biais baissier",
+                "Un biais haussier",
+                "Aucun signal"
+            ],
+            "correct": "Un biais haussier",
+            "explain": "La pente et la position du prix par rapport à la MM aident à définir rapidement le biais directionnel.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Une façon courante d’utiliser les moyennes mobiles comme S/R dynamiques est :",
+            "options": [
+                "Attendre que le prix les ignore",
+                "Chercher des replis vers la MM dans la tendance pour une continuation",
+                "Vendre/acheter chaque contact avec la MM sans contexte",
+                "Les utiliser uniquement sur des graphiques annuels"
+            ],
+            "correct": "Chercher des replis vers la MM dans la tendance pour une continuation",
+            "explain": "Les replis vers les MM en tendance offrent une structure pour le risque et des entrées de continuation.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Comparée à une SMA, une EMA est généralement :",
+            "options": [
+                "Plus lente à réagir",
+                "De vitesse identique",
+                "Plus rapide à réagir",
+                "Pas une moyenne mobile"
+            ],
+            "correct": "Plus rapide à réagir",
+            "explain": "Les EMA pondèrent davantage les données récentes, tournent plus vite que les SMA — utiles pour des signaux plus rapides.",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Un signal haussier de croisement basique se produit lorsque :",
+            "options": [
+                "La MM longue croise au-dessus de la MM courte",
+                "La MM courte croise au-dessus de la MM longue",
+                "Le prix décroche sous les deux MM",
+                "Les deux MM sont plates"
+            ],
+            "correct": "La MM courte croise au-dessus de la MM longue",
+            "explain": "Les croisements court>long peuvent mettre en évidence un changement de momentum (toujours retardés — cherchez la confluence).",
+            "source": "https://qption.com/graphical-analysis/moving-average",
+            "topic": "MA"
+        },
+        {
+            "q": "Une zone de retracement très suivie pour les replis est :",
+            "options": [
+                "5 %–10 %",
+                "23,6 %–33,3 %",
+                "38,2 %–50 %–61,8 %",
+                "70 %–80 %"
+            ],
+            "correct": "38,2 %–50 %–61,8 %",
+            "explain": "Ces zones Fibonacci sont populaires pour repérer d’éventuelles réactions en tendance.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "La confluence Fibonacci signifie :",
+            "options": [
+                "Un seul niveau sur une seule unité de temps",
+                "Plusieurs niveaux/structures Fib alignés dans la même zone",
+                "Ignorer la structure et le volume",
+                "Utiliser uniquement les extensions"
+            ],
+            "correct": "Plusieurs niveaux/structures Fib alignés dans la même zone",
+            "explain": "La confluence (ex. 61,8 % + ancien S/R + MM) renforce l’importance d’une zone.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "Dans une impulsion Elliott classique, le décompte est généralement :",
+            "options": [
+                "3 vagues haussières, 2 baissières",
+                "Impulsion en 5 vagues, puis correction en 3 vagues",
+                "7 vagues aléatoires",
+                "Seulement 2 vagues"
+            ],
+            "correct": "Impulsion en 5 vagues, puis correction en 3 vagues",
+            "explain": "Structure standard : cinq vagues dans le sens de la tendance (1–5) suivies d’une correction ABC.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "Une règle d’Elliott courante indique que dans une impulsion :",
+            "options": [
+                "La vague 3 est souvent la plus courte",
+                "La vague 4 chevauche souvent la vague 1 dans les impulsions standard",
+                "La vague 3 est souvent la plus longue (pas la plus courte)",
+                "Les vagues doivent être égales en durée"
+            ],
+            "correct": "La vague 3 est souvent la plus longue (pas la plus courte)",
+            "explain": "La vague 3 porte fréquemment le plus fort momentum et ne devrait pas être la plus courte parmi 1,3,5.",
+            "source": "https://qption.com/graphical-analysis/fibonacci-elliott-waves",
+            "topic": "Fib/Elliott"
+        },
+        {
+            "q": "Un sommet en Épaule-Tête-Épaule se confirme généralement lorsque :",
+            "options": [
+                "L’épaule droite se forme",
+                "Le prix casse la ligne de cou avec acceptation",
+                "Le volume diminue sur l’épaule gauche",
+                "Un doji apparaît"
+            ],
+            "correct": "Le prix casse la ligne de cou avec acceptation",
+            "explain": "Les cassures de la ligne de cou (idéalement avec volume/confirmation) valident la structure de renversement.",
+            "source": "https://qption.com/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Les doubles creux sont plus fiables lorsqu’ils :",
+            "options": [
+                "Se forment uniquement en fortes tendances haussières",
+                "S’accompagnent d’une divergence haussière ou d’un solide regagnement",
+                "Surviennent sans mouvement baissier préalable",
+                "Ignorent totalement le volume"
+            ],
+            "correct": "S’accompagnent d’une divergence haussière ou d’un solide regagnement",
+            "explain": "Une confirmation de momentum ou un regagnement structurel renforce la probabilité de renversement.",
+            "source": "https://qption.com/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Un indice de retournement baissier à la résistance peut être :",
+            "options": [
+                "Rupture baissière d’un biseau ascendant",
+                "Cassure haussière d’un drapeau",
+                "Continuation en triangle ascendant",
+                "Repli sur MM en tendance haussière"
+            ],
+            "correct": "Rupture baissière d’un biseau ascendant",
+            "explain": "Les biseaux proches d’une résistance qui rompent à la baisse peuvent précéder des replis plus profonds ou des retournements.",
+            "source": "https://qption.com/graphical-analysis/reversal",
+            "topic": "Reversal"
+        },
+        {
+            "q": "Les drapeaux et les fanions sont généralement considérés comme :",
+            "options": [
+                "Figures de creux",
+                "Figures de sommet",
+                "Figures de continuation",
+                "Indicateurs de volume"
+            ],
+            "correct": "Figures de continuation",
+            "explain": "Brèves consolidations se résolvant typiquement dans le sens de l’impulsion précédente.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Un triangle ascendant casse souvent :",
+            "options": [
+                "À la baisse, par définition",
+                "À la hausse, les acheteurs poussant contre un plafond horizontal",
+                "Latéralement indéfiniment",
+                "Au hasard"
+            ],
+            "correct": "À la hausse, les acheteurs poussant contre un plafond horizontal",
+            "explain": "Des creux ascendants sous une résistance plate suggèrent une pression croissante vers une cassure haussière (confirmation requise).",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Une consolidation en rectangle (range) se résout généralement :",
+            "options": [
+                "Uniquement à la baisse",
+                "Uniquement à la hausse",
+                "Dans les deux sens — surveillez la cassure + le retest",
+                "En renversement à chaque fois"
+            ],
+            "correct": "Dans les deux sens — surveillez la cassure + le retest",
+            "explain": "Les ranges sont neutres ; le contexte, le volume et le comportement de cassure guident le biais.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "Un objectif de « mouvement mesuré » pour un drapeau/fanion est souvent estimé par :",
+            "options": [
+                "La hauteur de l’impulsion précédente projetée depuis la cassure",
+                "Un nombre de pips aléatoire",
+                "Uniquement le temps Fibonacci",
+                "La valeur d’une SMA"
+            ],
+            "correct": "La hauteur de l’impulsion précédente projetée depuis la cassure",
+            "explain": "La hauteur du mât est souvent projetée depuis le point de cassure comme premier objectif pragmatique.",
+            "source": "https://qption.com/graphical-analysis/trend-continuation-patterns",
+            "topic": "Continuation"
+        },
+        {
+            "q": "L’analyse graphique met l’accent sur :",
+            "options": [
+                "Des structures visuelles comme tendances, S/R, figures et niveaux",
+                "Uniquement les mathématiques des indicateurs",
+                "Exclusivement les actualités",
+                "Ignorer le contexte multi-timeframe"
+            ],
+            "correct": "Des structures visuelles comme tendances, S/R, figures et niveaux",
+            "explain": "Elle privilégie la structure du graphique, le contexte et le comportement du prix pour guider les décisions.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Une bonne pratique consiste à aligner les entrées avec :",
+            "options": [
+                "La tendance de l’unité de temps supérieure et les niveaux clés",
+                "Un moment aléatoire de la journée",
+                "Une seule lecture d’indicateur",
+                "Aucun stop-loss"
+            ],
+            "correct": "La tendance de l’unité de temps supérieure et les niveaux clés",
+            "explain": "La confluence top-down améliore les probabilités et la clarté d’exécution.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Qu’est-ce qui aide à réduire les fausses cassures dans les figures ?",
+            "options": [
+                "Entrer au premier tick au-dessus/au-dessous du niveau systématiquement",
+                "Attendre une clôture/acceptation au-delà du niveau et/ou un retest",
+                "Ignorer volume et contexte",
+                "Trader sans invalidation"
+            ],
+            "correct": "Attendre une clôture/acceptation au-delà du niveau et/ou un retest",
+            "explain": "Les cassures confirmées et les retests apportent une preuve plus solide que de simples mèches intrabarres.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        },
+        {
+            "q": "Les stops sont souvent mieux placés :",
+            "options": [
+                "À l’intérieur de la structure que vous tradez",
+                "Au-delà de la structure d’invalidation (ex. au-dessus/en dessous des extrêmes de la figure)",
+                "Uniquement sur des chiffres ronds",
+                "Nulle part — les stops ne sont pas nécessaires"
+            ],
+            "correct": "Au-delà de la structure d’invalidation (ex. au-dessus/en dessous des extrêmes de la figure)",
+            "explain": "Des stops basés sur la structure définissent le risque et clarifient quand l’idée est invalidée.",
+            "source": "https://qption.com/graphical-analysis/graphical-analysis",
+            "topic": "General"
+        }
+    ]
+}

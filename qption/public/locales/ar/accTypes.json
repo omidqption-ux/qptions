@@ -1,0 +1,98 @@
+{
+    "seo": {
+        "title": "أنواع الحساب – قارن بين الخطط | Qption",
+        "description": "تعرّف على أنواع حسابات Qption الستة — Basic، Silver، Gold، Platinum، Diamond وExclusive — وقارن بينها من حيث الحد الأدنى للإيداع، الأدوات، الدعم والمزايا الخاصة. اختر الخطة التي تناسب أهدافك في التداول.",
+        "keywords": "أنواع حساب Qption، حساب Basic، حساب Silver، حساب Gold، حساب Platinum، حساب Diamond، حساب Exclusive، مقارنة حسابات التداول، الحد الأدنى للإيداع، أدوات التداول، خدمات VIP",
+        "ogTitle": "أنواع الحساب – قارن بين الخطط | Qption",
+        "ogDescription": "قارن بين مزايا حسابات Basic، Silver، Gold، Platinum، Diamond وExclusive — من الحد الأدنى للإيداع إلى الدعم المخصص.",
+        "ogUrl": "https://qption.com/accounttypes",
+        "ogImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "أنواع الحساب – قارن بين الخطط | Qption",
+        "twitterDescription": "اختر ما يناسبك — من Basic إلى Exclusive. اطّلع على جميع مستويات الحسابات ومزايا Qption.",
+        "twitterImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "canonical": "https://qption.com/accounttypes",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "اختر نوع حسابك",
+        "subtitle": "اختر الحساب المثالي الذي يتوافق مع أهدافك في التداول",
+        "cta": "ابدأ الآن",
+        "fromPrefix": "$",
+        "invitationOnly": "بناءً على الدعوة فقط"
+    },
+    "plans": {
+        "basic": {
+            "title": "Basic",
+            "desc": "مثالي للبدء بسهولة، مع إمكانية ترقية حالتك في أي وقت.",
+            "from": "10",
+            "features": [
+                "أدوات تداول أساسية",
+                "دعم عبر البريد الإلكتروني",
+                "تحليل السوق",
+                "دعم مخصص على مدار الساعة"
+            ]
+        },
+        "silver": {
+            "title": "Silver",
+            "desc": "أكثر من مجرد حساب Basic — مصمم لمن يريد انطلاقة قوية.",
+            "from": "50",
+            "features": [
+                "جميع مزايا حساب Basic",
+                "دعم ذو أولوية",
+                "مخططات متقدمة",
+                "تحديثات يومية للأسواق"
+            ]
+        },
+        "gold": {
+            "title": "Gold",
+            "desc": "انضم إلى معظم عملائنا ببدء رحلتك بحساب Gold الذي يتضمن استشارات مجانية.",
+            "from": "500",
+            "features": [
+                "جميع مزايا حساب Silver",
+                "استشارات مجانية",
+                "مدير حساب شخصي",
+                "ندوات VIP"
+            ]
+        },
+        "platinum": {
+            "title": "Platinum",
+            "desc": "يبدأ الاستثمار الذكي مع حساب Platinum — استمتع بالمزايا المميزة والقيمة الإضافية.",
+            "from": "5000",
+            "features": [
+                "جميع مزايا حساب Gold",
+                "دعم مخصص 24/7",
+                "استراتيجيات تداول مخصصة",
+                "فعاليات حصرية"
+            ]
+        },
+        "diamond": {
+            "title": "Diamond",
+            "desc": "أعلى مستويات الخبرة والإدارة الحصرية مصممة للمستثمرين الجادين.",
+            "from": "10000",
+            "features": [
+                "جميع مزايا حساب Platinum",
+                "حلول استثمار مخصصة",
+                "جلسات تداول خاصة",
+                "مكافآت فاخرة"
+            ]
+        },
+        "exclusive": {
+            "title": "Exclusive",
+            "desc": "اطلب المزيد من التفاصيل من مدير حسابك.",
+            "from": "بناءً على الدعوة فقط",
+            "features": [
+                "حلول مخصصة",
+                "إدارة ثروات خاصة",
+                "رؤى سوقية حصرية",
+                "خدمات شخصية"
+            ]
+        }
+    },
+    "withdrawal": {
+        "title": "خيارات السحب",
+        "body1": "تداول بحرية وتمتّع بإمكانية الوصول إلى أموالك بسهولة. مع أكثر من 20 وسيلة دفع، يمكنك تحويل الأموال مباشرة إلى بطاقتك الائتمانية أو الخصمية (Visa، MasterCard، Maestro، UnionPay) أو اختيار طرق إلكترونية مثل Neteller، Skrill، Perfect Money، FasaPay وغيرها.",
+        "highlight": "يتمتع أصحاب حسابات Gold وPlatinum وExclusive بأولوية في معالجة عمليات السحب."
+    }
+}

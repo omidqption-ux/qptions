@@ -1,0 +1,21 @@
+{
+    "seo": {
+        "title": "お問い合わせ – Qption",
+        "description": "Qption に関するサポートは年中無休 24 時間対応。チャット・メール・電話でご連絡ください。",
+        "keywords": "Qption お問い合わせ, カスタマーサポート, 取引サポート, 電話, メール",
+        "ogDescription": "取引・提携・プラットフォームについてのご質問は、年中無休で担当者が対応します。",
+        "twitterDescription": "Qption サポート 24/7 — 今すぐお問い合わせください。",
+        "url": "https://qption.com/contact",
+        "ogImage": "https://qption.com/images/og/contact-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "お問い合わせ",
+        "support": "カスタマーサポート",
+        "supportHours": "年中無休 24 時間対応",
+        "email": "メールアドレス",
+        "phone": "電話番号",
+        "address": "住所",
+        "cityCountry": "ストックホルム（スウェーデン）"
+    }
+}

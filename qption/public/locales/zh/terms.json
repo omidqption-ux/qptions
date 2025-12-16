@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "条款与条件 | Qption",
+        "description": "Qption使用条款：风险披露、账户创建与验证、存取款、数据保护、反洗钱、防范不可抗力及协议终止。",
+        "keywords": "条款与条件, 风险披露, 验证, 存款, 取款, 数据保护, 反洗钱, 不可抗力, 协议终止, Qption",
+        "ogTitle": "条款与条件 | Qption",
+        "ogDescription": "了解使用Qption服务的主要条款和责任。",
+        "url": "https://qption.com/terms-and-conditions",
+        "image": "https://qption.com/images/og/terms-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "条款与条件 | Qption",
+        "twitterDescription": "了解使用Qption服务的条件和用户责任。",
+        "twitterImage": "https://qption.com/images/og/terms-qption.jpg",
+        "canonical": "https://qption.com/terms-and-conditions"
+    },
+    "hero": {
+        "title": "条款与条件"
+    },
+    "sections": [
+        {
+            "icon": "intro",
+            "title": "1. 简介",
+            "items": [
+                "Qption根据本条款和条件提供经纪服务。",
+                "本条款是您与Qption之间其他协议的补充。",
+                "客户有责任定期审阅条款，继续使用网站即视为同意。",
+                "Qption的官方语言为英语。翻译仅供参考。"
+            ]
+        },
+        {
+            "icon": "risk",
+            "title": "2. 风险披露",
+            "items": [
+                "差价合约（CFD）为杠杆产品，风险极高，可能导致全部资金损失。",
+                "此类产品并不适合所有人，客户应充分理解相关风险。",
+                "客户承认任何金融投资的价值可能上涨或下跌。"
+            ]
+        },
+        {
+            "icon": "definitions",
+            "title": "3. 定义",
+            "items": [
+                "账户：客户在Qption开设的交易账户。",
+                "客户：指任何接受Qption服务的个人或法人实体。",
+                "存款：客户向Qption账户中存入的资金。",
+                "取款：客户从Qption账户中提取的资金。"
+            ]
+        },
+        {
+            "icon": "account",
+            "title": "4. 客户账户",
+            "items": [
+                "客户必须以准确的信息开立账户以使用Qption服务。",
+                "如信息有变更，客户须及时通知Qption。",
+                "账户信息将按照Qption隐私政策保存。"
+            ]
+        },
+        {
+            "icon": "verification",
+            "title": "5. 账户验证",
+            "items": [
+                "Qption要求提供有效身份信息和文件以进行验证。",
+                "公司可随时要求提供身份证明和地址证明。",
+                "客户必须年满18岁方可签订合同。"
+            ]
+        },
+        {
+            "icon": "payments",
+            "title": "6. 存款与取款",
+            "items": [
+                "客户可随时通过批准的支付方式进行存款。",
+                "取款将通过与存款相同的支付方式处理。",
+                "Qption保留要求提供资金来源证明文件的权利。"
+            ]
+        },
+        {
+            "icon": "dataProtection",
+            "title": "7. 数据保护",
+            "items": [
+                "Qption通过SSL加密技术确保客户信息安全。",
+                "公司使用防火墙、身份验证系统和访问控制机制。",
+                "客户必须及时更新其个人信息并通知Qption。"
+            ]
+        },
+        {
+            "icon": "aml",
+            "title": "8. 反洗钱",
+            "items": [
+                "Qption致力于防止洗钱和恐怖融资活动。",
+                "公司遵守适用的反洗钱法规。",
+                "Qption有权拒绝任何可疑交易。"
+            ]
+        },
+        {
+            "icon": "forceMajeure",
+            "title": "9. 不可抗力",
+            "items": [
+                "如发生超出Qption控制范围的事件，公司不承担责任。",
+                "包括自然灾害、战争、火灾、洪水、网络或系统故障等。"
+            ]
+        },
+        {
+            "icon": "termination",
+            "title": "10. 合同终止",
+            "items": [
+                "任一方可通过书面通知提前五（5）个工作日终止合同。",
+                "如客户违反条款，Qption保留终止合同的权利。",
+                "终止后，客户账户中的资金将在扣除相关费用后退还。"
+            ]
+        }
+    ]
+}

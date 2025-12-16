@@ -1,0 +1,90 @@
+{
+    "seo": {
+        "title": "Estratégia das Bandas de Bollinger – Análise Técnica | Qption",
+        "description": "Domine o trading baseado em volatilidade com as Bandas de Bollinger: setups de compressão, reversões de sobrecompra/sobrevenda e estratégias de seguir a tendência — guia completo da Qption.",
+        "keywords": "Bandas de Bollinger, análise técnica, compressão, sobrecompra, sobrevenda, seguir tendência, volatilidade, estratégia de trading, Qption",
+        "ogTitle": "Estratégia das Bandas de Bollinger – Análise Técnica | Qption",
+        "ogDescription": "Aprenda a usar as Bandas de Bollinger para analisar volatilidade, reversões e tendências com o guia completo da Qption.",
+        "url": "https://qption.com/technical-analysis/bollinger",
+        "image": "https://qption.com/images/og/technical-analysis-qption.jpg"
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estratégia de trading"
+    },
+    "labels": {
+        "backToTechnical": "Análise Técnica",
+        "videoAria": "As Bandas de Bollinger são uma ferramenta popular de análise técnica usada para medir a volatilidade do mercado e identificar condições de sobrecompra ou sobrevenda."
+    },
+    "promo": {
+        "text": "Pronto para operar com Bandas de Bollinger?",
+        "cta": "Começar a operar"
+    },
+    "hero": {
+        "title": "Estratégia das Bandas de Bollinger",
+        "subtitle": "Domine a arte do trading baseado em volatilidade com nossa análise completa das Bandas de Bollinger"
+    },
+    "overview": {
+        "title": "Visão Geral",
+        "bullets": [
+            "As Bandas de Bollinger são uma ferramenta popular de análise técnica usada para medir a volatilidade e identificar condições de sobrecompra ou sobrevenda.",
+            "Compostas por três linhas: a banda do meio (geralmente uma média móvel de 20 dias) e as bandas superior e inferior, que são calculadas a partir de desvios padrão da banda do meio.",
+            "Ajudam os traders a antecipar possíveis movimentos de preço ao analisar a relação entre preço e volatilidade."
+        ]
+    },
+    "how": {
+        "title": "Como funcionam as Bandas de Bollinger",
+        "items": [
+            {
+                "title": "Banda do Meio",
+                "desc": "Uma média móvel (geralmente de 20 períodos) que suaviza os dados de preço e ajuda a identificar a tendência geral."
+            },
+            {
+                "title": "Banda Superior",
+                "desc": "Definida 2 desvios padrão acima da média; quando o preço se aproxima dela, indica possível sobrecompra."
+            },
+            {
+                "title": "Banda Inferior",
+                "desc": "Definida 2 desvios padrão abaixo da média; quando o preço se aproxima, pode indicar sobrevenda."
+            },
+            {
+                "title": "Interpretação da Volatilidade",
+                "desc": "As bandas se expandem em alta volatilidade e se contraem em baixa volatilidade, sinalizando possíveis mudanças de tendência."
+            }
+        ]
+    },
+    "strategies": {
+        "title": "Principais Estratégias",
+        "items": [
+            {
+                "title": "1. Compressão das Bandas de Bollinger (Bollinger Band Squeeze)",
+                "points": [
+                    "Formação: as bandas se estreitam, indicando um período de baixa volatilidade que pode anteceder um movimento expressivo de preço.",
+                    "Interpretação: rompimento acima da banda superior indica tendência de alta; rompimento abaixo da inferior sugere tendência de baixa.",
+                    "Confirmação: o volume ou outros indicadores podem confirmar a força do rompimento."
+                ]
+            },
+            {
+                "title": "2. Reversão de Sobrecompra e Sobrevenda",
+                "points": [
+                    "Condição de sobrecompra: preço tocando ou ultrapassando a banda superior pode indicar possível reversão para baixo.",
+                    "Condição de sobrevenda: preço tocando ou ultrapassando a banda inferior pode sinalizar reversão para cima.",
+                    "Confirmação: indicadores como RSI ajudam a confirmar essas condições, melhorando a precisão dos sinais."
+                ]
+            },
+            {
+                "title": "3. Seguir as Bandas (Riding the Bands)",
+                "points": [
+                    "Sinal de tendência: quando o preço se move ao longo da banda superior, indica forte tendência de alta; ao longo da inferior, tendência de baixa.",
+                    "Entrada e saída: opere na direção da tendência, usando a banda do meio como stop móvel ou ponto de saída."
+                ]
+            }
+        ]
+    },
+    "limitations": {
+        "title": "Limitações",
+        "bullets": [
+            "Indicador atrasado: as Bandas de Bollinger são baseadas em dados históricos e podem reagir lentamente a mudanças rápidas de preço.",
+            "Sinais falsos: podem gerar falsos sinais de sobrecompra/sobrevenda em mercados laterais, levando a perdas potenciais."
+        ]
+    }
+}

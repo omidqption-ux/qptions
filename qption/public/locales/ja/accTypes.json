@@ -1,0 +1,98 @@
+{
+    "seo": {
+        "title": "口座タイプ – プラン比較 | Qption",
+        "description": "Qption の6つの口座タイプ（Basic、Silver、Gold、Platinum、Diamond、Exclusive）を、最低入金額・ツール・サポート・VIP特典で比較。あなたの取引目標に合うプランをお選びください。",
+        "keywords": "Qption 口座タイプ, Basic 口座, Silver 口座, Gold 口座, Platinum 口座, Diamond 口座, Exclusive 口座, 取引口座 比較, 最低入金, 取引ツール, VIP サービス",
+        "ogTitle": "口座タイプ – プラン比較 | Qption",
+        "ogDescription": "Basic、Silver、Gold、Platinum、Diamond、Exclusive の機能を比較—最低資金から専任サポートまで。",
+        "ogUrl": "https://qption.com/accounttypes",
+        "ogImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "口座タイプ – プラン比較 | Qption",
+        "twitterDescription": "Basic から Exclusive まで、最適な口座を見つけましょう。Qption の口座レベルと特典をチェック。",
+        "twitterImage": "https://qption.com/images/og/accounttypes-qption.jpg",
+        "canonical": "https://qption.com/accounttypes",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "口座タイプを選ぶ",
+        "subtitle": "取引目標に最適な口座をお選びください",
+        "cta": "今すぐ開始",
+        "fromPrefix": "$",
+        "invitationOnly": "招待制"
+    },
+    "plans": {
+        "basic": {
+            "title": "Basic",
+            "desc": "手軽に始めたい方に最適。いつでもステータスをアップグレードできます。",
+            "from": "10",
+            "features": [
+                "基本的な取引ツール",
+                "メールサポート",
+                "マーケット分析",
+                "24時間365日の専用サポート"
+            ]
+        },
+        "silver": {
+            "title": "Silver",
+            "desc": "Basic を超える機能を搭載。先行スタートしたい方のための設計。",
+            "from": "50",
+            "features": [
+                "Basic の全機能",
+                "優先サポート",
+                "高度なチャート",
+                "毎日のマーケット更新"
+            ]
+        },
+        "gold": {
+            "title": "Gold",
+            "desc": "多くのお客様が選ぶスタートライン。無料コンサル付きの Gold 口座。",
+            "from": "500",
+            "features": [
+                "Silver の全機能",
+                "無料コンサルティング",
+                "専任アカウントマネージャー",
+                "VIP ウェビナー"
+            ]
+        },
+        "platinum": {
+            "title": "Platinum",
+            "desc": "賢い投資は Platinum から—特別な機能と高い付加価値を提供。",
+            "from": "5000",
+            "features": [
+                "Gold の全機能",
+                "24時間365日の専用サポート",
+                "カスタム取引戦略",
+                "限定イベント"
+            ]
+        },
+        "diamond": {
+            "title": "Diamond",
+            "desc": "真剣な投資家のための最上級の専門性と専用マネジメント。",
+            "from": "10000",
+            "features": [
+                "Platinum の全機能",
+                "オーダーメイド投資ソリューション",
+                "プライベート取引セッション",
+                "ラグジュアリー特典"
+            ]
+        },
+        "exclusive": {
+            "title": "Exclusive",
+            "desc": "詳細はアカウントマネージャーへお問い合わせください。",
+            "from": "招待制",
+            "features": [
+                "カスタムソリューション",
+                "プライベート・ウェルスマネジメント",
+                "独自のマーケットインサイト",
+                "パーソナライズドサービス"
+            ]
+        }
+    },
+    "withdrawal": {
+        "title": "出金オプション",
+        "body1": "自由に取引し、資金へスムーズにアクセス。20種類以上の支払い方法に対応し、デビット／クレジットカード（Visa・MasterCard・Maestro・UnionPay）への直接送金、または Neteller、Skrill、Perfect Money、FasaPay などの電子決済を利用できます。",
+        "highlight": "Gold、Platinum、Exclusive 口座は出金処理が優先されます。"
+    }
+}

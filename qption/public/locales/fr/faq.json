@@ -1,0 +1,108 @@
+{
+    "seo": {
+        "title": "FAQ – Qption",
+        "description": "Trouvez des réponses rapides aux questions fréquentes sur la plateforme Qption, ses tarifs, sa sécurité et son assistance.",
+        "keywords": "FAQ Qption, aide trading d’options, frais, sécurité du compte, dépôts, retraits, assistance technique",
+        "ogDescription": "Tout ce que vous devez savoir sur Qption – rassemblé sur une seule page de FAQ pratique.",
+        "twitterDescription": "Des questions ? Trouvez les réponses dans la FAQ de Qption.",
+        "url": "https://qption.com/faq",
+        "ogImage": "https://qption.com/images/og/faq-qption.jpg",
+        "robots": "index,follow"
+    },
+    "page": {
+        "title": "Questions Fréquemment Posées",
+        "subtitle": "Trouvez les réponses aux questions courantes sur notre plateforme et nos services"
+    },
+    "faqs": [
+        {
+            "icon": "chartLine",
+            "q": "Qu’est-ce que le trading d’options ?",
+            "a": "Le trading d’options consiste à acheter et vendre des contrats donnant le droit (mais non l’obligation) d’acheter ou de vendre un actif à un prix donné avant une date d’échéance. Cela permet de profiter des mouvements de prix sans posséder l’actif."
+        },
+        {
+            "icon": "idCard",
+            "q": "Comment vérifier mon compte et quels documents sont requis ?",
+            "a": "Pour vérifier votre compte, effectuez un dépôt et fournissez une photo couleur d’un document d’identité valide (passeport ou carte nationale). Pour les dépôts par carte, un relevé peut être demandé. Assurez-vous que les documents soient lisibles."
+        },
+        {
+            "icon": "moneyBill",
+            "q": "Quel est le montant minimum de dépôt et de retrait ?",
+            "a": "Montant minimum de dépôt et de retrait : 10 $ (ou équivalent dans votre devise)."
+        },
+        {
+            "icon": "wallet",
+            "q": "Comment effectuer un retrait et quelles méthodes sont disponibles ?",
+            "a": "Rendez-vous dans FINANCES et créez une demande de retrait. Les fonds déposés sont renvoyés à la source d’origine (carte/e-wallet). Les bénéfices vont vers un e-wallet vérifié. Les comptes tiers ne sont pas autorisés."
+        },
+        {
+            "icon": "handshake",
+            "q": "Puis-je devenir partenaire commercial ?",
+            "a": "Oui, via notre programme de parrainage. Partagez votre code, invitez de nouveaux clients et gagnez de l’argent réel."
+        },
+        {
+            "icon": "coins",
+            "q": "Combien puis-je gagner sur la plateforme ?",
+            "a": "Les gains dépendent de votre stratégie, des conditions du marché et de votre gestion du risque. Le trading comporte des risques ; les profits ne sont pas garantis."
+        },
+        {
+            "icon": "exchange",
+            "q": "Comment commencer à trader sur Qption ?",
+            "a": "Créez un compte, vérifiez-le et effectuez un dépôt initial. Ensuite, commencez à trader."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Quels types d’options sont disponibles ?",
+            "a": "Nous proposons des options binaires, digitales et FX, chacune ayant ses caractéristiques et risques."
+        },
+        {
+            "icon": "chartLine",
+            "q": "Quels actifs sont disponibles ?",
+            "a": "Forex, actions, matières premières et indices – pour une diversification complète."
+        },
+        {
+            "icon": "coins",
+            "q": "Quel profit puis-je faire sur une transaction ?",
+            "a": "Cela dépend du type d’option, de la taille de la position et des conditions du marché. Les pertes sont également possibles."
+        },
+        {
+            "icon": "warning",
+            "q": "Le trading d’options est-il risqué ?",
+            "a": "Oui. Les marchés peuvent être imprévisibles. Utilisez une bonne gestion du risque."
+        },
+        {
+            "icon": "tools",
+            "q": "Quels outils de trading offre Qption ?",
+            "a": "Moyennes mobiles, Bandes de Bollinger, RSI, MACD et bien plus pour l’analyse du marché."
+        },
+        {
+            "icon": "clock",
+            "q": "Combien de temps prend un retrait ?",
+            "a": "En général 1 à 24 heures selon la méthode. Nous traitons dès que possible."
+        },
+        {
+            "icon": "creditCard",
+            "q": "Y a-t-il des frais sur Qption ?",
+            "a": "Aucune commission sur la plupart des trades, mais certains peuvent inclure des spreads ou des frais."
+        },
+        {
+            "icon": "lock",
+            "q": "Mes informations sont-elles sécurisées ?",
+            "a": "Oui. Nous utilisons un chiffrement avancé et des normes de sécurité reconnues."
+        },
+        {
+            "icon": "chartBar",
+            "q": "Différence entre options binaires et digitales ?",
+            "a": "Les options binaires ont des paiements fixes, tandis que les digitales varient selon la distance au prix d’exercice."
+        },
+        {
+            "icon": "headset",
+            "q": "Quels sont vos horaires de support ?",
+            "a": "Disponible 24/7 via chat en direct, e-mail ou téléphone."
+        },
+        {
+            "icon": "wallet",
+            "q": "Comment déposer des fonds ?",
+            "a": "Cartes bancaires, virements et portefeuilles électroniques (selon la région)."
+        }
+    ]
+}

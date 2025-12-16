@@ -1,0 +1,76 @@
+{
+    "seo": {
+        "title": "Estrategia de Trading de Tres Métodos – Técnicas de Tendencia, Rango y Reversión | Qption",
+        "description": "Descubre la estrategia de trading de Tres Métodos que combina enfoques de seguimiento de tendencia, rango y reversión. Aprende a identificar condiciones de mercado, filtrar señales y gestionar el riesgo utilizando herramientas como Medias Móviles, Bandas de Bollinger, RSI, MACD y niveles de Fibonacci.",
+        "keywords": "estrategia Tres Métodos, seguimiento de tendencia, trading en rango, reversión a la media, trading de reversión, ADX, MACD, RSI, Bandas de Bollinger, Fibonacci, divergencia, medias móviles, gestión del riesgo, Qption",
+        "ogAlt": "Estrategia de trading Tres Métodos que combina configuraciones de tendencia, rango y reversión",
+        "ld": {
+            "headline": "Estrategia de Trading de Tres Métodos – Técnicas de Tendencia, Rango y Reversión"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estrategia de trading"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "startTrading": "Comienza a operar"
+    },
+    "hero": {
+        "title": "Estrategia de Tres Métodos",
+        "subtitle": "Domina las técnicas de trading de tendencia, rango y reversión — identifica las condiciones del mercado, filtra el ruido y captura configuraciones de alta probabilidad con precisión y confianza."
+    },
+    "trend": {
+        "title": "1. Estrategia de Seguimiento de Tendencia",
+        "items": {
+            "1": "Objetivo: Obtener beneficios operando en la dirección de la tendencia.",
+            "2": "Herramientas: Medias Móviles, MACD, ADX.",
+            "3": "Señal de compra: La media móvil de corto plazo cruza por encima de la de largo plazo (cruce alcista).",
+            "4": "Señal de venta: La media móvil de corto plazo cruza por debajo de la de largo plazo (cruce bajista).",
+            "5": "Ejemplo: Medias Móviles de 50 y 200 días — configuraciones de Cruce Dorado y Cruce de la Muerte."
+        }
+    },
+    "range": {
+        "title": "2. Estrategia de Rango (Reversión a la Media)",
+        "items": {
+            "1": "Objetivo: Obtener beneficios en mercados laterales comprando cerca del soporte y vendiendo cerca de la resistencia.",
+            "2": "Herramientas: Bandas de Bollinger, RSI, niveles de soporte y resistencia.",
+            "3": "Señal de compra: Precio cerca del soporte o de la banda inferior de Bollinger.",
+            "4": "Señal de venta: Precio cerca de la resistencia o de la banda superior de Bollinger.",
+            "5": "Ejemplo: Coloca el stop-loss justo más allá de los límites del rango para evitar pérdidas por rupturas."
+        }
+    },
+    "reversal": {
+        "title": "3. Estrategia de Reversión",
+        "items": {
+            "1": "Objetivo: Obtener beneficios de grandes reversiones de tendencia.",
+            "2": "Herramientas: Patrones de velas, indicadores de divergencia, niveles de Fibonacci.",
+            "3": "Señal de compra: Patrón de reversión alcista (por ejemplo, martillo) con divergencia alcista.",
+            "4": "Señal de venta: Patrón de reversión bajista (por ejemplo, estrella fugaz) con divergencia bajista.",
+            "5": "Ejemplo: Coloca el stop-loss por debajo del mínimo del patrón alcista o por encima del máximo del patrón bajista."
+        }
+    },
+    "combine": {
+        "title": "Combinando los Tres Métodos",
+        "items": {
+            "1": "Identificar las Condiciones del Mercado: Utiliza ADX y Bandas de Bollinger para determinar si el mercado está en tendencia o en rango.",
+            "2": "Filtrar Señales: Confirma las operaciones usando indicadores secundarios para mejorar la precisión.",
+            "3": "Gestión del Riesgo: Ajusta los stop-loss y el tamaño de posición según la volatilidad y las condiciones del mercado."
+        }
+    },
+    "pros": {
+        "title": "Ventajas",
+        "items": {
+            "1": "Versátil: Funciona en condiciones de mercado con tendencia, rango o reversión.",
+            "2": "Mayor Precisión: El uso de varios métodos reduce las señales falsas.",
+            "3": "Integral: Equilibra enfoques de tendencia, rango y reversión para un trading más completo."
+        }
+    },
+    "cons": {
+        "title": "Desventajas",
+        "items": {
+            "1": "Complejidad: Requiere comprensión de múltiples técnicas e indicadores de trading.",
+            "2": "Alta Supervisión: Exige análisis activo y ajustes regulares.",
+            "3": "Riesgo de Sobreoperar: Puede llevar a realizar demasiadas operaciones si no se gestiona con disciplina."
+        }
+    }
+}

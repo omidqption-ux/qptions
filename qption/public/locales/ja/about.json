@@ -1,0 +1,62 @@
+{
+    "seo": {
+        "title": "会社概要 – Qption",
+        "description": "Qption のチーム・使命・技術をご紹介。高速・透明で、あらゆるレベルのトレーダーに適した取引プラットフォームです。"
+    },
+    "hero": {
+        "title": "オンライン取引を再発明",
+        "subtitle": "フィンテックの専門家により設立された Qption は、デジタル時代のトレードを再定義します。取引は誰にでもアクセスでき、革新的で、報われるべきだと信じています。"
+    },
+    "box": {
+        "heading": "Qption について",
+        "companyRegistration": {
+            "title": "会社登録",
+            "body": "Qption LLC は SVG（セントビンセントおよびグレナディーン）に登録：First Floor, First St. Vincent Bank Ltd Building, James Street, Kingstown。登録番号 1744 LLC 22。"
+        },
+        "globalPresence": {
+            "title": "グローバル展開",
+            "body": "世界中のトレーダーに、安全で信頼できるプラットフォームを提供します。"
+        },
+        "securityFirst": {
+            "title": "セキュリティ最優先",
+            "body": "お客様の安全が最優先です。業界トップの対策でデータと資産を保護します。"
+        },
+        "tradingExcellence": {
+            "title": "卓越したトレーディング",
+            "body": "高度なツールとリソースで、市場での成功を後押しします。"
+        }
+    },
+    "stats": {
+        "activeTraders": "アクティブトレーダー",
+        "monthlyVolume": "月間取引高",
+        "countries": "国/地域数",
+        "avgIncome": "平均月収"
+    },
+    "values": {
+        "heading": "私たちの価値観",
+        "innovationFirst": {
+            "title": "イノベーション第一",
+            "desc": "最先端の機能と新基準で常に限界に挑戦します。"
+        },
+        "customerCentric": {
+            "title": "顧客中心",
+            "desc": "お客様の成功が私たちの成功。優れたサービスとサポートを提供します。"
+        },
+        "communityDriven": {
+            "title": "コミュニティ主導",
+            "desc": "トレーダーの交流と成功の共有でプラットフォームは成長します。"
+        },
+        "integrity": {
+            "title": "誠実さ",
+            "desc": "あらゆる業務で透明性とコンプライアンスを徹底します。"
+        },
+        "sustainability": {
+            "title": "持続可能性",
+            "desc": "長期的な関係を築き、安定した信頼できる基盤を構築します。"
+        },
+        "sharedSuccess": {
+            "title": "成功の共有",
+            "desc": "すべての人にとってアクセスしやすく、収益性の高い取引を実現します。"
+        }
+    }
+}

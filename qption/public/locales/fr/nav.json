@@ -1,0 +1,94 @@
+{
+    "login": "Connexion",
+    "cabinet": "Espace client",
+    "auth": {
+        "login": "Connexion",
+        "register": "Inscription"
+    },
+    "sections": [
+        {
+            "key": "trading",
+            "title": "Trading",
+            "items": [
+                {
+                    "title": "Actualités",
+                    "link": "/news"
+                },
+                {
+                    "title": "Types de comptes",
+                    "link": "/Accounttypes"
+                },
+                {
+                    "title": "Social Trading",
+                    "link": "/socialTrading"
+                },
+                {
+                    "title": "Trading IA",
+                    "link": "/AITrading"
+                },
+                {
+                    "title": "Programme d’affiliation",
+                    "link": "/Affiliate"
+                }
+            ]
+        },
+        {
+            "key": "education",
+            "title": "Formation",
+            "items": [
+                {
+                    "title": "Analyse technique",
+                    "link": "/technical-analysis"
+                },
+                {
+                    "title": "Stratégies de trading",
+                    "link": "/trading-strategy"
+                },
+                {
+                    "title": "Analyse graphique",
+                    "link": "/graphical-analysis"
+                },
+                {
+                    "title": "Analyse fondamentale",
+                    "link": "/fundamentalanalysis"
+                },
+                {
+                    "title": "Glossaire",
+                    "link": "/Glossary"
+                }
+            ]
+        },
+        {
+            "key": "company",
+            "title": "Entreprise",
+            "items": [
+                {
+                    "title": "Politique de paiement",
+                    "link": "/PaymentPolicy"
+                },
+                {
+                    "title": "Politique de retrait",
+                    "link": "/ReturnPolicy"
+                },
+                {
+                    "title": "AML & KYC",
+                    "link": "/AMLAndKYC"
+                },
+                {
+                    "title": "Politique de confidentialité",
+                    "link": "/PricvacyPolicy"
+                },
+                {
+                    "title": "Conditions générales",
+                    "link": "/TermsAndCondition"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "title": "Contactez-nous",
+        "email": "contact@qption.com",
+        "phone": "+46 766926599",
+        "location": "Stockholm, Suède"
+    }
+}

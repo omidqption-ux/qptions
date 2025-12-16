@@ -1,0 +1,74 @@
+{
+    "seo": {
+        "title": "Estratégia de Velas Engulfing – Padrões de Reversão de Alta e Baixa | Qption",
+        "description": "Aprenda a estratégia de velas Engulfing: identifique padrões de reversão de alta e de baixa, confirme com suporte/resistência e volume, e gerencie o risco com stops precisos. Inclui regras de identificação, confirmações, prós e contras.",
+        "keywords": "vela engolfante, engolfamento de alta, engolfamento de baixa, padrão de reversão, price action, suporte e resistência, confirmação de volume, gestão de risco, análise técnica, estratégia de trading, Qption",
+        "ogAlt": "Estratégia de velas Engulfing mostrada em um gráfico de trading",
+        "ld": {
+            "headline": "Estratégia de Velas Engulfing – Padrões de Reversão de Alta e Baixa"
+        }
+    },
+    "breadcrumb": {
+        "tradingStrategy": "Estratégia de trading"
+    },
+    "hero": {
+        "title": "Estratégia de Velas Engulfing"
+    },
+    "cta": {
+        "ready": "Pronto para negociar?",
+        "startTrading": "Começar a negociar"
+    },
+    "video": {
+        "aria": "A estratégia de velas Engulfing é um padrão de reversão popular que indica uma possível mudança de tendência."
+    },
+    "overview": {
+        "title": "Visão geral",
+        "items": {
+            "1": "A estratégia de velas Engulfing é um padrão de reversão popular que sinaliza uma possível mudança de tendência.",
+            "2": "Esta estratégia envolve identificar um padrão em que uma vela maior 'engole' completamente o corpo da vela anterior.",
+            "3": "Existem dois tipos principais: Engulfing de alta (sinaliza reversão para tendência de alta) e Engulfing de baixa (sinaliza reversão para tendência de baixa)."
+        }
+    },
+    "bullish": {
+        "title": "1. Padrão Engulfing de Alta",
+        "items": {
+            "1": "Formação: ocorre durante uma tendência de baixa, quando uma grande vela de alta cobre completamente o corpo da vela anterior.",
+            "2": "Primeira vela: uma vela de baixa menor que mostra a continuação da tendência de queda.",
+            "3": "Segunda vela: uma vela de alta maior que abre abaixo do fechamento anterior e fecha acima da abertura anterior.",
+            "4": "Confirmação: uma vela de alta seguinte confirma a reversão da tendência."
+        }
+    },
+    "bearish": {
+        "title": "2. Padrão Engulfing de Baixa",
+        "items": {
+            "1": "Formação: aparece durante uma tendência de alta, quando uma grande vela de baixa cobre completamente o corpo da vela anterior.",
+            "2": "Primeira vela: uma vela de alta menor que mostra a continuação da tendência de alta.",
+            "3": "Segunda vela: uma vela de baixa maior que abre acima do fechamento anterior e fecha abaixo da abertura anterior.",
+            "4": "Confirmação: uma vela de baixa seguinte confirma a reversão da tendência."
+        }
+    },
+    "using": {
+        "title": "Como usar a Estratégia de Velas Engulfing",
+        "items": {
+            "1": "Combine com níveis de suporte e resistência para aumentar a confiabilidade do sinal.",
+            "2": "Use indicadores de volume para confirmar a força na direção da vela engolfante.",
+            "3": "Coloque ordens de stop-loss abaixo da mínima do Engulfing de alta ou acima da máxima do Engulfing de baixa para gerenciar o risco."
+        }
+    },
+    "pros": {
+        "title": "Vantagens",
+        "items": {
+            "1": "Sinal claro de reversão: fornece uma indicação evidente de uma possível mudança de tendência.",
+            "2": "Funciona em vários prazos: útil para trades de curto e longo prazo.",
+            "3": "Fácil de identificar: reconhecido facilmente com conhecimento básico de velas."
+        }
+    },
+    "cons": {
+        "title": "Desvantagens",
+        "items": {
+            "1": "Requer confirmação: precisa de validação adicional para evitar sinais falsos.",
+            "2": "Menos confiável em mercados de baixo volume: sinais falsos são mais comuns em baixa liquidez.",
+            "3": "Pode ser enganoso se usado sozinho: é melhor combiná-lo com outros indicadores para validação adicional."
+        }
+    }
+}

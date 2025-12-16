@@ -1,0 +1,50 @@
+{
+    "seo": {
+        "title": "Estrategia de Reversión | Qption",
+        "description": "Aprende la Estrategia de Reversión: identifica agotamiento de tendencia, usa soporte/resistencia, RSI, MACD, divergencias y patrones de velas para confirmar entradas y gestionar el riesgo con stops y objetivos definidos.",
+        "keywords": "estrategia de reversión, giro de tendencia, agotamiento, soporte y resistencia, divergencia, RSI, MACD, patrones de velas, martillo, envolvente, gestión del riesgo, señales de confirmación, estrategia de trading, Qption",
+        "url": "https://qption.com/es/graphical-analysis/reversal",
+        "image": "https://qption.com/videos/reversal-strategy/reversal-strategy.png",
+        "ogAlt": "Estrategia de Reversión"
+    },
+    "ui": {
+        "backToGraphical": "Volver al Análisis Gráfico",
+        "graphicalLink": "Análisis Gráfico"
+    },
+    "page": {
+        "title": "Estrategia de Reversión"
+    },
+    "cta": {
+        "ready": "¿Listo para operar?",
+        "start": "Comenzar a operar"
+    },
+    "video": {
+        "aria": "Una reversión ocurre cuando la tendencia actual se debilita y puede cambiar de dirección. Los traders observan señales de agotamiento como menor impulso, máximos descendentes en alzas o mínimos ascendentes en bajadas."
+    },
+    "sections": {
+        "keyConcepts": {
+            "h": "Conceptos Clave de la Estrategia de Reversión",
+            "items": [
+                "Agotamiento de tendencia: la reversión surge cuando el impulso se debilita.",
+                "Soporte y resistencia: niveles fuertes pueden detener y revertir el precio.",
+                "Indicadores técnicos: RSI, MACD o Estocástico muestran zonas de sobrecompra o sobreventa.",
+                "Patrones de velas: Doji, Martillo y Envolvente señalan posibles giros.",
+                "Divergencia: cuando el precio y el indicador se mueven en direcciones opuestas, puede producirse un giro."
+            ]
+        },
+        "apply": {
+            "h": "Aplicación de la Estrategia de Reversión",
+            "items": [
+                "Identifica la tendencia dominante; las reversiones funcionan mejor tras movimientos fuertes.",
+                "Busca señales de agotamiento o patrones de velas de cambio.",
+                "Confirma con rupturas de S/R, divergencias o secuencias de velas contrarias.",
+                "Define entradas y salidas con soportes, resistencias o medias móviles.",
+                "Gestiona el riesgo con stops ajustados más allá de la zona de fallo."
+            ]
+        },
+        "example": {
+            "h": "Ejemplo de una Estrategia de Reversión en Acción",
+            "text": "Una acción en tendencia alcista durante semanas muestra RSI sobre 70 y una vela envolvente bajista cerca de una resistencia, mientras MACD diverge. El trader entra corto con un stop sobre la resistencia buscando beneficio en la caída."
+        }
+    }
+}

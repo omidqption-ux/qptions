@@ -1,0 +1,142 @@
+{
+    "seo": {
+        "title": "Política de Privacidade e Coleta de Dados | Qption",
+        "description": "Como a Qption coleta, usa e protege seus dados: objetivos, identificação, marketing, divulgação, segurança, retenção e cookies.",
+        "keywords": "privacidade, proteção de dados, coleta de informações, cookies, segurança, Qption",
+        "ogTitle": "Política de Privacidade e Coleta de Dados | Qption",
+        "ogDescription": "Saiba o que coletamos, por que coletamos e como protegemos suas informações.",
+        "url": "https://qption.com/privacy-policy",
+        "image": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Política de Privacidade e Coleta de Dados | Qption",
+        "twitterDescription": "Nossa política de coleta, uso e proteção de dados pessoais.",
+        "twitterImage": "https://qption.com/images/og/privacy-policy-qption.jpg",
+        "canonical": "https://qption.com/privacy-policy"
+    },
+    "hero": {
+        "title": "Política de Privacidade e Coleta de Dados"
+    },
+    "sections": [
+        {
+            "title": "1. Consentimento para Coleta de Dados",
+            "items": [
+                "Ao acessar https://qption.com/ e usar os serviços, o cliente concorda com a coleta e o processamento de seus dados pessoais."
+            ]
+        },
+        {
+            "title": "2. Informações Coletadas",
+            "items": [
+                "Durante o registro ou uso, podem ser coletados nome, data de nascimento, e-mail, endereço, telefone, IP, detalhes de transação e visitas ao site."
+            ]
+        },
+        {
+            "title": "3. Uso dos Dados Pessoais",
+            "items": [
+                "Os dados podem ser usados para administrar o site, gerenciar bancos de dados, processar transações e realizar marketing."
+            ]
+        },
+        {
+            "title": "4. Finalidade da Coleta de Dados",
+            "items": [
+                "Os dados são coletados para cumprir obrigações legais, segurança, backups e aprimoramento de serviços."
+            ]
+        },
+        {
+            "title": "5. Requisitos de Identificação",
+            "items": [
+                "O cliente deve fornecer informações de identificação para registro e cumprimento das leis de prevenção à lavagem de dinheiro."
+            ]
+        },
+        {
+            "title": "6. Exatidão das Informações",
+            "items": [
+                "O cliente deve fornecer informações verdadeiras e atualizadas e comunicar qualquer alteração em até 30 dias."
+            ]
+        },
+        {
+            "title": "7. Uso de Dados para Marketing",
+            "items": [
+                "A empresa pode usar as informações fornecidas para enviar materiais promocionais."
+            ]
+        },
+        {
+            "title": "8. Divulgação de Informações",
+            "items": [
+                "As informações podem ser divulgadas apenas quando exigido por lei e na medida mínima necessária."
+            ]
+        },
+        {
+            "title": "9. Uso de Dados Não Pessoais",
+            "items": [
+                "Os dados não pessoais podem ser usados para fins de publicidade e análise."
+            ]
+        },
+        {
+            "title": "10. Solicitação de Documentos",
+            "items": [
+                "O cliente pode ser solicitado a apresentar documentos de identificação; a falta de envio pode levar à suspensão da conta."
+            ]
+        },
+        {
+            "title": "11. Confidencialidade dos Dados",
+            "items": [
+                "A empresa não divulgará dados do cliente sem consentimento, exceto quando exigido por lei."
+            ]
+        },
+        {
+            "title": "12. Armazenamento das Informações da Conta",
+            "items": [
+                "Os dados da conta e das operações são mantidos para possíveis disputas entre cliente e empresa."
+            ]
+        },
+        {
+            "title": "13. Revisão das Informações do Cliente",
+            "items": [
+                "A empresa se reserva o direito de revisar as informações fornecidas pelo cliente."
+            ]
+        },
+        {
+            "title": "14. Proteção de Dados",
+            "items": [
+                "A empresa adota medidas avançadas de proteção de dados e as atualiza regularmente."
+            ]
+        },
+        {
+            "title": "15. Credenciais de Login e Privacidade",
+            "items": [
+                "Os clientes devem usar credenciais seguras e são responsáveis pela sua confidencialidade."
+            ]
+        },
+        {
+            "title": "16. Acesso Não Autorizado à Conta",
+            "items": [
+                "O cliente deve informar o suporte se suspeitar de uso não autorizado da conta."
+            ]
+        },
+        {
+            "title": "17. Segurança dos Dados do Cartão",
+            "items": [
+                "A empresa não armazena dados de cartão; as informações são protegidas por TLS 1.2 e AES-256."
+            ]
+        },
+        {
+            "title": "18. Solicitação de Exclusão de Dados",
+            "items": [
+                "Os clientes podem solicitar exclusão de dados por e-mail. Alguns dados podem ser mantidos conforme exigido por lei."
+            ]
+        },
+        {
+            "title": "19. Retenção de Dados e Atualizações da Política",
+            "items": [
+                "Os dados são mantidos enquanto necessários. O uso contínuo após atualizações implica aceitação da nova política."
+            ]
+        },
+        {
+            "title": "20. Política de Cookies",
+            "items": [
+                "Cookies são pequenos arquivos usados para melhorar a experiência do usuário e podem ser desativados no navegador.",
+                "Os cookies da empresa não armazenam informações pessoais, como nome ou e-mail."
+            ]
+        }
+    ]
+}

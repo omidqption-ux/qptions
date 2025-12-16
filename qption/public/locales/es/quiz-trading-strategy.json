@@ -1,0 +1,85 @@
+{
+    "seo": {
+        "title": "Quiz de Estrategias Técnicas – Pon a prueba tu conocimiento de trading | Qption",
+        "description": "Desafíate con 10 preguntas aleatorias sobre estrategias como V-Bounce, rupturas, reversiones, Alligator, Bandas de Bollinger, medias móviles, Tres Métodos, Pinzas, velas Squat y patrones Engulfing.",
+        "keywords": "quiz de trading, test de análisis técnico, V-Bounce, ruptura, reversión, Alligator, Bandas de Bollinger, medias móviles, tres métodos, pinzas, vela squat, engulfing, Qption",
+        "ogTitle": "Quiz de Estrategias Técnicas – Pon a prueba tu conocimiento de trading",
+        "ogDescription": "10 preguntas aleatorias por ronda. Aprende practicando y mejora tu ventaja estratégica.",
+        "url": "https://qption.com/es/tools/technical-quiz",
+        "image": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "twitterSite": "@qption",
+        "twitterTitle": "Quiz de Estrategias Técnicas – Pon a prueba tu conocimiento de trading",
+        "twitterDescription": "De rupturas a reversiones: demuestra tu habilidad con nuestro quiz interactivo.",
+        "twitterImage": "https://qption.com/images/og/technical-quiz-qption.jpg",
+        "canonical": "https://qption.com/es/tools/technical-quiz"
+    },
+    "page": {
+        "title": "Quiz de Estrategias Técnicas",
+        "subtitle": "Pon a prueba tu comprensión de los patrones de gráficos, indicadores y planes de trading. Cada sesión incluye 10 preguntas aleatorias con respuestas mezcladas para mantenerte alerta."
+    },
+    "quiz": {
+        "header": "Quiz de Estrategias de Trading",
+        "progress": "Pregunta {{current}} de {{total}}",
+        "correct": "¡Correcto! ✅",
+        "incorrect": "No exactamente ⚠️",
+        "selectHint": "Selecciona una opción y envía tu respuesta.",
+        "learnMore": "Leer más ↗"
+    },
+    "ui": {
+        "previous": "Anterior",
+        "submit": "Enviar",
+        "next": "Siguiente",
+        "finish": "Finalizar",
+        "newRandom": "Nuevas 10 preguntas aleatorias",
+        "loading": "Cargando quiz..."
+    },
+    "results": {
+        "score": "Puntuación: {{score}} / {{total}}",
+        "tier": {
+            "excellent": "¡Excelente! Tu conocimiento de estrategias es sólido.",
+            "good": "¡Buen trabajo! Sigue practicando para mejorar aún más.",
+            "retry": "Buen comienzo — repasa las lecciones y vuelve a intentarlo."
+        }
+    },
+    "pool": [
+        {
+            "q": "En una configuración V-Bounce, los traders se enfocan en las reacciones del precio en:",
+            "options": [
+                "Puntos de precio aleatorios",
+                "Zonas de soporte o resistencia predefinidas",
+                "Cruces de medias móviles únicamente",
+                "Extensiones temporales de Fibonacci exclusivamente"
+            ],
+            "correct": "Zonas de soporte o resistencia predefinidas",
+            "explain": "V-Bounce busca rebotes rápidos en áreas clave de soporte/resistencia para entradas precisas.",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "Después de una ruptura en un plan V-Bounce, el primer retroceso al nivel roto se usa para:",
+            "options": [
+                "Operar en contra inmediatamente",
+                "Confirmar la fuerza y buscar entradas de continuación",
+                "Ignorar el mercado",
+                "Cambiar a inversión a largo plazo"
+            ],
+            "correct": "Confirmar la fuerza y buscar entradas de continuación",
+            "explain": "Los retrocesos (boomerangs) pueden confirmar la ruptura y ofrecer una segunda oportunidad de entrada.",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        },
+        {
+            "q": "Una decisión de 'rebote o ruptura' en un nivel depende principalmente de:",
+            "options": [
+                "Si el nivel se mantiene o se rompe de manera convincente",
+                "El día de la semana",
+                "El tamaño del spread únicamente",
+                "El tipo de cuenta"
+            ],
+            "correct": "Si el nivel se mantiene o se rompe de manera convincente",
+            "explain": "El precio respeta el nivel (rebote) o lo atraviesa con fuerza (ruptura).",
+            "source": "https://qption.com/trading-strategy/v-bounce",
+            "topic": "V-Bounce"
+        }
+    ]
+}

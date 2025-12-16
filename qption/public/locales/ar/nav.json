@@ -1,0 +1,94 @@
+{
+    "login": "تسجيل الدخول",
+    "cabinet": "اللوحة",
+    "auth": {
+        "login": "تسجيل الدخول",
+        "register": "إنشاء حساب"
+    },
+    "sections": [
+        {
+            "key": "trading",
+            "title": "التداول",
+            "items": [
+                {
+                    "title": "الأخبار",
+                    "link": "/news"
+                },
+                {
+                    "title": "أنواع الحسابات",
+                    "link": "/Accounttypes"
+                },
+                {
+                    "title": "التداول الاجتماعي",
+                    "link": "/socialTrading"
+                },
+                {
+                    "title": "التداول بالذكاء الاصطناعي",
+                    "link": "/AITrading"
+                },
+                {
+                    "title": "برنامج الشركاء",
+                    "link": "/Affiliate"
+                }
+            ]
+        },
+        {
+            "key": "education",
+            "title": "التعليم",
+            "items": [
+                {
+                    "title": "التحليل الفني",
+                    "link": "/technical-analysis"
+                },
+                {
+                    "title": "استراتيجيات التداول",
+                    "link": "/trading-strategy"
+                },
+                {
+                    "title": "التحليل البياني",
+                    "link": "/graphical-analysis"
+                },
+                {
+                    "title": "التحليل الأساسي",
+                    "link": "/fundamentalanalysis"
+                },
+                {
+                    "title": "قاموس المصطلحات",
+                    "link": "/Glossary"
+                }
+            ]
+        },
+        {
+            "key": "company",
+            "title": "الشركة",
+            "items": [
+                {
+                    "title": "سياسة الدفع",
+                    "link": "/PaymentPolicy"
+                },
+                {
+                    "title": "سياسة الاسترجاع",
+                    "link": "/ReturnPolicy"
+                },
+                {
+                    "title": "مكافحة غسيل الأموال ومعرفة العميل",
+                    "link": "/AMLAndKYC"
+                },
+                {
+                    "title": "سياسة الخصوصية",
+                    "link": "/PricvacyPolicy"
+                },
+                {
+                    "title": "الشروط والأحكام",
+                    "link": "/TermsAndCondition"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "title": "اتصل بنا",
+        "email": "contact@qption.com",
+        "phone": "+46 766926599",
+        "location": "ستوكهولم، السويد"
+    }
+}

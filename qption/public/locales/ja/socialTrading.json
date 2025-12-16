@@ -1,0 +1,55 @@
+{
+    "seo": {
+        "title": "ソーシャルトレーディング – トップトレーダーをフォロー | Qption",
+        "description": "Qptionのソーシャルトレーディング・ハブを発見しよう。トップトレーダーのリアルタイム取引アイデアを購読し、彼らの戦略をミラーリングして、市場の動きを逃さないようにしましょう。X、Telegram、YouTube、Instagramでフォローして、リアルタイムのシグナルと教育コンテンツを受け取りましょう。",
+        "keywords": "Qption ソーシャルトレーディング, コピートレード, トップトレーダーをフォロー, 取引シグナル, フォレックスシグナル, 暗号通貨シグナル, テレグラム トレーディンググループ, YouTube トレーディングチャンネル, トレード教育",
+        "ogType": "website",
+        "ogTitle": "ソーシャルトレーディング – トップトレーダーをフォロー | Qption",
+        "ogDescription": "Qptionのソーシャルトレーディングコミュニティに参加しましょう。X、Telegram、YouTube、Instagramでつながり、プロの戦略をコピーして、自信を持って取引を行いましょう。",
+        "ogUrl": "https://qption.com/socialTrading",
+        "ogImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "ソーシャルトレーディング – トップトレーダーをフォロー | Qption",
+        "twitterDescription": "Qptionのリードトレーダーをフォローして、リアルタイムのFX・暗号通貨シグナル、市場分析、教育配信をチェックしましょう。",
+        "twitterImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "canonical": "https://qption.com/socialTrading",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "ソーシャルトレーディング",
+        "introBullets": [
+            "他のトレーダーの取引を見て、リアルタイムで一緒に取引。",
+            "他の投資家や友人と共にトレード。",
+            "VIPトレーダーの自信に触れ、その成果から成長のインスピレーションを得ましょう。"
+        ],
+        "video": {
+            "src": "/videos/socialTrading3.mp4",
+            "poster": "/videos/socialTrading.jpg",
+            "aria": "Qptionでは、リードトレーダーの戦略を自動的に再現でき、投資割合や利益目標を自分で設定できます。これにより、専門家の知見を手間なく活かせます。今すぐ口座を開設し、200％のボーナスで最初の取引をトップトレーダーと共にスタートしましょう！"
+        },
+        "followUs": "フォローする",
+        "social": {
+            "facebook": {
+                "label": "Facebook",
+                "handle": "facebook/qption",
+                "aria": "QptionのFacebook"
+            },
+            "twitter": {
+                "label": "Twitter",
+                "handle": "twitter/qption",
+                "aria": "QptionのTwitter/X"
+            },
+            "instagram": {
+                "label": "Instagram",
+                "handle": "instagram/qption",
+                "aria": "QptionのInstagram"
+            },
+            "youtube": {
+                "label": "YouTube",
+                "handle": "youtube/qption",
+                "aria": "QptionのYouTube"
+            }
+        }
+    }
+}

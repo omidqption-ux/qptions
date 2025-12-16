@@ -1,0 +1,174 @@
+{
+    "seo": {
+        "title": "Analisi Grafica nel Trading Tecnico – Trend, S/R, Pattern e Candele | Qption",
+        "description": "Una guida pratica all'Analisi Grafica: identifica i trend, traccia supporti e resistenze, interpreta i pattern grafici e le candele, e utilizza strumenti come Medie Mobili, Bande di Bollinger, RSI e Fibonacci. Include vantaggi, limiti e applicazioni per decisioni basate sui dati.",
+        "keywords": "analisi grafica, analisi tecnica, trend di prezzo, supporto e resistenza, pattern grafici, analisi candlestick, medie mobili, bande di Bollinger, RSI, ritracciamenti di Fibonacci, linee di tendenza, strategia di trading, Qption",
+        "url": "https://qption.com/graphical-analysis",
+        "image": "https://qption.com/images/og/graphical-analysis-qption.jpg",
+        "ogAlt": "Analisi grafica con linee di tendenza, pattern e indicatori su un grafico di trading",
+        "ld": {
+            "@context": "https://schema.org",
+            "@type": "TechArticle",
+            "headline": "Analisi Grafica nel Trading Tecnico – Trend, S/R, Pattern e Candele",
+            "description": "Una guida pratica all'Analisi Grafica: identifica i trend, traccia supporti e resistenze, interpreta i pattern grafici e le candele, e utilizza strumenti come Medie Mobili, Bande di Bollinger, RSI e Fibonacci.",
+            "mainEntityOfPage": "https://qption.com/graphical-analysis",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Qption"
+            },
+            "about": [
+                {
+                    "@type": "Thing",
+                    "name": "Analisi Grafica"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Trend di Prezzo"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Supporto e Resistenza"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Pattern Grafici"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Analisi Candlestick"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Medie Mobili"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Bande di Bollinger"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "RSI"
+                },
+                {
+                    "@type": "Thing",
+                    "name": "Ritracciamenti di Fibonacci"
+                }
+            ],
+            "articleSection": [
+                "Analisi Grafica nel Trading Tecnico",
+                "Panoramica",
+                "Concetti Chiave dell'Analisi Grafica",
+                "Tecniche Comuni nell'Analisi Grafica",
+                "Analisi delle Linee di Tendenza",
+                "Livelli di Supporto e Resistenza",
+                "Analisi dei Pattern Grafici",
+                "Analisi delle Candele",
+                "Strumenti Utilizzati nell'Analisi Grafica",
+                "Vantaggi dell'Analisi Grafica",
+                "Limitazioni dell'Analisi Grafica"
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Strumenti Principali",
+                    "value": "Linee di tendenza, Supporto/Resistenza, Pattern Grafici e Candlestick"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Indicatori",
+                    "value": "Medie Mobili, Bande di Bollinger, RSI, Ritracciamenti di Fibonacci"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Applicazioni",
+                    "value": "Identificazione del trend, breakout, inversioni, definizione dei target e controllo del rischio"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "backToGraphical": "Torna all'Analisi Grafica"
+    },
+    "page": {
+        "title": "Analisi Grafica nel Trading Tecnico"
+    },
+    "cta": {
+        "ready": "Pronto per fare trading?",
+        "start": "Inizia a Fare Trading"
+    },
+    "sections": {
+        "overview": {
+            "h": "Panoramica",
+            "items": [
+                "L'analisi grafica nel trading consiste nell'interpretare grafici e pattern di prezzo per prevedere i movimenti futuri basandosi su dati storici.",
+                "Si basa su strumenti visivi come pattern grafici, linee di tendenza, livelli di supporto e resistenza e vari indicatori tecnici.",
+                "L'analisi grafica è utilizzata in diversi mercati (azioni, forex, crypto, materie prime) per prendere decisioni basate sui dati."
+            ]
+        },
+        "key": {
+            "h": "Concetti Chiave dell'Analisi Grafica",
+            "items": {
+                "trends": "Trend di Prezzo: i mercati tendono a muoversi in trend rialzisti, ribassisti o laterali che possono essere identificati e sfruttati.",
+                "sr": "Supporto e Resistenza: aree in cui il prezzo tende a fermarsi o invertire; il supporto agisce come un pavimento, la resistenza come un soffitto.",
+                "patterns": "Pattern Grafici: formazioni (testa e spalle, triangoli, bandiere) che indicano continuazioni o inversioni.",
+                "volume": "Analisi dei Volumi: un aumento dei volumi può confermare trend e breakout; volumi bassi possono segnalare movimenti deboli."
+            }
+        },
+        "tech": {
+            "h": "Tecniche Comuni nell'Analisi Grafica",
+            "trend": {
+                "h": "1. Analisi delle Linee di Tendenza",
+                "items": [
+                    "Collega i minimi crescenti in un trend rialzista o i massimi decrescenti in un trend ribassista per visualizzare la direzione.",
+                    "Usa le linee di tendenza come supporto/resistenza dinamici per pianificare ingressi e uscite."
+                ]
+            },
+            "sr": {
+                "h": "2. Livelli di Supporto e Resistenza",
+                "items": [
+                    "Traccia linee orizzontali sui massimi/minimi chiave in cui il prezzo ha reagito in passato.",
+                    "Utilizza queste zone per ingressi/uscite e per impostare ordini di stop-loss."
+                ]
+            },
+            "patterns": {
+                "h": "3. Analisi dei Pattern Grafici",
+                "items": [
+                    "Pattern come triangoli, bandiere, doppi massimi/minimi e testa e spalle forniscono segnali visivi.",
+                    "Le tecniche di movimento misurato possono proiettare target basati sull'altezza o sull'ampiezza del pattern."
+                ]
+            },
+            "candles": {
+                "h": "4. Analisi delle Candele",
+                "items": [
+                    "Le candele mostrano apertura, chiusura, massimo e minimo per leggere rapidamente il sentiment e il momentum.",
+                    "Setup come doji, hammer e engulfing possono segnalare inversioni o continuazioni."
+                ]
+            }
+        },
+        "tools": {
+            "h": "Strumenti Utilizzati nell'Analisi Grafica",
+            "items": {
+                "ma": "Medie Mobili (SMA/EMA): smussano il prezzo per rivelare il trend e possibili supporti/resistenze dinamici.",
+                "bb": "Bande di Bollinger: misurano la volatilità; le fasi di compressione possono precedere espansioni o breakout.",
+                "rsi": "RSI: oscillatore di momentum che evidenzia condizioni di ipercomprato/ipervenduto e divergenze.",
+                "fib": "Ritracciamenti di Fibonacci: potenziali livelli di supporto/resistenza al 23.6%, 38.2%, 50%, 61.8%, 78.6%."
+            }
+        },
+        "benefits": {
+            "h": "Vantaggi dell'Analisi Grafica",
+            "items": [
+                "Aiuta a identificare trend e pattern per idee di trading più chiare.",
+                "È flessibile su diverse tempistiche — dallo scalping al trading di posizione.",
+                "Visualizzazione intuitiva che riduce la dipendenza da calcoli complessi."
+            ]
+        },
+        "limitations": {
+            "h": "Limitazioni dell'Analisi Grafica",
+            "items": [
+                "Interpretazione soggettiva: trader diversi possono tracciare livelli o pattern in modo differente.",
+                "L'azione passata del prezzo non garantisce performance future.",
+                "Spesso richiede conferme da indicatori o volumi per ridurre i falsi segnali."
+            ]
+        }
+    }
+}

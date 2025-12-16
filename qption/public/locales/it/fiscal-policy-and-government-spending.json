@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Politica Fiscale e Spesa Pubblica – Tipi, Componenti, Impatti | Qption",
+        "description": "Comprendi la politica fiscale: espansiva vs restrittiva, tasse, spesa pubblica e deficit di bilancio. Scopri come le spese pubbliche (infrastrutture, programmi sociali, difesa) influenzano crescita, inflazione, occupazione e debito — oltre a vantaggi e limiti.",
+        "keywords": "politica fiscale, spesa pubblica, politica espansiva, politica restrittiva, debito pubblico e deficit, spesa per infrastrutture, programmi sociali, controllo dell'inflazione, crescita economica e occupazione, analisi fondamentale, Qption",
+        "url": "https://qption.com/fundamental-analysis/fiscal-policy-and-government-spending",
+        "ld": {
+            "headline": "Politica Fiscale e Spesa Pubblica – Tipi, Componenti, Impatti"
+        }
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analisi Fondamentale"
+    },
+    "page": {
+        "title": "Politica Fiscale e Spesa Pubblica"
+    },
+    "cta": {
+        "ready": "Pronto per fare trading?",
+        "start": "Inizia a fare trading"
+    },
+    "sections": {
+        "overview": {
+            "title": "Panoramica",
+            "items": [
+                "La politica fiscale si riferisce alle decisioni del governo su tassazione, spesa e indebitamento per influenzare crescita economica, inflazione e livelli di occupazione.",
+                "La spesa pubblica, parte fondamentale della politica fiscale, include le spese per beni e servizi pubblici, infrastrutture e programmi sociali, influenzando stabilità e crescita.",
+                "Attraverso la politica fiscale, i governi mirano a raggiungere una crescita sostenibile, ridurre la disoccupazione e mantenere la stabilità dei prezzi."
+            ]
+        },
+        "types": {
+            "title": "Tipi di Politica Fiscale",
+            "items": [
+                {
+                    "label": "Politica Fiscale Espansiva:",
+                    "text": "Attuata per stimolare l’economia aumentando la spesa pubblica, riducendo le tasse o entrambe — usata durante le recessioni per aumentare la domanda e creare occupazione."
+                },
+                {
+                    "label": "Politica Fiscale Restrittiva:",
+                    "text": "Mirata a rallentare un’economia surriscaldata, di solito riducendo la spesa pubblica o aumentando le tasse per contenere l’inflazione."
+                },
+                {
+                    "label": "Politica Fiscale Neutrale:",
+                    "text": "Mantiene un bilancio equilibrato in cui le spese e le entrate si compensano, senza effetti espansivi o restrittivi."
+                }
+            ]
+        },
+        "components": {
+            "title": "Componenti della Spesa Pubblica",
+            "public": {
+                "title": "Beni e Servizi Pubblici",
+                "items": [
+                    "La spesa pubblica fornisce servizi essenziali come istruzione, sanità e sicurezza pubblica, promuovendo benessere e stabilità.",
+                    "Gli investimenti in infrastrutture come strade, trasporti e servizi pubblici migliorano l’efficienza e supportano la crescita a lungo termine."
+                ]
+            },
+            "social": {
+                "title": "Programmi Sociali",
+                "items": [
+                    "Le spese per programmi come sussidi di disoccupazione, previdenza sociale e assistenza riducono la disuguaglianza e sostengono le famiglie a basso reddito.",
+                    "Questi programmi agiscono come stabilizzatori automatici, mantenendo i consumi durante le fasi di recessione e favorendo la ripresa."
+                ]
+            },
+            "defense": {
+                "title": "Difesa e Sicurezza Nazionale",
+                "items": [
+                    "Una parte significativa della spesa pubblica è destinata alla difesa e alla sicurezza, garantendo protezione e stabilità nazionale.",
+                    "Questa spesa sostiene il personale militare, la tecnologia e i settori correlati, contribuendo all’attività economica."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Impatto della Politica Fiscale sull’Economia",
+            "growth": {
+                "title": "Crescita Economica e Occupazione",
+                "items": [
+                    "La politica fiscale espansiva stimola la domanda e la creazione di posti di lavoro, aumentando la crescita del PIL.",
+                    "La politica restrittiva può rallentare la crescita e aumentare la disoccupazione, pur controllando l’inflazione."
+                ]
+            },
+            "inflation": {
+                "title": "Controllo dell’Inflazione",
+                "items": [
+                    "I governi possono ridurre la spesa o aumentare le tasse per raffreddare la domanda durante i periodi inflazionistici.",
+                    "Mantenere l’inflazione sotto controllo evita aumenti eccessivi dei prezzi che riducono il potere d’acquisto."
+                ]
+            },
+            "debt": {
+                "title": "Debito Pubblico e Deficit di Bilancio",
+                "items": [
+                    "Quando la spesa supera le entrate, si generano deficit che aumentano il debito pubblico e riducono la flessibilità fiscale futura.",
+                    "Un eccessivo indebitamento aumenta i costi per interessi e richiede una gestione attenta per restare sostenibile."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Vantaggi di una Politica Fiscale Efficace",
+            "items": [
+                "Promuove la Stabilità Economica: Una politica fiscale ben gestita stabilizza la crescita e riduce la volatilità.",
+                "Migliora l’Occupazione e il Tenore di Vita: Le misure espansive aumentano i posti di lavoro e i redditi.",
+                "Sostiene la Redistribuzione del Reddito: I programmi sociali riducono la disuguaglianza e sostengono i gruppi a basso reddito."
+            ]
+        },
+        "limits": {
+            "title": "Limitazioni e Sfide della Politica Fiscale",
+            "items": [
+                "Vincoli Politici: Le decisioni politiche sono spesso ritardate o influenzate da agende politiche.",
+                "Effetto Ritardato: Le misure fiscali richiedono tempo per influenzare l’economia, riducendo l’efficacia a breve termine.",
+                "Rischio di Aumento del Debito Pubblico: Deficit persistenti limitano la flessibilità e aumentano i costi del servizio del debito."
+            ]
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "nav": {
+        "home": "خانه",
+        "trade": "معامله",
+        "education": "آموزش",
+        "pricing": "قیمت‌گذاری",
+        "dashboard": "داشبورد",
+        "login": "ورود",
+        "signup": "ثبت‌نام",
+        "logout": "خروج",
+        "language": "زبان"
+    },
+    "hero": {
+        "title": "با کوپشن هوشمندانه معامله کنید",
+        "subtitle": "نمودارهای لحظه‌ای، اجرای سریع و قیمت‌گذاری شفاف.",
+        "cta": "شروع کنید"
+    },
+    "auth": {
+        "email": "ایمیل",
+        "phone": "تلفن",
+        "password": "رمز عبور",
+        "confirmPassword": "تأیید رمز عبور",
+        "login": "ورود",
+        "signup": "ایجاد حساب",
+        "forgot": "فراموشی رمز عبور؟",
+        "otp": "کد تأیید را وارد کنید",
+        "verify": "تأیید",
+        "or": "یا"
+    },
+    "trade": {
+        "buy": "خرید",
+        "sell": "فروش",
+        "openTrade": "باز کردن معامله",
+        "closeTrade": "بستن معامله",
+        "amount": "مبلغ",
+        "balance": "موجودی",
+        "profitLoss": "سود/زیان",
+        "timeframe": "بازه زمانی",
+        "marketOpen": "بازار باز است",
+        "marketClosed": "بازار بسته است",
+        "mode": {
+            "live": "زنده",
+            "demo": "دمو",
+            "real": "واقعی"
+        }
+    },
+    "chart": {
+        "loading": "در حال بارگذاری نمودار…",
+        "indicators": "اندیکاتورها",
+        "movingAverage": "میانگین متحرک",
+        "bollingerBands": "باندهای بولینگر",
+        "rsi": "RSI",
+        "alligator": "الیگاتور"
+    },
+    "wallet": {
+        "deposit": "واریز",
+        "withdraw": "برداشت",
+        "address": "آدرس",
+        "copy": "کپی",
+        "copied": "کپی شد!",
+        "confirmations": "تأییدها",
+        "status": {
+            "waiting": "در انتظار",
+            "confirmed": "تأیید شد",
+            "rejected": "رد شد"
+        }
+    },
+    "kyc": {
+        "title": "احراز هویت",
+        "uploadDoc": "بارگذاری مدارک",
+        "pending": "در حال بررسی",
+        "approved": "تأیید شد",
+        "rejected": "رد شد"
+    },
+    "errors": {
+        "required": "این فیلد الزامی است",
+        "invalidEmail": "ایمیل نامعتبر است",
+        "network": "خطای شبکه، دوباره تلاش کنید",
+        "unknown": "خطای ناشناخته رخ داد"
+    },
+    "common": {
+        "save": "ذخیره",
+        "cancel": "انصراف",
+        "confirm": "تأیید",
+        "back": "بازگشت",
+        "next": "بعدی",
+        "search": "جستجو",
+        "loading": "در حال بارگذاری…",
+        "viewMore": "مشاهده بیشتر"
+    },
+    "footer": {
+        "rights": "تمامی حقوق محفوظ است."
+    },
+    "tryDemo": "امتحان نسخه دمو",
+    "registration": "ثبت‌نام",
+    "clientCabinet": "پنل کاربری"
+}

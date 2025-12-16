@@ -1,0 +1,109 @@
+{
+    "seo": {
+        "title": "Tecnologia Blockchain e Analisi Fondamentale delle Criptovalute | Qption",
+        "description": "Scopri come decentralizzazione, consenso, tokenomics e metriche on-chain determinano il valore intrinseco delle criptovalute. Una guida pratica per valutare reti, team e adozione.",
+        "url": "https://qption.com/fundamental-analysis/blockchain-fundamental-analysis",
+        "keywords": "fondamentali blockchain, analisi fondamentale crypto, metriche on-chain, tokenomics, sicurezza hash rate, indirizzi attivi, PoW vs PoS, attività degli sviluppatori, valutazione crypto, Qption"
+    },
+    "breadcrumb": {
+        "fundamentalAnalysis": "Analisi Fondamentale"
+    },
+    "page": {
+        "title": "Tecnologia Blockchain e Analisi Fondamentale delle Criptovalute"
+    },
+    "cta": {
+        "ready": "Pronto a fare trading?",
+        "start": "Inizia a fare Trading"
+    },
+    "sections": {
+        "overview": {
+            "title": "Panoramica",
+            "items": [
+                "La blockchain è un registro decentralizzato e distribuito che consente la registrazione sicura e immutabile delle transazioni su una rete di computer.",
+                "L’analisi fondamentale delle criptovalute valuta metriche blockchain, tokenomics e attività di sviluppo per stimare il valore intrinseco.",
+                "L’approccio si concentra sull’adozione a lungo termine e la sostenibilità, non sulla volatilità di breve periodo."
+            ]
+        },
+        "core": {
+            "title": "Componenti Chiave della Tecnologia Blockchain",
+            "items": [
+                {
+                    "label": "Decentralizzazione:",
+                    "text": "I dati sono replicati su molti nodi, riducendo il rischio di un singolo punto di guasto e la censura."
+                },
+                {
+                    "label": "Immutabilità:",
+                    "text": "I record confermati sono difficili da modificare, migliorando trasparenza e fiducia."
+                },
+                {
+                    "label": "Trasparenza:",
+                    "text": "I registri pubblici permettono a chiunque di verificare le transazioni."
+                },
+                {
+                    "label": "Meccanismi di Consenso:",
+                    "text": "Protocolli come PoW e PoS coordinano i partecipanti per validare e proteggere la rete."
+                }
+            ]
+        },
+        "metrics": {
+            "title": "Metriche Chiave per l’Analisi Fondamentale",
+            "onchain": {
+                "title": "1. Metriche On-Chain",
+                "items": [
+                    "Volume delle transazioni: un maggiore utilizzo riflette domanda e utilità crescenti.",
+                    "Indirizzi attivi: indicano partecipazione e attività di rete.",
+                    "Hash rate / Numero di validatori: proxy di sicurezza e impegno economico."
+                ]
+            },
+            "tokenomics": {
+                "title": "2. Tokenomics",
+                "items": [
+                    "Meccanismo di offerta: totale/circolante, emissione, burn e vesting.",
+                    "Utilità del token: governance, staking, pagamenti, collateral o sconti sulle commissioni.",
+                    "Distribuzione: allocazione tra team, investitori e comunità."
+                ]
+            },
+            "team": {
+                "title": "3. Team di Progetto e Attività di Sviluppo",
+                "items": [
+                    "Attività degli sviluppatori: commit, release e qualità del codice indicano continuità.",
+                    "Team principale e consulenti: esperienza e credibilità.",
+                    "Partnership: integrazioni che ampliano l’adozione reale."
+                ]
+            }
+        },
+        "impact": {
+            "title": "Come la Blockchain Influenza l’Analisi Fondamentale",
+            "security": {
+                "title": "1. Sicurezza e Affidabilità della Rete",
+                "items": [
+                    "Maggiore sicurezza e decentralizzazione aumentano fiducia e resilienza.",
+                    "Un consenso robusto riduce downtime e rischi di attacco."
+                ]
+            },
+            "adoption": {
+                "title": "2. Adozione ed Espansione dell’Ecosistema",
+                "items": [
+                    "Ecosistemi attivi e strumenti per sviluppatori accelerano l’adozione.",
+                    "Casi d’uso reali sostengono la crescita duratura della rete."
+                ]
+            }
+        },
+        "benefits": {
+            "title": "Vantaggi dell’Analisi Fondamentale Crypto",
+            "items": [
+                "Visione a lungo termine sugli investimenti.",
+                "Individua opportunità di valore.",
+                "Gestione del rischio basata su fondamentali."
+            ]
+        },
+        "limits": {
+            "title": "Limitazioni dell’Analisi Fondamentale Crypto",
+            "items": [
+                "Volatilità del mercato a breve termine.",
+                "Storico limitato per asset giovani.",
+                "Influenza del sentiment e cicli narrativi."
+            ]
+        }
+    }
+}

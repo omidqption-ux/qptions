@@ -1,0 +1,55 @@
+{
+    "seo": {
+        "title": "Social Trading – Sigue a nuestros mejores traders | Qption",
+        "description": "Descubre el hub de social trading de Qption: suscríbete a ideas de trading en vivo de nuestros traders líderes, replica sus estrategias y no te pierdas ningún movimiento del mercado. Síguenos en X, Telegram, YouTube e Instagram para recibir señales y educación en tiempo real.",
+        "keywords": "Qption social trading, copy trading, seguir traders top, señales de trading, señales forex, señales cripto, grupo de Telegram de trading, canal de YouTube de trading, educación en trading",
+        "ogType": "website",
+        "ogTitle": "Social Trading – Sigue a nuestros mejores traders | Qption",
+        "ogDescription": "Únete a la comunidad de social trading de Qption: conéctate por X, Telegram, YouTube e Instagram, copia estrategias de profesionales y opera con confianza.",
+        "ogUrl": "https://qption.com/socialTrading",
+        "ogImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "twitterCard": "summary_large_image",
+        "twitterSite": "@qption",
+        "twitterTitle": "Social Trading – Sigue a nuestros mejores traders | Qption",
+        "twitterDescription": "Sigue a los traders líderes de Qption para señales en tiempo real de forex y cripto, comentarios de mercado y streams educativos.",
+        "twitterImage": "https://qption.com/images/og/social-trading-qption.jpg",
+        "canonical": "https://qption.com/socialTrading",
+        "robots": "index,follow"
+    },
+    "page": {
+        "h1": "Social Trading",
+        "introBullets": [
+            "Observa a otros traders y opera en tiempo real.",
+            "Opera junto a otros inversores y tus amigos.",
+            "Experimenta la confianza de los traders VIP y deja que sus resultados impulsen tu crecimiento."
+        ],
+        "video": {
+            "src": "/videos/socialTrading3.mp4",
+            "poster": "/videos/socialTrading.jpg",
+            "aria": "Qption te permite replicar las estrategias de los traders líderes, igualando automáticamente sus operaciones mientras controlas el porcentaje de inversión y defines objetivos de beneficio personalizados para tu cartera. Así aprovechas la experiencia de los expertos sin esfuerzo manual constante. ¡No esperes más — abre tu cuenta ahora y consigue un bono del 200% para potenciar tus primeras operaciones con los mejores del mercado!"
+        },
+        "followUs": "Síguenos en",
+        "social": {
+            "facebook": {
+                "label": "Facebook",
+                "handle": "facebook/qption",
+                "aria": "Qption en Facebook"
+            },
+            "twitter": {
+                "label": "Twitter",
+                "handle": "twitter/qption",
+                "aria": "Qption en Twitter/X"
+            },
+            "instagram": {
+                "label": "Instagram",
+                "handle": "instagram/qption",
+                "aria": "Qption en Instagram"
+            },
+            "youtube": {
+                "label": "YouTube",
+                "handle": "youtube/qption",
+                "aria": "Qption en YouTube"
+            }
+        }
+    }
+}

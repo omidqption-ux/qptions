@@ -1,0 +1,40 @@
+{
+    "sections": {
+        "home": "ホーム",
+        "trading": "取引",
+        "education": "学習",
+        "company": "会社情報"
+    },
+    "links": {
+        "home": "ホーム",
+        "register": "登録",
+        "about": "会社概要",
+        "contact": "お問い合わせ",
+        "faq": "FAQ",
+        "news": "ニュース",
+        "accountTypes": "口座タイプ",
+        "socialTrading": "ソーシャルトレード",
+        "aiTrading": "AIトレード",
+        "affiliate": "アフィリエイト",
+        "technicalAnalysis": "テクニカル分析",
+        "tradingStrategies": "トレード戦略",
+        "graphicalAnalysis": "グラフィカル分析",
+        "fundamentalAnalysis": "ファンダメンタルズ分析",
+        "glossary": "用語集",
+        "paymentPolicy": "支払ポリシー",
+        "returnPolicy": "返金ポリシー",
+        "amlKyc": "AML・KYC",
+        "privacyPolicy": "プライバシーポリシー",
+        "terms": "利用規約"
+    },
+    "followUs": "フォローする：",
+    "riskWarning": "リスク警告：CFD は複雑な金融商品であり、レバレッジにより急速に損失が発生する高いリスクがあります。本プロバイダーでは小口投資家口座の 72% が損失を出しています。仕組みの理解とリスク許容度を十分にご確認ください。",
+    "recaptcha": {
+        "prefix": "本サイトは reCAPTCHA と Google の",
+        "privacy": "プライバシーポリシー",
+        "and": "および",
+        "terms": "利用規約",
+        "apply": "により保護されています。"
+    },
+    "payments": "支払い"
+}
